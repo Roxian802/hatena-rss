@@ -1,12 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Test RSS</title>
-    <link>https://example.com</link>
-    <description>test</description>
+    <title>はてなブックマーク - 人気エントリー - 総合</title>
+    <link>https://b.hatena.ne.jp/hotentry/all</link>
+    <description>100件以上のはてなブックマーク記事</description>
+    <language>ja</language>
     <item>
-      <title>hello</title>
-      <link>https://example.com</link>
-      <description>test item</description>
+      <title>ソフトウェアや知能が安くなったときに起きること - &#x1f434; (馬)</title>
+      <link>https://blog.takaumada.com/entry/ai-and-deeptech</link>
+      <guid>https://blog.takaumada.com/entry/ai-and-deeptech</guid>
+      <description>1800年頃に質素な夜の明かりを得るためには、ほぼ1,000時間分の労働が必要でした。しかし1992年には約10分の労働ですむようになりました。ロウソクから照明といった技術的な発展が、光を安くしました。 そうして光が安くなったとき、人は同じ量の光を安く買っただけではありませんでした。 人々は、これまで暗かった場所...</description>
+      <pubDate>Tue, 14 Apr 2026 13:13:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>ニルヴァーナ／マイブラ／R.E.M.／ピクシーズ／ソニック・ユース等　約3万ものライヴを録音した“シカゴのテーパー”がアーカイブの全てを無料公開へ - amass</title>
+      <link>https://amass.jp/188916/</link>
+      <guid>https://amass.jp/188916/</guid>
+      <description>Aadam Jacobs Collection at the Live Music Archive - Photo by : Katherine Nagasawa (via WBez 91.5 Chicago) 1980年代初頭から数十年にわたり、およそ3万ものライヴを録音した“シカゴのテーパー・ガイ”ことアダム・ジェイコブス。彼はこのアーカイブの全てを無料でオンラインで公開しようとしています。 ジェイコブ...</description>
+      <pubDate>Tue, 14 Apr 2026 09:42:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>共産党・小池晃議員の「国会議員に逆らうな」動画拡散が波紋…辺野古ボート転覆事故で「謝罪なし」の党の姿勢に批判 | 週刊女性PRIME</title>
+      <link>https://www.jprime.jp/articles/-/41329?display=b</link>
+      <guid>https://www.jprime.jp/articles/-/41329?display=b</guid>
+      <description>SNS上で、日本共産党の小池晃参議院議員が過去に投稿した動画が拡散され物議を醸している。問題の動画は、2015年11月に投稿されたもの。ほんの20秒ほどの動画だが、冒頭で男性が海上を並走する海上保安庁のボートに向かって「国会議員に逆らうな！」と叫んでいるのが聞こえる。 「国会議員に逆らうな！」動画が拡散 小池...</description>
+      <pubDate>Tue, 14 Apr 2026 22:46:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yahoo!ニュース エキスパート オーサー勝川俊雄さんのコメント - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/profile/commentator/katsukawatoshio/comments/2484fea0-0813-4492-aa0f-f307836267ed</link>
+      <guid>https://news.yahoo.co.jp/profile/commentator/katsukawatoshio/comments/2484fea0-0813-4492-aa0f-f307836267ed</guid>
+      <description>見解「ぐうの音もでない」というよりは、開いた口が塞がらない記事でした。 筆者は、漁獲量減少は、資源ではなく漁業者の減少が原因と主張しています。データに基づいて、資源が減っていないことを示すべきです。実際には、国の研究所の資源評価では、低水準の資源がおおくなっています。漁業者のアンケートでも約9割の...</description>
+      <pubDate>Wed, 15 Apr 2026 03:16:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>書類を撮影→テキストを抽出して「メモ」に保存。iPhoneの「ショートカット」便利レシピ。Apple Intelligenceのアクションを活用しよう– iPhone AI Hack 第3回</title>
+      <link>https://macfan.book.mynavi.jp/article/99605/</link>
+      <guid>https://macfan.book.mynavi.jp/article/99605/</guid>
+      <description>iOS 26で登場した、「ショートカット」のApple Intelligenceのアクション 病院の明細や荷物の送り状、買い物のレシートや領収書など、デジタル化が進んだ現代でも、まだ紙で受け取るものは少なくありません。きちんと保存している人もいる一方で、つい山積みにしてしまったり、受け取ってすぐ、あるいは一定期間が過ぎた...</description>
+      <pubDate>Tue, 14 Apr 2026 07:14:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>科学の力で「コカ・コーラ」がほぼ完璧に再現されてレシピが公開される、試飲した人は「これはコーラだよ」と絶賛</title>
+      <link>https://gigazine.net/news/20260415-coca-cola-reproduction/</link>
+      <guid>https://gigazine.net/news/20260415-coca-cola-reproduction/</guid>
+      <description>科学系YouTuberのLabCoatz氏が「本物とまったく見分けられないほど精密にコカコーラを再現した」という動画を公開しました。 Perfectly Replicating Coca Cola (It Took Me A Year) - YouTube コカ・コーラのレシピは厳重に秘匿されており、社内でも幹部クラスの人材でなければレシピを知ることはできません。 LabCoatz...</description>
+      <pubDate>Tue, 14 Apr 2026 21:19:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>2026年に「スーパーエルニーニョ」の可能性、NOAAが予測</title>
+      <link>https://natgeo.nikkeibp.co.jp/atcl/news/26/041400205/</link>
+      <guid>https://natgeo.nikkeibp.co.jp/atcl/news/26/041400205/</guid>
+      <description>前回のスーパーエルニーニョでは、太平洋中部のハリケーン発生域で16個の熱帯低気圧が発生または通過した。このときは画像のように、太平洋中部と東部にカテゴリー4のハリケーンが同時に3つ発生するという前代未聞の現象も見られた。（NASA EARTH OBSERVATORY/JESSE ALLEN） エルニーニョがこの春から夏にかけて始まる可...</description>
+      <pubDate>Tue, 14 Apr 2026 11:24:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>後輩へ…質問してくるのは良いけど、貴方の席のマウスを私は使いこなせません。普通のマウスにしてください…ババアSEより</title>
+      <link>https://togetter.com/li/2686166</link>
+      <guid>https://togetter.com/li/2686166</guid>
+      <description>後輩へ。質問するのは構わないが、貴方の席の特殊なマウスは私には扱えない。普通のマウスに戻してほしい。トラックボール派や可愛いマウス推しもいるが、慣れていない人にとっては操作や貸与時のトラブルの原因になる。私は旧モデルを使い続けており、手に馴染んだものが一番使いやすい。</description>
+      <pubDate>Wed, 15 Apr 2026 03:36:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>ソフトテニスには「声出しで相手のミスを喜ぶ文化」があり、中でも女テニは本当にヤバいらしい→「あれマジ性格悪い」「やっぱ変だよねぇ！？」</title>
+      <link>https://togetter.com/li/2686050</link>
+      <guid>https://togetter.com/li/2686050</guid>
+      <description>ソフトテニスには相手のミスを声で喜ぶ文化があり、特に女子では「ラッキー！」など掛け声で相手を煽る行為が頻繁に見られる。</description>
+      <pubDate>Tue, 14 Apr 2026 16:09:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Twitterの“青い鳥”生みの親　サイモン・オクスリー氏死去、56歳　GitHubの“半ネコ半タコ”もデザイン</title>
+      <link>https://www.itmedia.co.jp/news/articles/2604/15/news073.html</link>
+      <guid>https://www.itmedia.co.jp/news/articles/2604/15/news073.html</guid>
+      <description>同氏は英国出身のフリーランスイラストレーター。日本に12年間住み、妻は日本人だった。 2006年、ストックイラストサービス「iStockphoto」に投稿した鳥のイラストを、Twitterの創業者らが約10～15ドルで購入し、ロゴに採用。同氏は当時それを知らず、2009年にCNNの放送で初めて自作の採用を知ったという。 GitHubのOcto...</description>
+      <pubDate>Wed, 15 Apr 2026 00:33:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>母親のお下がりのセリーヌのバッグを持って歩いていた娘さん、見知らぬ男に「中国人？」「盗んだの？」と言われ通せんぼされる→実はナンパの手口だった</title>
+      <link>https://togetter.com/li/2686147</link>
+      <guid>https://togetter.com/li/2686147</guid>
+      <description>にう &#x1f436;誤字脱字多 @niu_girl_no8 今日娘が新宿で、わたしのお下がりのセリーヌ持って歩いてたら見知らぬおっさんに「かわいいバッグだね」「中国人？」って聞かれて、違うと答えたら、「そのバッグどこで盗んだの？」と言われたらしい(仰天)母のお下がりだと答えたら嘘つくなと言われて、 2026-04-14 20:14:21 にう &#x1f436;...</description>
+      <pubDate>Wed, 15 Apr 2026 03:09:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>「イベント業者がなぜ隊員の連絡先を知っていた？」「謝礼は受け取った？」「業者への利益供与では」「制服許可した？」陸自トップに質問相次ぐ 自民党大会での隊員歌唱で | 政治 | ABEMA TIMES | アベマタイムズ</title>
+      <link>https://times.abema.tv/articles/-/10239138</link>
+      <guid>https://times.abema.tv/articles/-/10239138</guid>
+      <description>「イベント業者がなぜ隊員の連絡先を知っていた？」「謝礼は受け取った？」「業者への利益供与では」「制服許可した？」陸自トップに質問相次ぐ 自民党大会での隊員歌唱で ラサール議員、議場を沸かせる「芸能界の人間は住宅ローンをなかなか組めません。だけど“どこでも断られたらスルガ銀行に行け”と言われておりました」</description>
+      <pubDate>Tue, 14 Apr 2026 15:16:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>京都・南丹の男児遺体　府警、死体遺棄容疑で自宅を捜索 | 毎日新聞</title>
+      <link>https://mainichi.jp/articles/20260415/k00/00m/040/015000c</link>
+      <guid>https://mainichi.jp/articles/20260415/k00/00m/040/015000c</guid>
+      <description />
+      <pubDate>Wed, 15 Apr 2026 01:19:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>提案型「建設野党」へ転換　中道衆院選総括、党名変更に言及：時事ドットコム</title>
+      <link>https://www.jiji.com/jc/article?k=2026041400696&amp;g=pol</link>
+      <guid>https://www.jiji.com/jc/article?k=2026041400696&amp;g=pol</guid>
+      <description>提案型「建設野党」へ転換　中道衆院選総括、党名変更に言及 時事通信 政治部2026年04月14日19時56分配信 衆院選総括に向け、落選者からの意見聴取に臨む中道改革連合の小川淳也代表（左）と階猛幹事長＝１４日午後、東京・永田町の同党本部 中道改革連合は１４日、議員懇談会を国会内で開き、惨敗した２月の衆院選の総...</description>
+      <pubDate>Tue, 14 Apr 2026 17:34:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>夜のロボット</title>
+      <link>https://hayacomic.jp/series/1d8d040531825</link>
+      <guid>https://hayacomic.jp/series/1d8d040531825</guid>
+      <description>朝、起きると、ふみ子の頭にねじが埋め込まれていた――長い間不在だった父は帰って来るやなぜ娘にねじを埋め込んだ？　その時からふみ子は秘密の“組織”に追われ、闘うために巨大ロボットを呼び出すようになり……ちばてつや賞入選後、コアな読者に支持されてきた著者が膨大な時間と熱を込めて紡ぎあげる、長編空想科学冒険...</description>
+      <pubDate>Tue, 14 Apr 2026 00:03:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>テレワークを導入している企業の過半数が「今後も維持または拡大したい」と回答～厚労省調査　</title>
+      <link>https://internet.watch.impress.co.jp/docs/news/2101650.html</link>
+      <guid>https://internet.watch.impress.co.jp/docs/news/2101650.html</guid>
+      <description />
+      <pubDate>Tue, 14 Apr 2026 23:12:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>高市首相 総額100億ドル程度支援表明へ 日本の物資確保も | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015099451000</link>
+      <guid>https://news.web.nhk/newsweb/na/na-k10015099451000</guid>
+      <description>アジアのエネルギー供給の強化に向けて、高市総理大臣は15日、各国などとのオンラインでの首脳会合で総額100億ドル程度の金融支援などを表明する方針です。 医療用のプラスチック製品などのアジアの製造基盤を…</description>
+      <pubDate>Tue, 14 Apr 2026 22:44:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>有識者会議、衆院定数「３」答申へ　４６２議席減、立法の効率化目指す</title>
+      <link>https://kyoko-np.net/2026041501.html</link>
+      <guid>https://kyoko-np.net/2026041501.html</guid>
+      <description>選挙制度の在り方を見直す有識者会議「議員定数最適化会議」は１４日、議員定数削減に関する答申案をまとめた。衆院定数を現在の４６５から４６２削減し、３とする抜本的な改革案を柱とする。近く政府に提出する見通し。 答申案は、現在２８９ある衆院の小選挙区を「東日本」、「中日本」、「西日本」の３区に統合するよ...</description>
+      <pubDate>Tue, 14 Apr 2026 20:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>【4月14日大臣会見】高額療養費の月額限度額の引き上げは患者団体の意向ではない - 全国保険医団体連合会</title>
+      <link>https://hodanren.doc-net.or.jp/info/news/2026-04-14/</link>
+      <guid>https://hodanren.doc-net.or.jp/info/news/2026-04-14/</guid>
+      <description>つぶやき 保団連は４月14日に大臣会見で、高額療養費の限度額引き上げに「患者団体が同意していない」ことを大臣に確認しました。 政府が提案した高額療養費の月額上限の引上げについて患者団体は同意していないことが、参議院予算委員会の参考人質疑で明らかになりました。昨年12月25日の医療保険部会で、月額上限の具...</description>
+      <pubDate>Tue, 14 Apr 2026 10:41:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
+
