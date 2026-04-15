@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>はてなブックマーク - 人気エントリー - 総合</title>
-    <link>https://b.hatena.ne.jp/hotentry/all</link>
-    <description>100件以上のはてなブックマーク記事</description>
+    <title>Hatena Hotentry 100+</title>
+    <link>https://b.hatena.ne.jp/hotentry.rss</link>
+    <description>100ブクマ以上のみ</description>
     <language>ja</language>
+    <lastBuildDate>Wed, 15 Apr 2026 10:36:45 +0000</lastBuildDate>
     <item>
       <title>ソフトウェアや知能が安くなったときに起きること - &#x1f434; (馬)</title>
       <link>https://blog.takaumada.com/entry/ai-and-deeptech</link>
@@ -13,18 +14,18 @@
       <pubDate>Tue, 14 Apr 2026 13:13:58 +0000</pubDate>
     </item>
     <item>
-      <title>ニルヴァーナ／マイブラ／R.E.M.／ピクシーズ／ソニック・ユース等　約3万ものライヴを録音した“シカゴのテーパー”がアーカイブの全てを無料公開へ - amass</title>
-      <link>https://amass.jp/188916/</link>
-      <guid>https://amass.jp/188916/</guid>
-      <description>Aadam Jacobs Collection at the Live Music Archive - Photo by : Katherine Nagasawa (via WBez 91.5 Chicago) 1980年代初頭から数十年にわたり、およそ3万ものライヴを録音した“シカゴのテーパー・ガイ”ことアダム・ジェイコブス。彼はこのアーカイブの全てを無料でオンラインで公開しようとしています。 ジェイコブ...</description>
-      <pubDate>Tue, 14 Apr 2026 09:42:48 +0000</pubDate>
-    </item>
-    <item>
       <title>共産党・小池晃議員の「国会議員に逆らうな」動画拡散が波紋…辺野古ボート転覆事故で「謝罪なし」の党の姿勢に批判 | 週刊女性PRIME</title>
       <link>https://www.jprime.jp/articles/-/41329?display=b</link>
       <guid>https://www.jprime.jp/articles/-/41329?display=b</guid>
       <description>SNS上で、日本共産党の小池晃参議院議員が過去に投稿した動画が拡散され物議を醸している。問題の動画は、2015年11月に投稿されたもの。ほんの20秒ほどの動画だが、冒頭で男性が海上を並走する海上保安庁のボートに向かって「国会議員に逆らうな！」と叫んでいるのが聞こえる。 「国会議員に逆らうな！」動画が拡散 小池...</description>
       <pubDate>Tue, 14 Apr 2026 22:46:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>ニルヴァーナ／マイブラ／R.E.M.／ピクシーズ／ソニック・ユース等　約3万ものライヴを録音した“シカゴのテーパー”がアーカイブの全てを無料公開へ - amass</title>
+      <link>https://amass.jp/188916/</link>
+      <guid>https://amass.jp/188916/</guid>
+      <description>Aadam Jacobs Collection at the Live Music Archive - Photo by : Katherine Nagasawa (via WBez 91.5 Chicago) 1980年代初頭から数十年にわたり、およそ3万ものライヴを録音した“シカゴのテーパー・ガイ”ことアダム・ジェイコブス。彼はこのアーカイブの全てを無料でオンラインで公開しようとしています。 ジェイコブ...</description>
+      <pubDate>Tue, 14 Apr 2026 09:42:48 +0000</pubDate>
     </item>
     <item>
       <title>Yahoo!ニュース エキスパート オーサー勝川俊雄さんのコメント - Yahoo!ニュース</title>
