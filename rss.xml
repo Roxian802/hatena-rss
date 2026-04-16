@@ -1,647 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:hatena="http://www.hatena.ne.jp/info/xmlns#" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/">
-  <channel rdf:about="https://b.hatena.ne.jp/hotentry/all">
+<rss version="2.0">
+  <channel>
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <items>
-      <rdf:Seq>
-        <rdf:li rdf:resource="https://www.riken.jp/pr/news/2026/20260325_2/index.html" />
-        <rdf:li rdf:resource="https://www.47news.jp/14159401.html" />
-        <rdf:li rdf:resource="https://anond.hatelabo.jp/20260416125358" />
-        <rdf:li rdf:resource="https://mainichi.jp/articles/20260415/k00/00m/040/312000c" />
-        <rdf:li rdf:resource="https://www.47news.jp/14161907.html" />
-        <rdf:li rdf:resource="https://posfie.com/@shogun_majires/p/JfoI6NO" />
-        <rdf:li rdf:resource="https://news.web.nhk/newsweb/na/na-k10015100561000" />
-        <rdf:li rdf:resource="https://zenn.dev/watany/articles/d8b692bbca65a3" />
-        <rdf:li rdf:resource="https://www.huffingtonpost.jp/entry/story_jp_69dc6ffce4b00247ba9be703" />
-        <rdf:li rdf:resource="https://togetter.com/li/2686490" />
-        <rdf:li rdf:resource="https://kai-you.net/article/95161" />
-        <rdf:li rdf:resource="https://note.com/kawaidesign/n/n229818b75aa1" />
-        <rdf:li rdf:resource="https://p-shirokuma.hatenadiary.com/entry/20260416/1776304800" />
-        <rdf:li rdf:resource="https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2" />
-        <rdf:li rdf:resource="https://wtrclred.io/ja/posts/20" />
-        <rdf:li rdf:resource="https://wtrclred.io/ja/posts/19" />
-        <rdf:li rdf:resource="https://jp.reuters.com/world/us/NDANX4RPBRIB5MH2GHIO2NM4UQ-2026-04-15/" />
-        <rdf:li rdf:resource="https://togetter.com/li/2686572" />
-        <rdf:li rdf:resource="https://zenn.dev/pdfractal/articles/3cba58622f7be6" />
-      </rdf:Seq>
-    </items>
-    <lastBuildDate xmlns="">Thu, 16 Apr 2026 12:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 12:09:16 +0000</lastBuildDate>
+    <item>
+      <title>反物質のトラック輸送に成功</title>
+      <link>https://www.riken.jp/pr/news/2026/20260325_2/index.html</link>
+      <description>&lt;img src="https://www.riken.jp/news-en/2026/20260325_2_photo1.jpg" /&gt;&lt;br/&gt;理化学研究所（理研）開拓研究所のステファン・ウルマー 主任研究員（Ulmer基本的対称性研究室）を研究代表者とする欧州原子核研究機構（CERN）の国際共同研究グループ「BASE実験グループ」は、反陽子[1]を閉じ込めたトラップをトラックに乗せ、輸送することに世界で初めて成功しました。 実験グループは、可搬型の極低...</description>
+      <pubDate>Thu, 16 Apr 2026 06:57:36 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.riken.jp/pr/news/2026/20260325_2/index.html</comments>
+    </item>
+    <item>
+      <title>【速報】自民、議員任期延長の集中討議を提案</title>
+      <link>https://www.47news.jp/14159401.html</link>
+      <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;広島高等技術専門校、技術短期大学校、三次高等技術専門校の職業訓練校3校廃止へ　広島県が計画素案まとめる　少子化や施設老朽化を受け</description>
+      <pubDate>Thu, 16 Apr 2026 03:34:35 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14159401.html</comments>
+    </item>
+    <item>
+      <title>「自分は姉の一番星」みたいな顔をしている妹</title>
+      <link>https://anond.hatelabo.jp/20260416125358</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;6つ下の妹は、往々にしてこの姉をペロペロに舐めくさっている。 非常に不遜で、傲慢で横暴で生意気である。 妹の言動の端々からは、「わたしは姉にとってこの上なくかわいい存在なのだから、姉に何を言おうと何をしようと、未来永劫、自分を愛し甘やかしてくれるに違いない」という絶対的確信がにじみ出ている。 そして...</description>
+      <pubDate>Thu, 16 Apr 2026 03:56:14 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260416125358</comments>
+    </item>
+    <item>
+      <title>「女王」しか存在しないアリ、世界初報告　日本生息の希少種 | 毎日新聞</title>
+      <link>https://mainichi.jp/articles/20260415/k00/00m/040/312000c</link>
+      <description>&lt;img src="https://cdn.mainichi.jp/vol1/2026/04/15/20260415k0000m040310000p/0c10.jpg?1" /&gt;&lt;br/&gt;羽化したてのキノムラヤドリムネボソアリ（中央の羽が生えたアリ）、周りはすべてハヤシムネボソアリの働きアリ＝木野村恭一さん撮影、森林総合研究所提供 国内に生息する希少なアリが、女王アリしか存在しない種だと分かったと、森林総合研究所などの研究チームが発表した。働きアリやオスアリがおらず、女王だけのアリ...</description>
+      <pubDate>Wed, 15 Apr 2026 23:50:46 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260415/k00/00m/040/312000c</comments>
+    </item>
+    <item>
+      <title>【速報】在日本中国大使館に殺害予告の脅迫状</title>
+      <link>https://www.47news.jp/14161907.html</link>
+      <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;在日本中国大使館は16日、記者会見を開き、3月に脅迫状を受け取ったと明らかにした。「大使館を襲撃する」「支那人を皆殺しにする」などと記されていた。</description>
+      <pubDate>Thu, 16 Apr 2026 07:51:07 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14161907.html</comments>
+    </item>
+    <item>
+      <title>有名絵師にイラストを40万で依頼したのに、初期段階のラフ納期を(最終的に8か月)過ぎても何も連絡してこない上に当人はエルデンリング周回プレイをしており結局白紙にされた→本人が登場し謎の弁解を始める</title>
+      <link>https://posfie.com/@shogun_majires/p/JfoI6NO</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/8cddf2fbbc98c341025c4dff342395e0-1200x630.jpeg" /&gt;&lt;br/&gt;フンギャロ@偉大なるARMORED CORE @fungyarou イラストレーターに仕事依頼したことあるけど、非常にやり取りに苦心した。 社会人的な意味合いでの｢契約｣というものをまったく理解しておらず、子供の約束じみた風体であり、もうしわけないが話をなかったことにせざるを得なかった。 こんな話はたくさんある。 だからAIが...</description>
+      <pubDate>Wed, 15 Apr 2026 14:00:58 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@shogun_majires/p/JfoI6NO</comments>
+    </item>
+    <item>
+      <title>日経平均株価 5万9500円台 取引時間中の最高値更新 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015100561000</link>
+      <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260416/K10015100561_2604161137_0416125807_01_02.jpg" /&gt;&lt;br/&gt;16日の東京株式市場、日経平均株価は1400円以上値上がりして、5万9500円台をつけ、取り引き時間中の最高値を更新しました。イラン情勢への懸念が後退したことが背景にあります。 16日の東京株式市…</description>
+      <pubDate>Thu, 16 Apr 2026 03:35:32 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015100561000</comments>
+    </item>
+    <item>
+      <title>AIエージェントの″ハーネス″に関わる混乱と私見</title>
+      <link>https://zenn.dev/watany/articles/d8b692bbca65a3</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--OB5RSV9N--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E2%2580%25B3%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E2%2580%25B3%25E3%2581%25AB%25E9%2596%25A2%25E3%2582%258F%25E3%2582%258B%25E6%25B7%25B7%25E4%25B9%25B1%25E3%2581%25A8%25E7%25A7%2581%25E8%25A6%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:watany%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJiYjJiYTdkZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに 「Agentic Coding　生成AI時代のシステム開発入門」という本を出すくらいなのでAIエージェントのハーネスには興味があって、1週間ほど調査した結果、「ハーネス」の見え方が固まりつつあるので、表題についてラフに書き留めておきます。根拠があるものないものがあるので話半分に読んでください。 スライドの形...</description>
+      <pubDate>Thu, 16 Apr 2026 03:44:56 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/watany/articles/d8b692bbca65a3</comments>
+    </item>
+    <item>
+      <title>布袋寅泰『日本の首相がロックンロールと交わったことがあったか？素晴らしい』に批判殺到で投稿削除。人気ミュージシャンも苦言</title>
+      <link>https://www.huffingtonpost.jp/entry/story_jp_69dc6ffce4b00247ba9be703</link>
+      <description>&lt;img src="https://img.huffingtonpost.com/asset/69dc987f1400009a4786dfce.jpg?cache=XGJn2Nz2bT&amp;amp;ops=500_281%2Cscalefit_1200_630" /&gt;&lt;br/&gt;布袋寅泰「日本の首相がロックンロールと交わったことがあったか？素晴らしい」に批判殺到で投稿削除。人気ミュージシャンも苦言 高市早苗首相と英国のロックバンド「ディープ・パープル」が面会したことを受け、布袋寅泰さんがSNSで「未だかつて日本の首相がロックンロールと交わったことがあったか？素晴らしいことな...</description>
+      <pubDate>Tue, 14 Apr 2026 02:56:31 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.huffingtonpost.jp/entry/story_jp_69dc6ffce4b00247ba9be703</comments>
+    </item>
+    <item>
+      <title>よく知らんのですがこんなにポコポコ高層マンション建てまくって将来大丈夫なんですか？→修繕工事などで問題が起きる場合があるらしい「50年後どうなってるかわからない」</title>
+      <link>https://togetter.com/li/2686490</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/b9ee0ab2236427b576bda57dca5b7284-1200x630.jpeg" /&gt;&lt;br/&gt;TROWA=BARTON @0cSmFqlu2x65716 @goshuinchou 安心しな。 地方は既に ・管理費毎月払ってもらったけど、近年の工事費高騰で予定していた大規模改修できなくてこの先どうなるか分からない ・機械式駐車場のメンテが限界だけど、管理費足りなくてお手上げ 何てマンションがいくつもある。 ビジネスとして破綻する足音が大...</description>
+      <pubDate>Thu, 16 Apr 2026 02:13:28 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2686490</comments>
+    </item>
+    <item>
+      <title>クラウドファンディング「うぶごえ」がアクセス不可に　支援金未払いで告発も相次ぐ</title>
+      <link>https://kai-you.net/article/95161</link>
+      <description>&lt;img src="https://img.kai-you.net/storage/2026/04/4994b189-8e97-4c94-b14c-d763a7a6cf22/jpg/ubugoe.jpg" /&gt;&lt;br/&gt;支援金の未払いが問題となっているクラウドファンディングサービス「うぶごえ」のサービスサイトが、4月15日頃よりアクセスすることができなくなっている。 同サイトにアクセスすると「このサイトにアクセスできません」「アクセスしようとしているサイトを見つけられません」などの文言が表示される状態に。 本サービス...</description>
+      <pubDate>Thu, 16 Apr 2026 02:54:07 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/kai-you.net/article/95161</comments>
+    </item>
+    <item>
+      <title>【有料級】Claude Codeで1人マーケ部門を作った全記録｜KAWAI</title>
+      <link>https://note.com/kawaidesign/n/n229818b75aa1</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/267384082/rectangle_large_type_2_e85667f632de490f86747d01f6f75729.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;調査・執筆・画像生成・事実確認・SNS投稿・会計処理・スケジュール管理。21の業務を1つのClaude Code環境に統合したら、1日の実働が60分になりました。 この記事は全文無料（期間限定）で閲覧できます。 見出し画像はAIで生成しました。 プロンプトは140,000文字超えの記事に掲載中。 私はグラフィックデザイナー出身で...</description>
+      <pubDate>Wed, 15 Apr 2026 05:14:08 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/kawaidesign/n/n229818b75aa1</comments>
+    </item>
+    <item>
+      <title>文系の権力とは何か - シロクマの屑籠</title>
+      <link>https://p-shirokuma.hatenadiary.com/entry/20260416/1776304800</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/a0d9b716781a3796b78704144146049624bb4c0f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fp_shirokuma%2F20260415%2F20260415185818.png" /&gt;&lt;br/&gt;今日は、文系の権力とは何か、について現時点の私の考えをまとめてみる。 先日、地方の理系男子学生について東大の文学部教授氏が「支配階級の再生産だ」と述べていたが、私には中央の文系エリートの持つ力と、支配階級の再生産が気になった。それを書いたのが下記の文章だった。 p-shirokuma.hatenadiary.com 文系理系...</description>
+      <pubDate>Thu, 16 Apr 2026 02:49:22 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/p-shirokuma.hatenadiary.com/entry/20260416/1776304800</comments>
+    </item>
+    <item>
+      <title>Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説 - Qiita</title>
+      <link>https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2</link>
+      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNjU5OTE0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzQ3MTM4NjIzP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05Y2MyOWUxNTYyZDhhNzYzNzhkZDRhYjQxZDIxMjJkOA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D816bcb5389817fabf38487332281b314?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MiU5MiUyMExldmVsJTIwNSUyMCVFMyU4MSVCRSVFMyU4MSVBNyVFOCU4MiVCMiVFMyU4MSVBNiVFMyU4MSU5RiVFMyU4MiU4OSVFMyU4MCU4MSVFOSU5NiU4QiVFNyU5OSVCQSVFMyU4MSU4QyVFMyU4MCU4QyVFNiU4QyU4NyVFNyVBNCVCQSVFMyU4MSVBOCVFNyVBMiVCQSVFOCVBQSU4RCVFMyU4MSVBMCVFMyU4MSU5MSVFMyU4MCU4RCVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiUyMCVFMiU4MCU5NCUyMCVFNSVBRSU5RiVFMyU4MyU5NSVFMyU4MiVBMSVFMyU4MiVBNCVFMyU4MyVBQiVFNiVBNyU4QiVFNiU4OCU5MCVFMyU4MSVBNyVFOCVBNyVBMyVFOCVBQSVBQyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWFmNjU3NjAxMjgzZmZkYmQyZWJmODkyNmM3YmM4MDU2&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0ZXBwZWkxOTk4MDkxNCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPThmZjIzM2Q3OGUyYzBjYTNjNTBkNDM4MGZiNmMzZWJl&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=7e3005e86fff05b93a29558e3f861f68" /&gt;&lt;br/&gt;この記事は約5分で読めます。 筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。 &#x1f449; ポートフォリオ: 筆者ホームページ Claude Code を使い始めたけど、毎回同じ指示を...</description>
+      <pubDate>Wed, 15 Apr 2026 09:59:34 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2</comments>
+    </item>
+    <item>
+      <title>若者よ，インターネットを荒らせ</title>
+      <link>https://wtrclred.io/ja/posts/20</link>
+      <description>&lt;img src="https://wtrclred.vercel.app/og.png" /&gt;&lt;br/&gt;Turn on watercolor background effects.* May affect performance, battery life, and temperature on some devices. 注意: ここでいう「荒らせ」は，誹謗中傷しろ，デマを流せ，人を傷つけろ，という意味ではない．利害関係や政治性や人の生存に関わるものを，軽く扱えという話でもない．むしろ逆で，嘘を言うのは良く...</description>
+      <pubDate>Wed, 15 Apr 2026 22:36:16 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/wtrclred.io/ja/posts/20</comments>
+    </item>
+    <item>
+      <title>要はバランスおじさんが嫌い</title>
+      <link>https://wtrclred.io/ja/posts/19</link>
+      <description>&lt;img src="https://wtrclred.vercel.app/og.png" /&gt;&lt;br/&gt;Turn on watercolor background effects.* May affect performance, battery life, and temperature on some devices. 注意: ここでいう「おじさん」は年齢でも性別でもない． おばさんも若者も含む． なんなら自分の中にもたまにいる． これは属性ではなく，議論中に発生する態度の名前である． 序 私は「要はバランス...</description>
+      <pubDate>Wed, 15 Apr 2026 14:37:01 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/wtrclred.io/ja/posts/19</comments>
+    </item>
+    <item>
+      <title>東京の電車へ ２階建てになりませんか？→「あったんだよ、そして失敗した」試行錯誤の歴史と見えてきた課題</title>
+      <link>https://togetter.com/li/2686565</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/a9c969fd98c5188cb151c3d9beaade21-1200x630.jpeg" /&gt;&lt;br/&gt;hk @1725ltdexp 過去にオール二階建ての通勤車を走らせてたことがあるんですよ じゃあなんで今はないのかって？ 大　失　敗　し　た　か　ら x.com/reibowwow/stat… 2026-04-15 22:52:23 JR東日本215系電車 215系電車（215けいでんしゃ）は、かつて東日本旅客鉄道（JR東日本）が保有していた直流近郊形電車。1992年（平...</description>
+      <pubDate>Thu, 16 Apr 2026 05:43:37 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2686565</comments>
+    </item>
+    <item>
+      <title>トランプ氏、キリストと並ぶ画像をまた投稿</title>
+      <link>https://jp.reuters.com/world/us/NDANX4RPBRIB5MH2GHIO2NM4UQ-2026-04-15/</link>
+      <description>&lt;img src="https://www.reuters.com/resizer/v2/TWYUVJJDZRM4XGGXPQL7PX2HPU.jpg?auth=a587feb2c2bb2acb671b4e7d1f7718d30b3b1e815579d433120625d645e05ba5&amp;amp;height=1005&amp;amp;width=1920&amp;amp;quality=80&amp;amp;smart=true" /&gt;&lt;br/&gt;［ニューヨーク　１５日　ロイター］ - トランプ米大統領は１５日、イエス・キリストが自身に寄​り添っているように見える人工‌知能（ＡＩ）生成画像を、交流サイト（ＳＮＳ）「トゥルース・ソーシャル」にリポスト（再投稿）​した。 トランプ大統領は１２日にも、自​身をキリストになぞらえた画像⁠を投稿。支持基盤とさ...</description>
+      <pubDate>Wed, 15 Apr 2026 18:49:46 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/jp.reuters.com/world/us/NDANX4RPBRIB5MH2GHIO2NM4UQ-2026-04-15/</comments>
+    </item>
+    <item>
+      <title>アメリカ人「韓国を51番目の州にしよう」韓国人の返しがTwitterの自動翻訳機能の歴史に残る切れ味だと話題に</title>
+      <link>https://togetter.com/li/2686572</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/dbb04f9d521b4f91c571040228e59064-1200x630.jpeg" /&gt;&lt;br/&gt;umdius labka @umdius @Write4Republic アンタこのまえ日本を51番目にしたいって言ってたじゃない！！！ 嘘だったんだ！！　ワタシに隠して浮気してたってことでしょ！！！！ ワタシとは遊びだったってワケ！？！？ 2026-04-15 19:53:12</description>
+      <pubDate>Thu, 16 Apr 2026 05:54:58 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2686572</comments>
+    </item>
+    <item>
+      <title>なぜ、日本のITシステム開発は丸投げユーザー企業と御用聞きベンダーという相容れない組合せで成立していたのか？</title>
+      <link>https://zenn.dev/pdfractal/articles/3cba58622f7be6</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--Gvw26Vsp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%25E3%2580%2581%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AEIT%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AF%25E4%25B8%25B8%25E6%258A%2595%25E3%2581%2592%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E4%25BC%2581%25E6%25A5%25AD%25E3%2581%25A8%25E5%25BE%25A1%25E7%2594%25A8%25E8%2581%259E%25E3%2581%258D%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E7%259B%25B8%25E5%25AE%25B9%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E7%25B5%2584%25E5%2590%2588%25E3%2581%259B%25E3%2581%25A7%25E6%2588%2590%25E7%25AB%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pdfractal%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FlODUxNjI3MGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;なぜ、日本のITシステム開発は丸投げユーザー企業と御用聞きベンダーという相容れない組合せで成立していたのか？ はじめに 日本のITシステム開発は、長く 丸投げ 型のユーザー企業と 御用聞き 型のベンダーが向き合う構図で語られてきました。ところが、この二つは論理だけで見れば両立しません。発注側が業務要件を固...</description>
+      <pubDate>Wed, 15 Apr 2026 04:43:47 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/pdfractal/articles/3cba58622f7be6</comments>
+    </item>
   </channel>
-  <item rdf:about="https://www.riken.jp/pr/news/2026/20260325_2/index.html">
-    <title>反物質のトラック輸送に成功</title>
-    <link>https://www.riken.jp/pr/news/2026/20260325_2/index.html</link>
-    <description>理化学研究所（理研）開拓研究所のステファン・ウルマー 主任研究員（Ulmer基本的対称性研究室）を研究代表者とする欧州原子核研究機構（CERN）の国際共同研究グループ「BASE実験グループ」は、反陽子[1]を閉じ込めたトラップをトラックに乗せ、輸送することに世界で初めて成功しました。 実験グループは、可搬型の極低...</description>
-    <dc:date>2026-04-16T06:57:36Z</dc:date>
-    <dc:subject>学び</dc:subject>
-    <dc:subject>科学</dc:subject>
-    <dc:subject>物理</dc:subject>
-    <dc:subject>science</dc:subject>
-    <dc:subject>研究</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>サイエンス</dc:subject>
-    <dc:subject>技術</dc:subject>
-    <dc:subject>反物質</dc:subject>
-    <dc:subject>SF</dc:subject>
-    <dc:subject>物理学</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%A7%91%E5%AD%A6" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%89%A9%E7%90%86" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/science" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%A0%94%E7%A9%B6" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%8A%80%E8%A1%93" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E5%8F%8D%E7%89%A9%E8%B3%AA" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/SF" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%89%A9%E7%90%86%E5%AD%A6" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://www.riken.jp/pr/news/2026/20260325_2/index.html" title="反物質のトラック輸送に成功"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.riken.jp%2Fpr%2Fnews%2F2026%2F20260325_2%2Findex.html" alt="" /&gt; &lt;a href="https://www.riken.jp/pr/news/2026/20260325_2/index.html"&gt;反物質のトラック輸送に成功&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://www.riken.jp/pr/news/2026/20260325_2/index.html"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/c309107c59505498346e7ded89a0f04e22d3d510/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fwww.riken.jp%2Fnews-en%2F2026%2F20260325_2_photo1.jpg" alt="反物質のトラック輸送に成功" title="反物質のトラック輸送に成功" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;理化学研究所（理研）開拓研究所のステファン・ウルマー 主任研究員（Ulmer基本的対称性研究室）を研究代表者とする欧州原子核研究機構（CERN）の国際共同研究グループ「BASE実験グループ」は、反陽子[1]を閉じ込めたトラップをトラックに乗せ、輸送することに世界で初めて成功しました。 実験グループは、可搬型の極低...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/www.riken.jp/pr/news/2026/20260325_2/index.html"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://www.riken.jp/pr/news/2026/20260325_2/index.html" alt="はてなブックマーク - 反物質のトラック輸送に成功" title="はてなブックマーク - 反物質のトラック輸送に成功" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/www.riken.jp/pr/news/2026/20260325_2/index.html"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:imageurl>https://www.riken.jp/news-en/2026/20260325_2_photo1.jpg</hatena:imageurl>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/www.riken.jp/</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkcount>338</hatena:bookmarkcount>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/www.riken.jp/pr/news/2026/20260325_2/index.html</hatena:bookmarkCommentListPageUrl>
-  </item>
-  <item rdf:about="https://www.47news.jp/14159401.html">
-    <title>【速報】自民、議員任期延長の集中討議を提案</title>
-    <link>https://www.47news.jp/14159401.html</link>
-    <description>広島高等技術専門校、技術短期大学校、三次高等技術専門校の職業訓練校3校廃止へ　広島県が計画素案まとめる　少子化や施設老朽化を受け</description>
-    <dc:date>2026-04-16T03:34:35Z</dc:date>
-    <dc:subject>世の中</dc:subject>
-    <dc:subject>自民党</dc:subject>
-    <dc:subject>政治</dc:subject>
-    <dc:subject>これはひどい</dc:subject>
-    <dc:subject>高市早苗</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E8%87%AA%E6%B0%91%E5%85%9A" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%94%BF%E6%B2%BB" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%93%E3%82%8C%E3%81%AF%E3%81%B2%E3%81%A9%E3%81%84" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://www.47news.jp/14159401.html" title="【速報】自民、議員任期延長の集中討議を提案"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.47news.jp%2F14159401.html" alt="" /&gt; &lt;a href="https://www.47news.jp/14159401.html"&gt;【速報】自民、議員任期延長の集中討議を提案&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://www.47news.jp/14159401.html"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/8aedf7aaf8a62bc4093068ab4b1c4fa71b393342/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fimg.cf.47news.jp%2Fstatic%2Frenewal%2Fcommon%2Fimg%2Fthumb_large.png" alt="【速報】自民、議員任期延長の集中討議を提案" title="【速報】自民、議員任期延長の集中討議を提案" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;広島高等技術専門校、技術短期大学校、三次高等技術専門校の職業訓練校3校廃止へ　広島県が計画素案まとめる　少子化や施設老朽化を受け&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/www.47news.jp/14159401.html"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://www.47news.jp/14159401.html" alt="はてなブックマーク - 【速報】自民、議員任期延長の集中討議を提案" title="はてなブックマーク - 【速報】自民、議員任期延長の集中討議を提案" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/www.47news.jp/14159401.html"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:imageurl>https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png</hatena:imageurl>
-    <hatena:bookmarkcount>230</hatena:bookmarkcount>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/www.47news.jp/</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/www.47news.jp/14159401.html</hatena:bookmarkCommentListPageUrl>
-  </item>
-  <item rdf:about="https://anond.hatelabo.jp/20260416125358">
-    <title>「自分は姉の一番星」みたいな顔をしている妹</title>
-    <link>https://anond.hatelabo.jp/20260416125358</link>
-    <description>6つ下の妹は、往々にしてこの姉をペロペロに舐めくさっている。 非常に不遜で、傲慢で横暴で生意気である。 妹の言動の端々からは、「わたしは姉にとってこの上なくかわいい存在なのだから、姉に何を言おうと何をしようと、未来永劫、自分を愛し甘やかしてくれるに違いない」という絶対的確信がにじみ出ている。 そして...</description>
-    <dc:date>2026-04-16T03:56:14Z</dc:date>
-    <dc:subject>暮らし</dc:subject>
-    <dc:subject>増田</dc:subject>
-    <dc:subject>人生</dc:subject>
-    <dc:subject>いい話</dc:subject>
-    <dc:subject>家族</dc:subject>
-    <dc:subject>はてな匿名ダイアリー</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>かわいい</dc:subject>
-    <dc:subject>family</dc:subject>
-    <dc:subject>百合</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E5%A2%97%E7%94%B0" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E4%BA%BA%E7%94%9F" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%84%E3%81%84%E8%A9%B1" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E5%AE%B6%E6%97%8F" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%AF%E3%81%A6%E3%81%AA%E5%8C%BF%E5%90%8D%E3%83%80%E3%82%A4%E3%82%A2%E3%83%AA%E3%83%BC" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/family" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%99%BE%E5%90%88" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://anond.hatelabo.jp/20260416125358" title="「自分は姉の一番星」みたいな顔をしている妹"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fanond.hatelabo.jp%2F20260416125358" alt="" /&gt; &lt;a href="https://anond.hatelabo.jp/20260416125358"&gt;「自分は姉の一番星」みたいな顔をしている妹&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://anond.hatelabo.jp/20260416125358"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/2ec6a459bb9b383ee013c4fa73ad41a2bd0d9813/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fanond.hatelabo.jp%2Fimages%2Fog-image-1500.gif" alt="「自分は姉の一番星」みたいな顔をしている妹" title="「自分は姉の一番星」みたいな顔をしている妹" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;6つ下の妹は、往々にしてこの姉をペロペロに舐めくさっている。 非常に不遜で、傲慢で横暴で生意気である。 妹の言動の端々からは、「わたしは姉にとってこの上なくかわいい存在なのだから、姉に何を言おうと何をしようと、未来永劫、自分を愛し甘やかしてくれるに違いない」という絶対的確信がにじみ出ている。 そして...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260416125358"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://anond.hatelabo.jp/20260416125358" alt="はてなブックマーク - 「自分は姉の一番星」みたいな顔をしている妹" title="はてなブックマーク - 「自分は姉の一番星」みたいな顔をしている妹" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260416125358"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:imageurl>https://anond.hatelabo.jp/images/og-image-1500.gif</hatena:imageurl>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260416125358</hatena:bookmarkCommentListPageUrl>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/anond.hatelabo.jp/</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkcount>291</hatena:bookmarkcount>
-  </item>
-  <item rdf:about="https://mainichi.jp/articles/20260415/k00/00m/040/312000c">
-    <title>「女王」しか存在しないアリ、世界初報告　日本生息の希少種 | 毎日新聞</title>
-    <link>https://mainichi.jp/articles/20260415/k00/00m/040/312000c</link>
-    <description>羽化したてのキノムラヤドリムネボソアリ（中央の羽が生えたアリ）、周りはすべてハヤシムネボソアリの働きアリ＝木野村恭一さん撮影、森林総合研究所提供 国内に生息する希少なアリが、女王アリしか存在しない種だと分かったと、森林総合研究所などの研究チームが発表した。働きアリやオスアリがおらず、女王だけのアリ...</description>
-    <dc:date>2026-04-15T23:50:46Z</dc:date>
-    <dc:subject>学び</dc:subject>
-    <dc:subject>生物</dc:subject>
-    <dc:subject>昆虫</dc:subject>
-    <dc:subject>研究</dc:subject>
-    <dc:subject>科学</dc:subject>
-    <dc:subject>science</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>これはすごい</dc:subject>
-    <dc:subject>insect</dc:subject>
-    <dc:subject>日本</dc:subject>
-    <dc:subject>animal</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%94%9F%E7%89%A9" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%98%86%E8%99%AB" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%A0%94%E7%A9%B6" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%A7%91%E5%AD%A6" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/science" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%93%E3%82%8C%E3%81%AF%E3%81%99%E3%81%94%E3%81%84" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/insect" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%97%A5%E6%9C%AC" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/animal" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://mainichi.jp/articles/20260415/k00/00m/040/312000c" title="「女王」しか存在しないアリ、世界初報告　日本生息の希少種 | 毎日新聞"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fmainichi.jp%2Farticles%2F20260415%2Fk00%2F00m%2F040%2F312000c" alt="" /&gt; &lt;a href="https://mainichi.jp/articles/20260415/k00/00m/040/312000c"&gt;「女王」しか存在しないアリ、世界初報告　日本生息の希少種 | 毎日新聞&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://mainichi.jp/articles/20260415/k00/00m/040/312000c"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/ff139184c54bb5dd24fad378ce984a73869463aa/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fcdn.mainichi.jp%2Fvol1%2F2026%2F04%2F15%2F20260415k0000m040310000p%2F0c10.jpg%3F1" alt="「女王」しか存在しないアリ、世界初報告　日本生息の希少種 | 毎日新聞" title="「女王」しか存在しないアリ、世界初報告　日本生息の希少種 | 毎日新聞" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;羽化したてのキノムラヤドリムネボソアリ（中央の羽が生えたアリ）、周りはすべてハヤシムネボソアリの働きアリ＝木野村恭一さん撮影、森林総合研究所提供 国内に生息する希少なアリが、女王アリしか存在しない種だと分かったと、森林総合研究所などの研究チームが発表した。働きアリやオスアリがおらず、女王だけのアリ...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260415/k00/00m/040/312000c"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://mainichi.jp/articles/20260415/k00/00m/040/312000c" alt="はてなブックマーク - 「女王」しか存在しないアリ、世界初報告　日本生息の希少種 | 毎日新聞" title="はてなブックマーク - 「女王」しか存在しないアリ、世界初報告　日本生息の希少種 | 毎日新聞" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260415/k00/00m/040/312000c"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:bookmarkcount>416</hatena:bookmarkcount>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/mainichi.jp/</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260415/k00/00m/040/312000c</hatena:bookmarkCommentListPageUrl>
-    <hatena:imageurl>https://cdn.mainichi.jp/vol1/2026/04/15/20260415k0000m040310000p/0c10.jpg?1</hatena:imageurl>
-  </item>
-  <item rdf:about="https://www.47news.jp/14161907.html">
-    <title>【速報】在日本中国大使館に殺害予告の脅迫状</title>
-    <link>https://www.47news.jp/14161907.html</link>
-    <description>在日本中国大使館は16日、記者会見を開き、3月に脅迫状を受け取ったと明らかにした。「大使館を襲撃する」「支那人を皆殺しにする」などと記されていた。</description>
-    <dc:date>2026-04-16T07:51:07Z</dc:date>
-    <dc:subject>世の中</dc:subject>
-    <dc:subject>中国</dc:subject>
-    <dc:subject>排外主義</dc:subject>
-    <dc:subject>脅迫</dc:subject>
-    <dc:subject>China</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>社会</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E4%B8%AD%E5%9B%BD" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%8E%92%E5%A4%96%E4%B8%BB%E7%BE%A9" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E8%84%85%E8%BF%AB" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/China" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%A4%BE%E4%BC%9A" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://www.47news.jp/14161907.html" title="【速報】在日本中国大使館に殺害予告の脅迫状"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.47news.jp%2F14161907.html" alt="" /&gt; &lt;a href="https://www.47news.jp/14161907.html"&gt;【速報】在日本中国大使館に殺害予告の脅迫状&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://www.47news.jp/14161907.html"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/8aedf7aaf8a62bc4093068ab4b1c4fa71b393342/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fimg.cf.47news.jp%2Fstatic%2Frenewal%2Fcommon%2Fimg%2Fthumb_large.png" alt="【速報】在日本中国大使館に殺害予告の脅迫状" title="【速報】在日本中国大使館に殺害予告の脅迫状" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;在日本中国大使館は16日、記者会見を開き、3月に脅迫状を受け取ったと明らかにした。「大使館を襲撃する」「支那人を皆殺しにする」などと記されていた。&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/www.47news.jp/14161907.html"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://www.47news.jp/14161907.html" alt="はてなブックマーク - 【速報】在日本中国大使館に殺害予告の脅迫状" title="はてなブックマーク - 【速報】在日本中国大使館に殺害予告の脅迫状" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/www.47news.jp/14161907.html"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/www.47news.jp/14161907.html</hatena:bookmarkCommentListPageUrl>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/www.47news.jp/</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkcount>130</hatena:bookmarkcount>
-    <hatena:imageurl>https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png</hatena:imageurl>
-  </item>
-  <item rdf:about="https://posfie.com/@shogun_majires/p/JfoI6NO">
-    <title>有名絵師にイラストを40万で依頼したのに、初期段階のラフ納期を(最終的に8か月)過ぎても何も連絡してこない上に当人はエルデンリング周回プレイをしており結局白紙にされた→本人が登場し謎の弁解を始める</title>
-    <link>https://posfie.com/@shogun_majires/p/JfoI6NO</link>
-    <description>フンギャロ@偉大なるARMORED CORE @fungyarou イラストレーターに仕事依頼したことあるけど、非常にやり取りに苦心した。 社会人的な意味合いでの｢契約｣というものをまったく理解しておらず、子供の約束じみた風体であり、もうしわけないが話をなかったことにせざるを得なかった。 こんな話はたくさんある。 だからAIが...</description>
-    <dc:date>2026-04-15T14:00:58Z</dc:date>
-    <dc:subject>アニメとゲーム</dc:subject>
-    <dc:subject>イラスト</dc:subject>
-    <dc:subject>togetter</dc:subject>
-    <dc:subject>仕事</dc:subject>
-    <dc:subject>契約</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>work</dc:subject>
-    <dc:subject>illust</dc:subject>
-    <dc:subject>炎上</dc:subject>
-    <dc:subject>business</dc:subject>
-    <dc:subject>twitter</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/togetter" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E4%BB%95%E4%BA%8B" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E5%A5%91%E7%B4%84" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/work" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/illust" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%82%8E%E4%B8%8A" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/business" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/twitter" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://posfie.com/@shogun_majires/p/JfoI6NO" title="有名絵師にイラストを40万で依頼したのに、初期段階のラフ納期を(最終的に8か月)過ぎても何も連絡してこない上に当人はエルデンリング周回プレイをしており結局白紙にされた→本人が登場し謎の弁解を始める"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fposfie.com%2F%40shogun_majires%2Fp%2FJfoI6NO" alt="" /&gt; &lt;a href="https://posfie.com/@shogun_majires/p/JfoI6NO"&gt;有名絵師にイラストを40万で依頼したのに、初期段階のラフ納期を(最終的に8か月)過ぎても何も連絡してこない上に当人はエルデンリング周回プレイをしており結局白紙にされた→本人が登場し謎の弁解を始める&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://posfie.com/@shogun_majires/p/JfoI6NO"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/a20656e899df162a4156ad3709661dc914726ff7/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fs.tgstc.com%2Fogp3%2F8cddf2fbbc98c341025c4dff342395e0-1200x630.jpeg" alt="有名絵師にイラストを40万で依頼したのに、初期段階のラフ納期を(最終的に8か月)過ぎても何も連絡してこない上に当人はエルデンリング周回プレイをしており結局白紙にされた→本人が登場し謎の弁解を始める" title="有名絵師にイラストを40万で依頼したのに、初期段階のラフ納期を(最終的に8か月)過ぎても何も連絡してこない上に当人はエルデンリング周回プレイをしており結局白紙にされた→本人が登場し謎の弁解を始める" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;フンギャロ@偉大なるARMORED CORE @fungyarou イラストレーターに仕事依頼したことあるけど、非常にやり取りに苦心した。 社会人的な意味合いでの｢契約｣というものをまったく理解しておらず、子供の約束じみた風体であり、もうしわけないが話をなかったことにせざるを得なかった。 こんな話はたくさんある。 だからAIが...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/posfie.com/@shogun_majires/p/JfoI6NO"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://posfie.com/@shogun_majires/p/JfoI6NO" alt="はてなブックマーク - 有名絵師にイラストを40万で依頼したのに、初期段階のラフ納期を(最終的に8か月)過ぎても何も連絡してこない上に当人はエルデンリング周回プレイをしており結局白紙にされた→本人が登場し謎の弁解を始める" title="はてなブックマーク - 有名絵師にイラストを40万で依頼したのに、初期段階のラフ納期を(最終的に8か月)過ぎても何も連絡してこない上に当人はエルデンリング周回プレイをしており結局白紙にされた→本人が登場し謎の弁解を始める" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/posfie.com/@shogun_majires/p/JfoI6NO"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:imageurl>https://s.tgstc.com/ogp3/8cddf2fbbc98c341025c4dff342395e0-1200x630.jpeg</hatena:imageurl>
-    <hatena:bookmarkcount>332</hatena:bookmarkcount>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/posfie.com/</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/posfie.com/@shogun_majires/p/JfoI6NO</hatena:bookmarkCommentListPageUrl>
-  </item>
-  <item rdf:about="https://news.web.nhk/newsweb/na/na-k10015100561000">
-    <title>日経平均株価 5万9500円台 取引時間中の最高値更新 | NHKニュース</title>
-    <link>https://news.web.nhk/newsweb/na/na-k10015100561000</link>
-    <description>16日の東京株式市場、日経平均株価は1400円以上値上がりして、5万9500円台をつけ、取り引き時間中の最高値を更新しました。イラン情勢への懸念が後退したことが背景にあります。 16日の東京株式市…</description>
-    <dc:date>2026-04-16T03:35:32Z</dc:date>
-    <dc:subject>政治と経済</dc:subject>
-    <dc:subject>金融</dc:subject>
-    <dc:subject>経済</dc:subject>
-    <dc:subject>株</dc:subject>
-    <dc:subject>株価</dc:subject>
-    <dc:subject>ビジネス</dc:subject>
-    <dc:subject>NHK</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E9%87%91%E8%9E%8D" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%B5%8C%E6%B8%88" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%A0%AA" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%A0%AA%E4%BE%A1" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/NHK" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://news.web.nhk/newsweb/na/na-k10015100561000" title="日経平均株価 5万9500円台 取引時間中の最高値更新 | NHKニュース"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnews.web.nhk%2Fnewsweb%2Fna%2Fna-k10015100561000" alt="" /&gt; &lt;a href="https://news.web.nhk/newsweb/na/na-k10015100561000"&gt;日経平均株価 5万9500円台 取引時間中の最高値更新 | NHKニュース&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://news.web.nhk/newsweb/na/na-k10015100561000"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/855a64596083c7f8299c6507c803e9eb10762861/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fimgu.web.nhk%2Fnews%2Fu%2Fnews%2Fhtml%2F20260416%2FK10015100561_2604161137_0416125807_01_02.jpg" alt="日経平均株価 5万9500円台 取引時間中の最高値更新 | NHKニュース" title="日経平均株価 5万9500円台 取引時間中の最高値更新 | NHKニュース" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;16日の東京株式市場、日経平均株価は1400円以上値上がりして、5万9500円台をつけ、取り引き時間中の最高値を更新しました。イラン情勢への懸念が後退したことが背景にあります。 16日の東京株式市…&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015100561000"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://news.web.nhk/newsweb/na/na-k10015100561000" alt="はてなブックマーク - 日経平均株価 5万9500円台 取引時間中の最高値更新 | NHKニュース" title="はてなブックマーク - 日経平均株価 5万9500円台 取引時間中の最高値更新 | NHKニュース" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015100561000"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/news.web.nhk/</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkcount>183</hatena:bookmarkcount>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015100561000</hatena:bookmarkCommentListPageUrl>
-    <hatena:imageurl>https://imgu.web.nhk/news/u/news/html/20260416/K10015100561_2604161137_0416125807_01_02.jpg</hatena:imageurl>
-  </item>
-  <item rdf:about="https://zenn.dev/watany/articles/d8b692bbca65a3">
-    <title>AIエージェントの″ハーネス″に関わる混乱と私見</title>
-    <link>https://zenn.dev/watany/articles/d8b692bbca65a3</link>
-    <description>はじめに 「Agentic Coding　生成AI時代のシステム開発入門」という本を出すくらいなのでAIエージェントのハーネスには興味があって、1週間ほど調査した結果、「ハーネス」の見え方が固まりつつあるので、表題についてラフに書き留めておきます。根拠があるものないものがあるので話半分に読んでください。 スライドの形...</description>
-    <dc:date>2026-04-16T03:44:56Z</dc:date>
-    <dc:subject>テクノロジー</dc:subject>
-    <dc:subject>AI</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>LLM</dc:subject>
-    <dc:subject>Claude</dc:subject>
-    <dc:subject>人工知能</dc:subject>
-    <dc:subject>言葉</dc:subject>
-    <dc:subject>techfeed</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/AI" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/LLM" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/Claude" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E8%A8%80%E8%91%89" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/techfeed" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://zenn.dev/watany/articles/d8b692bbca65a3" title="AIエージェントの″ハーネス″に関わる混乱と私見"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fwatany%2Farticles%2Fd8b692bbca65a3" alt="" /&gt; &lt;a href="https://zenn.dev/watany/articles/d8b692bbca65a3"&gt;AIエージェントの″ハーネス″に関わる混乱と私見&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://zenn.dev/watany/articles/d8b692bbca65a3"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/1d2a5008a8603643d447b44716cc5621656d995f/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--OB5RSV9N--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3AAI%2525E3%252582%2525A8%2525E3%252583%2525BC%2525E3%252582%2525B8%2525E3%252582%2525A7%2525E3%252583%2525B3%2525E3%252583%252588%2525E3%252581%2525AE%2525E2%252580%2525B3%2525E3%252583%25258F%2525E3%252583%2525BC%2525E3%252583%25258D%2525E3%252582%2525B9%2525E2%252580%2525B3%2525E3%252581%2525AB%2525E9%252596%2525A2%2525E3%252582%25258F%2525E3%252582%25258B%2525E6%2525B7%2525B7%2525E4%2525B9%2525B1%2525E3%252581%2525A8%2525E7%2525A7%252581%2525E8%2525A6%25258B%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Awatany%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJiYjJiYTdkZjkuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACAGSGT" alt="AIエージェントの″ハーネス″に関わる混乱と私見" title="AIエージェントの″ハーネス″に関わる混乱と私見" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;はじめに 「Agentic Coding　生成AI時代のシステム開発入門」という本を出すくらいなのでAIエージェントのハーネスには興味があって、1週間ほど調査した結果、「ハーネス」の見え方が固まりつつあるので、表題についてラフに書き留めておきます。根拠があるものないものがあるので話半分に読んでください。 スライドの形...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/zenn.dev/watany/articles/d8b692bbca65a3"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://zenn.dev/watany/articles/d8b692bbca65a3" alt="はてなブックマーク - AIエージェントの″ハーネス″に関わる混乱と私見" title="はてなブックマーク - AIエージェントの″ハーネス″に関わる混乱と私見" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/zenn.dev/watany/articles/d8b692bbca65a3"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/zenn.dev/watany/articles/d8b692bbca65a3</hatena:bookmarkCommentListPageUrl>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/zenn.dev/watany</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkcount>150</hatena:bookmarkcount>
-    <hatena:imageurl>https://res.cloudinary.com/zenn/image/upload/s--OB5RSV9N--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2581%25AE%25E2%2580%25B3%25E3%2583%258F%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25B9%25E2%2580%25B3%25E3%2581%25AB%25E9%2596%25A2%25E3%2582%258F%25E3%2582%258B%25E6%25B7%25B7%25E4%25B9%25B1%25E3%2581%25A8%25E7%25A7%2581%25E8%25A6%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:watany%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzJiYjJiYTdkZjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT</hatena:imageurl>
-  </item>
-  <item rdf:about="https://www.huffingtonpost.jp/entry/story_jp_69dc6ffce4b00247ba9be703">
-    <title>布袋寅泰『日本の首相がロックンロールと交わったことがあったか？素晴らしい』に批判殺到で投稿削除。人気ミュージシャンも苦言</title>
-    <link>https://www.huffingtonpost.jp/entry/story_jp_69dc6ffce4b00247ba9be703</link>
-    <description>布袋寅泰「日本の首相がロックンロールと交わったことがあったか？素晴らしい」に批判殺到で投稿削除。人気ミュージシャンも苦言 高市早苗首相と英国のロックバンド「ディープ・パープル」が面会したことを受け、布袋寅泰さんがSNSで「未だかつて日本の首相がロックンロールと交わったことがあったか？素晴らしいことな...</description>
-    <dc:date>2026-04-14T02:56:31Z</dc:date>
-    <dc:subject>エンタメ</dc:subject>
-    <dc:subject>思想</dc:subject>
-    <dc:subject>音楽</dc:subject>
-    <dc:subject>政治</dc:subject>
-    <dc:subject>社会</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>日本</dc:subject>
-    <dc:subject>めも</dc:subject>
-    <dc:subject>表現規制</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%80%9D%E6%83%B3" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E9%9F%B3%E6%A5%BD" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%94%BF%E6%B2%BB" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%A4%BE%E4%BC%9A" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%97%A5%E6%9C%AC" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%81%E3%82%82" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E8%A1%A8%E7%8F%BE%E8%A6%8F%E5%88%B6" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://www.huffingtonpost.jp/entry/story_jp_69dc6ffce4b00247ba9be703" title="布袋寅泰『日本の首相がロックンロールと交わったことがあったか？素晴らしい』に批判殺到で投稿削除。人気ミュージシャンも苦言"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwww.huffingtonpost.jp%2Fentry%2Fstory_jp_69dc6ffce4b00247ba9be703" alt="" /&gt; &lt;a href="https://www.huffingtonpost.jp/entry/story_jp_69dc6ffce4b00247ba9be703"&gt;布袋寅泰『日本の首相がロックンロールと交わったことがあったか？素晴らしい』に批判殺到で投稿削除。人気ミュージシャンも苦言&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://www.huffingtonpost.jp/entry/story_jp_69dc6ffce4b00247ba9be703"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/9d606f37efdb507d8aec40c87f8bdb51cc6e8fc0/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fimg.huffingtonpost.com%2Fasset%2F69dc987f1400009a4786dfce.jpg%3Fcache%3DXGJn2Nz2bT%26ops%3D500_281%252Cscalefit_1200_630" alt="布袋寅泰『日本の首相がロックンロールと交わったことがあったか？素晴らしい』に批判殺到で投稿削除。人気ミュージシャンも苦言" title="布袋寅泰『日本の首相がロックンロールと交わったことがあったか？素晴らしい』に批判殺到で投稿削除。人気ミュージシャンも苦言" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;布袋寅泰「日本の首相がロックンロールと交わったことがあったか？素晴らしい」に批判殺到で投稿削除。人気ミュージシャンも苦言 高市早苗首相と英国のロックバンド「ディープ・パープル」が面会したことを受け、布袋寅泰さんがSNSで「未だかつて日本の首相がロックンロールと交わったことがあったか？素晴らしいことな...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/www.huffingtonpost.jp/entry/story_jp_69dc6ffce4b00247ba9be703"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://www.huffingtonpost.jp/entry/story_jp_69dc6ffce4b00247ba9be703" alt="はてなブックマーク - 布袋寅泰『日本の首相がロックンロールと交わったことがあったか？素晴らしい』に批判殺到で投稿削除。人気ミュージシャンも苦言" title="はてなブックマーク - 布袋寅泰『日本の首相がロックンロールと交わったことがあったか？素晴らしい』に批判殺到で投稿削除。人気ミュージシャンも苦言" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/www.huffingtonpost.jp/entry/story_jp_69dc6ffce4b00247ba9be703"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:imageurl>https://img.huffingtonpost.com/asset/69dc987f1400009a4786dfce.jpg?cache=XGJn2Nz2bT&amp;ops=500_281%2Cscalefit_1200_630</hatena:imageurl>
-    <hatena:bookmarkcount>323</hatena:bookmarkcount>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/www.huffingtonpost.jp/</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/www.huffingtonpost.jp/entry/story_jp_69dc6ffce4b00247ba9be703</hatena:bookmarkCommentListPageUrl>
-  </item>
-  <item rdf:about="https://togetter.com/li/2686490">
-    <title>よく知らんのですがこんなにポコポコ高層マンション建てまくって将来大丈夫なんですか？→修繕工事などで問題が起きる場合があるらしい「50年後どうなってるかわからない」</title>
-    <link>https://togetter.com/li/2686490</link>
-    <description>TROWA=BARTON @0cSmFqlu2x65716 @goshuinchou 安心しな。 地方は既に ・管理費毎月払ってもらったけど、近年の工事費高騰で予定していた大規模改修できなくてこの先どうなるか分からない ・機械式駐車場のメンテが限界だけど、管理費足りなくてお手上げ 何てマンションがいくつもある。 ビジネスとして破綻する足音が大...</description>
-    <dc:date>2026-04-16T02:13:28Z</dc:date>
-    <dc:subject>暮らし</dc:subject>
-    <dc:subject>建築</dc:subject>
-    <dc:subject>togetter</dc:subject>
-    <dc:subject>社会</dc:subject>
-    <dc:subject>マンション</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>住宅</dc:subject>
-    <dc:subject>トラブル</dc:subject>
-    <dc:subject>twitter</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E5%BB%BA%E7%AF%89" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/togetter" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%A4%BE%E4%BC%9A" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%9E%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E4%BD%8F%E5%AE%85" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/twitter" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://togetter.com/li/2686490" title="よく知らんのですがこんなにポコポコ高層マンション建てまくって将来大丈夫なんですか？→修繕工事などで問題が起きる場合があるらしい「50年後どうなってるかわからない」"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2686490" alt="" /&gt; &lt;a href="https://togetter.com/li/2686490"&gt;よく知らんのですがこんなにポコポコ高層マンション建てまくって将来大丈夫なんですか？→修繕工事などで問題が起きる場合があるらしい「50年後どうなってるかわからない」&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://togetter.com/li/2686490"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/421281966b58fe7e1732a3e5f3e1f5741b67f3f9/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fs.tgstc.com%2Fogp3%2Fb9ee0ab2236427b576bda57dca5b7284-1200x630.jpeg" alt="よく知らんのですがこんなにポコポコ高層マンション建てまくって将来大丈夫なんですか？→修繕工事などで問題が起きる場合があるらしい「50年後どうなってるかわからない」" title="よく知らんのですがこんなにポコポコ高層マンション建てまくって将来大丈夫なんですか？→修繕工事などで問題が起きる場合があるらしい「50年後どうなってるかわからない」" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;TROWA=BARTON @0cSmFqlu2x65716 @goshuinchou 安心しな。 地方は既に ・管理費毎月払ってもらったけど、近年の工事費高騰で予定していた大規模改修できなくてこの先どうなるか分からない ・機械式駐車場のメンテが限界だけど、管理費足りなくてお手上げ 何てマンションがいくつもある。 ビジネスとして破綻する足音が大...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/togetter.com/li/2686490"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://togetter.com/li/2686490" alt="はてなブックマーク - よく知らんのですがこんなにポコポコ高層マンション建てまくって将来大丈夫なんですか？→修繕工事などで問題が起きる場合があるらしい「50年後どうなってるかわからない」" title="はてなブックマーク - よく知らんのですがこんなにポコポコ高層マンション建てまくって将来大丈夫なんですか？→修繕工事などで問題が起きる場合があるらしい「50年後どうなってるかわからない」" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/togetter.com/li/2686490"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:imageurl>https://s.tgstc.com/ogp3/b9ee0ab2236427b576bda57dca5b7284-1200x630.jpeg</hatena:imageurl>
-    <hatena:bookmarkcount>198</hatena:bookmarkcount>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/togetter.com/</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/togetter.com/li/2686490</hatena:bookmarkCommentListPageUrl>
-  </item>
-  <item rdf:about="https://kai-you.net/article/95161">
-    <title>クラウドファンディング「うぶごえ」がアクセス不可に　支援金未払いで告発も相次ぐ</title>
-    <link>https://kai-you.net/article/95161</link>
-    <description>支援金の未払いが問題となっているクラウドファンディングサービス「うぶごえ」のサービスサイトが、4月15日頃よりアクセスすることができなくなっている。 同サイトにアクセスすると「このサイトにアクセスできません」「アクセスしようとしているサイトを見つけられません」などの文言が表示される状態に。 本サービス...</description>
-    <dc:date>2026-04-16T02:54:07Z</dc:date>
-    <dc:subject>世の中</dc:subject>
-    <dc:subject>トラブル</dc:subject>
-    <dc:subject>クラウドファウンディ</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>trouble</dc:subject>
-    <dc:subject>サービス</dc:subject>
-    <dc:subject>事件</dc:subject>
-    <dc:subject>togetter</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%88%E3%83%A9%E3%83%96%E3%83%AB" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%95%E3%82%A1%E3%82%A6%E3%83%B3%E3%83%87%E3%82%A3" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/trouble" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E4%BA%8B%E4%BB%B6" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/togetter" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://kai-you.net/article/95161" title="クラウドファンディング「うぶごえ」がアクセス不可に　支援金未払いで告発も相次ぐ"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fkai-you.net%2Farticle%2F95161" alt="" /&gt; &lt;a href="https://kai-you.net/article/95161"&gt;クラウドファンディング「うぶごえ」がアクセス不可に　支援金未払いで告発も相次ぐ&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://kai-you.net/article/95161"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/fdd2de91f59e4a0944d9b79839e57959b010ec3b/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fimg.kai-you.net%2Fstorage%2F2026%2F04%2F4994b189-8e97-4c94-b14c-d763a7a6cf22%2Fjpg%2Fubugoe.jpg" alt="クラウドファンディング「うぶごえ」がアクセス不可に　支援金未払いで告発も相次ぐ" title="クラウドファンディング「うぶごえ」がアクセス不可に　支援金未払いで告発も相次ぐ" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;支援金の未払いが問題となっているクラウドファンディングサービス「うぶごえ」のサービスサイトが、4月15日頃よりアクセスすることができなくなっている。 同サイトにアクセスすると「このサイトにアクセスできません」「アクセスしようとしているサイトを見つけられません」などの文言が表示される状態に。 本サービス...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/kai-you.net/article/95161"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://kai-you.net/article/95161" alt="はてなブックマーク - クラウドファンディング「うぶごえ」がアクセス不可に　支援金未払いで告発も相次ぐ" title="はてなブックマーク - クラウドファンディング「うぶごえ」がアクセス不可に　支援金未払いで告発も相次ぐ" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/kai-you.net/article/95161"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:imageurl>https://img.kai-you.net/storage/2026/04/4994b189-8e97-4c94-b14c-d763a7a6cf22/jpg/ubugoe.jpg</hatena:imageurl>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/kai-you.net/</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkcount>131</hatena:bookmarkcount>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/kai-you.net/article/95161</hatena:bookmarkCommentListPageUrl>
-  </item>
-  <item rdf:about="https://note.com/kawaidesign/n/n229818b75aa1">
-    <title>【有料級】Claude Codeで1人マーケ部門を作った全記録｜KAWAI</title>
-    <link>https://note.com/kawaidesign/n/n229818b75aa1</link>
-    <description>調査・執筆・画像生成・事実確認・SNS投稿・会計処理・スケジュール管理。21の業務を1つのClaude Code環境に統合したら、1日の実働が60分になりました。 この記事は全文無料（期間限定）で閲覧できます。 見出し画像はAIで生成しました。 プロンプトは140,000文字超えの記事に掲載中。 私はグラフィックデザイナー出身で...</description>
-    <dc:date>2026-04-15T05:14:08Z</dc:date>
-    <dc:subject>暮らし</dc:subject>
-    <dc:subject>AI</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>Claude</dc:subject>
-    <dc:subject>ClaudeCode</dc:subject>
-    <dc:subject>マーケティング</dc:subject>
-    <dc:subject>プログラミング</dc:subject>
-    <dc:subject>設計</dc:subject>
-    <dc:subject>仕事</dc:subject>
-    <dc:subject>note</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/AI" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/Claude" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/ClaudeCode" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E8%A8%AD%E8%A8%88" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E4%BB%95%E4%BA%8B" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/note" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://note.com/kawaidesign/n/n229818b75aa1" title="【有料級】Claude Codeで1人マーケ部門を作った全記録｜KAWAI"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fnote.com%2Fkawaidesign%2Fn%2Fn229818b75aa1" alt="" /&gt; &lt;a href="https://note.com/kawaidesign/n/n229818b75aa1"&gt;【有料級】Claude Codeで1人マーケ部門を作った全記録｜KAWAI&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://note.com/kawaidesign/n/n229818b75aa1"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/17c72ed1e7e1aba9a5e39c116034ce2c600fcc92/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fassets.st-note.com%2Fproduction%2Fuploads%2Fimages%2F267384082%2Frectangle_large_type_2_e85667f632de490f86747d01f6f75729.png%3Ffit%3Dbounds%26quality%3D85%26width%3D1280" alt="【有料級】Claude Codeで1人マーケ部門を作った全記録｜KAWAI" title="【有料級】Claude Codeで1人マーケ部門を作った全記録｜KAWAI" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;調査・執筆・画像生成・事実確認・SNS投稿・会計処理・スケジュール管理。21の業務を1つのClaude Code環境に統合したら、1日の実働が60分になりました。 この記事は全文無料（期間限定）で閲覧できます。 見出し画像はAIで生成しました。 プロンプトは140,000文字超えの記事に掲載中。 私はグラフィックデザイナー出身で...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/note.com/kawaidesign/n/n229818b75aa1"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://note.com/kawaidesign/n/n229818b75aa1" alt="はてなブックマーク - 【有料級】Claude Codeで1人マーケ部門を作った全記録｜KAWAI" title="はてなブックマーク - 【有料級】Claude Codeで1人マーケ部門を作った全記録｜KAWAI" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/note.com/kawaidesign/n/n229818b75aa1"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/note.com/kawaidesign</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkcount>395</hatena:bookmarkcount>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/note.com/kawaidesign/n/n229818b75aa1</hatena:bookmarkCommentListPageUrl>
-    <hatena:imageurl>https://assets.st-note.com/production/uploads/images/267384082/rectangle_large_type_2_e85667f632de490f86747d01f6f75729.png?fit=bounds&amp;quality=85&amp;width=1280</hatena:imageurl>
-  </item>
-  <item rdf:about="https://p-shirokuma.hatenadiary.com/entry/20260416/1776304800">
-    <title>文系の権力とは何か - シロクマの屑籠</title>
-    <link>https://p-shirokuma.hatenadiary.com/entry/20260416/1776304800</link>
-    <description>今日は、文系の権力とは何か、について現時点の私の考えをまとめてみる。 先日、地方の理系男子学生について東大の文学部教授氏が「支配階級の再生産だ」と述べていたが、私には中央の文系エリートの持つ力と、支配階級の再生産が気になった。それを書いたのが下記の文章だった。 p-shirokuma.hatenadiary.com 文系理系...</description>
-    <dc:date>2026-04-16T02:49:22Z</dc:date>
-    <dc:subject>世の中</dc:subject>
-    <dc:subject>人生</dc:subject>
-    <dc:subject>社会</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>企業</dc:subject>
-    <dc:subject>教育</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E4%BA%BA%E7%94%9F" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%A4%BE%E4%BC%9A" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E4%BC%81%E6%A5%AD" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%95%99%E8%82%B2" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://p-shirokuma.hatenadiary.com/entry/20260416/1776304800" title="文系の権力とは何か - シロクマの屑籠"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fp-shirokuma.hatenadiary.com%2Fentry%2F20260416%2F1776304800" alt="" /&gt; &lt;a href="https://p-shirokuma.hatenadiary.com/entry/20260416/1776304800"&gt;文系の権力とは何か - シロクマの屑籠&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://p-shirokuma.hatenadiary.com/entry/20260416/1776304800"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/5d59425cc1c2b315595a6eebc76a32d1a0fb271f/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fcdn.image.st-hatena.com%2Fimage%2Fscale%2Fa0d9b716781a3796b78704144146049624bb4c0f%2Fbackend%3Dimagemagick%3Bversion%3D1%3Bwidth%3D1300%2Fhttps%253A%252F%252Fcdn-ak.f.st-hatena.com%252Fimages%252Ffotolife%252Fp%252Fp_shirokuma%252F20260415%252F20260415185818.png" alt="文系の権力とは何か - シロクマの屑籠" title="文系の権力とは何か - シロクマの屑籠" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;今日は、文系の権力とは何か、について現時点の私の考えをまとめてみる。 先日、地方の理系男子学生について東大の文学部教授氏が「支配階級の再生産だ」と述べていたが、私には中央の文系エリートの持つ力と、支配階級の再生産が気になった。それを書いたのが下記の文章だった。 p-shirokuma.hatenadiary.com 文系理系...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/p-shirokuma.hatenadiary.com/entry/20260416/1776304800"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://p-shirokuma.hatenadiary.com/entry/20260416/1776304800" alt="はてなブックマーク - 文系の権力とは何か - シロクマの屑籠" title="はてなブックマーク - 文系の権力とは何か - シロクマの屑籠" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/p-shirokuma.hatenadiary.com/entry/20260416/1776304800"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/p-shirokuma.hatenadiary.com/</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkcount>117</hatena:bookmarkcount>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/p-shirokuma.hatenadiary.com/entry/20260416/1776304800</hatena:bookmarkCommentListPageUrl>
-    <hatena:imageurl>https://cdn.image.st-hatena.com/image/scale/a0d9b716781a3796b78704144146049624bb4c0f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fp_shirokuma%2F20260415%2F20260415185818.png</hatena:imageurl>
-  </item>
-  <item rdf:about="https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2">
-    <title>Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説 - Qiita</title>
-    <link>https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2</link>
-    <description>この記事は約5分で読めます。 筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。 &#x1f449; ポートフォリオ: 筆者ホームページ Claude Code を使い始めたけど、毎回同じ指示を...</description>
-    <dc:date>2026-04-15T09:59:34Z</dc:date>
-    <dc:subject>テクノロジー</dc:subject>
-    <dc:subject>Claude</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>AI</dc:subject>
-    <dc:subject>開発</dc:subject>
-    <dc:subject>Claude Code</dc:subject>
-    <dc:subject>エンジニア</dc:subject>
-    <dc:subject>プロンプト</dc:subject>
-    <dc:subject>プログラミング</dc:subject>
-    <dc:subject>programming</dc:subject>
-    <dc:subject>LLM</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/Claude" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/AI" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E9%96%8B%E7%99%BA" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/Claude%20Code" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/programming" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/LLM" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2" title="Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説 - Qiita"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fqiita.com%2Fteppei19980914%2Fitems%2F8da88b33ffa8cf88dfa2" alt="" /&gt; &lt;a href="https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2"&gt;Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説 - Qiita&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/54d6f0b77409517dc9e97cb8693f710d002e26d6/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fqiita-user-contents.imgix.net%252Fhttps%25253A%25252F%25252Fcdn.qiita.com%25252Fassets%25252Fpublic%25252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%253Fixlib%253Drb-4.0.0%2526w%253D1200%2526blend64%253DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNjU5OTE0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzQ3MTM4NjIzP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05Y2MyOWUxNTYyZDhhNzYzNzhkZDRhYjQxZDIxMjJkOA%2526blend-x%253D120%2526blend-y%253D467%2526blend-w%253D82%2526blend-h%253D82%2526blend-mode%253Dnormal%2526s%253D816bcb5389817fabf38487332281b314%3Fixlib%3Drb-4.0.0%26w%3D1200%26fm%3Djpg%26mark64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MiU5MiUyMExldmVsJTIwNSUyMCVFMyU4MSVCRSVFMyU4MSVBNyVFOCU4MiVCMiVFMyU4MSVBNiVFMyU4MSU5RiVFMyU4MiU4OSVFMyU4MCU4MSVFOSU5NiU4QiVFNyU5OSVCQSVFMyU4MSU4QyVFMyU4MCU4QyVFNiU4QyU4NyVFNyVBNCVCQSVFMyU4MSVBOCVFNyVBMiVCQSVFOCVBQSU4RCVFMyU4MSVBMCVFMyU4MSU5MSVFMyU4MCU4RCVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiUyMCVFMiU4MCU5NCUyMCVFNSVBRSU5RiVFMyU4MyU5NSVFMyU4MiVBMSVFMyU4MiVBNCVFMyU4MyVBQiVFNiVBNyU4QiVFNiU4OCU5MCVFMyU4MSVBNyVFOCVBNyVBMyVFOCVBQSVBQyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWFmNjU3NjAxMjgzZmZkYmQyZWJmODkyNmM3YmM4MDU2%26mark-x%3D120%26mark-y%3D112%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0ZXBwZWkxOTk4MDkxNCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPThmZjIzM2Q3OGUyYzBjYTNjNTBkNDM4MGZiNmMzZWJl%26blend-x%3D242%26blend-y%3D480%26blend-w%3D838%26blend-h%3D46%26blend-fit%3Dcrop%26blend-crop%3Dleft%252Cbottom%26blend-mode%3Dnormal%26s%3D7e3005e86fff05b93a29558e3f861f68" alt="Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説 - Qiita" title="Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説 - Qiita" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;この記事は約5分で読めます。 筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。 &#x1f449; ポートフォリオ: 筆者ホームページ Claude Code を使い始めたけど、毎回同じ指示を...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2" alt="はてなブックマーク - Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説 - Qiita" title="はてなブックマーク - Claude Code を Level 5 まで育てたら、開発が「指示と確認だけ」になった — 実ファイル構成で解説 - Qiita" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/qiita.com/teppei19980914</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkcount>642</hatena:bookmarkcount>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/qiita.com/teppei19980914/items/8da88b33ffa8cf88dfa2</hatena:bookmarkCommentListPageUrl>
-    <hatena:imageurl>https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNjU5OTE0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzQ3MTM4NjIzP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05Y2MyOWUxNTYyZDhhNzYzNzhkZDRhYjQxZDIxMjJkOA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D816bcb5389817fabf38487332281b314?ixlib=rb-4.0.0&amp;w=1200&amp;fm=jpg&amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSUyMCVFMyU4MiU5MiUyMExldmVsJTIwNSUyMCVFMyU4MSVCRSVFMyU4MSVBNyVFOCU4MiVCMiVFMyU4MSVBNiVFMyU4MSU5RiVFMyU4MiU4OSVFMyU4MCU4MSVFOSU5NiU4QiVFNyU5OSVCQSVFMyU4MSU4QyVFMyU4MCU4QyVFNiU4QyU4NyVFNyVBNCVCQSVFMyU4MSVBOCVFNyVBMiVCQSVFOCVBQSU4RCVFMyU4MSVBMCVFMyU4MSU5MSVFMyU4MCU4RCVFMyU4MSVBQiVFMyU4MSVBQSVFMyU4MSVBMyVFMyU4MSU5RiUyMCVFMiU4MCU5NCUyMCVFNSVBRSU5RiVFMyU4MyU5NSVFMyU4MiVBMSVFMyU4MiVBNCVFMyU4MyVBQiVFNiVBNyU4QiVFNiU4OCU5MCVFMyU4MSVBNyVFOCVBNyVBMyVFOCVBQSVBQyZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPWFmNjU3NjAxMjgzZmZkYmQyZWJmODkyNmM3YmM4MDU2&amp;mark-x=120&amp;mark-y=112&amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0ZXBwZWkxOTk4MDkxNCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPThmZjIzM2Q3OGUyYzBjYTNjNTBkNDM4MGZiNmMzZWJl&amp;blend-x=242&amp;blend-y=480&amp;blend-w=838&amp;blend-h=46&amp;blend-fit=crop&amp;blend-crop=left%2Cbottom&amp;blend-mode=normal&amp;s=7e3005e86fff05b93a29558e3f861f68</hatena:imageurl>
-  </item>
-  <item rdf:about="https://wtrclred.io/ja/posts/20">
-    <title>若者よ，インターネットを荒らせ</title>
-    <link>https://wtrclred.io/ja/posts/20</link>
-    <description>Turn on watercolor background effects.* May affect performance, battery life, and temperature on some devices. 注意: ここでいう「荒らせ」は，誹謗中傷しろ，デマを流せ，人を傷つけろ，という意味ではない．利害関係や政治性や人の生存に関わるものを，軽く扱えという話でもない．むしろ逆で，嘘を言うのは良く...</description>
-    <dc:date>2026-04-15T22:36:16Z</dc:date>
-    <dc:subject>テクノロジー</dc:subject>
-    <dc:subject>インターネット</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>世代</dc:subject>
-    <dc:subject>社会</dc:subject>
-    <dc:subject>ネット</dc:subject>
-    <dc:subject>技術</dc:subject>
-    <dc:subject>こころ</dc:subject>
-    <dc:subject>文章</dc:subject>
-    <dc:subject>internet</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E4%B8%96%E4%BB%A3" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%A4%BE%E4%BC%9A" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%8D%E3%83%83%E3%83%88" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%8A%80%E8%A1%93" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%93%E3%81%93%E3%82%8D" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%96%87%E7%AB%A0" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/internet" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://wtrclred.io/ja/posts/20" title="若者よ，インターネットを荒らせ"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwtrclred.io%2Fja%2Fposts%2F20" alt="" /&gt; &lt;a href="https://wtrclred.io/ja/posts/20"&gt;若者よ，インターネットを荒らせ&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://wtrclred.io/ja/posts/20"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/9ed8d0b89b6fab944de3af4c4afc8651ae0f5e67/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fwtrclred.vercel.app%2Fog.png" alt="若者よ，インターネットを荒らせ" title="若者よ，インターネットを荒らせ" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Turn on watercolor background effects.* May affect performance, battery life, and temperature on some devices. 注意: ここでいう「荒らせ」は，誹謗中傷しろ，デマを流せ，人を傷つけろ，という意味ではない．利害関係や政治性や人の生存に関わるものを，軽く扱えという話でもない．むしろ逆で，嘘を言うのは良く...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/wtrclred.io/ja/posts/20"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://wtrclred.io/ja/posts/20" alt="はてなブックマーク - 若者よ，インターネットを荒らせ" title="はてなブックマーク - 若者よ，インターネットを荒らせ" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/wtrclred.io/ja/posts/20"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:imageurl>https://wtrclred.vercel.app/og.png</hatena:imageurl>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/wtrclred.io/ja/posts/20</hatena:bookmarkCommentListPageUrl>
-    <hatena:bookmarkcount>161</hatena:bookmarkcount>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/wtrclred.io/</hatena:bookmarkSiteEntriesListUrl>
-  </item>
-  <item rdf:about="https://wtrclred.io/ja/posts/19">
-    <title>要はバランスおじさんが嫌い</title>
-    <link>https://wtrclred.io/ja/posts/19</link>
-    <description>Turn on watercolor background effects.* May affect performance, battery life, and temperature on some devices. 注意: ここでいう「おじさん」は年齢でも性別でもない． おばさんも若者も含む． なんなら自分の中にもたまにいる． これは属性ではなく，議論中に発生する態度の名前である． 序 私は「要はバランス...</description>
-    <dc:date>2026-04-15T14:37:01Z</dc:date>
-    <dc:subject>世の中</dc:subject>
-    <dc:subject>コミュニケーション</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>仕事</dc:subject>
-    <dc:subject>議論</dc:subject>
-    <dc:subject>おじさん</dc:subject>
-    <dc:subject>ネタ</dc:subject>
-    <dc:subject>ビジネス</dc:subject>
-    <dc:subject>communication</dc:subject>
-    <dc:subject>思考</dc:subject>
-    <dc:subject>こころ</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E4%BB%95%E4%BA%8B" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E8%AD%B0%E8%AB%96" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%8A%E3%81%98%E3%81%95%E3%82%93" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%8D%E3%82%BF" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/communication" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%80%9D%E8%80%83" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%93%E3%81%93%E3%82%8D" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://wtrclred.io/ja/posts/19" title="要はバランスおじさんが嫌い"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fwtrclred.io%2Fja%2Fposts%2F19" alt="" /&gt; &lt;a href="https://wtrclred.io/ja/posts/19"&gt;要はバランスおじさんが嫌い&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://wtrclred.io/ja/posts/19"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/9ed8d0b89b6fab944de3af4c4afc8651ae0f5e67/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fwtrclred.vercel.app%2Fog.png" alt="要はバランスおじさんが嫌い" title="要はバランスおじさんが嫌い" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Turn on watercolor background effects.* May affect performance, battery life, and temperature on some devices. 注意: ここでいう「おじさん」は年齢でも性別でもない． おばさんも若者も含む． なんなら自分の中にもたまにいる． これは属性ではなく，議論中に発生する態度の名前である． 序 私は「要はバランス...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/wtrclred.io/ja/posts/19"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://wtrclred.io/ja/posts/19" alt="はてなブックマーク - 要はバランスおじさんが嫌い" title="はてなブックマーク - 要はバランスおじさんが嫌い" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/wtrclred.io/ja/posts/19"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:imageurl>https://wtrclred.vercel.app/og.png</hatena:imageurl>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/wtrclred.io/</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkcount>602</hatena:bookmarkcount>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/wtrclred.io/ja/posts/19</hatena:bookmarkCommentListPageUrl>
-  </item>
-  <item rdf:about="https://jp.reuters.com/world/us/NDANX4RPBRIB5MH2GHIO2NM4UQ-2026-04-15/">
-    <title>トランプ氏、キリストと並ぶ画像をまた投稿</title>
-    <link>https://jp.reuters.com/world/us/NDANX4RPBRIB5MH2GHIO2NM4UQ-2026-04-15/</link>
-    <description>［ニューヨーク　１５日　ロイター］ - トランプ米大統領は１５日、イエス・キリストが自身に寄​り添っているように見える人工‌知能（ＡＩ）生成画像を、交流サイト（ＳＮＳ）「トゥルース・ソーシャル」にリポスト（再投稿）​した。 トランプ大統領は１２日にも、自​身をキリストになぞらえた画像⁠を投稿。支持基盤とさ...</description>
-    <dc:date>2026-04-15T18:49:46Z</dc:date>
-    <dc:subject>政治と経済</dc:subject>
-    <dc:subject>トランプ</dc:subject>
-    <dc:subject>宗教</dc:subject>
-    <dc:subject>政治</dc:subject>
-    <dc:subject>キリスト教</dc:subject>
-    <dc:subject>アメリカ</dc:subject>
-    <dc:subject>これはひどい</dc:subject>
-    <dc:subject>炎上</dc:subject>
-    <dc:subject>世俗&gt;政治</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%83%88%E3%83%A9%E3%83%B3%E3%83%97" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E5%AE%97%E6%95%99" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E6%94%BF%E6%B2%BB" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%AD%E3%83%AA%E3%82%B9%E3%83%88%E6%95%99" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%93%E3%82%8C%E3%81%AF%E3%81%B2%E3%81%A9%E3%81%84" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%82%8E%E4%B8%8A" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E4%B8%96%E4%BF%97%3E%E6%94%BF%E6%B2%BB" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://jp.reuters.com/world/us/NDANX4RPBRIB5MH2GHIO2NM4UQ-2026-04-15/" title="トランプ氏、キリストと並ぶ画像をまた投稿"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fjp.reuters.com%2Fworld%2Fus%2FNDANX4RPBRIB5MH2GHIO2NM4UQ-2026-04-15%2F" alt="" /&gt; &lt;a href="https://jp.reuters.com/world/us/NDANX4RPBRIB5MH2GHIO2NM4UQ-2026-04-15/"&gt;トランプ氏、キリストと並ぶ画像をまた投稿&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://jp.reuters.com/world/us/NDANX4RPBRIB5MH2GHIO2NM4UQ-2026-04-15/"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/295ae1fd44211dcb2f381a7e12bd36ab5fd64acb/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fwww.reuters.com%2Fresizer%2Fv2%2FTWYUVJJDZRM4XGGXPQL7PX2HPU.jpg%3Fauth%3Da587feb2c2bb2acb671b4e7d1f7718d30b3b1e815579d433120625d645e05ba5%26height%3D1005%26width%3D1920%26quality%3D80%26smart%3Dtrue" alt="トランプ氏、キリストと並ぶ画像をまた投稿" title="トランプ氏、キリストと並ぶ画像をまた投稿" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;［ニューヨーク　１５日　ロイター］ - トランプ米大統領は１５日、イエス・キリストが自身に寄​り添っているように見える人工‌知能（ＡＩ）生成画像を、交流サイト（ＳＮＳ）「トゥルース・ソーシャル」にリポスト（再投稿）​した。 トランプ大統領は１２日にも、自​身をキリストになぞらえた画像⁠を投稿。支持基盤とさ...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/jp.reuters.com/world/us/NDANX4RPBRIB5MH2GHIO2NM4UQ-2026-04-15/"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://jp.reuters.com/world/us/NDANX4RPBRIB5MH2GHIO2NM4UQ-2026-04-15/" alt="はてなブックマーク - トランプ氏、キリストと並ぶ画像をまた投稿" title="はてなブックマーク - トランプ氏、キリストと並ぶ画像をまた投稿" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/jp.reuters.com/world/us/NDANX4RPBRIB5MH2GHIO2NM4UQ-2026-04-15/"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:imageurl>https://www.reuters.com/resizer/v2/TWYUVJJDZRM4XGGXPQL7PX2HPU.jpg?auth=a587feb2c2bb2acb671b4e7d1f7718d30b3b1e815579d433120625d645e05ba5&amp;height=1005&amp;width=1920&amp;quality=80&amp;smart=true</hatena:imageurl>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/jp.reuters.com/</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkcount>174</hatena:bookmarkcount>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/jp.reuters.com/world/us/NDANX4RPBRIB5MH2GHIO2NM4UQ-2026-04-15/</hatena:bookmarkCommentListPageUrl>
-  </item>
-  <item rdf:about="https://togetter.com/li/2686572">
-    <title>アメリカ人「韓国を51番目の州にしよう」韓国人の返しがTwitterの自動翻訳機能の歴史に残る切れ味だと話題に</title>
-    <link>https://togetter.com/li/2686572</link>
-    <description>umdius labka @umdius @Write4Republic アンタこのまえ日本を51番目にしたいって言ってたじゃない！！！ 嘘だったんだ！！　ワタシに隠して浮気してたってことでしょ！！！！ ワタシとは遊びだったってワケ！？！？ 2026-04-15 19:53:12</description>
-    <dc:date>2026-04-16T05:54:58Z</dc:date>
-    <dc:subject>世の中</dc:subject>
-    <dc:subject>韓国</dc:subject>
-    <dc:subject>communication</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>politics</dc:subject>
-    <dc:subject>korea</dc:subject>
-    <dc:subject>アメリカ</dc:subject>
-    <dc:subject>謎</dc:subject>
-    <dc:subject>米国</dc:subject>
-    <dc:subject>名言</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E9%9F%93%E5%9B%BD" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/communication" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/politics" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/korea" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E8%AC%8E" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E7%B1%B3%E5%9B%BD" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E5%90%8D%E8%A8%80" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://togetter.com/li/2686572" title="アメリカ人「韓国を51番目の州にしよう」韓国人の返しがTwitterの自動翻訳機能の歴史に残る切れ味だと話題に"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Ftogetter.com%2Fli%2F2686572" alt="" /&gt; &lt;a href="https://togetter.com/li/2686572"&gt;アメリカ人「韓国を51番目の州にしよう」韓国人の返しがTwitterの自動翻訳機能の歴史に残る切れ味だと話題に&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://togetter.com/li/2686572"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/d30b95e14188fe987c39c0697b7bb8c9643290b9/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fs.tgstc.com%2Fogp3%2Fdbb04f9d521b4f91c571040228e59064-1200x630.jpeg" alt="アメリカ人「韓国を51番目の州にしよう」韓国人の返しがTwitterの自動翻訳機能の歴史に残る切れ味だと話題に" title="アメリカ人「韓国を51番目の州にしよう」韓国人の返しがTwitterの自動翻訳機能の歴史に残る切れ味だと話題に" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;umdius labka @umdius @Write4Republic アンタこのまえ日本を51番目にしたいって言ってたじゃない！！！ 嘘だったんだ！！　ワタシに隠して浮気してたってことでしょ！！！！ ワタシとは遊びだったってワケ！？！？ 2026-04-15 19:53:12&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/togetter.com/li/2686572"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://togetter.com/li/2686572" alt="はてなブックマーク - アメリカ人「韓国を51番目の州にしよう」韓国人の返しがTwitterの自動翻訳機能の歴史に残る切れ味だと話題に" title="はてなブックマーク - アメリカ人「韓国を51番目の州にしよう」韓国人の返しがTwitterの自動翻訳機能の歴史に残る切れ味だと話題に" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/togetter.com/li/2686572"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:imageurl>https://s.tgstc.com/ogp3/dbb04f9d521b4f91c571040228e59064-1200x630.jpeg</hatena:imageurl>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/togetter.com/li/2686572</hatena:bookmarkCommentListPageUrl>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/togetter.com/</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkcount>126</hatena:bookmarkcount>
-  </item>
-  <item rdf:about="https://zenn.dev/pdfractal/articles/3cba58622f7be6">
-    <title>なぜ、日本のITシステム開発は丸投げユーザー企業と御用聞きベンダーという相容れない組合せで成立していたのか？</title>
-    <link>https://zenn.dev/pdfractal/articles/3cba58622f7be6</link>
-    <description>なぜ、日本のITシステム開発は丸投げユーザー企業と御用聞きベンダーという相容れない組合せで成立していたのか？ はじめに 日本のITシステム開発は、長く 丸投げ 型のユーザー企業と 御用聞き 型のベンダーが向き合う構図で語られてきました。ところが、この二つは論理だけで見れば両立しません。発注側が業務要件を固...</description>
-    <dc:date>2026-04-15T04:43:47Z</dc:date>
-    <dc:subject>テクノロジー</dc:subject>
-    <dc:subject>システム</dc:subject>
-    <dc:subject>あとで読む</dc:subject>
-    <dc:subject>開発</dc:subject>
-    <dc:subject>IT</dc:subject>
-    <dc:subject>SIer</dc:subject>
-    <dc:subject>企業</dc:subject>
-    <dc:subject>設計</dc:subject>
-    <taxo:topics>
-      <rdf:Bag>
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E9%96%8B%E7%99%BA" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/IT" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/SIer" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E4%BC%81%E6%A5%AD" />
-        <rdf:li resource="https://b.hatena.ne.jp/q/%E8%A8%AD%E8%A8%88" />
-      </rdf:Bag>
-    </taxo:topics>
-    <content:encoded>&lt;blockquote cite="https://zenn.dev/pdfractal/articles/3cba58622f7be6" title="なぜ、日本のITシステム開発は丸投げユーザー企業と御用聞きベンダーという相容れない組合せで成立していたのか？"&gt;&lt;cite&gt;&lt;img src="https://cdn-ak2.favicon.st-hatena.com/64?url=https%3A%2F%2Fzenn.dev%2Fpdfractal%2Farticles%2F3cba58622f7be6" alt="" /&gt; &lt;a href="https://zenn.dev/pdfractal/articles/3cba58622f7be6"&gt;なぜ、日本のITシステム開発は丸投げユーザー企業と御用聞きベンダーという相容れない組合せで成立していたのか？&lt;/a&gt;&lt;/cite&gt;&lt;p&gt;&lt;a href="https://zenn.dev/pdfractal/articles/3cba58622f7be6"&gt;&lt;img src="https://cdn-ak-scissors.b.st-hatena.com/image/square/034ceafc2891ed71a7338894cd0b506cd71d3a29/backend=imagemagick;height=90;version=1;width=120/https%3A%2F%2Fres.cloudinary.com%2Fzenn%2Fimage%2Fupload%2Fs--Gvw26Vsp--%2Fc_fit%252Cg_north_west%252Cl_text%3Anotosansjp-medium.otf_55%3A%2525E3%252581%2525AA%2525E3%252581%25259C%2525E3%252580%252581%2525E6%252597%2525A5%2525E6%25259C%2525AC%2525E3%252581%2525AEIT%2525E3%252582%2525B7%2525E3%252582%2525B9%2525E3%252583%252586%2525E3%252583%2525A0%2525E9%252596%25258B%2525E7%252599%2525BA%2525E3%252581%2525AF%2525E4%2525B8%2525B8%2525E6%25258A%252595%2525E3%252581%252592%2525E3%252583%2525A6%2525E3%252583%2525BC%2525E3%252582%2525B6%2525E3%252583%2525BC%2525E4%2525BC%252581%2525E6%2525A5%2525AD%2525E3%252581%2525A8%2525E5%2525BE%2525A1%2525E7%252594%2525A8%2525E8%252581%25259E%2525E3%252581%25258D%2525E3%252583%252599%2525E3%252583%2525B3%2525E3%252583%252580%2525E3%252583%2525BC%2525E3%252581%2525A8%2525E3%252581%252584%2525E3%252581%252586%2525E7%25259B%2525B8%2525E5%2525AE%2525B9%2525E3%252582%25258C%2525E3%252581%2525AA%2525E3%252581%252584%2525E7%2525B5%252584%2525E5%252590%252588%2525E3%252581%25259B%2525E3%252581%2525A7%2525E6%252588%252590%2525E7%2525AB%25258B%2525E3%252581%252597%2525E3%252581%2525A6%2525E3%252581%252584%2525E3%252581%25259F%2525E3%252581%2525AE%2525E3%252581%25258B%2525EF%2525BC%25259F%252Cw_1010%252Cx_90%252Cy_100%2Fg_south_west%252Cl_text%3Anotosansjp-medium.otf_37%3Apdfractal%252Cx_203%252Cy_121%2Fg_south_west%252Ch_90%252Cl_fetch%3AaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FlODUxNjI3MGYuanBlZw%3D%3D%252Cr_max%252Cw_90%252Cx_87%252Cy_95%2Fv1627283836%2Fdefault%2Fog-base-w1200-v2.png%3F_a%3DBACAGSGT" alt="なぜ、日本のITシステム開発は丸投げユーザー企業と御用聞きベンダーという相容れない組合せで成立していたのか？" title="なぜ、日本のITシステム開発は丸投げユーザー企業と御用聞きベンダーという相容れない組合せで成立していたのか？" class="entry-image" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;なぜ、日本のITシステム開発は丸投げユーザー企業と御用聞きベンダーという相容れない組合せで成立していたのか？ はじめに 日本のITシステム開発は、長く 丸投げ 型のユーザー企業と 御用聞き 型のベンダーが向き合う構図で語られてきました。ところが、この二つは論理だけで見れば両立しません。発注側が業務要件を固...&lt;/p&gt;&lt;p&gt;&lt;a href="https://b.hatena.ne.jp/entry/s/zenn.dev/pdfractal/articles/3cba58622f7be6"&gt;&lt;img src="https://b.hatena.ne.jp/entry/image/https://zenn.dev/pdfractal/articles/3cba58622f7be6" alt="はてなブックマーク - なぜ、日本のITシステム開発は丸投げユーザー企業と御用聞きベンダーという相容れない組合せで成立していたのか？" title="はてなブックマーク - なぜ、日本のITシステム開発は丸投げユーザー企業と御用聞きベンダーという相容れない組合せで成立していたのか？" border="0" style="border: none" /&gt;&lt;/a&gt; &lt;a href="https://b.hatena.ne.jp/entry/s/zenn.dev/pdfractal/articles/3cba58622f7be6"&gt;&lt;img src="https://b.st-hatena.com/images/append.gif" border="0" alt="はてなブックマークに追加" title="はてなブックマークに追加" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;</content:encoded>
-    <hatena:bookmarkSiteEntriesListUrl>https://b.hatena.ne.jp/site/zenn.dev/pdfractal</hatena:bookmarkSiteEntriesListUrl>
-    <hatena:bookmarkcount>243</hatena:bookmarkcount>
-    <hatena:bookmarkCommentListPageUrl>https://b.hatena.ne.jp/entry/s/zenn.dev/pdfractal/articles/3cba58622f7be6</hatena:bookmarkCommentListPageUrl>
-    <hatena:imageurl>https://res.cloudinary.com/zenn/image/upload/s--Gvw26Vsp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%25E3%2580%2581%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AEIT%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AF%25E4%25B8%25B8%25E6%258A%2595%25E3%2581%2592%25E3%2583%25A6%25E3%2583%25BC%25E3%2582%25B6%25E3%2583%25BC%25E4%25BC%2581%25E6%25A5%25AD%25E3%2581%25A8%25E5%25BE%25A1%25E7%2594%25A8%25E8%2581%259E%25E3%2581%258D%25E3%2583%2599%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E7%259B%25B8%25E5%25AE%25B9%25E3%2582%258C%25E3%2581%25AA%25E3%2581%2584%25E7%25B5%2584%25E5%2590%2588%25E3%2581%259B%25E3%2581%25A7%25E6%2588%2590%25E7%25AB%258B%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2584%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pdfractal%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2FlODUxNjI3MGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT</hatena:imageurl>
-  </item>
-</rdf:RDF>
+</rss>
 
