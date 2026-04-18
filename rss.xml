@@ -4,20 +4,13 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 18 Apr 2026 06:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 07:33:09 +0000</lastBuildDate>
     <item>
       <title>一度教えてもらったことはもう二度と聞いてはいけないのが社会人のルールなの？「前も教えたよね？」っていう人意地悪すぎない？→画期的な案が寄せられる</title>
       <link>https://togetter.com/li/2687218</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/c658521207b15a1df11f904be3e11afa-1200x630.jpeg" /&gt;&lt;br/&gt;一度教えてもらったことはもう二度と聞いてはいけないのが社会人のルールなの？「前も教えたよね？」っていう人意地悪すぎない？→画期的な案が寄せられる</description>
       <pubDate>Sat, 18 Apr 2026 00:30:37 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687218</comments>
-    </item>
-    <item>
-      <title>設計書・コード・テストを全部AIに書かせて半年間開発してみたよ</title>
-      <link>https://zenn.dev/nttdata_tech/articles/8a010aff542625</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--Ev42bZn9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A8%25AD%25E8%25A8%2588%25E6%259B%25B8%25E3%2583%25BB%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25BB%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E5%2585%25A8%25E9%2583%25A8AI%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2581%25A6%25E5%258D%258A%25E5%25B9%25B4%25E9%2596%2593%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2582%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E8%258C%2582%25E5%2591%2582%2520%25E7%25AF%2584%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q1ZjRhYzE4MTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NTT%2520DATA%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;設計書・コード・テストを全部AIに書かせて半年間開発してみたよ 1. はじめに 本記事は、私のチームが半年間AIネイティブ開発を行った経験とその感想をまとめたものです。 AIネイティブ開発とは、AI技術を活用してソフトウェア開発を行うことを指します。2025/10～2026/3の期間中、私たちはお客様に納品するシステムをAI...</description>
-      <pubDate>Fri, 17 Apr 2026 15:11:32 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/nttdata_tech/articles/8a010aff542625</comments>
     </item>
     <item>
       <title>コーヒーこぼして婚約破棄</title>
@@ -32,6 +25,13 @@
       <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;主にインディーゲームで内容が微妙なとき、配信者や配信のコメントが「完成しただけすごい」と感想を残すが、本当に？ そうやって創作者を甘やかすから良い物ができないのではと思う。 完成するのは前提として、面白いかどうかが全てではないの？</description>
       <pubDate>Fri, 17 Apr 2026 13:04:54 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260417220357</comments>
+    </item>
+    <item>
+      <title>設計書・コード・テストを全部AIに書かせて半年間開発してみたよ</title>
+      <link>https://zenn.dev/nttdata_tech/articles/8a010aff542625</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--Ev42bZn9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A8%25AD%25E8%25A8%2588%25E6%259B%25B8%25E3%2583%25BB%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25BB%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E5%2585%25A8%25E9%2583%25A8AI%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2581%25A6%25E5%258D%258A%25E5%25B9%25B4%25E9%2596%2593%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2582%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E8%258C%2582%25E5%2591%2582%2520%25E7%25AF%2584%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q1ZjRhYzE4MTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NTT%2520DATA%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;設計書・コード・テストを全部AIに書かせて半年間開発してみたよ 1. はじめに 本記事は、私のチームが半年間AIネイティブ開発を行った経験とその感想をまとめたものです。 AIネイティブ開発とは、AI技術を活用してソフトウェア開発を行うことを指します。2025/10～2026/3の期間中、私たちはお客様に納品するシステムをAI...</description>
+      <pubDate>Fri, 17 Apr 2026 15:11:32 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/nttdata_tech/articles/8a010aff542625</comments>
     </item>
     <item>
       <title>【ビジカジなユニクロ】“感動ジャケット”でつくる高見え好印象コーデをスタイリストがレクチャー！[UNIQLO]</title>
@@ -62,6 +62,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/nlab.itmedia.co.jp/research/articles/3808430/</comments>
     </item>
     <item>
+      <title>Claudeに原始時代に行ってもらっては困る話</title>
+      <link>https://zenn.dev/holy_fox/articles/e0c0bf75fba9e6</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--rvdPfY-B--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%25E3%2581%25AB%25E5%258E%259F%25E5%25A7%258B%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E8%25A1%258C%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%2582%25E3%2582%2589%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25AF%25E5%259B%25B0%25E3%2582%258B%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%25BB%25E3%2583%25BC%25E3%2582%258A%25E3%2583%25BC%25E3%2581%25B5%25E3%2581%2589%25E3%2581%25A3%25E3%2581%258F%25E3%2581%2599%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzZlMmM2MjU5ZmQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに 最近、海外のLLMコミュニティで 「caveman prompt」「speak like a caveman」 と呼ばれるプロンプト技法がちらほら話題になっています。Claude Codeに「原始人のように喋れ」と指示することで、挨拶・クッション言葉・冗長な前置きを削って応答を短くする ― ひいてはトークン消費を削減できる、という主張です...</description>
+      <pubDate>Fri, 17 Apr 2026 12:19:56 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/holy_fox/articles/e0c0bf75fba9e6</comments>
+    </item>
+    <item>
       <title>日本と海外の著作権に関する大きな価値観の差が埋まらないレベルに思える…その理由を「日本の著作権の歴史」を整理して解説する人も</title>
       <link>https://togetter.com/li/2687177</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/94067a3998e2d950f373d7f10feee7ff-1200x630.jpeg" /&gt;&lt;br/&gt;日暮れひぐれん @higureshuuen 日本と海外の、国名は書きませんが数カ国の方のコメントを読んでいて、 著作権に関する大きな価値観の差があって埋まらないことが分かりました。 日本の農作物の苗や種を盗んで母国で育てることも、「自分で育てたら自分のものだよ？何が悪いの？」 漫画も 「私の国の収入は低くて正規のも...</description>
@@ -90,6 +97,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/saihatenofarm/n/n93c5c7962f82</comments>
     </item>
     <item>
+      <title>ゆず北川の母親が亡くなったらしい</title>
+      <link>https://anond.hatelabo.jp/20260417161915</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;製作者の負の側面が制作物には関係ないってのがよく言われることで、 歌手とか楽曲ならヤクで逮捕されようが、良い曲に罪はないともよく聞くことだ ゆず北川の母は何者か 「かむながらのみち」という宗教法人の教祖であった人物だ ゆず北川本人は何者か 「かむながらのみち」が所有している身曾岐神社でライブを行ってお...</description>
+      <pubDate>Fri, 17 Apr 2026 07:20:48 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260417161915</comments>
+    </item>
+    <item>
       <title>ホルムズ海峡、タンカーなど20隻超引き返す　開放宣言後も通航困難か - 日本経済新聞</title>
       <link>https://www.nikkei.com/article/DGXZQOGN17D6C0X10C26A4000000/</link>
       <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2911194018042026000000-1.png?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=21141ca6420b4e9ea77ad18f65a0a008" /&gt;&lt;br/&gt;【ニューヨーク=朝田賢治】イランによるホルムズ海峡の「開放宣言」でペルシャ湾に閉じ込められている商船が翻弄されている。船舶データによると、米東部時間の17日午前に20隻超の船が一斉にペルシャ湾の外に出ようと動き出したが、ほぼ全船が海峡に入る直前で引き返した。イランのアラグチ外相が自身のX（旧ツイッター...</description>
@@ -109,13 +123,6 @@
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/268180373/rectangle_large_type_2_389cac2753f42f9b18f0280a40be9572.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;事故後4日目、5日目の内容を時系列で記します。内容は、学校、ツアー会社、海上保安部に対し、大きな誤りがないことを確認済みです。 調査や捜査に影響を与える可能性のある内容は省いております。 内容は主に、長女のメモをベースにしています。 時刻表記はおおよそのものです。 移動手段やホテルについては、記述がな...</description>
       <pubDate>Fri, 17 Apr 2026 14:26:32 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/beloved_tomoka/n/n580fc1369bb1</comments>
-    </item>
-    <item>
-      <title>ゆず北川の母親が亡くなったらしい</title>
-      <link>https://anond.hatelabo.jp/20260417161915</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;製作者の負の側面が制作物には関係ないってのがよく言われることで、 歌手とか楽曲ならヤクで逮捕されようが、良い曲に罪はないともよく聞くことだ ゆず北川の母は何者か 「かむながらのみち」という宗教法人の教祖であった人物だ ゆず北川本人は何者か 「かむながらのみち」が所有している身曾岐神社でライブを行ってお...</description>
-      <pubDate>Fri, 17 Apr 2026 07:20:48 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260417161915</comments>
     </item>
     <item>
       <title>高市首相、靖国参拝見送りへ　春季例大祭、中韓に配慮：時事ドットコム</title>
