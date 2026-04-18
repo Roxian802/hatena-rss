@@ -4,20 +4,27 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 17 Apr 2026 23:33:09 +0000</lastBuildDate>
-    <item>
-      <title>事故後からの流れ 3月19・20日｜辺野古ボート転覆事故遺族メモ</title>
-      <link>https://note.com/beloved_tomoka/n/n580fc1369bb1</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/268180373/rectangle_large_type_2_389cac2753f42f9b18f0280a40be9572.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;事故後4日目、5日目の内容を時系列で記します。内容は、学校、ツアー会社、海上保安部に対し、大きな誤りがないことを確認済みです。 調査や捜査に影響を与える可能性のある内容は省いております。 内容は主に、長女のメモをベースにしています。 時刻表記はおおよそのものです。 移動手段やホテルについては、記述がな...</description>
-      <pubDate>Fri, 17 Apr 2026 14:26:32 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/beloved_tomoka/n/n580fc1369bb1</comments>
-    </item>
+    <lastBuildDate>Sat, 18 Apr 2026 00:33:10 +0000</lastBuildDate>
     <item>
       <title>創作の「完成しただけすごい」って本気で言ってるの？</title>
       <link>https://anond.hatelabo.jp/20260417220357</link>
       <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;主にインディーゲームで内容が微妙なとき、配信者や配信のコメントが「完成しただけすごい」と感想を残すが、本当に？ そうやって創作者を甘やかすから良い物ができないのではと思う。 完成するのは前提として、面白いかどうかが全てではないの？</description>
       <pubDate>Fri, 17 Apr 2026 13:04:54 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260417220357</comments>
+    </item>
+    <item>
+      <title>設計書・コード・テストを全部AIに書かせて半年間開発してみたよ</title>
+      <link>https://zenn.dev/nttdata_tech/articles/8a010aff542625</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--Ev42bZn9--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%25A8%25AD%25E8%25A8%2588%25E6%259B%25B8%25E3%2583%25BB%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25BB%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E3%2582%2592%25E5%2585%25A8%25E9%2583%25A8AI%25E3%2581%25AB%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2581%25A6%25E5%258D%258A%25E5%25B9%25B4%25E9%2596%2593%25E9%2596%258B%25E7%2599%25BA%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2582%2588%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E8%258C%2582%25E5%2591%2582%2520%25E7%25AF%2584%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2Q1ZjRhYzE4MTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NTT%2520DATA%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly96ZW5uLWRldi5naXRodWIuaW8vZGVmYXVsdC1hdmF0YXJzL2RhcmsvbS5wbmc=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;設計書・コード・テストを全部AIに書かせて半年間開発してみたよ 1. はじめに 本記事は、私のチームが半年間AIネイティブ開発を行った経験とその感想をまとめたものです。 AIネイティブ開発とは、AI技術を活用してソフトウェア開発を行うことを指します。2025/10～2026/3の期間中、私たちはお客様に納品するシステムをAI...</description>
+      <pubDate>Fri, 17 Apr 2026 15:11:32 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/nttdata_tech/articles/8a010aff542625</comments>
+    </item>
+    <item>
+      <title>事故後からの流れ 3月19・20日｜辺野古ボート転覆事故遺族メモ</title>
+      <link>https://note.com/beloved_tomoka/n/n580fc1369bb1</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/268180373/rectangle_large_type_2_389cac2753f42f9b18f0280a40be9572.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;事故後4日目、5日目の内容を時系列で記します。内容は、学校、ツアー会社、海上保安部に対し、大きな誤りがないことを確認済みです。 調査や捜査に影響を与える可能性のある内容は省いております。 内容は主に、長女のメモをベースにしています。 時刻表記はおおよそのものです。 移動手段やホテルについては、記述がな...</description>
+      <pubDate>Fri, 17 Apr 2026 14:26:32 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/beloved_tomoka/n/n580fc1369bb1</comments>
     </item>
     <item>
       <title>イラン外相 条件をつけた上で “ホルムズ海峡を商船に開放” | NHKニュース</title>
@@ -27,18 +34,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015102111000</comments>
     </item>
     <item>
-      <title>僕はへずまりゅうから脅迫を受けていました。｜柿本元気</title>
-      <link>https://note.com/kakimotogenki/n/n6e6b88904300</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/267650872/rectangle_large_type_2_0aa37d8ee45e1e4e4cbb264816e943c2.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;赤絨毯の敷かれた階段を登っていくと、委員会室のドアに至る。 休憩時間は後3分で終わる、3月16日15時22分の出来事だ。 まるで門番のように、私の進路を大きな影が遮った。 へずまりゅうである。 彼の顔面は私の眼前10cm程の距離にまで近づき、大きな怒鳴り声を放った。 「なんなら！！これは！？」 それがアニメである...</description>
-      <pubDate>Fri, 17 Apr 2026 10:36:52 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/kakimotogenki/n/n6e6b88904300</comments>
-    </item>
-    <item>
       <title>Claude Codeで実際に起きたセキュリティ事故7選と防止策 - Qiita</title>
       <link>https://qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc</link>
       <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0NDA0NjQwJTJGYmFkMDZmMmM0Zjc5MTRiOGNhYzBiNmU4ODBmODc5MGZkNjQ1MjJlOCUyRmxhcmdlLnBuZyUzRjE3NzU5MTE0Nzc_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTEwZDk0MjMxZWY0NzJhMGNlMDcyMGFlMjc4MzZlZDg0%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dec82b9c9a74af788004809b4df56ea3f?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFNSVBRSU5RiVFOSU5QSU5QiVFMyU4MSVBQiVFOCVCNSVCNyVFMyU4MSU4RCVFMyU4MSU5RiVFMyU4MiVCQiVFMyU4MiVBRCVFMyU4MyVBNSVFMyU4MyVBQSVFMyU4MyU4NiVFMyU4MiVBMyVFNCVCQSU4QiVFNiU5NSU4NTclRTklODElQjglRTMlODElQTglRTklOTglQjIlRTYlQUQlQTIlRTclQUQlOTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz0yODkwODBlNWNmZGJkMGIzMjNlNDI0NzBiNTA0NzkzYQ&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtYXNhX0NsYXVkZUNvZGVMYWImdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0wYjEyYmE5ZjIzZDgyNTViNWU4YTcxNWQ4MDBkM2I2MQ&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=20a023877c507f08ff94f38eb4c26745" /&gt;&lt;br/&gt;Claude Codeで実際に起きたセキュリティ事故7選と防止策 「Claude Code は便利だけど、なんとなく怖い」——この感覚は正しいです。強力なツールは強力な事故を起こします。実際に開発現場で起きがちなケースを7つ取り上げ、原因と防止策を解説します。 事例1: .env ファイルをGitHubにプッシュ 「CI に環境変数を渡したい...</description>
       <pubDate>Fri, 17 Apr 2026 10:56:40 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/qiita.com/masa_ClaudeCodeLab/items/8c22966fbd3c125c53dc</comments>
+    </item>
+    <item>
+      <title>僕はへずまりゅうから脅迫を受けていました。｜柿本元気</title>
+      <link>https://note.com/kakimotogenki/n/n6e6b88904300</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/267650872/rectangle_large_type_2_0aa37d8ee45e1e4e4cbb264816e943c2.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;赤絨毯の敷かれた階段を登っていくと、委員会室のドアに至る。 休憩時間は後3分で終わる、3月16日15時22分の出来事だ。 まるで門番のように、私の進路を大きな影が遮った。 へずまりゅうである。 彼の顔面は私の眼前10cm程の距離にまで近づき、大きな怒鳴り声を放った。 「なんなら！！これは！？」 それがアニメである...</description>
+      <pubDate>Fri, 17 Apr 2026 10:36:52 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/kakimotogenki/n/n6e6b88904300</comments>
     </item>
     <item>
       <title>陸上自衛隊の歌姫、自民党の党大会で国歌斉唱：ロマン優光連載388</title>
@@ -48,13 +55,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/bunkaonline.jp/archives/8779</comments>
     </item>
     <item>
-      <title>60分で学ぶ最新Webフロントエンド</title>
-      <link>https://speakerdeck.com/mizdra/geek-camp-2026-frontend</link>
-      <description>&lt;img src="https://files.speakerdeck.com/presentations/434b1aa676f144b299a54f746860589f/slide_0.jpg?39121942" /&gt;&lt;br/&gt;2026/04/16 に「技育CAMPアカデミア」で話したスライドです。2025 年のはてなインターンの講義資料 (https://speakerdeck.com/hatena/internship-2025-frontend) に手を加えたものになってます。 https://talent.sup…</description>
-      <pubDate>Fri, 17 Apr 2026 06:14:28 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/mizdra/geek-camp-2026-frontend</comments>
-    </item>
-    <item>
       <title>【こわい】Google APIキーの脆弱性により13時間で約900万円請求される事案が発生！ Firebase×Geminiで今すぐやるべきセキュリティ対策 - Qiita</title>
       <link>https://qiita.com/miruky/items/fde2d0747358cd7870d7</link>
       <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzYzNzIwNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc3NDQ0NTA3MD9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NWY2OTc3NjFmNDZhMTA4YTgyMjNmMDEzODFkMGVmZTY%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Db2bc8d820e2037057c6470791c40d1f8?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUUzJTgxJTkzJUUzJTgyJThGJUUzJTgxJTg0JUUzJTgwJTkxR29vZ2xlJTIwQVBJJUUzJTgyJUFEJUUzJTgzJUJDJUUzJTgxJUFFJUU4JTg0JTg2JUU1JUJDJUIxJUU2JTgwJUE3JUUzJTgxJUFCJUUzJTgyJTg4JUUzJTgyJThBMTMlRTYlOTklODIlRTklOTYlOTMlRTMlODElQTclRTclQjQlODQ5MDAlRTQlQjglODclRTUlODYlODYlRTglQUIlOEIlRTYlQjElODIlRTMlODElOTUlRTMlODIlOEMlRTMlODIlOEIlRTQlQkElOEIlRTYlQTElODglRTMlODElOEMlRTclOTklQkElRTclOTQlOUYlRUYlQkMlODElMjBGaXJlYmFzZSVDMyU5N0dlbWklRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1kMGUzZjA3YzBhMmRjY2E5YTI4YjcxODc5NmE4YzEwZg&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtaXJ1a3kmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iMWMwZjM0MGFkNTI5NmU1ZmNjNDFiZDQxMGY0YWRjYw&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=8baa9a554a3baa933e5474af0a5da296" /&gt;&lt;br/&gt;同様の被害は他にも報告されており、13,428USD、82,000USDといった請求がそれぞれ別のユーザーから寄せられています（調べると結構出てきます）。 下の方のredditでは、このままでは倒産してしまう、というかなり悲痛な声があります。82000USDは約1200万円なので、当然でしょう、、。普通にサイバー犯罪の被害者なので、...</description>
@@ -62,32 +62,32 @@
       <comments>https://b.hatena.ne.jp/entry/s/qiita.com/miruky/items/fde2d0747358cd7870d7</comments>
     </item>
     <item>
+      <title>deleted_atにインデックスを雑に貼ったら本番DBが死んだ</title>
+      <link>https://zenn.dev/ukkyon/articles/mysql-deleted-at-index-optimizer-trap</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--gB0DOiDp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:deleted_at%25E3%2581%25AB%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2587%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%25E3%2582%2592%25E9%259B%2591%25E3%2581%25AB%25E8%25B2%25BC%25E3%2581%25A3%25E3%2581%259F%25E3%2582%2589%25E6%259C%25AC%25E7%2595%25AADB%25E3%2581%258C%25E6%25AD%25BB%25E3%2582%2593%25E3%2581%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%25A2%25E3%2583%25AA%25E3%2582%25BE%25E3%2583%25BC%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzE4M2U0ODQ5YTMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;RDSが朝のピーク時間帯にI/Oスパイクで応答不能になりました。前日夜にリリースしたdeleted_atへの単独インデックスが原因です。stagingのEXPLAINでは複合インデックスが正しく選択されていたので、レビューでは検出できていません。 根っこにあるのはMySQL 8.0 innodb_stats_methodのデフォルト値nulls_equalと、IS NUL...</description>
+      <pubDate>Fri, 17 Apr 2026 10:52:37 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/ukkyon/articles/mysql-deleted-at-index-optimizer-trap</comments>
+    </item>
+    <item>
+      <title>gh skillが登場。GitHub公式のスキル管理ツールにnpx skillsから乗り換えた</title>
+      <link>https://zenn.dev/ubie_dev/articles/gh-skill-install-agent-skills</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--UAyOZivk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:gh%2520skill%25E3%2581%258C%25E7%2599%25BB%25E5%25A0%25B4%25E3%2580%2582GitHub%25E5%2585%25AC%25E5%25BC%258F%25E3%2581%25AE%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25E7%25AE%25A1%25E7%2590%2586%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25ABnpx%2520skills%25E3%2581%258B%25E3%2582%2589%25E4%25B9%2597%25E3%2582%258A%25E6%258F%259B%25E3%2581%2588%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E9%25B9%25BF%25E9%2587%258E%2520%25E5%25A3%25AE%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2VlOWMzMWRhODMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Ubie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hwRUMxbUtjVjZsX01lT2R6N1Nsejk1SXR4WUZoYjB2LTNOdzNjV3c9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;AIエージェント向けのスキル（Agent Skills）、みなさんはどう管理していますか？ 2026/04/16、GitHub公式CLIのghに、スキルをパッケージ管理する新しいサブコマンドgh skillが追加されました。GitHubのリポジトリに公開されているスキルをgh経由でインストール・アップデート・公開できます。筆者はこれまでnpx skills...</description>
+      <pubDate>Fri, 17 Apr 2026 13:08:08 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/ubie_dev/articles/gh-skill-install-agent-skills</comments>
+    </item>
+    <item>
+      <title>60分で学ぶ最新Webフロントエンド</title>
+      <link>https://speakerdeck.com/mizdra/geek-camp-2026-frontend</link>
+      <description>&lt;img src="https://files.speakerdeck.com/presentations/434b1aa676f144b299a54f746860589f/slide_0.jpg?39121942" /&gt;&lt;br/&gt;2026/04/16 に「技育CAMPアカデミア」で話したスライドです。2025 年のはてなインターンの講義資料 (https://speakerdeck.com/hatena/internship-2025-frontend) に手を加えたものになってます。 https://talent.sup…</description>
+      <pubDate>Fri, 17 Apr 2026 06:14:28 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/mizdra/geek-camp-2026-frontend</comments>
+    </item>
+    <item>
       <title>【速報】自衛隊艦が台湾海峡進入と中国外務省</title>
       <link>https://www.47news.jp/14167556.html</link>
       <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;【北京共同】中国外務省の報道官は17日、日本の自衛隊の艦艇が台湾海峡に入ったとし、日本側に強く抗議したと明らかにした。</description>
       <pubDate>Fri, 17 Apr 2026 09:08:09 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14167556.html</comments>
-    </item>
-    <item>
-      <title>（ちょっと追記）ラジオでメッセージが読まれた！！！</title>
-      <link>https://anond.hatelabo.jp/20260417195806</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;生まれて初めて！！読まれた！！！ 二か月に2、3通くらいの割合でネタが思いついた時だけ送ってた。 我ながら面白く書けたときも全然読まれなくて、まあ難しいかと思っていつの間にか読まれるかは気にせず聞いてた。 そんな感じでこの前も聞いてたんだけど、覚えのある文章が聞こえてきてえってなった。 読まれてる…… 心...</description>
-      <pubDate>Fri, 17 Apr 2026 11:06:09 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260417195806</comments>
-    </item>
-    <item>
-      <title>料理全然しないのに、土井善晴の味噌汁を1年間作り続けた｜ジスロマック</title>
-      <link>https://note.com/yomooog/n/n7f40754fa3bd</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/267118149/rectangle_large_type_2_0fecd1981623bd19d3b9fbf3bb56226e.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;私は、「料理」というものを全くしない人生を送ってきた。 普段の生活も、冷凍食品とか、コンビニの弁当とか、外食とか……そんなのばっかりだ。キッチンなんか全然使わない。いつの間にやら、典型的な「時短のために、自炊を捨てた社会人」になっていた。 だけど、ここ1年くらい「土井善晴式の味噌汁」を作っている。 そ...</description>
-      <pubDate>Fri, 17 Apr 2026 03:42:40 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/yomooog/n/n7f40754fa3bd</comments>
-    </item>
-    <item>
-      <title>「僕らがずっとモチモチだと思っていたものはダイフクという別の食べ物だった 地元のレストランに騙されていた」海外ユーザーがモチの真実にショックを受ける</title>
-      <link>https://togetter.com/li/2687029</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/d94e6348c8a01b3323f4a3d778cf69af-1200x630.jpeg" /&gt;&lt;br/&gt;むかしむかし、東京で本物のモチを試したことがあります。私の彼女が客室乗務員で、東京行きのフライトがあり、そのときに本物のモチを私に持ってきてくれました。 ヨーロッパのレストランで売られているものはそれじゃない、フェイク・モチで、本物とは似ても似つかないんです。ヨーロッパでは誰も本物の作り方を知らな...</description>
-      <pubDate>Fri, 17 Apr 2026 10:19:57 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687029</comments>
     </item>
   </channel>
 </rss>
