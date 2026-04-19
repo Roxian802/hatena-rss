@@ -4,20 +4,12 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 19 Apr 2026 22:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 23:33:09 +0000</lastBuildDate>
     <item>
-      <title>ノア・スミス「この20年で日本はどう変わったか」（2026年4月1日）｜経済学101</title>
-      <link>https://note.com/econ101_/n/n8d47cdb60ff8</link>
-      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/647240df0152eb3407557cb651819ebdaef9ddfa.png" /&gt;&lt;br/&gt;この独特な国についてつらつら考えてみるとひょっとしてこの何年かで初めてかもしれない．先日，X で間違いなく興味深いことが起きた．X で日本語ツイートが英語に自動翻訳されて，英語圏ユーザーのおすすめに表示されはじめたんだ．他国に比べて，日本の人たちの X 利用率はずっと高い．その理由の大半は，X では本名を...</description>
-      <pubDate>Sun, 19 Apr 2026 11:14:15 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/econ101_/n/n8d47cdb60ff8</comments>
-    </item>
-    <item>
-      <title>プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する</title>
-      <link>https://zenn.dev/mizchi/articles/empirical-prompt-tuning</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--WUmyz2OT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E6%2580%25A7%25E3%2582%2592AI%2520%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2520~%2520%25E6%259A%2597%25E9%25BB%2599%25E7%259F%25A5%25E3%2582%2592%25E6%258E%2592%25E9%2599%25A4%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;AI の技術記事は食傷気味なんですが、さすがにこれは効くと思ったパターンを見つけたので紹介します。 tl;dr プロンプト (skill / slash command) を書いた直後は「これで伝わるはず！」と思うのに、別のセッションで使うと暗黙知が不足していて、再現性がなくなる 思い込みは当人に修正できないバイアスなので、別の AI...</description>
-      <pubDate>Sun, 19 Apr 2026 08:24:05 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/mizchi/articles/empirical-prompt-tuning</comments>
+      <title>「特殊な条件下での『ぼくのなつやすみ』だと思って制作した」Steam“100%好評”の傑作青春ADV『ペンギンウォーズ』はどうやって生まれたのか？余すことなく訊いてみた【開発者インタビュー】 | Game*Spark - 国内・海外ゲーム情報サイト</title>
+      <link>https://www.gamespark.jp/article/2026/04/19/165372.html</link>
+      <pubDate>Sun, 19 Apr 2026 03:41:46 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.gamespark.jp/article/2026/04/19/165372.html</comments>
     </item>
     <item>
       <title>Claude Codeで日常のタスクを45個自動化した東大院生の全記録</title>
@@ -27,11 +19,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/shunya_sudo/articles/claude-code-45-automation-tasks</comments>
     </item>
     <item>
+      <title>ノア・スミス「この20年で日本はどう変わったか」（2026年4月1日）｜経済学101</title>
+      <link>https://note.com/econ101_/n/n8d47cdb60ff8</link>
+      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/647240df0152eb3407557cb651819ebdaef9ddfa.png" /&gt;&lt;br/&gt;この独特な国についてつらつら考えてみるとひょっとしてこの何年かで初めてかもしれない．先日，X で間違いなく興味深いことが起きた．X で日本語ツイートが英語に自動翻訳されて，英語圏ユーザーのおすすめに表示されはじめたんだ．他国に比べて，日本の人たちの X 利用率はずっと高い．その理由の大半は，X では本名を...</description>
+      <pubDate>Sun, 19 Apr 2026 11:14:15 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/econ101_/n/n8d47cdb60ff8</comments>
+    </item>
+    <item>
       <title>もうお金なくても楽しいことを見つけるしかなくない？なんかある？</title>
       <link>https://anond.hatelabo.jp/20260419194512</link>
       <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;そんなのあるか？ ある！ あるよきっと そう思わないとやってられないよね 一番は、街の猫を見つけて写真を撮ること！ これが無料で楽しいと思うんだ 他にある？</description>
       <pubDate>Sun, 19 Apr 2026 10:45:50 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419194512</comments>
+    </item>
+    <item>
+      <title>プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する</title>
+      <link>https://zenn.dev/mizchi/articles/empirical-prompt-tuning</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--WUmyz2OT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E6%2580%25A7%25E3%2582%2592AI%2520%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2520~%2520%25E6%259A%2597%25E9%25BB%2599%25E7%259F%25A5%25E3%2582%2592%25E6%258E%2592%25E9%2599%25A4%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;AI の技術記事は食傷気味なんですが、さすがにこれは効くと思ったパターンを見つけたので紹介します。 tl;dr プロンプト (skill / slash command) を書いた直後は「これで伝わるはず！」と思うのに、別のセッションで使うと暗黙知が不足していて、再現性がなくなる 思い込みは当人に修正できないバイアスなので、別の AI...</description>
+      <pubDate>Sun, 19 Apr 2026 08:24:05 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/mizchi/articles/empirical-prompt-tuning</comments>
     </item>
     <item>
       <title>潔癖症の人が知らない汚れの話</title>
@@ -46,6 +52,13 @@
       <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;ドラゴンボール ドロヘドロ あと何？</description>
       <pubDate>Sun, 19 Apr 2026 07:04:13 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419145359</comments>
+    </item>
+    <item>
+      <title>アプリで儲けようとしている人に、アプリ開発歴15年から言いたいこと</title>
+      <link>https://anond.hatelabo.jp/20260419113552</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;99.9％儲かりません 理由 ・サービスを考える時、アプリとwebがあると思います webは検索導線があるのでまだ「たまたま来た」がありえますが アプリはwebに比べて流入導線が少ないです なので「バズる」「ストアで見つけてもらう」「広告を打つ」がほとんどの場合必要ですが その1人あたりの獲得単価を、アプリの価値が...</description>
+      <pubDate>Sun, 19 Apr 2026 02:36:49 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419113552</comments>
     </item>
     <item>
       <title>瀬川氏、弓道で適当言ってツッコミを入れられる⇒鍵垢</title>
@@ -69,13 +82,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260419/k00/00m/010/138000c</comments>
     </item>
     <item>
-      <title>改憲反対集会、30代参加が最多　国会前、人流データ分析で判明 | NEWSjp</title>
-      <link>https://news.jp/i/1418505054977179779?c=39550187727945729</link>
-      <description>&lt;img src="https://img.nordot.app/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1418513211054490585/origin_1.jpg" /&gt;&lt;br/&gt;高市政権による憲法改正に反対する市民団体が8日に国会前で開いた集会の参加者のうち、年代別の最多は30代だったことが19日、スマートフォンアプリの位置情報から得られる人流データを使った共同通信の分析で分かった。平日の開催にもかかわらず30代が約3割を占め、2割超の20代が続いた。男女別では女性が6割超を占めた...</description>
-      <pubDate>Sun, 19 Apr 2026 08:32:31 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.jp/i/1418505054977179779?c=39550187727945729</comments>
-    </item>
-    <item>
       <title>クソバズワード「ハーネスエンジニアリング」と向き合う - Qiita</title>
       <link>https://qiita.com/retore/items/3688cf515c14f7471ed4</link>
       <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDQ0MDM3JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzY3MzMxMzEwP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz00ZTgzODFhZTQ3ZGFlYmIzOWMyOTRiOGI0YzE4ZjJmYw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D3a91397aaf4209dd13b44aa01a5d47ab?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUFGJUUzJTgyJUJEJUUzJTgzJTkwJUUzJTgyJUJBJUUzJTgzJUFGJUUzJTgzJUJDJUUzJTgzJTg5JUUzJTgwJThDJUUzJTgzJThGJUUzJTgzJUJDJUUzJTgzJThEJUUzJTgyJUI5JUUzJTgyJUE4JUUzJTgzJUIzJUUzJTgyJUI4JUUzJTgzJThCJUUzJTgyJUEyJUUzJTgzJUFBJUUzJTgzJUIzJUUzJTgyJUIwJUUzJTgwJThEJUUzJTgxJUE4JUU1JTkwJTkxJUUzJTgxJThEJUU1JTkwJTg4JUUzJTgxJTg2JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTc3OTdkNDE3NzUxMGJkZGFiNjlhOTQ2YWEyYTM2Y2I&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDByZXRvcmUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hMmFiN2E5MzI2NWQ4YTg2Zjc4NTBlMzgzMDYyMzc3ZA&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=bb91a88fe7fbdf5fba382c5a0ef43fb4" /&gt;&lt;br/&gt;Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 数週間くらい前に突然どいつもこいつも「ハーネスエンジニアリング」とツイートするようになり，最初はhooksとかskillsのことをハーネスと呼んでいるらしいと認識していたのだが，...</description>
@@ -90,11 +96,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687726</comments>
     </item>
     <item>
-      <title>トランプ氏、幻覚剤研究の加速認める大統領令に署名</title>
-      <link>https://www.afpbb.com/articles/-/3631911</link>
-      <description>&lt;img src="https://afpbb.ismcdn.jp/mwimgs/b/6/1000x/img_b61b2d73232493bda82a9384230411bd125112.jpg" /&gt;&lt;br/&gt;【4月19日 AFP】米国のドナルド・トランプ大統領は18日、精神疾患の治療に有望な効果を示している「マジックマッシュルーム」のような、幻覚剤の研究に対する制限を緩和すると発表した。 トランプ氏は、ロバート・ケネディ・ジュニア米厚生長官や医療当局者、そして幻覚剤へのアクセス拡大を主張してきたポッドキャスタ...</description>
-      <pubDate>Sun, 19 Apr 2026 07:15:37 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.afpbb.com/articles/-/3631911</comments>
+      <title>プロサッカーの試合、観客が応援をしていなかった別の客の服を掴み椅子を蹴る→これに当事者が反応「足が痙攣して座り込んでしまっていて」</title>
+      <link>https://togetter.com/li/2687744</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/df5a38b7c4c7589b3255d4ecb829afbc-1200x630.jpeg" /&gt;&lt;br/&gt;川崎サポ&#x1f525; @SFurosapo72924 試合80分くらいのコアの出来事なんだけど、、、 親子2人できてたんだけど、試合中写真を撮ったのか応援で飛ばなかったのかはちょっとわかんないんだけど後ろから男2.3人で服掴んで怒鳴って椅子を蹴っていて確かに熱いのはいいんだけど注意の仕方が胸糞悪すぎてイライラしてた。 2026-04-18 1...</description>
+      <pubDate>Sun, 19 Apr 2026 11:49:06 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687744</comments>
     </item>
     <item>
       <title>子ども向けの夏休みイベント広告で「子どもを重機のバケットに乗せて持ち上げる」動画が公開され、厳しい批判相次ぐ「何してるの？」「マジでやめろって」</title>
@@ -102,20 +108,6 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/8b6fed41269d7652fb1adf775583bd9d-1200x630.jpeg" /&gt;&lt;br/&gt;ポケマルおやこ地方留学ー2026年夏ー - ポケマルおやこ地方留学 食べものの裏側の自然の世界へ 農家さん・漁師さんと生きものが食べものになる瞬間を体験しよう 全国9地域で開催！ おやこ地方留学 夏休みプログラム 申込受付中 421 ポケマルおやこ地方留学 - おやこで｢たべる｣の裏側をしる</description>
       <pubDate>Sun, 19 Apr 2026 11:06:05 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687745</comments>
-    </item>
-    <item>
-      <title>＜独自＞赤旗「押し売り」、東京・足立区でも管理職が集団解約　議員勧誘に心理的負担訴え</title>
-      <link>https://www.sankei.com/article/20260419-2DNW2EDUGVON5ALRLQFQT7WM3E/</link>
-      <description>&lt;img src="https://www.sankei.com/resizer/v2/C7DH5UMMWFM6RGOHBXG7AHT564.jpg?auth=77e7d25227ecc258b93a1caf2e72ad345449780b75955383edab1b2b3471f1c3&amp;amp;quality=50&amp;amp;smart=true&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;東京・足立区役所。区の幹部が「しんぶん赤旗」購読契約を集団で解除した＝4月8日午後、足立区中央本町（原川貴郎撮影）共産党の地方議員による自治体幹部への「しんぶん赤旗」の購読勧誘問題で、東京都足立区の管理職が購読契約を集団で解除していたことが19日分かった。庁舎内で政党機関紙の購読を勧誘する行為を問題...</description>
-      <pubDate>Sun, 19 Apr 2026 09:35:27 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260419-2DNW2EDUGVON5ALRLQFQT7WM3E/</comments>
-    </item>
-    <item>
-      <title>キリスト教宣教師に「イエスは死から蘇ったがブッダは蘇らなかった」と言われたが「それがポイント」と返した…復活は仏教にとって解脱失敗</title>
-      <link>https://togetter.com/li/2687725</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/729de0d0e0b401c4e93e2812582f1e33-1200x630.jpeg" /&gt;&lt;br/&gt;Bee @bee_my_girl My partner mentioned that they were Buddhist culturally to one of the Christian missionaries on our college campus and the guy said "Jesus rose from the dead. Do you know who never rose from the dead? Buddha." and they replied "Yeah dude that was kinda the whole point" LMAO 2026-...</description>
-      <pubDate>Sun, 19 Apr 2026 11:43:46 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687725</comments>
     </item>
   </channel>
 </rss>
