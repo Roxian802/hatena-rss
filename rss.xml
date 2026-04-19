@@ -4,21 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 19 Apr 2026 21:33:09 +0000</lastBuildDate>
-    <item>
-      <title>プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する</title>
-      <link>https://zenn.dev/mizchi/articles/empirical-prompt-tuning</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--WUmyz2OT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E6%2580%25A7%25E3%2582%2592AI%2520%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2520~%2520%25E6%259A%2597%25E9%25BB%2599%25E7%259F%25A5%25E3%2582%2592%25E6%258E%2592%25E9%2599%25A4%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;AI の技術記事は食傷気味なんですが、さすがにこれは効くと思ったパターンを見つけたので紹介します。 tl;dr プロンプト (skill / slash command) を書いた直後は「これで伝わるはず！」と思うのに、別のセッションで使うと暗黙知が不足していて、再現性がなくなる 思い込みは当人に修正できないバイアスなので、別の AI...</description>
-      <pubDate>Sun, 19 Apr 2026 08:24:05 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/mizchi/articles/empirical-prompt-tuning</comments>
-    </item>
-    <item>
-      <title>もうお金なくても楽しいことを見つけるしかなくない？なんかある？</title>
-      <link>https://anond.hatelabo.jp/20260419194512</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;そんなのあるか？ ある！ あるよきっと そう思わないとやってられないよね 一番は、街の猫を見つけて写真を撮ること！ これが無料で楽しいと思うんだ 他にある？</description>
-      <pubDate>Sun, 19 Apr 2026 10:45:50 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419194512</comments>
-    </item>
+    <lastBuildDate>Sun, 19 Apr 2026 22:33:11 +0000</lastBuildDate>
     <item>
       <title>ノア・スミス「この20年で日本はどう変わったか」（2026年4月1日）｜経済学101</title>
       <link>https://note.com/econ101_/n/n8d47cdb60ff8</link>
@@ -27,11 +13,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/econ101_/n/n8d47cdb60ff8</comments>
     </item>
     <item>
+      <title>プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する</title>
+      <link>https://zenn.dev/mizchi/articles/empirical-prompt-tuning</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--WUmyz2OT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E6%2580%25A7%25E3%2582%2592AI%2520%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2520~%2520%25E6%259A%2597%25E9%25BB%2599%25E7%259F%25A5%25E3%2582%2592%25E6%258E%2592%25E9%2599%25A4%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;AI の技術記事は食傷気味なんですが、さすがにこれは効くと思ったパターンを見つけたので紹介します。 tl;dr プロンプト (skill / slash command) を書いた直後は「これで伝わるはず！」と思うのに、別のセッションで使うと暗黙知が不足していて、再現性がなくなる 思い込みは当人に修正できないバイアスなので、別の AI...</description>
+      <pubDate>Sun, 19 Apr 2026 08:24:05 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/mizchi/articles/empirical-prompt-tuning</comments>
+    </item>
+    <item>
       <title>Claude Codeで日常のタスクを45個自動化した東大院生の全記録</title>
       <link>https://zenn.dev/shunya_sudo/articles/claude-code-45-automation-tasks</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--yWzKs_CN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E6%2597%25A5%25E5%25B8%25B8%25E3%2581%25AE%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%259245%25E5%2580%258B%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2597%25E3%2581%259F%25E6%259D%25B1%25E5%25A4%25A7%25E9%2599%25A2%25E7%2594%259F%25E3%2581%25AE%25E5%2585%25A8%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shunya%25EF%25BD%259C%25E6%259D%25B1%25E5%25A4%25A7%25E9%2599%25A2%25C3%2597AI%25E6%25B4%25BB%25E7%2594%25A8%25E7%25A0%2594%25E7%25A9%25B6%25E8%2580%2585%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZmM2Q4NjAwODMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;これらが24時間、macOS上で動いています。PCを閉じない限り止まりません。 全体のアーキテクチャはこうです: ポイントは、Claude CLIを「考えるパーツ」として使っていること。データの取得・加工はPythonで行い、「この情報をどう要約するか」「このメールは返信が必要か」といった判断だけをClaudeに任せています。 カ...</description>
       <pubDate>Sun, 19 Apr 2026 12:03:50 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/shunya_sudo/articles/claude-code-45-automation-tasks</comments>
+    </item>
+    <item>
+      <title>もうお金なくても楽しいことを見つけるしかなくない？なんかある？</title>
+      <link>https://anond.hatelabo.jp/20260419194512</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;そんなのあるか？ ある！ あるよきっと そう思わないとやってられないよね 一番は、街の猫を見つけて写真を撮ること！ これが無料で楽しいと思うんだ 他にある？</description>
+      <pubDate>Sun, 19 Apr 2026 10:45:50 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419194512</comments>
     </item>
     <item>
       <title>潔癖症の人が知らない汚れの話</title>
@@ -48,13 +48,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419145359</comments>
     </item>
     <item>
-      <title>改憲反対集会、30代参加が最多　国会前、人流データ分析で判明 | NEWSjp</title>
-      <link>https://news.jp/i/1418505054977179779?c=39550187727945729</link>
-      <description>&lt;img src="https://img.nordot.app/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1418513211054490585/origin_1.jpg" /&gt;&lt;br/&gt;高市政権による憲法改正に反対する市民団体が8日に国会前で開いた集会の参加者のうち、年代別の最多は30代だったことが19日、スマートフォンアプリの位置情報から得られる人流データを使った共同通信の分析で分かった。平日の開催にもかかわらず30代が約3割を占め、2割超の20代が続いた。男女別では女性が6割超を占めた...</description>
-      <pubDate>Sun, 19 Apr 2026 08:32:31 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.jp/i/1418505054977179779?c=39550187727945729</comments>
-    </item>
-    <item>
       <title>瀬川氏、弓道で適当言ってツッコミを入れられる⇒鍵垢</title>
       <link>https://posfie.com/@ide_ozisan/p/HQnGgWq</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/9090b1184a7c2e538291103823db29f5-1200x630.jpeg" /&gt;&lt;br/&gt;JSF @rockfish31 @segawashin 射流し（遠矢前）大会記録334m：ミヤタの弓の公式ホームページ miyatasogyo.com/?p=238 昭和41年の和弓の大会で飛距離334mの記録がありますね。じゃあトルコ弓は10倍の3km以上飛ぶんですか？って、そんなわけがない。 2026-04-19 08:46:13 雲谷歳三 @unko_kusaizou @segawashin へぇ。 する...</description>
@@ -62,11 +55,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@ide_ozisan/p/HQnGgWq</comments>
     </item>
     <item>
+      <title>日本で「猫飼い女性」への蔑称が一般的でない理由は何？</title>
+      <link>https://anond.hatelabo.jp/20260419141444</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;日本において「猫を飼う女性」に対する専用の蔑称（欧米の「キャット・レディ」のような言葉）が無い理由として、以下の社会的・文化的な背景が推察されます。 1. 猫＝家族という強いイメージ欧米では「独身女性が男性の代わりに猫を世話する」というステレオタイプが強いのに対し、日本では「家族で猫を飼う」というイ...</description>
+      <pubDate>Sun, 19 Apr 2026 05:19:00 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419141444</comments>
+    </item>
+    <item>
       <title>読む政治：高市内閣の支持率53%、発足以来最低に　物価対策など影響か | 毎日新聞</title>
       <link>https://mainichi.jp/articles/20260419/k00/00m/010/138000c</link>
       <description>&lt;img src="https://cdn.mainichi.jp/vol1/2026/04/16/20260416k0000m010293000p/0c10.jpg?1" /&gt;&lt;br/&gt;毎日新聞は18、19の両日、全国世論調査を実施した。高市早苗内閣の支持率は前回調査（3月28、29日）の58％から5ポイント下落して53％となり、2025年10月の内閣発足以来最低となった。不支持率は前回の28％から5ポイント増の33％となったものの、依然、支持率が不支持率を大きく上回っている。 内閣支持率は25年10～12月...</description>
       <pubDate>Sun, 19 Apr 2026 11:58:13 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260419/k00/00m/010/138000c</comments>
+    </item>
+    <item>
+      <title>改憲反対集会、30代参加が最多　国会前、人流データ分析で判明 | NEWSjp</title>
+      <link>https://news.jp/i/1418505054977179779?c=39550187727945729</link>
+      <description>&lt;img src="https://img.nordot.app/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1418513211054490585/origin_1.jpg" /&gt;&lt;br/&gt;高市政権による憲法改正に反対する市民団体が8日に国会前で開いた集会の参加者のうち、年代別の最多は30代だったことが19日、スマートフォンアプリの位置情報から得られる人流データを使った共同通信の分析で分かった。平日の開催にもかかわらず30代が約3割を占め、2割超の20代が続いた。男女別では女性が6割超を占めた...</description>
+      <pubDate>Sun, 19 Apr 2026 08:32:31 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.jp/i/1418505054977179779?c=39550187727945729</comments>
     </item>
     <item>
       <title>クソバズワード「ハーネスエンジニアリング」と向き合う - Qiita</title>
@@ -83,11 +90,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687726</comments>
     </item>
     <item>
-      <title>＜独自＞赤旗「押し売り」、東京・足立区でも管理職が集団解約　議員勧誘に心理的負担訴え</title>
-      <link>https://www.sankei.com/article/20260419-2DNW2EDUGVON5ALRLQFQT7WM3E/</link>
-      <description>&lt;img src="https://www.sankei.com/resizer/v2/C7DH5UMMWFM6RGOHBXG7AHT564.jpg?auth=77e7d25227ecc258b93a1caf2e72ad345449780b75955383edab1b2b3471f1c3&amp;amp;quality=50&amp;amp;smart=true&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;東京・足立区役所。区の幹部が「しんぶん赤旗」購読契約を集団で解除した＝4月8日午後、足立区中央本町（原川貴郎撮影）共産党の地方議員による自治体幹部への「しんぶん赤旗」の購読勧誘問題で、東京都足立区の管理職が購読契約を集団で解除していたことが19日分かった。庁舎内で政党機関紙の購読を勧誘する行為を問題...</description>
-      <pubDate>Sun, 19 Apr 2026 09:35:27 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260419-2DNW2EDUGVON5ALRLQFQT7WM3E/</comments>
+      <title>トランプ氏、幻覚剤研究の加速認める大統領令に署名</title>
+      <link>https://www.afpbb.com/articles/-/3631911</link>
+      <description>&lt;img src="https://afpbb.ismcdn.jp/mwimgs/b/6/1000x/img_b61b2d73232493bda82a9384230411bd125112.jpg" /&gt;&lt;br/&gt;【4月19日 AFP】米国のドナルド・トランプ大統領は18日、精神疾患の治療に有望な効果を示している「マジックマッシュルーム」のような、幻覚剤の研究に対する制限を緩和すると発表した。 トランプ氏は、ロバート・ケネディ・ジュニア米厚生長官や医療当局者、そして幻覚剤へのアクセス拡大を主張してきたポッドキャスタ...</description>
+      <pubDate>Sun, 19 Apr 2026 07:15:37 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.afpbb.com/articles/-/3631911</comments>
     </item>
     <item>
       <title>子ども向けの夏休みイベント広告で「子どもを重機のバケットに乗せて持ち上げる」動画が公開され、厳しい批判相次ぐ「何してるの？」「マジでやめろって」</title>
@@ -97,32 +104,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687745</comments>
     </item>
     <item>
-      <title>日曜の国会前に3万6千人　デモに参加、戦争反対や護憲訴える：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASV4M2S5DV4MUTIL00XM.html</link>
-      <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260419002618_comm.jpg" /&gt;&lt;br/&gt;国会前や大阪など全国各地で19日、憲法9条改正などに反対するデモがあった。日曜の昼、多くの人が集い、声を上げた。　今回の国会前デモは「NO　WAR！　憲法変えるな！4・19国会正門前大行動」と題し、…</description>
-      <pubDate>Sun, 19 Apr 2026 09:22:47 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV4M2S5DV4MUTIL00XM.html</comments>
+      <title>＜独自＞赤旗「押し売り」、東京・足立区でも管理職が集団解約　議員勧誘に心理的負担訴え</title>
+      <link>https://www.sankei.com/article/20260419-2DNW2EDUGVON5ALRLQFQT7WM3E/</link>
+      <description>&lt;img src="https://www.sankei.com/resizer/v2/C7DH5UMMWFM6RGOHBXG7AHT564.jpg?auth=77e7d25227ecc258b93a1caf2e72ad345449780b75955383edab1b2b3471f1c3&amp;amp;quality=50&amp;amp;smart=true&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;東京・足立区役所。区の幹部が「しんぶん赤旗」購読契約を集団で解除した＝4月8日午後、足立区中央本町（原川貴郎撮影）共産党の地方議員による自治体幹部への「しんぶん赤旗」の購読勧誘問題で、東京都足立区の管理職が購読契約を集団で解除していたことが19日分かった。庁舎内で政党機関紙の購読を勧誘する行為を問題...</description>
+      <pubDate>Sun, 19 Apr 2026 09:35:27 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260419-2DNW2EDUGVON5ALRLQFQT7WM3E/</comments>
     </item>
     <item>
-      <title>Claude Designが来た日 ─ Webデザイナーとフロントエンドの仕事はどこまで削られるのか</title>
-      <link>https://zenn.dev/akasara/articles/ab24affd00d788</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--X7CbNmfe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Design%25E3%2581%258C%25E6%259D%25A5%25E3%2581%259F%25E6%2597%25A5%2520%25E2%2594%2580%2520%2520Web%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%258A%25E3%2583%25BC%25E3%2581%25A8%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E4%25BB%2595%25E4%25BA%258B%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25BE%25E3%2581%25A7%25E5%2589%258A%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:akasara%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhhN2Y1OTczOGIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに 2026年4月17日（米時間金曜）、Anthropicが Claude Design を research preview として発表 自然言語でプロトタイプ・スライド・モックアップ・LPを作れる、Claude Opus 4.7ベースの新機能 競合は Figma Make / v0 / Lovable / Bolt / Google Stitch / Gamma / Canva 発表前後で Figma -6% / Wix -4.7% / Adobe...</description>
-      <pubDate>Sat, 18 Apr 2026 00:14:04 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/akasara/articles/ab24affd00d788</comments>
-    </item>
-    <item>
-      <title>ラオスで児童買春、日本人男性の逮捕相次ぐ　「強姦」容疑拘束も | 毎日新聞</title>
-      <link>https://mainichi.jp/articles/20260416/k00/00m/030/326000c</link>
-      <description>&lt;img src="https://cdn.mainichi.jp/vol1/2024/08/20/20240820mpj00m030031000p/0c10.jpg?1" /&gt;&lt;br/&gt;ラオスでの児童買春について、在ラオス日本大使館が昨年6月に異例の警告をした後も、児童買春に関連してラオスや日本国内で日本人男性が逮捕されるケースが相次いでいる。内陸国ラオスは東南アジアでは経済発展が遅れ、貧困が理由の人身取引がなくならない。外務省は児童買春をしないよう日本人に強く注意喚起している。...</description>
-      <pubDate>Sun, 19 Apr 2026 04:36:04 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260416/k00/00m/030/326000c</comments>
-    </item>
-    <item>
-      <title>無印良品って地味なのになんで人気なの？</title>
-      <link>https://anond.hatelabo.jp/20260419101753</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;無個性過ぎるし、そんな安い訳でもないし、なんで人気なのか分からない 調べたら、若者から中高年まで満遍なく人気があるらしい 主婦層とかなら分かるけど、なんで若者まで人気があるんだ？ カレーは確かに美味しいけど、それ以外は地味すぎないか？ バームクーヘンはカロリーも値段も高いしさ 収納用品は百均やニトリで...</description>
-      <pubDate>Sun, 19 Apr 2026 01:18:49 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419101753</comments>
+      <title>キリスト教宣教師に「イエスは死から蘇ったがブッダは蘇らなかった」と言われたが「それがポイント」と返した…復活は仏教にとって解脱失敗</title>
+      <link>https://togetter.com/li/2687725</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/729de0d0e0b401c4e93e2812582f1e33-1200x630.jpeg" /&gt;&lt;br/&gt;Bee @bee_my_girl My partner mentioned that they were Buddhist culturally to one of the Christian missionaries on our college campus and the guy said "Jesus rose from the dead. Do you know who never rose from the dead? Buddha." and they replied "Yeah dude that was kinda the whole point" LMAO 2026-...</description>
+      <pubDate>Sun, 19 Apr 2026 11:43:46 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687725</comments>
     </item>
   </channel>
 </rss>
