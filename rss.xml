@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 19 Apr 2026 11:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 12:33:09 +0000</lastBuildDate>
     <item>
       <title>無印良品って地味なのになんで人気なの？</title>
       <link>https://anond.hatelabo.jp/20260419101753</link>
       <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;無個性過ぎるし、そんな安い訳でもないし、なんで人気なのか分からない 調べたら、若者から中高年まで満遍なく人気があるらしい 主婦層とかなら分かるけど、なんで若者まで人気があるんだ？ カレーは確かに美味しいけど、それ以外は地味すぎないか？ バームクーヘンはカロリーも値段も高いしさ 収納用品は百均やニトリで...</description>
       <pubDate>Sun, 19 Apr 2026 01:18:49 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419101753</comments>
+    </item>
+    <item>
+      <title>プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する</title>
+      <link>https://zenn.dev/mizchi/articles/empirical-prompt-tuning</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--WUmyz2OT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E6%2580%25A7%25E3%2582%2592AI%2520%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2520~%2520%25E6%259A%2597%25E9%25BB%2599%25E7%259F%25A5%25E3%2582%2592%25E6%258E%2592%25E9%2599%25A4%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;AI の技術記事は食傷気味なんですが、さすがにこれは効くと思ったパターンを見つけたので紹介します。 tl;dr プロンプト (skill / slash command) を書いた直後は「これで伝わるはず！」と思うのに、別のセッションで使うと暗黙知が不足していて、再現性がなくなる 思い込みは当人に修正できないバイアスなので、別の AI...</description>
+      <pubDate>Sun, 19 Apr 2026 08:24:05 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/mizchi/articles/empirical-prompt-tuning</comments>
     </item>
     <item>
       <title>【メモ】中国歴代王朝は、前王朝の子孫をどのように遇したか、の一覧【殭屍の史林堂 @Jiangshi2020　氏のポストより】 - INVISIBLE Dojo.　ーQUIET &amp; COLORFUL PLACE-</title>
@@ -20,18 +27,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/m-dojo.hatenadiary.com/entry/2026/04/19/073727</comments>
     </item>
     <item>
-      <title>井上純一先生「毎回言ってるけど、政治を変えたきゃ選挙に出ろという『選挙こそが民主主義』という考え方は、民主主義のバグなんですよ」「だから国民のデモが憲法で保障されてるんです」</title>
-      <link>https://togetter.com/li/2687589</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/65ce943faf4a0266b1c5d3999d4c181b-1200x630.jpeg" /&gt;&lt;br/&gt;井上純一（希有馬屋）『逆資本論』発売中 @KEUMAYA 毎回言ってるけど、政治を変えたきゃ選挙に出ろという「選挙こそが民主主義」という考え方は、民主主義のバグなんですよ。 フランス革命当初から指摘されてるんです。 だから国民のデモが憲法で保障されてるんです。 政府にデモで意見を伝えることは必要な事です。 pic...</description>
-      <pubDate>Sun, 19 Apr 2026 03:53:23 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687589</comments>
-    </item>
-    <item>
-      <title>｢AIを使えばアプリが作れる｣ってホント？文系が10ヶ月やってみた</title>
-      <link>https://www.gizmodo.jp/2026/04/ai_coding_10_month.html</link>
-      <description>&lt;img src="https://media.loom-app.com/gizmodo/dist/images/2026/04/17/260416_ai_coding-1.jpg?w=1280&amp;amp;h=630&amp;amp;f=jpg" /&gt;&lt;br/&gt;｢AIを使えばアプリが作れる｣ってホント？文系が10ヶ月やってみた2026.04.18 21:0037,152 かみやまたくみ AIを使えばプログラミングがわからなくてもアプリが作れる。 生成AIが登場してそう言われるようになり、2026年の今もその流れは続いているかなーと思います。 プログラマーやエンジニアじゃなくてもアプリが作れる...</description>
-      <pubDate>Sat, 18 Apr 2026 14:29:04 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.gizmodo.jp/2026/04/ai_coding_10_month.html</comments>
+      <title>潔癖症の人が知らない汚れの話</title>
+      <link>https://anond.hatelabo.jp/20260419114827</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;先日、包丁に熱湯と漂白剤を使うことの是非が話題になっていました。 残念ながら清潔さをイメージで捉えて勘違いをしている人が多く、安全のための行為が逆に危険を呼び寄せてしまっていると感じました。 いわゆる潔癖症の人が物事を正しく理解しようとせず「穢れ」だけを取り払おうとして儀式化してしまうような感じで...</description>
+      <pubDate>Sun, 19 Apr 2026 02:50:38 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419114827</comments>
     </item>
     <item>
       <title>Claude Designが来た日 ─ Webデザイナーとフロントエンドの仕事はどこまで削られるのか</title>
@@ -48,6 +48,20 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.bengo4.com/c_1009/n_20288/</comments>
     </item>
     <item>
+      <title>｢AIを使えばアプリが作れる｣ってホント？文系が10ヶ月やってみた</title>
+      <link>https://www.gizmodo.jp/2026/04/ai_coding_10_month.html</link>
+      <description>&lt;img src="https://media.loom-app.com/gizmodo/dist/images/2026/04/17/260416_ai_coding-1.jpg?w=1280&amp;amp;h=630&amp;amp;f=jpg" /&gt;&lt;br/&gt;｢AIを使えばアプリが作れる｣ってホント？文系が10ヶ月やってみた2026.04.18 21:0037,152 かみやまたくみ AIを使えばプログラミングがわからなくてもアプリが作れる。 生成AIが登場してそう言われるようになり、2026年の今もその流れは続いているかなーと思います。 プログラマーやエンジニアじゃなくてもアプリが作れる...</description>
+      <pubDate>Sat, 18 Apr 2026 14:29:04 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.gizmodo.jp/2026/04/ai_coding_10_month.html</comments>
+    </item>
+    <item>
+      <title>井上純一先生「毎回言ってるけど、政治を変えたきゃ選挙に出ろという『選挙こそが民主主義』という考え方は、民主主義のバグなんですよ」「だから国民のデモが憲法で保障されてるんです」</title>
+      <link>https://togetter.com/li/2687589</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/65ce943faf4a0266b1c5d3999d4c181b-1200x630.jpeg" /&gt;&lt;br/&gt;井上純一（希有馬屋）『逆資本論』発売中 @KEUMAYA 毎回言ってるけど、政治を変えたきゃ選挙に出ろという「選挙こそが民主主義」という考え方は、民主主義のバグなんですよ。 フランス革命当初から指摘されてるんです。 だから国民のデモが憲法で保障されてるんです。 政府にデモで意見を伝えることは必要な事です。 pic...</description>
+      <pubDate>Sun, 19 Apr 2026 03:53:23 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687589</comments>
+    </item>
+    <item>
       <title>ラオスで児童買春、日本人男性の逮捕相次ぐ　「強姦」容疑拘束も | 毎日新聞</title>
       <link>https://mainichi.jp/articles/20260416/k00/00m/030/326000c</link>
       <description>&lt;img src="https://cdn.mainichi.jp/vol1/2024/08/20/20240820mpj00m030031000p/0c10.jpg?1" /&gt;&lt;br/&gt;ラオスでの児童買春について、在ラオス日本大使館が昨年6月に異例の警告をした後も、児童買春に関連してラオスや日本国内で日本人男性が逮捕されるケースが相次いでいる。内陸国ラオスは東南アジアでは経済発展が遅れ、貧困が理由の人身取引がなくならない。外務省は児童買春をしないよう日本人に強く注意喚起している。...</description>
@@ -55,11 +69,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260416/k00/00m/030/326000c</comments>
     </item>
     <item>
-      <title>「結婚指輪を買ったら婚約指輪はいらないよね」と男が思う理由をポケモンカードで説明した記事が話題→一方男には「ウェディングドレスは一生に一度だけ乗れるモビルスーツ」という例えが突き刺さる 自分ではなく、相手にとって大切というのが重要</title>
-      <link>https://togetter.com/li/2687642</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/2df170610cbb354f7792d793d768d755-1200x630.jpeg" /&gt;&lt;br/&gt;「結婚指輪を買ったら婚約指輪はいらないよね」と男が思う理由をポケモンカードで説明した記事が話題→一方男には「ウェディングドレスは一生に一度だけ乗れるモビルスーツ」という例えが突き刺さる 自分ではなく、相手にとって大切というのが重要</description>
-      <pubDate>Sun, 19 Apr 2026 05:33:54 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687642</comments>
+      <title>改憲反対集会、30代参加が最多　国会前、人流データ分析で判明 | NEWSjp</title>
+      <link>https://news.jp/i/1418505054977179779?c=39550187727945729</link>
+      <description>&lt;img src="https://img.nordot.app/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1418513211054490585/origin_1.jpg" /&gt;&lt;br/&gt;高市政権による憲法改正に反対する市民団体が8日に国会前で開いた集会の参加者のうち、年代別の最多は30代だったことが19日、スマートフォンアプリの位置情報から得られる人流データを使った共同通信の分析で分かった。平日の開催にもかかわらず30代が約3割を占め、2割超の20代が続いた。男女別では女性が6割超を占めた...</description>
+      <pubDate>Sun, 19 Apr 2026 08:32:31 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.jp/i/1418505054977179779?c=39550187727945729</comments>
     </item>
     <item>
       <title>市ヶ谷フィッシュセンター - Wikipedia</title>
@@ -90,6 +104,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/jp.reuters.com/markets/japan/ALB7IMPNIZK3XJXWOQ2Z27HZCY-2026-04-17/</comments>
     </item>
     <item>
+      <title>「結婚指輪を買ったら婚約指輪はいらないよね」と男が思う理由をポケモンカードで説明した記事が話題→一方男には「ウェディングドレスは一生に一度だけ乗れるモビルスーツ」という例えが突き刺さる 自分ではなく、相手にとって大切というのが重要</title>
+      <link>https://togetter.com/li/2687642</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/2df170610cbb354f7792d793d768d755-1200x630.jpeg" /&gt;&lt;br/&gt;「結婚指輪を買ったら婚約指輪はいらないよね」と男が思う理由をポケモンカードで説明した記事が話題→一方男には「ウェディングドレスは一生に一度だけ乗れるモビルスーツ」という例えが突き刺さる 自分ではなく、相手にとって大切というのが重要</description>
+      <pubDate>Sun, 19 Apr 2026 05:33:54 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687642</comments>
+    </item>
+    <item>
       <title>Claude Code で仕事しながら英語を学ぶ環境を整えてみた | DevelopersIO</title>
       <link>https://dev.classmethod.jp/articles/claude-code-working-in-english-environment-setup/</link>
       <description>&lt;img src="https://images.ctfassets.net/ct0aopd36mqt/3KBTm8tdpO9RJJuaVvVzod/a9964bb03097b448b2327edc6920bf9f/Claude.png" /&gt;&lt;br/&gt;はじめに データ事業本部のkasamaです。 今回は Claude Code の output-styles・skills・hooks を組み合わせて、業務をしながら英語の読む・聴く・書くに触れる環境を作ります。普段の業務は日本語で完結するため、毎日使う Claude Code の応答を英語化すれば自然に英語に触れられると考えました。 「language を englis...</description>
@@ -104,46 +125,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@taimport/p/4kHoJsQ</comments>
     </item>
     <item>
-      <title>ワイ「お、頼んでた鉛蓄電池来たな」置き配「どうも」ワイ「ファッ！？天地無用！！？」→『天地無用』の意味を理解していない配達員が増えている？</title>
-      <link>https://togetter.com/li/2687577</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/804c4d1449f9dc0e53374bd0be651308-1200x630.jpeg" /&gt;&lt;br/&gt;ワイ「お、頼んでた鉛蓄電池来たな」置き配「どうも」ワイ「ファッ！？天地無用！！？」→『天地無用』の意味を理解していない配達員が増えている？</description>
-      <pubDate>Sun, 19 Apr 2026 01:39:29 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687577</comments>
-    </item>
-    <item>
-      <title>地下鉄に乗るなりノートPCを開いてガンガン仕事しだしたお姉さんが、取引先の人で、かつ超秘密事項と思われる情報を見ていてビビり倒した→「公共交通機関でPC作業してる人本当に怖い」</title>
-      <link>https://togetter.com/li/2687456</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/86461e46fe1f0ec15445ba85098b4789-1200x630.jpeg" /&gt;&lt;br/&gt;ねくたい @nekutai_start 新人へ ・私物のUSBは仕事で使うな ・社外メールの宛先はちゃんと確認しろ ・エッチなサイトを会社のPCでは絶対見るな ・カフェに社用携帯やパソコンを置き忘れるな ・新幹線でパソコン開くな顧客情報が見えてるぞ ・席を離れるときはWindows +Lで画面ロックしろ 情報セキュリティを甘く見るな ...</description>
-      <pubDate>Sat, 18 Apr 2026 15:43:57 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687456</comments>
-    </item>
-    <item>
-      <title>フランス革命は一般的には『虐げられた農民や市民が国王を打倒した』というイメージだが実際は様々な勢力が様々な思惑を持って対立した大規模な争いだった</title>
-      <link>https://togetter.com/li/2687530</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/071f647d408942272845ab03a9b06641-1200x630.jpeg" /&gt;&lt;br/&gt;フランス革命は一般的には『虐げられた農民や市民が国王を打倒した』というイメージだが実際は様々な勢力が様々な思惑を持って対立した大規模な争いだった</description>
-      <pubDate>Sat, 18 Apr 2026 22:02:25 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687530</comments>
-    </item>
-    <item>
       <title>人型ロボットが人間の世界記録を大幅更新　北京でハーフマラソン（朝日新聞） - Yahoo!ニュース</title>
       <link>https://news.yahoo.co.jp/articles/3cc441aebbcee8928965b9e9694a2c1cfd3ec1b0</link>
       <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260419-00000009-asahi-000-15-view.jpg?exp=10800" /&gt;&lt;br/&gt;人型ロボットのハーフマラソン大会で、スタートを切ったロボット=2026年4月19日、北京市、小早川遥平撮影 人型ロボットが走る第2回ハーフマラソン大会が19日、北京市で開かれ、中国国営中央テレビによるとトップのロボットは48分19秒のタイムでゴールした。ただ、大会規定でタイムが加算されたことで、別のロボットの50...</description>
       <pubDate>Sun, 19 Apr 2026 05:20:43 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/3cc441aebbcee8928965b9e9694a2c1cfd3ec1b0</comments>
-    </item>
-    <item>
-      <title>車で友達と出掛けて高速代やガソリン代をみんなで割り勘しようとしたら1人が「俺運転してないし払わなきゃダメなん？」と言ってきて普通にびっくりした</title>
-      <link>https://togetter.com/li/2687571</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/4e5a0d704007ddde3e831e64c0684baa-1200x630.jpeg" /&gt;&lt;br/&gt;︎︎☁ @unun8787 今友達と出かけてたんだけど…..高速代ガソリン代とかいろんなやつみんなで割り勘って言ってたけど1人だけ俺運転してないし払わなきゃダメなん？とかいいってて普通にびっくりした。 結局4人だけで払って1人はだったら降りるわって言って降りたんだけど何が普通かわかんない。なんなら運転手には極力払わせな...</description>
-      <pubDate>Sun, 19 Apr 2026 01:13:30 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687571</comments>
-    </item>
-    <item>
-      <title>市ヶ谷の釣り堀、子供の頃からあるけど何年目？と思って調べたら無茶苦茶で草「事実上の不法占拠状態」「とはいえここをどうにかするのは随分厄介らしい」</title>
-      <link>https://togetter.com/li/2687552</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/49053a988daa99a17e33c027c8c5b0f2-1200x630.jpeg" /&gt;&lt;br/&gt;市ヶ谷フィッシュセンター 市ヶ谷フィッシュセンター（いちがやフィッシュセンター、英: Ichigaya Fish Center）は、東京都新宿区市谷田町1丁目1番地にある釣り堀。 49 Wikipedia 本来は国有地であり、当初は施設の運営者が千代田区を通じて利用許可・貸与を受けていたが、1962年（昭和37年）以降は許可が更新されておら...</description>
-      <pubDate>Sat, 18 Apr 2026 23:13:03 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687552</comments>
     </item>
   </channel>
 </rss>
