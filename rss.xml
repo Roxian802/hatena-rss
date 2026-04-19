@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 19 Apr 2026 08:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 09:33:10 +0000</lastBuildDate>
     <item>
       <title>無印良品って地味なのになんで人気なの？</title>
       <link>https://anond.hatelabo.jp/20260419101753</link>
@@ -34,18 +34,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.bengo4.com/c_1009/n_20288/</comments>
     </item>
     <item>
+      <title>Claude Designが来た日 ─ Webデザイナーとフロントエンドの仕事はどこまで削られるのか</title>
+      <link>https://zenn.dev/akasara/articles/ab24affd00d788</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--X7CbNmfe--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Design%25E3%2581%258C%25E6%259D%25A5%25E3%2581%259F%25E6%2597%25A5%2520%25E2%2594%2580%2520%2520Web%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%258A%25E3%2583%25BC%25E3%2581%25A8%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E3%2581%25AE%25E4%25BB%2595%25E4%25BA%258B%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25BE%25E3%2581%25A7%25E5%2589%258A%25E3%2582%2589%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:akasara%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyLzhhN2Y1OTczOGIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに 2026年4月17日（米時間金曜）、Anthropicが Claude Design を research preview として発表 自然言語でプロトタイプ・スライド・モックアップ・LPを作れる、Claude Opus 4.7ベースの新機能 競合は Figma Make / v0 / Lovable / Bolt / Google Stitch / Gamma / Canva 発表前後で Figma -6% / Wix -4.7% / Adobe...</description>
+      <pubDate>Sat, 18 Apr 2026 00:14:04 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/akasara/articles/ab24affd00d788</comments>
+    </item>
+    <item>
       <title>井上純一先生「毎回言ってるけど、政治を変えたきゃ選挙に出ろという『選挙こそが民主主義』という考え方は、民主主義のバグなんですよ」「だから国民のデモが憲法で保障されてるんです」</title>
       <link>https://togetter.com/li/2687589</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/65ce943faf4a0266b1c5d3999d4c181b-1200x630.jpeg" /&gt;&lt;br/&gt;井上純一（希有馬屋）『逆資本論』発売中 @KEUMAYA 毎回言ってるけど、政治を変えたきゃ選挙に出ろという「選挙こそが民主主義」という考え方は、民主主義のバグなんですよ。 フランス革命当初から指摘されてるんです。 だから国民のデモが憲法で保障されてるんです。 政府にデモで意見を伝えることは必要な事です。 pic...</description>
       <pubDate>Sun, 19 Apr 2026 03:53:23 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687589</comments>
-    </item>
-    <item>
-      <title>Claude Code で仕事しながら英語を学ぶ環境を整えてみた | DevelopersIO</title>
-      <link>https://dev.classmethod.jp/articles/claude-code-working-in-english-environment-setup/</link>
-      <description>&lt;img src="https://images.ctfassets.net/ct0aopd36mqt/3KBTm8tdpO9RJJuaVvVzod/a9964bb03097b448b2327edc6920bf9f/Claude.png" /&gt;&lt;br/&gt;はじめに データ事業本部のkasamaです。 今回は Claude Code の output-styles・skills・hooks を組み合わせて、業務をしながら英語の読む・聴く・書くに触れる環境を作ります。普段の業務は日本語で完結するため、毎日使う Claude Code の応答を英語化すれば自然に英語に触れられると考えました。 「language を englis...</description>
-      <pubDate>Sat, 18 Apr 2026 05:40:55 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/dev.classmethod.jp/articles/claude-code-working-in-english-environment-setup/</comments>
     </item>
     <item>
       <title>市ヶ谷フィッシュセンター - Wikipedia</title>
@@ -55,11 +55,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/ja.wikipedia.org/wiki/%E5%B8%82%E3%83%B6%E8%B0%B7%E3%83%95%E3%82%A3%E3%83%83%E3%82%B7%E3%83%A5%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC</comments>
     </item>
     <item>
+      <title>Claude Code で仕事しながら英語を学ぶ環境を整えてみた | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/claude-code-working-in-english-environment-setup/</link>
+      <description>&lt;img src="https://images.ctfassets.net/ct0aopd36mqt/3KBTm8tdpO9RJJuaVvVzod/a9964bb03097b448b2327edc6920bf9f/Claude.png" /&gt;&lt;br/&gt;はじめに データ事業本部のkasamaです。 今回は Claude Code の output-styles・skills・hooks を組み合わせて、業務をしながら英語の読む・聴く・書くに触れる環境を作ります。普段の業務は日本語で完結するため、毎日使う Claude Code の応答を英語化すれば自然に英語に触れられると考えました。 「language を englis...</description>
+      <pubDate>Sat, 18 Apr 2026 05:40:55 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/dev.classmethod.jp/articles/claude-code-working-in-english-environment-setup/</comments>
+    </item>
+    <item>
       <title>婚活歴11年の30代半ばの女性。イケメン条件は譲れないが年収は妥協して1000万から800万に下げたとのこと。理由は「枠を広げて若い子をとりたいから」。いろいろツッコミ所はあるが、ご本人は「1人引き当てればいい。片っ端から行って1発当たればいい。妥協はもうできない」という話</title>
       <link>https://posfie.com/@taimport/p/4kHoJsQ</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/b2589990bd4a67ff2090b54a8f9fb147-1200x630.jpeg" /&gt;&lt;br/&gt;荒川和久／独身研究家／コラムニスト @wildriverpeace 婚活歴11年の30代半ばの女性。イケメン条件は譲れないが年収は妥協して1000万から800万に下げたとのこと。理由は「枠を広げて若い子をとりたいから」。 いろいろツッコミ所はあるが、ご本人は「1人引き当てればいい。片っ端から行って1発当たればいい。妥協はもうで...</description>
       <pubDate>Sat, 18 Apr 2026 15:06:35 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@taimport/p/4kHoJsQ</comments>
+    </item>
+    <item>
+      <title>「結婚指輪を買ったら婚約指輪はいらないよね」と男が思う理由をポケモンカードで説明した記事が話題→一方男には「ウェディングドレスは一生に一度だけ乗れるモビルスーツ」という例えが突き刺さる 自分ではなく、相手にとって大切というのが重要</title>
+      <link>https://togetter.com/li/2687642</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/2df170610cbb354f7792d793d768d755-1200x630.jpeg" /&gt;&lt;br/&gt;「結婚指輪を買ったら婚約指輪はいらないよね」と男が思う理由をポケモンカードで説明した記事が話題→一方男には「ウェディングドレスは一生に一度だけ乗れるモビルスーツ」という例えが突き刺さる 自分ではなく、相手にとって大切というのが重要</description>
+      <pubDate>Sun, 19 Apr 2026 05:33:54 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687642</comments>
     </item>
     <item>
       <title>地下鉄に乗るなりノートPCを開いてガンガン仕事しだしたお姉さんが、取引先の人で、かつ超秘密事項と思われる情報を見ていてビビり倒した→「公共交通機関でPC作業してる人本当に怖い」</title>
@@ -97,18 +111,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687577</comments>
     </item>
     <item>
-      <title>続・田舎での子育て</title>
-      <link>https://anond.hatelabo.jp/20260418221939</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;https://anond.hatelabo.jp/20251125190757 以前都会産まれ都会育ちの一児の母の私（メンタル疾患持ち）が、転職で田舎に引っ越して子育てする不安を書きました。 色々アドバイスくれた皆さんありがとうございました。 春から無事転職先の市役所に入庁、子どもも保育園に入園し、3週間ほど経ち生活が整って来たので、現...</description>
-      <pubDate>Sat, 18 Apr 2026 13:21:34 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260418221939</comments>
-    </item>
-    <item>
       <title>車で友達と出掛けて高速代やガソリン代をみんなで割り勘しようとしたら1人が「俺運転してないし払わなきゃダメなん？」と言ってきて普通にびっくりした</title>
       <link>https://togetter.com/li/2687571</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/4e5a0d704007ddde3e831e64c0684baa-1200x630.jpeg" /&gt;&lt;br/&gt;︎︎☁ @unun8787 今友達と出かけてたんだけど…..高速代ガソリン代とかいろんなやつみんなで割り勘って言ってたけど1人だけ俺運転してないし払わなきゃダメなん？とかいいってて普通にびっくりした。 結局4人だけで払って1人はだったら降りるわって言って降りたんだけど何が普通かわかんない。なんなら運転手には極力払わせな...</description>
       <pubDate>Sun, 19 Apr 2026 01:13:30 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687571</comments>
+    </item>
+    <item>
+      <title>続・田舎での子育て</title>
+      <link>https://anond.hatelabo.jp/20260418221939</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;https://anond.hatelabo.jp/20251125190757 以前都会産まれ都会育ちの一児の母の私（メンタル疾患持ち）が、転職で田舎に引っ越して子育てする不安を書きました。 色々アドバイスくれた皆さんありがとうございました。 春から無事転職先の市役所に入庁、子どもも保育園に入園し、3週間ほど経ち生活が整って来たので、現...</description>
+      <pubDate>Sat, 18 Apr 2026 13:21:34 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260418221939</comments>
     </item>
     <item>
       <title>市ヶ谷の釣り堀、子供の頃からあるけど何年目？と思って調べたら無茶苦茶で草「事実上の不法占拠状態」「とはいえここをどうにかするのは随分厄介らしい」</title>
@@ -118,18 +132,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687552</comments>
     </item>
     <item>
+      <title>四輪ドライバーから大ブーイング！「車道のチャリをどうにかしてくれ！」（週プレNEWS） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/6618dd426d5f8c821f2cd8e68ef9da4fbf01cbec</link>
+      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260419-01309020-playboyz-000-1-view.jpg?exp=10800" /&gt;&lt;br/&gt;4月1日、自転車の交通違反に反則金を科す「青切符」制度が始まり、都内では警察官が交通ルールの順守を呼びかけていた 自転車にも、ついに「青切符」の時代が到来した。事故抑止と安全確保を掲げ、16歳以上の利用者に反則金を科す新制度だ。 【表】自転車の交通違反で「青切符」が交付される主な違反と反則金額 だが、現...</description>
+      <pubDate>Sun, 19 Apr 2026 02:00:38 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/6618dd426d5f8c821f2cd8e68ef9da4fbf01cbec</comments>
+    </item>
+    <item>
       <title>50代なのに30代くらいに見えるハーバード大学教授が実践しているという若返り術が流れてきたので読んでみたらすぐに脳内野次馬が「はい解散」となった</title>
       <link>https://togetter.com/li/2687525</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/5ea5ada70bf433ee61d073b2672a5cca-1200x630.jpeg" /&gt;&lt;br/&gt;まことぴ @makotopic 50代なのに30代くらいに見えるハーバード大学の遺伝学教授なる人物が実践しているという若返り術が流れてきたので読んでみたら「砂糖、炭水化物、肉、乳製品を排除。アルコールは制限」とのことで、俺の脳内野次馬が「はい解散」となった。 2026-04-17 12:15:34</description>
       <pubDate>Sat, 18 Apr 2026 22:13:22 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2687525</comments>
-    </item>
-    <item>
-      <title>ナフサ由来製品の供給制限加速､見えた住設の次</title>
-      <link>https://www.logi-today.com/940993</link>
-      <description>荷主ホルムズ海峡封鎖の影響は、ナフサそのものの不足ではなく、ナフサ由来製品の供給制限として広がった。4月に入ると建材メーカーが相次いで新規受注を止め、住設大手も納期未定への切り替えに踏み切り、2月末の封鎖開始から7週間で波及は最終製品まで広がった。この順番は偶然ではない。ナフサから下流へ向かう途中に...</description>
-      <pubDate>Sat, 18 Apr 2026 13:39:34 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.logi-today.com/940993</comments>
     </item>
   </channel>
 </rss>
