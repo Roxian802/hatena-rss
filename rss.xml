@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 20 Apr 2026 01:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 02:33:10 +0000</lastBuildDate>
     <item>
       <title>クックパッドが誰向けなのかがわかりません。 無料では殿堂入りや人気順などの検索ができず、レシピを選ぶ側の目が問われますので、料理初心者には敷居が高いと思っています。星機能のない食べログで飲食店を探すようなものです。 逆に有料会員になるほど料理に興味があるのであれば、きょうの料理や白ごはんなど、無料で見られる信頼性の高いレシピが他にいくらでもあることを知っているはずだと思うのです。 潜入したイナダさんに、クックパッドとは何なのか語っていただきたいです。 | mond</title>
       <link>https://mond.how/ja/topics/t5co53bn5mfqb4h/3x8k3ug0qhz737j</link>
@@ -19,13 +19,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.gamespark.jp/article/2026/04/19/165372.html</comments>
     </item>
     <item>
-      <title>終わった人間はどう生きる？</title>
-      <link>https://anond.hatelabo.jp/20260419194436</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;虐待を受けて複雑性PTSDになり20代はその治療で終わり、今は30代前半。 （一度、双極性障害の診断も受けていて結果これは誤診だったわけだけど、ただ炭酸リチウムを飲むだけの数年間を過ごしたせいもある） 男。恋人はいたことがない。 治療の代金で金を使い、自暴自棄になってこさえた借金の返済で金を使い、貯金は30万...</description>
-      <pubDate>Sun, 19 Apr 2026 10:52:51 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419194436</comments>
-    </item>
-    <item>
       <title>なぜ「中道」は凋落するのか｜サキ</title>
       <link>https://note.com/sakiii0414/n/n416484a26539</link>
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/268502960/rectangle_large_type_2_6c2d2b913752b48772a36cbde8bb5709.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;先日の選挙における「中道改革連合」の大敗、そして自民党の圧勝という結果に少なからずショックを受けた人は多いのではないでしょうか。私もその一人です。急な新党結成による選挙準備の短さや、小選挙区制度の問題もありますが、それを踏まえたとしても「中道左派なるもの」の凋落が起きている、ということを考えずに...</description>
@@ -33,11 +26,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/sakiii0414/n/n416484a26539</comments>
     </item>
     <item>
-      <title>Claude Codeで日常のタスクを45個自動化した東大院生の全記録</title>
-      <link>https://zenn.dev/shunya_sudo/articles/claude-code-45-automation-tasks</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--yWzKs_CN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E6%2597%25A5%25E5%25B8%25B8%25E3%2581%25AE%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%259245%25E5%2580%258B%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2597%25E3%2581%259F%25E6%259D%25B1%25E5%25A4%25A7%25E9%2599%25A2%25E7%2594%259F%25E3%2581%25AE%25E5%2585%25A8%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shunya%25EF%25BD%259C%25E6%259D%25B1%25E5%25A4%25A7%25E9%2599%25A2%25C3%2597AI%25E6%25B4%25BB%25E7%2594%25A8%25E7%25A0%2594%25E7%25A9%25B6%25E8%2580%2585%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZmM2Q4NjAwODMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;これらが24時間、macOS上で動いています。PCを閉じない限り止まりません。 全体のアーキテクチャはこうです: ポイントは、Claude CLIを「考えるパーツ」として使っていること。データの取得・加工はPythonで行い、「この情報をどう要約するか」「このメールは返信が必要か」といった判断だけをClaudeに任せています。 カ...</description>
-      <pubDate>Sun, 19 Apr 2026 12:03:50 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/shunya_sudo/articles/claude-code-45-automation-tasks</comments>
+      <title>終わった人間はどう生きる？</title>
+      <link>https://anond.hatelabo.jp/20260419194436</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;虐待を受けて複雑性PTSDになり20代はその治療で終わり、今は30代前半。 （一度、双極性障害の診断も受けていて結果これは誤診だったわけだけど、ただ炭酸リチウムを飲むだけの数年間を過ごしたせいもある） 男。恋人はいたことがない。 治療の代金で金を使い、自暴自棄になってこさえた借金の返済で金を使い、貯金は30万...</description>
+      <pubDate>Sun, 19 Apr 2026 10:52:51 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419194436</comments>
+    </item>
+    <item>
+      <title>デモは選挙より重要</title>
+      <link>https://anond.hatelabo.jp/20260419185833</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;ロシアだって中国だって北朝鮮だって選挙はやってるからな。 ナチス党やヒトラーの例に限らず、選挙という仕組みはどうやっても不完全で独裁者や独裁政権を生みやすい。 選挙だけやっていれば民主主義が保たれるなんてのはまともに歴史を学んだことの無いバカの戯言。 では、国が民主主義から逸脱し独裁政権と傾き始めて...</description>
+      <pubDate>Sun, 19 Apr 2026 10:01:38 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419185833</comments>
     </item>
     <item>
       <title>思い切った慶應義塾　全教職員にNotion導入で168年分の知的資産をAIに食わせるプロジェクトが始動（アスキー） - Yahoo!ニュース</title>
@@ -47,25 +47,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/c465be8fe8c52668a13fb7cc6c5e789e15c511b5</comments>
     </item>
     <item>
+      <title>Claude Codeで日常のタスクを45個自動化した東大院生の全記録</title>
+      <link>https://zenn.dev/shunya_sudo/articles/claude-code-45-automation-tasks</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--yWzKs_CN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A7%25E6%2597%25A5%25E5%25B8%25B8%25E3%2581%25AE%25E3%2582%25BF%25E3%2582%25B9%25E3%2582%25AF%25E3%2582%259245%25E5%2580%258B%25E8%2587%25AA%25E5%258B%2595%25E5%258C%2596%25E3%2581%2597%25E3%2581%259F%25E6%259D%25B1%25E5%25A4%25A7%25E9%2599%25A2%25E7%2594%259F%25E3%2581%25AE%25E5%2585%25A8%25E8%25A8%2598%25E9%258C%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shunya%25EF%25BD%259C%25E6%259D%25B1%25E5%25A4%25A7%25E9%2599%25A2%25C3%2597AI%25E6%25B4%25BB%25E7%2594%25A8%25E7%25A0%2594%25E7%25A9%25B6%25E8%2580%2585%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3plbm4tdXNlci11cGxvYWQvYXZhdGFyL2ZmM2Q4NjAwODMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;これらが24時間、macOS上で動いています。PCを閉じない限り止まりません。 全体のアーキテクチャはこうです: ポイントは、Claude CLIを「考えるパーツ」として使っていること。データの取得・加工はPythonで行い、「この情報をどう要約するか」「このメールは返信が必要か」といった判断だけをClaudeに任せています。 カ...</description>
+      <pubDate>Sun, 19 Apr 2026 12:03:50 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/shunya_sudo/articles/claude-code-45-automation-tasks</comments>
+    </item>
+    <item>
       <title>ノア・スミス「この20年で日本はどう変わったか」（2026年4月1日）｜経済学101</title>
       <link>https://note.com/econ101_/n/n8d47cdb60ff8</link>
-      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/647240df0152eb3407557cb651819ebdaef9ddfa.png" /&gt;&lt;br/&gt;この独特な国についてつらつら考えてみるとひょっとしてこの何年かで初めてかもしれない．先日，X で間違いなく興味深いことが起きた．X で日本語ツイートが英語に自動翻訳されて，英語圏ユーザーのおすすめに表示されはじめたんだ．他国に比べて，日本の人たちの X 利用率はずっと高い．その理由の大半は，X では本名を...</description>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/268684518/rectangle_large_type_2_8411e20525e79f619ca6860283eaf59c.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;この独特な国についてつらつら考えてみるとひょっとしてこの何年かで初めてかもしれない．先日，X で間違いなく興味深いことが起きた．X で日本語ツイートが英語に自動翻訳されて，英語圏ユーザーのおすすめに表示されはじめたんだ．他国に比べて，日本の人たちの X 利用率はずっと高い．その理由の大半は，X では本名を...</description>
       <pubDate>Sun, 19 Apr 2026 11:14:15 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/econ101_/n/n8d47cdb60ff8</comments>
-    </item>
-    <item>
-      <title>もうお金なくても楽しいことを見つけるしかなくない？なんかある？</title>
-      <link>https://anond.hatelabo.jp/20260419194512</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;そんなのあるか？ ある！ あるよきっと そう思わないとやってられないよね 一番は、街の猫を見つけて写真を撮ること！ これが無料で楽しいと思うんだ 他にある？</description>
-      <pubDate>Sun, 19 Apr 2026 10:45:50 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419194512</comments>
-    </item>
-    <item>
-      <title>プロンプトの再現性をAI に自動チューニングさせる方法 ~ 暗黙知を排除する</title>
-      <link>https://zenn.dev/mizchi/articles/empirical-prompt-tuning</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--WUmyz2OT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2597%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2597%25E3%2583%2588%25E3%2581%25AE%25E5%2586%258D%25E7%258F%25BE%25E6%2580%25A7%25E3%2582%2592AI%2520%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25BC%25E3%2583%258B%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E6%2596%25B9%25E6%25B3%2595%2520~%2520%25E6%259A%2597%25E9%25BB%2599%25E7%259F%25A5%25E3%2582%2592%25E6%258E%2592%25E9%2599%25A4%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;AI の技術記事は食傷気味なんですが、さすがにこれは効くと思ったパターンを見つけたので紹介します。 tl;dr プロンプト (skill / slash command) を書いた直後は「これで伝わるはず！」と思うのに、別のセッションで使うと暗黙知が不足していて、再現性がなくなる 思い込みは当人に修正できないバイアスなので、別の AI...</description>
-      <pubDate>Sun, 19 Apr 2026 08:24:05 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/mizchi/articles/empirical-prompt-tuning</comments>
     </item>
     <item>
       <title>一迅社のコミックハウルで連載中のマンガが「紙価格の高騰が原因で2巻までしか出せない」という理由で打ち切りが決定してしまう</title>
@@ -80,13 +73,6 @@
       <description>&lt;img src="https://newsdig.ismcdn.jp/mwimgs/9/9/1200w/img_99fd18b3c0d629b771a262e7200c6dad543699.jpg" /&gt;&lt;br/&gt;【万博・海外館未払い問題編】2次下請けの破産で『工事費約2800万円』未回収…3次下請け「この国は何も信用できない」債権買い取る”救済法案”は衆院解散で廃案【開幕から1年】</description>
       <pubDate>Sun, 19 Apr 2026 05:50:15 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/newsdig.tbs.co.jp/articles/-/2600431</comments>
-    </item>
-    <item>
-      <title>アプリで儲けようとしている人に、アプリ開発歴15年から言いたいこと</title>
-      <link>https://anond.hatelabo.jp/20260419113552</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;99.9％儲かりません 理由 ・サービスを考える時、アプリとwebがあると思います webは検索導線があるのでまだ「たまたま来た」がありえますが アプリはwebに比べて流入導線が少ないです なので「バズる」「ストアで見つけてもらう」「広告を打つ」がほとんどの場合必要ですが その1人あたりの獲得単価を、アプリの価値が...</description>
-      <pubDate>Sun, 19 Apr 2026 02:36:49 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260419113552</comments>
     </item>
   </channel>
 </rss>
