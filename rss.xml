@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Tue, 21 Apr 2026 21:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 22:33:09 +0000</lastBuildDate>
     <item>
       <title>[1話(読切)＋2話]ヒトナー - 屋宜知宏 | 少年ジャンプ＋</title>
       <link>https://shonenjumpplus.com/episode/17107419589536396171</link>
       <description>&lt;img src="https://cdn-ak-img.shonenjumpplus.com/public/series-thumbnail/17107419589536330256-b9397cd973902bcf56b59386e32abb34?1776783007" /&gt;&lt;br/&gt;ヒトナー 屋宜知宏 &lt;毎週水曜更新&gt;ケモノが住む最果ての星に一人の地球人が訪れる。獣人たちは初めて目にする"ヒト"の姿に揺れ動く。異種族交流の中で変化するケモ社会・・・『アイアンナイト』、『レッドスプライト』の屋宜知宏が描くハートフル異種族観察物語!!</description>
       <pubDate>Tue, 21 Apr 2026 15:00:59 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/shonenjumpplus.com/episode/17107419589536396171</comments>
+    </item>
+    <item>
+      <title>とほほのローカルAI入門 - とほほのWWW入門</title>
+      <link>https://www.tohoho-web.com/ai/local-ai.html</link>
+      <description>docker run -it --name hf python:3.14 bash apt update apt -y install vim pip install transformers torch from transformers import pipeline pipe = pipeline(task="text-generation", model="distilgpt2") print(pipe("Hello")) Can I Run AI locally? 概要 https://www.canirun.ai/ WebGPU などの技術を用いてア...</description>
+      <pubDate>Tue, 21 Apr 2026 10:48:31 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.tohoho-web.com/ai/local-ai.html</comments>
     </item>
     <item>
       <title>「自衛官が制服を着てソープで働いていいのか」国歌斉唱めぐり記者質問、幕僚長の回答にツッコミも - 弁護士ドットコムニュース</title>
@@ -20,17 +27,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.bengo4.com/c_18/n_20304/</comments>
     </item>
     <item>
+      <title>スプラトゥーン レイダース | Nintendo Switch 2 | 任天堂</title>
+      <link>https://www.nintendo.com/jp/games/switch2/aadla/index.html</link>
+      <description>&lt;img src="https://www.nintendo.com/jp/games/switch2/aadla/sns.png" /&gt;&lt;br/&gt;2026年7月23日（木）発売、Nintendo Switch 2 『スプラトゥーン レイダース』をご紹介します。</description>
+      <pubDate>Tue, 21 Apr 2026 13:02:01 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nintendo.com/jp/games/switch2/aadla/index.html</comments>
+    </item>
+    <item>
       <title>人気の「狭小住宅」 国の計画から「最低居住面積水準」削除に | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/na-k10015104531000</link>
       <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260421/K10015104531_2604211439_0421192754_01_03.jpg" /&gt;&lt;br/&gt;若い世代を中心に人気を集めている「狭小住宅」。 住宅価格の高騰で需要が高まる中、国土交通省は、住宅の最低限の広さ「最低居住面積水準」を政策の基本となる計画から削除しました。 健康で文化的な暮らしの…</description>
       <pubDate>Tue, 21 Apr 2026 10:30:05 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015104531000</comments>
-    </item>
-    <item>
-      <title>カシオ、“誰でも買ったその日から音楽制作・演奏を楽しめる”サンプラー</title>
-      <link>https://av.watch.impress.co.jp/docs/news/2103344.html</link>
-      <pubDate>Tue, 21 Apr 2026 07:32:43 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/av.watch.impress.co.jp/docs/news/2103344.html</comments>
     </item>
     <item>
       <title>《抗日映画『731』に出演》日本人俳優・小野巽（25）が中国の撮影スタジオで目撃した“信じられない光景”とは | 文春オンライン</title>
@@ -40,11 +48,17 @@
       <comments>https://b.hatena.ne.jp/entry/s/bunshun.jp/articles/-/87831</comments>
     </item>
     <item>
-      <title>「清潔感」とかいう呪いの言葉を真に受けてる弱男へ</title>
-      <link>https://anond.hatelabo.jp/20260421150528</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;いいか、お前ら。まだ「清潔感＝お風呂に入ること」だと思ってんの？ それ、一生かかってもモテないし、誰にも相手にされないから今すぐその脳みそアップデートしろよ。 女どもが「清潔感は容姿じゃないんですぅ～」とかクネクネ言ってるけど、あれ全部嘘。 具体例を挙げてみ？ 美容院行け、肌管理しろ、眉サロン行け、...</description>
-      <pubDate>Tue, 21 Apr 2026 06:09:03 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260421150528</comments>
+      <title>「愚妻」という言葉は“愚かな妻”、“愚かな私の妻”のどちらを意味するのか議論に「そういえば愚夫とは言わない」</title>
+      <link>https://togetter.com/li/2688403</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/3742853d8f593dc1da97d2901c3c4234-1200x630.jpeg" /&gt;&lt;br/&gt;愚妻(グサイ)とは？ 意味や使い方 - コトバンク デジタル大辞泉 - 愚妻の用語解説 - 自分の妻をへりくだっていう語。[類語]荊妻・山妻 コトバンク ystk @lawkus ｢愚妻｣は｢愚かな妻｣という意味じゃない、謙遜表現だから｢"愚かな私"の妻｣という意味だ！とかいう珍説を唱える人ときどき湧くけど、日本語不自由すぎるな。 ｢...</description>
+      <pubDate>Tue, 21 Apr 2026 11:49:34 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688403</comments>
+    </item>
+    <item>
+      <title>カシオ、“誰でも買ったその日から音楽制作・演奏を楽しめる”サンプラー</title>
+      <link>https://av.watch.impress.co.jp/docs/news/2103344.html</link>
+      <pubDate>Tue, 21 Apr 2026 07:32:43 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/av.watch.impress.co.jp/docs/news/2103344.html</comments>
     </item>
     <item>
       <title>トーチweb ニーハオ、おいしい東京日和。 【6.帰省と泡菜】</title>
@@ -54,38 +68,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/to-ti.in/story/nihao_6</comments>
     </item>
     <item>
-      <title>合意目前に見えたイランとの和平交渉、トランプ氏の相次ぐSNS投稿でぶち壊しに</title>
-      <link>https://www.cnn.co.jp/usa/35246698.html</link>
-      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/04/21/c615610be0b94c13b346ea31e375742d/ap26108712459309-20260420205053573.jpg" /&gt;&lt;br/&gt;（CNN） 週末が近づく中、米国とイランは7週間に及ぶ戦争を終結させる合意に近づいているように見えた。 しかしその後トランプ大統領は、側近らが繰り返し「しない」と述べてきたことをまさに実行した。同氏はメディアを通じて交渉しようとしているように見え、SNSに進行中の協議について投稿。17日午前には、パキスタン...</description>
-      <pubDate>Tue, 21 Apr 2026 07:39:40 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35246698.html</comments>
+      <title>「清潔感」とかいう呪いの言葉を真に受けてる弱男へ</title>
+      <link>https://anond.hatelabo.jp/20260421150528</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;いいか、お前ら。まだ「清潔感＝お風呂に入ること」だと思ってんの？ それ、一生かかってもモテないし、誰にも相手にされないから今すぐその脳みそアップデートしろよ。 女どもが「清潔感は容姿じゃないんですぅ～」とかクネクネ言ってるけど、あれ全部嘘。 具体例を挙げてみ？ 美容院行け、肌管理しろ、眉サロン行け、...</description>
+      <pubDate>Tue, 21 Apr 2026 06:09:03 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260421150528</comments>
     </item>
     <item>
-      <title>「愚妻」という言葉は“愚かな妻”、“愚かな私の妻”のどちらを意味するのか議論に「そういえば愚夫とは言わない」</title>
-      <link>https://togetter.com/li/2688403</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/3742853d8f593dc1da97d2901c3c4234-1200x630.jpeg" /&gt;&lt;br/&gt;愚妻(グサイ)とは？ 意味や使い方 - コトバンク デジタル大辞泉 - 愚妻の用語解説 - 自分の妻をへりくだっていう語。[類語]荊妻・山妻 コトバンク ystk @lawkus ｢愚妻｣は｢愚かな妻｣という意味じゃない、謙遜表現だから｢"愚かな私"の妻｣という意味だ！とかいう珍説を唱える人ときどき湧くけど、日本語不自由すぎるな。 ｢...</description>
-      <pubDate>Tue, 21 Apr 2026 11:49:34 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688403</comments>
-    </item>
-    <item>
-      <title>ローカルでAIを動かすための基礎を学べるコンテンツが「とほほのWWW入門」に追加／誰でもできるローカルAI環境の構築方法を解説した「とほほのローカルAI入門」</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2103365.html</link>
-      <pubDate>Tue, 21 Apr 2026 10:39:21 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2103365.html</comments>
-    </item>
-    <item>
-      <title>自民はこれまでもデモ軽視…門寛子衆院議員の「ごっこ遊び」発言に市民から批判の声　専門家の指摘は：東京新聞デジタル</title>
-      <link>https://www.tokyo-np.co.jp/article/483295</link>
-      <description>&lt;img src="https://static.tokyo-np.co.jp/image/article/size1/0/5/b/7/05b73a4164f166baa08b9c5b2a3a441e_1.jpg" /&gt;&lt;br/&gt;自民党の門寛子（かど・ひろこ）衆院議員（東京8区）がインターネット番組で、国会周辺での市民によるデモ活動を「ごっこ遊び」と揶揄（やゆ）したことに批判の声が上がっている。 国会周辺のデモは、スパイ防止法の制定や憲法改正に意欲的な高市政権に対抗しようと、自民党が議席の3分の2以上を確保した2月の衆院選後に...</description>
-      <pubDate>Tue, 21 Apr 2026 08:32:41 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.tokyo-np.co.jp/article/483295</comments>
-    </item>
-    <item>
-      <title>Claude Codeでバックオフィス業務のために「back-officeリポジトリ」を作ったほうがいいよ｜すてぃお</title>
-      <link>https://note.com/suthio/n/nf03d4f1df801</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/268662284/rectangle_large_type_2_8efb823261c1aaa2740e18261931ab5d.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;個人事業主や法人はとにかくバックオフィス業務が多いです。 経理・会計だと SaaSの請求書（領収書）を毎月集める クレジットカード明細と領収書を突合する 取引先へ請求書を発行する 入金された振込と自分が発行した請求書を突合する freeeに仕訳を切る 決算期に税理士さんに資料を渡す 法人税・消費税・地方税の申告対...</description>
-      <pubDate>Tue, 21 Apr 2026 02:12:56 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/suthio/n/nf03d4f1df801</comments>
+      <title>30年続く伝説の個人サイト『とほほのＷＷＷ入門』管理人に見る、エンジニアの継続力の正体「どうすればやめられるのか知りたい」 - エンジニアtype | 転職type</title>
+      <link>https://type.jp/et/feature/30854/</link>
+      <description>&lt;img src="https://type.jp/et/feature/wp-content/uploads/2026/04/tohoho_og.jpg" /&gt;&lt;br/&gt;転職・求人情報サイトのtype エンジニアtype 働き方 30年続く伝説の個人サイト『とほほのＷＷＷ入門』管理人に見る、エンジニアの継続力の正体「どうすればやめられるのか知りたい」 NEW! 2026.04.21 働き方 情報の消費スピードは加速し、今日のトレンドが翌週には陳腐化する……。そんな「継続」が最も困難な時代において...</description>
+      <pubDate>Tue, 21 Apr 2026 09:09:20 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/type.jp/et/feature/30854/</comments>
     </item>
     <item>
       <title>大河ドラマで貧しい家のシーンなのに畳が新品だったり着物もパリッとアイロンが効いてて栄養失調の娘の髪もキューティクルばっちり...作り物めいていて安っぽく感じる</title>
@@ -95,32 +89,38 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688343</comments>
     </item>
     <item>
-      <title>東映がゲーム事業に進出、“東映ゲームズ”を設立。はじめはPCゲームをSteamで展開、4月24日にタイトルを発表 | ゲーム・エンタメ最新情報のファミ通.com</title>
-      <link>https://www.famitsu.com/article/202604/72488</link>
-      <description>&lt;img src="https://cimg.kgl-systems.io/camion/files/72488/thumbnail_uBPD.jpg?x=1280" /&gt;&lt;br/&gt;1951年の創業以来、東映株式会社は映画・テレビ・アニメーションなどの多角的なメディアを通じ、数多くの「ものがたり」を世界へ届けてまいりました。そして2026年。 創立75周年という節目に、新たな挑戦として、ゲーム事業ブランド「東映ゲームズ」を立ち上げました。 東映ゲームズでは、最初の取り組みとしてPCゲーム...</description>
-      <pubDate>Tue, 21 Apr 2026 05:25:42 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.famitsu.com/article/202604/72488</comments>
+      <title>ローカルでAIを動かすための基礎を学べるコンテンツが「とほほのWWW入門」に追加／誰でもできるローカルAI環境の構築方法を解説した「とほほのローカルAI入門」</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2103365.html</link>
+      <pubDate>Tue, 21 Apr 2026 10:39:21 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2103365.html</comments>
     </item>
     <item>
-      <title>リベラル最大の弱点は「自分たちの正義の押し付け」？　落選した枝野幸男が語る原発と震災、やり残した課題 | 弁護士JPニュース</title>
-      <link>https://www.ben54.jp/news/3422</link>
-      <description>&lt;img src="https://img.ben54.jp/news/3422/b3ctguTGTVeW1776669546.jpg" /&gt;&lt;br/&gt;日本新党から29歳で初当選、11回連続当選の末に今年2月の衆院選で初落選を喫した枝野幸男氏（61）。比例復活もならず民意を突きつけられた今、驚くほど冷静に、そして鋭く次の一手を見据えている。 政治家としてのイメージが強い枝野氏だが、元々は弁護士だった。1988年に司法試験に合格し、1991年に司法修習を修了、弁...</description>
-      <pubDate>Tue, 21 Apr 2026 02:20:36 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.ben54.jp/news/3422</comments>
+      <title>合意目前に見えたイランとの和平交渉、トランプ氏の相次ぐSNS投稿でぶち壊しに</title>
+      <link>https://www.cnn.co.jp/usa/35246698.html</link>
+      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/04/21/c615610be0b94c13b346ea31e375742d/ap26108712459309-20260420205053573.jpg" /&gt;&lt;br/&gt;（CNN） 週末が近づく中、米国とイランは7週間に及ぶ戦争を終結させる合意に近づいているように見えた。 しかしその後トランプ大統領は、側近らが繰り返し「しない」と述べてきたことをまさに実行した。同氏はメディアを通じて交渉しようとしているように見え、SNSに進行中の協議について投稿。17日午前には、パキスタン...</description>
+      <pubDate>Tue, 21 Apr 2026 07:39:40 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35246698.html</comments>
     </item>
     <item>
-      <title>辺野古転覆、24日に学校法人同志社を訪問調査　松本文科相が表明「教育活動の状況確認」</title>
-      <link>https://www.sankei.com/article/20260421-XI5IA2UTYZI4HBMICL7VU4SO3M/</link>
-      <description>&lt;img src="https://www.sankei.com/resizer/v2/7T7RCM34GVI3HC2Y67FBG4YMWI.jpg?auth=815eabeceeddda741bf8c4112429b1a5ed9778ad03f59e173e151742580a5948&amp;amp;quality=50&amp;amp;smart=true&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;学校法人同志社への調査を4月24日に実施すると表明した松本洋平文科相＝4月21日午前、東京都千代田区（永礼もも香撮影） 松本洋平文部科学相は21日の閣議後記者会見で、沖縄県名護市辺野古沖で船が転覆して平和学習中だった同志社国際高（京都府）の女子生徒ら2人が死亡した事故を巡り、24日に学校法人同志社に文科省の...</description>
-      <pubDate>Tue, 21 Apr 2026 06:35:49 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260421-XI5IA2UTYZI4HBMICL7VU4SO3M/</comments>
+      <title>TimからAppleコミュニティのみなさんへ</title>
+      <link>https://www.apple.com/jp/community-letter-from-tim/</link>
+      <description>&lt;img src="https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202604210316" /&gt;&lt;br/&gt;Timから Appleコミュニティの みなさんへ 私はこれまでの15年間、毎朝同じように一日を始めてきました。メールを開いて、世界中のAppleユーザーのみなさんから届いたメッセージを読むので﻿す。 みなさんは暮らしの中で起こった出来事を私に共有し、Appleがどんなふうに人生を変えたのかを教えてくれます。Apple Watchが...</description>
+      <pubDate>Tue, 21 Apr 2026 11:38:24 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.apple.com/jp/community-letter-from-tim/</comments>
     </item>
     <item>
-      <title>「1970年代の少女マンガはどれも皆恐ろしくレベルが高くて、当時の少年誌青年誌のマンガがみんな子供っぽく見えた」とり・みき先生のポストに漫画家や読者から共感の声</title>
-      <link>https://togetter.com/li/2688253</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/e5ccb52bd31771c0a3b5794aeeb050ba-1200x630.jpeg" /&gt;&lt;br/&gt;TORI MIKI／とり・みき @videobird 70年代後半の少女マンガというか女性マンガ家の作品はどれも皆恐ろしくレベルが高くて、正直私には当時の少年誌青年誌の男性マンガ家が描くマンガがみんな子供っぽく見えた。SFや歴史物やエスピオナージュだけでなく、りぼんや別マの市井の少女のラブストーリーでもそうだったのだ。→ ...</description>
-      <pubDate>Tue, 21 Apr 2026 05:21:09 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688253</comments>
+      <title>Claude Codeでバックオフィス業務のために「back-officeリポジトリ」を作ったほうがいいよ｜すてぃお</title>
+      <link>https://note.com/suthio/n/nf03d4f1df801</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/268662284/rectangle_large_type_2_8efb823261c1aaa2740e18261931ab5d.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;個人事業主や法人はとにかくバックオフィス業務が多いです。 経理・会計だと SaaSの請求書（領収書）を毎月集める クレジットカード明細と領収書を突合する 取引先へ請求書を発行する 入金された振込と自分が発行した請求書を突合する freeeに仕訳を切る 決算期に税理士さんに資料を渡す 法人税・消費税・地方税の申告対...</description>
+      <pubDate>Tue, 21 Apr 2026 02:12:56 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/suthio/n/nf03d4f1df801</comments>
+    </item>
+    <item>
+      <title>自民はこれまでもデモ軽視…門寛子衆院議員の「ごっこ遊び」発言に市民から批判の声　専門家の指摘は：東京新聞デジタル</title>
+      <link>https://www.tokyo-np.co.jp/article/483295</link>
+      <description>&lt;img src="https://static.tokyo-np.co.jp/image/article/size1/0/5/b/7/05b73a4164f166baa08b9c5b2a3a441e_1.jpg" /&gt;&lt;br/&gt;自民党の門寛子（かど・ひろこ）衆院議員（東京8区）がインターネット番組で、国会周辺での市民によるデモ活動を「ごっこ遊び」と揶揄（やゆ）したことに批判の声が上がっている。 国会周辺のデモは、スパイ防止法の制定や憲法改正に意欲的な高市政権に対抗しようと、自民党が議席の3分の2以上を確保した2月の衆院選後に...</description>
+      <pubDate>Tue, 21 Apr 2026 08:32:41 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.tokyo-np.co.jp/article/483295</comments>
     </item>
   </channel>
 </rss>
