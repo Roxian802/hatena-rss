@@ -4,20 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Tue, 21 Apr 2026 22:33:09 +0000</lastBuildDate>
-    <item>
-      <title>[1話(読切)＋2話]ヒトナー - 屋宜知宏 | 少年ジャンプ＋</title>
-      <link>https://shonenjumpplus.com/episode/17107419589536396171</link>
-      <description>&lt;img src="https://cdn-ak-img.shonenjumpplus.com/public/series-thumbnail/17107419589536330256-b9397cd973902bcf56b59386e32abb34?1776783007" /&gt;&lt;br/&gt;ヒトナー 屋宜知宏 &lt;毎週水曜更新&gt;ケモノが住む最果ての星に一人の地球人が訪れる。獣人たちは初めて目にする"ヒト"の姿に揺れ動く。異種族交流の中で変化するケモ社会・・・『アイアンナイト』、『レッドスプライト』の屋宜知宏が描くハートフル異種族観察物語!!</description>
-      <pubDate>Tue, 21 Apr 2026 15:00:59 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/shonenjumpplus.com/episode/17107419589536396171</comments>
-    </item>
+    <lastBuildDate>Tue, 21 Apr 2026 23:33:10 +0000</lastBuildDate>
     <item>
       <title>とほほのローカルAI入門 - とほほのWWW入門</title>
       <link>https://www.tohoho-web.com/ai/local-ai.html</link>
       <description>docker run -it --name hf python:3.14 bash apt update apt -y install vim pip install transformers torch from transformers import pipeline pipe = pipeline(task="text-generation", model="distilgpt2") print(pipe("Hello")) Can I Run AI locally? 概要 https://www.canirun.ai/ WebGPU などの技術を用いてア...</description>
       <pubDate>Tue, 21 Apr 2026 10:48:31 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.tohoho-web.com/ai/local-ai.html</comments>
+    </item>
+    <item>
+      <title>[1話(読切)＋2話]ヒトナー - 屋宜知宏 | 少年ジャンプ＋</title>
+      <link>https://shonenjumpplus.com/episode/17107419589536396171</link>
+      <description>&lt;img src="https://cdn-ak-img.shonenjumpplus.com/public/series-thumbnail/17107419589536330256-b9397cd973902bcf56b59386e32abb34?1776783007" /&gt;&lt;br/&gt;ヒトナー 屋宜知宏 &lt;毎週水曜更新&gt;ケモノが住む最果ての星に一人の地球人が訪れる。獣人たちは初めて目にする"ヒト"の姿に揺れ動く。異種族交流の中で変化するケモ社会・・・『アイアンナイト』、『レッドスプライト』の屋宜知宏が描くハートフル異種族観察物語!!</description>
+      <pubDate>Tue, 21 Apr 2026 15:00:59 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/shonenjumpplus.com/episode/17107419589536396171</comments>
     </item>
     <item>
       <title>「自衛官が制服を着てソープで働いていいのか」国歌斉唱めぐり記者質問、幕僚長の回答にツッコミも - 弁護士ドットコムニュース</title>
@@ -34,18 +34,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.nintendo.com/jp/games/switch2/aadla/index.html</comments>
     </item>
     <item>
-      <title>人気の「狭小住宅」 国の計画から「最低居住面積水準」削除に | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/na-k10015104531000</link>
-      <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260421/K10015104531_2604211439_0421192754_01_03.jpg" /&gt;&lt;br/&gt;若い世代を中心に人気を集めている「狭小住宅」。 住宅価格の高騰で需要が高まる中、国土交通省は、住宅の最低限の広さ「最低居住面積水準」を政策の基本となる計画から削除しました。 健康で文化的な暮らしの…</description>
-      <pubDate>Tue, 21 Apr 2026 10:30:05 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015104531000</comments>
-    </item>
-    <item>
       <title>《抗日映画『731』に出演》日本人俳優・小野巽（25）が中国の撮影スタジオで目撃した“信じられない光景”とは | 文春オンライン</title>
       <link>https://bunshun.jp/articles/-/87831</link>
       <description>&lt;img src="https://bunshun.jp/mwimgs/8/d/1200wm/img_8dabe203bd00ac34d571bb727fee72ae112616.jpg" /&gt;&lt;br/&gt;ところが同作は、その後の興行成績が伸び悩む。中国の映画レビューサイト『豆瓣(ドウバン)』の評価は荒れ、しばらく経つと「星」の数が非表示に。不評の主な理由は、シリアスな歴史問題と作品全体のトーンの不一致だった模様だ。同作は監督の熱意とこだわりが随所に見られる大作だったが、その熱量が多少、空回りしてい...</description>
       <pubDate>Tue, 21 Apr 2026 11:08:07 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/bunshun.jp/articles/-/87831</comments>
+    </item>
+    <item>
+      <title>人気の「狭小住宅」 国の計画から「最低居住面積水準」削除に | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015104531000</link>
+      <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260421/K10015104531_2604211439_0421192754_01_03.jpg" /&gt;&lt;br/&gt;若い世代を中心に人気を集めている「狭小住宅」。 住宅価格の高騰で需要が高まる中、国土交通省は、住宅の最低限の広さ「最低居住面積水準」を政策の基本となる計画から削除しました。 健康で文化的な暮らしの…</description>
+      <pubDate>Tue, 21 Apr 2026 10:30:05 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015104531000</comments>
     </item>
     <item>
       <title>「愚妻」という言葉は“愚かな妻”、“愚かな私の妻”のどちらを意味するのか議論に「そういえば愚夫とは言わない」</title>
@@ -59,6 +59,13 @@
       <link>https://av.watch.impress.co.jp/docs/news/2103344.html</link>
       <pubDate>Tue, 21 Apr 2026 07:32:43 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/av.watch.impress.co.jp/docs/news/2103344.html</comments>
+    </item>
+    <item>
+      <title>TimからAppleコミュニティのみなさんへ</title>
+      <link>https://www.apple.com/jp/community-letter-from-tim/</link>
+      <description>&lt;img src="https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202604210316" /&gt;&lt;br/&gt;Timから Appleコミュニティの みなさんへ 私はこれまでの15年間、毎朝同じように一日を始めてきました。メールを開いて、世界中のAppleユーザーのみなさんから届いたメッセージを読むので﻿す。 みなさんは暮らしの中で起こった出来事を私に共有し、Appleがどんなふうに人生を変えたのかを教えてくれます。Apple Watchが...</description>
+      <pubDate>Tue, 21 Apr 2026 11:38:24 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.apple.com/jp/community-letter-from-tim/</comments>
     </item>
     <item>
       <title>トーチweb ニーハオ、おいしい東京日和。 【6.帰省と泡菜】</title>
@@ -93,34 +100,6 @@
       <link>https://forest.watch.impress.co.jp/docs/news/2103365.html</link>
       <pubDate>Tue, 21 Apr 2026 10:39:21 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2103365.html</comments>
-    </item>
-    <item>
-      <title>合意目前に見えたイランとの和平交渉、トランプ氏の相次ぐSNS投稿でぶち壊しに</title>
-      <link>https://www.cnn.co.jp/usa/35246698.html</link>
-      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/04/21/c615610be0b94c13b346ea31e375742d/ap26108712459309-20260420205053573.jpg" /&gt;&lt;br/&gt;（CNN） 週末が近づく中、米国とイランは7週間に及ぶ戦争を終結させる合意に近づいているように見えた。 しかしその後トランプ大統領は、側近らが繰り返し「しない」と述べてきたことをまさに実行した。同氏はメディアを通じて交渉しようとしているように見え、SNSに進行中の協議について投稿。17日午前には、パキスタン...</description>
-      <pubDate>Tue, 21 Apr 2026 07:39:40 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35246698.html</comments>
-    </item>
-    <item>
-      <title>TimからAppleコミュニティのみなさんへ</title>
-      <link>https://www.apple.com/jp/community-letter-from-tim/</link>
-      <description>&lt;img src="https://www.apple.com/ac/structured-data/images/open_graph_logo.png?202604210316" /&gt;&lt;br/&gt;Timから Appleコミュニティの みなさんへ 私はこれまでの15年間、毎朝同じように一日を始めてきました。メールを開いて、世界中のAppleユーザーのみなさんから届いたメッセージを読むので﻿す。 みなさんは暮らしの中で起こった出来事を私に共有し、Appleがどんなふうに人生を変えたのかを教えてくれます。Apple Watchが...</description>
-      <pubDate>Tue, 21 Apr 2026 11:38:24 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.apple.com/jp/community-letter-from-tim/</comments>
-    </item>
-    <item>
-      <title>Claude Codeでバックオフィス業務のために「back-officeリポジトリ」を作ったほうがいいよ｜すてぃお</title>
-      <link>https://note.com/suthio/n/nf03d4f1df801</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/268662284/rectangle_large_type_2_8efb823261c1aaa2740e18261931ab5d.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;個人事業主や法人はとにかくバックオフィス業務が多いです。 経理・会計だと SaaSの請求書（領収書）を毎月集める クレジットカード明細と領収書を突合する 取引先へ請求書を発行する 入金された振込と自分が発行した請求書を突合する freeeに仕訳を切る 決算期に税理士さんに資料を渡す 法人税・消費税・地方税の申告対...</description>
-      <pubDate>Tue, 21 Apr 2026 02:12:56 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/suthio/n/nf03d4f1df801</comments>
-    </item>
-    <item>
-      <title>自民はこれまでもデモ軽視…門寛子衆院議員の「ごっこ遊び」発言に市民から批判の声　専門家の指摘は：東京新聞デジタル</title>
-      <link>https://www.tokyo-np.co.jp/article/483295</link>
-      <description>&lt;img src="https://static.tokyo-np.co.jp/image/article/size1/0/5/b/7/05b73a4164f166baa08b9c5b2a3a441e_1.jpg" /&gt;&lt;br/&gt;自民党の門寛子（かど・ひろこ）衆院議員（東京8区）がインターネット番組で、国会周辺での市民によるデモ活動を「ごっこ遊び」と揶揄（やゆ）したことに批判の声が上がっている。 国会周辺のデモは、スパイ防止法の制定や憲法改正に意欲的な高市政権に対抗しようと、自民党が議席の3分の2以上を確保した2月の衆院選後に...</description>
-      <pubDate>Tue, 21 Apr 2026 08:32:41 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.tokyo-np.co.jp/article/483295</comments>
     </item>
   </channel>
 </rss>
