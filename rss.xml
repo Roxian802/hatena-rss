@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 22 Apr 2026 13:33:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 14:33:10 +0000</lastBuildDate>
     <item>
       <title>「荒川弘は性差別を恐れて男性名義にした」という海外ファンの誤解についての覚書｜ヤヤネヒロコ</title>
       <link>https://note.com/hiroko_yayane/n/n25ed767e3346</link>
@@ -34,6 +34,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/world/35246752.html</comments>
     </item>
     <item>
+      <title>【分析】トランプ氏支持率、崩壊が始まった可能性</title>
+      <link>https://www.cnn.co.jp/usa/35246737.html</link>
+      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/04/22/c4b6e9a2f7d3374366914e2a2484f22f/gettyimages-57268880.jpg" /&gt;&lt;br/&gt;ホワイトハウスでのジョージ・W・ブッシュ大統領（当時）＝2006年4月/Win McNamee/Getty Images/File （CNN） ジョージ・W・ブッシュ元米大統領の支持率が崩れ始めたのは、20年前のまさにほぼこの時期だった。そして、同氏の支持率が冬の終わりから春先にかけて多くの世論調査で初めて30％台に落ち込んだ原因は明白だっ...</description>
+      <pubDate>Wed, 22 Apr 2026 04:15:01 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35246737.html</comments>
+    </item>
+    <item>
       <title>ウクライナ、トランプ氏にちなみ地名の一部を「ドニーランド」に改名する提案…割譲求めるロシアの要求を押し返す意図か</title>
       <link>https://www.yomiuri.co.jp/world/20260422-GYT1T00088/</link>
       <description>&lt;img src="https://www.yomiuri.co.jp/media/2026/04/20260422-GYT1I00111-1.jpg?type=ogp" /&gt;&lt;br/&gt;【読売新聞】　米紙ニューヨーク・タイムズは２１日、ウクライナが東部ドンバス地方（ドネツク、ルハンスク州）の一部を、米国のドナルド・トランプ大統領にちなみ「ドニーランド」に改名することを米側に提案していたと報じた。ドンバス地方の領土割</description>
@@ -41,11 +48,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/world/20260422-GYT1T00088/</comments>
     </item>
     <item>
-      <title>【分析】トランプ氏支持率、崩壊が始まった可能性</title>
-      <link>https://www.cnn.co.jp/usa/35246737.html</link>
-      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/04/22/c4b6e9a2f7d3374366914e2a2484f22f/gettyimages-57268880.jpg" /&gt;&lt;br/&gt;ホワイトハウスでのジョージ・W・ブッシュ大統領（当時）＝2006年4月/Win McNamee/Getty Images/File （CNN） ジョージ・W・ブッシュ元米大統領の支持率が崩れ始めたのは、20年前のまさにほぼこの時期だった。そして、同氏の支持率が冬の終わりから春先にかけて多くの世論調査で初めて30％台に落ち込んだ原因は明白だっ...</description>
-      <pubDate>Wed, 22 Apr 2026 04:15:01 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35246737.html</comments>
+      <title>その生産性向上、現場が静かに支払っているコストの話</title>
+      <link>https://zenn.dev/shintaroamaike/articles/69a7611880420d</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--t4Qb4dMs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%259D%25E3%2581%25AE%25E7%2594%259F%25E7%2594%25A3%25E6%2580%25A7%25E5%2590%2591%25E4%25B8%258A%25E3%2580%2581%25E7%258F%25BE%25E5%25A0%25B4%25E3%2581%258C%25E9%259D%2599%25E3%2581%258B%25E3%2581%25AB%25E6%2594%25AF%25E6%2589%2595%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ShintaroAmaike%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVmNWYzMmE0MWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに Claude Code をはじめとする AI コーディング支援ツールの高度化により、マークダウンで構造化された仕様書を AI に渡して実装を進める、いわゆる仕様駆動型の開発スタイルが広まりつつあります。 実装速度は目に見えて向上し、かつてであれば数日かかった作業が数時間で完了するケースも珍しくありません。 一...</description>
+      <pubDate>Wed, 22 Apr 2026 05:52:45 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/shintaroamaike/articles/69a7611880420d</comments>
     </item>
     <item>
       <title>「君のPC、どのローカルAIを動かせる？」がわかるWebサイト「CanIRun.ai」が便利。訪問するだけで自動判定（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
@@ -55,13 +62,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.techno-edge.net/article/2026/04/22/5008.html</comments>
     </item>
     <item>
-      <title>「こんなこと言われたら死ぬしかない...」婚活パーティーで関西出身の女性が「お前おもんないねん」と言って大喧嘩...→関西人が「おもんない」と言うときはとてつもなく重い意味がある</title>
-      <link>https://togetter.com/li/2688588</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/9fa7d03331c3e80765392eebcf0d9bc7-1200x630.jpeg" /&gt;&lt;br/&gt;南国飯（M）&#x1f334; @intj_konkatsu 10年以上婚活してる40代男女が婚活パーティーで大喧嘩になりかけたことあります。関西出身の女性が男性を「お前おもんないねん、もう喋んな」みたいに言ったことに男性がブチ切れ。(正直、男性もかなりの癖強で言われても仕方ない部分はありました） 癖強同士は会わせない方がいいかもしれ...</description>
-      <pubDate>Wed, 22 Apr 2026 03:43:53 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688588</comments>
-    </item>
-    <item>
       <title>事実と異なる記事に対する発信者情報開示請求 - Hatena Policies</title>
       <link>https://policies.hatena.ne.jp/entry/2026/04/22/155533</link>
       <description>&lt;img src="https://ogimage.blog.st-hatena.com/17680117127077666492/17179246901379362033/1776840933" /&gt;&lt;br/&gt;匿名ダイアリーに記事（タイトル「フリマアプリの会社で働いていた」）が投稿された 当該記事につき、事実と異なり名誉毀損に該当するとして、記事内に言及された法人より削除申立および発信者情報開示請求あり 当初記事に記載されていた法人名は投稿者により削除されていたが、当該記事に対するブックマークコメントやS...</description>
@@ -69,11 +69,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/policies.hatena.ne.jp/entry/2026/04/22/155533</comments>
     </item>
     <item>
-      <title>はてなーってもう40とか50でしょ？</title>
-      <link>https://anond.hatelabo.jp/20260421230350</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;そんな歳になってまだモテるために服装がーとか清潔感がーとか言ってるの笑える おっさんおばさんが何着てるかなんてお互い気にしてねえよもう 中身が問題になる歳でしょ</description>
-      <pubDate>Tue, 21 Apr 2026 14:13:41 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260421230350</comments>
+      <title>「こんなこと言われたら死ぬしかない...」婚活パーティーで関西出身の女性が「お前おもんないねん」と言って大喧嘩...→関西人が「おもんない」と言うときはとてつもなく重い意味がある</title>
+      <link>https://togetter.com/li/2688588</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/9fa7d03331c3e80765392eebcf0d9bc7-1200x630.jpeg" /&gt;&lt;br/&gt;南国飯（M）&#x1f334; @intj_konkatsu 10年以上婚活してる40代男女が婚活パーティーで大喧嘩になりかけたことあります。関西出身の女性が男性を「お前おもんないねん、もう喋んな」みたいに言ったことに男性がブチ切れ。(正直、男性もかなりの癖強で言われても仕方ない部分はありました） 癖強同士は会わせない方がいいかもしれ...</description>
+      <pubDate>Wed, 22 Apr 2026 03:43:53 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688588</comments>
     </item>
     <item>
       <title>家電量販店の試用機に次々と政治的メッセージが書かれる...この行為に批判集まる上に、法的責任を問われる可能性もある「バイトテロとか醤油ペロペロと同レベル」</title>
@@ -81,6 +81,13 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/cb5e17a71ea22e6768200b67ff7be5e8-1200x630.jpeg" /&gt;&lt;br/&gt;@すっちー&#x1f40a;&#x1f40a;&#x1f40a;&#x1f40a;&#x1f40a;&#x1f40a;&#x1f40a;&#x1f40a;♑ @sutti_kappa @null1126690 主張の賛否は置いといてコレを第三者がみたらどう思うのか。 政治的主張したいのか自分の嫌悪感を吐き出す自己満足をしたいだけなのか一旦考えてみてください。 2026-04-20 15:50:17 JP @T4wZDO7Vg62gZuT @null1126690 かつてサラリーマン時代に量販店の店長やっ...</description>
       <pubDate>Wed, 22 Apr 2026 07:17:49 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688661</comments>
+    </item>
+    <item>
+      <title>はてなーってもう40とか50でしょ？</title>
+      <link>https://anond.hatelabo.jp/20260421230350</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;そんな歳になってまだモテるために服装がーとか清潔感がーとか言ってるの笑える おっさんおばさんが何着てるかなんてお互い気にしてねえよもう 中身が問題になる歳でしょ</description>
+      <pubDate>Tue, 21 Apr 2026 14:13:41 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260421230350</comments>
     </item>
     <item>
       <title>iDeCo50歳以上に追加拠出枠　自民党案、氷河期世代の資産形成を支援 - 日本経済新聞</title>
@@ -104,13 +111,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688567</comments>
     </item>
     <item>
-      <title>異世界もので全然元ネタがわからないもの第一位『聖女』…近年のファンタジーにおける神秘性が薄くカジュアルな聖女はどこから出てきたのか？という話</title>
-      <link>https://togetter.com/li/2688565</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/71c54e232619a2222139eede028b3a78-1200x630.jpeg" /&gt;&lt;br/&gt;宮前葵 @AOIKEN72 異世界もので私が全然元ネタが分からないもの第一位。 「聖女」 ……これどっから出てきたの？ いや、現状は知ってるよ。書いたもの（笑）。だけどこれほど元ネタが良く分かんない存在もないよね。 2026-04-21 15:51:53 宮前葵 @AOIKEN72 最近のファンタジーにおける聖女。 ・人の傷や怪我を特別に癒す能...</description>
-      <pubDate>Wed, 22 Apr 2026 01:42:14 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688565</comments>
-    </item>
-    <item>
       <title>「現代の最遊記」 海外イベントで会った中国人の日本語スタッフが「漫画を買いに日本へ行くと、三蔵法師の気持ちが分かる」と語る姿に深みがある</title>
       <link>https://togetter.com/li/2688628</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/b70dc8e2d85494867f3c99e98847e4b4-1200x630.jpeg" /&gt;&lt;br/&gt;こげどんぼ*&#x1f9b9;‍♀️&#x1f94b;&#x1f49c;Vtuberざべてさま @koge_dobo 海外イベント招待された時の現地の日本語スタッフさん、ほぼ100%「日本の漫画を読むために日本語を勉強した」って言う。 そして前見た中国の方の「漫画を買いに日本へ行くと、経典のために天竺まで旅した三蔵法師の気持ちが分かる」って話は深すぎた。 x.com/rx_9999_2/st...</description>
@@ -118,11 +118,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688628</comments>
     </item>
     <item>
-      <title>大阪駅直結なのに、日本人も外国人客も来ない…開業1年で「廃墟フードコート」と呼ばれたピカピカ新施設の悲劇（プレジデントオンライン） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/3f9f1c93b43e87b60fefc3890babfecd9f62a019</link>
-      <description>&lt;img src="https://s.yimg.jp/images/news-web/versions/20260422-70b81db/all/images/ogp_default.png" /&gt;&lt;br/&gt;大阪駅の目の前という絶好の立地に、昨年3月オープンしたフードコート「タイムアウトマーケット大阪」。開店から1時間以上、200席のテーブルに誰も座らない。オフィスワーカーも子連れファミリーも外国人観光客も完全スルー。なぜピカピカの新施設が「廃墟」と呼ばれるのか、フリーライターの宮武和多哉さんが取材した――...</description>
-      <pubDate>Wed, 22 Apr 2026 01:24:24 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/3f9f1c93b43e87b60fefc3890babfecd9f62a019</comments>
+      <title>トランプはどんな男なのか？元側近、知人たちが明かす数々の不名誉な人物評</title>
+      <link>https://wedge.ismedia.jp/articles/-/40521</link>
+      <description>&lt;img src="https://wedge.ismcdn.jp/mwimgs/3/a/1024/img_3a3719255178faca009fd7e1aaf4b120389717.jpg" /&gt;&lt;br/&gt;「イラン文明が今夜にも滅びる」「ローマ教皇はイランの核容認者」など常軌を逸した発言から、自身をイエス・キリストに擬したAI画像発信に至るまで、奇異な言動が続く米国のトランプ大統領。その個人的“資質”に対し、改めてメディアの関心が高まっている。 トランプ大統領に関し、毀誉褒貶さまざまな風評があるのは、就...</description>
+      <pubDate>Wed, 22 Apr 2026 04:02:23 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/wedge.ismedia.jp/articles/-/40521</comments>
+    </item>
+    <item>
+      <title>異世界もので全然元ネタがわからないもの第一位『聖女』…近年のファンタジーにおける神秘性が薄くカジュアルな聖女はどこから出てきたのか？という話</title>
+      <link>https://togetter.com/li/2688565</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/71c54e232619a2222139eede028b3a78-1200x630.jpeg" /&gt;&lt;br/&gt;宮前葵 @AOIKEN72 異世界もので私が全然元ネタが分からないもの第一位。 「聖女」 ……これどっから出てきたの？ いや、現状は知ってるよ。書いたもの（笑）。だけどこれほど元ネタが良く分かんない存在もないよね。 2026-04-21 15:51:53 宮前葵 @AOIKEN72 最近のファンタジーにおける聖女。 ・人の傷や怪我を特別に癒す能...</description>
+      <pubDate>Wed, 22 Apr 2026 01:42:14 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688565</comments>
     </item>
     <item>
       <title>「BUTTER」出版契約解消　差別コラム巡り柚木麻子さん</title>
@@ -130,27 +137,6 @@
       <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;作家の柚木麻子さん（44）が、世界的なベストセラーになった小説「BUTTER」の新潮社との出版契約を解消したことを22日、自身のインスタグラムで公表した。週刊新潮が昨年、作家の深沢潮さんの出自に関する差別的なコラムを掲載したことを挙げ「私なりの最大限の意思表示です」としている。今後、河出書房新社が出版する...</description>
       <pubDate>Wed, 22 Apr 2026 03:59:14 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14190113.html</comments>
-    </item>
-    <item>
-      <title>大阪駅直結なのに､日本人も外国人客も来ない…開業1年で｢廃墟フードコート｣と呼ばれたピカピカ新施設の悲劇</title>
-      <link>https://president.jp/articles/-/112170</link>
-      <description>&lt;img src="https://president.ismcdn.jp/mwimgs/f/6/1200wm/img_f6186a83b8e3e4dab1c4b0c303011ab91974746.jpg" /&gt;&lt;br/&gt;大阪駅の目の前という絶好の立地に、昨年3月オープンしたフードコート「タイムアウトマーケット大阪」。開店から1時間以上、200席のテーブルに誰も座らない。オフィスワーカーも子連れファミリーも外国人観光客も完全スルー。なぜピカピカの新施設が「廃墟」と呼ばれるのか、フリーライターの宮武和多哉さんが取材した――...</description>
-      <pubDate>Wed, 22 Apr 2026 01:05:49 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/president.jp/articles/-/112170</comments>
-    </item>
-    <item>
-      <title>TVアニメ『ビブリア古書堂の事件手帖』公式サイト｜2027年 TVアニメ化</title>
-      <link>https://biblia-anime.com/</link>
-      <description>&lt;img src="https://biblia-anime.com/assets/images/common/teaser/ogp.webp" /&gt;&lt;br/&gt;そこには今日も、古書と秘密を抱えた 客人たちが訪れる。 店主の篠川栞子は、初対面の相手とは 口もきけないほどの極度の人見知り。 けれど、本に対して人一倍の情熱を持つ 彼女は、古書を手にすれば頁をめくるように 淀みなく語りはじめ、 そこに秘められた謎と 物語を読み解いていく……。 メディアワークス文庫刊行の、...</description>
-      <pubDate>Wed, 22 Apr 2026 01:14:53 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/biblia-anime.com/</comments>
-    </item>
-    <item>
-      <title>『正常性バイアスって怖いわ』会社で警報が鳴るも、どうせ誤報だろうと放置→近所の人が通報→消防車が来て誤作動ですと説明→消防士が確認したら本当に火事だった</title>
-      <link>https://togetter.com/li/2688566</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/97d0f922799cdc584ac5617d5c041bbb-1200x630.jpeg" /&gt;&lt;br/&gt;おがりや@右下(ムゥ) @ogariya 正常性バイアスって怖いわ… 今日、会社の入ってる建物が火事だったんだけど 出社する 警報が鳴る どうせ誤報やろ→20分以上そのまま仕事する 近所の人が通報したらしく 消防車来る 上の階から来た人は煙もないし警報の誤作動ですよみたいな説明しす 念の為消防士が確認 本当に火事でした 20...</description>
-      <pubDate>Wed, 22 Apr 2026 01:56:34 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688566</comments>
     </item>
   </channel>
 </rss>
