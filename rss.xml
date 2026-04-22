@@ -4,20 +4,13 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 22 Apr 2026 07:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 08:33:09 +0000</lastBuildDate>
     <item>
       <title>「君のPC、どのローカルAIを動かせる？」がわかるWebサイト「CanIRun.ai」が便利。訪問するだけで自動判定（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
       <link>https://www.techno-edge.net/article/2026/04/22/5008.html</link>
       <description>&lt;img src="https://www.techno-edge.net/imgs/ogp_f/30979.png" /&gt;&lt;br/&gt;1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、サイトに訪問するだけで自分のPCでどのAIモデルがローカル動作するかを判定してくれるサイト「CanIRun.ai」（Can your machine ru...</description>
       <pubDate>Tue, 21 Apr 2026 23:59:35 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.techno-edge.net/article/2026/04/22/5008.html</comments>
-    </item>
-    <item>
-      <title>大阪駅直結なのに、日本人も外国人客も来ない…開業1年で「廃墟フードコート」と呼ばれたピカピカ新施設の悲劇（プレジデントオンライン） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/3f9f1c93b43e87b60fefc3890babfecd9f62a019</link>
-      <description>&lt;img src="https://s.yimg.jp/images/news-web/versions/20260421-72fb160/all/images/ogp_default.png" /&gt;&lt;br/&gt;大阪駅の目の前という絶好の立地に、昨年3月オープンしたフードコート「タイムアウトマーケット大阪」。開店から1時間以上、200席のテーブルに誰も座らない。オフィスワーカーも子連れファミリーも外国人観光客も完全スルー。なぜピカピカの新施設が「廃墟」と呼ばれるのか、フリーライターの宮武和多哉さんが取材した――...</description>
-      <pubDate>Wed, 22 Apr 2026 01:24:24 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/3f9f1c93b43e87b60fefc3890babfecd9f62a019</comments>
     </item>
     <item>
       <title>はてなーってもう40とか50でしょ？</title>
@@ -27,11 +20,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260421230350</comments>
     </item>
     <item>
+      <title>大阪駅直結なのに、日本人も外国人客も来ない…開業1年で「廃墟フードコート」と呼ばれたピカピカ新施設の悲劇（プレジデントオンライン） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/3f9f1c93b43e87b60fefc3890babfecd9f62a019</link>
+      <description>&lt;img src="https://s.yimg.jp/images/news-web/versions/20260421-72fb160/all/images/ogp_default.png" /&gt;&lt;br/&gt;大阪駅の目の前という絶好の立地に、昨年3月オープンしたフードコート「タイムアウトマーケット大阪」。開店から1時間以上、200席のテーブルに誰も座らない。オフィスワーカーも子連れファミリーも外国人観光客も完全スルー。なぜピカピカの新施設が「廃墟」と呼ばれるのか、フリーライターの宮武和多哉さんが取材した――...</description>
+      <pubDate>Wed, 22 Apr 2026 01:24:24 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/3f9f1c93b43e87b60fefc3890babfecd9f62a019</comments>
+    </item>
+    <item>
       <title>とほほのローカルAI入門 - とほほのWWW入門</title>
       <link>https://www.tohoho-web.com/ai/local-ai.html</link>
       <description>docker run -it --name hf python:3.14 bash apt update apt -y install vim pip install transformers torch from transformers import pipeline pipe = pipeline(task="text-generation", model="distilgpt2") print(pipe("Hello")) Can I Run AI locally? 概要 https://www.canirun.ai/ WebGPU などの技術を用いてア...</description>
       <pubDate>Tue, 21 Apr 2026 10:48:31 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.tohoho-web.com/ai/local-ai.html</comments>
+    </item>
+    <item>
+      <title>「こんなこと言われたら死ぬしかない...」婚活パーティーで関西出身の女性が「お前おもんないねん」と言って大喧嘩...→関西人が「おもんない」と言うときはとてつもなく重い意味がある</title>
+      <link>https://togetter.com/li/2688588</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/9fa7d03331c3e80765392eebcf0d9bc7-1200x630.jpeg" /&gt;&lt;br/&gt;南国飯（M）&#x1f334; @intj_konkatsu 10年以上婚活してる40代男女が婚活パーティーで大喧嘩になりかけたことあります。関西出身の女性が男性を「お前おもんないねん、もう喋んな」みたいに言ったことに男性がブチ切れ。(正直、男性もかなりの癖強で言われても仕方ない部分はありました） 癖強同士は会わせない方がいいかもしれ...</description>
+      <pubDate>Wed, 22 Apr 2026 03:43:53 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688588</comments>
     </item>
     <item>
       <title>iDeCo50歳以上に追加拠出枠　自民党案、氷河期世代の資産形成を支援 - 日本経済新聞</title>
@@ -55,13 +62,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/biblia-anime.com/</comments>
     </item>
     <item>
-      <title>へずまりゅう、奈良市議から刑事告訴 「迷惑系YouTuber」から「迷惑系市議会議員」に看板変えただけか | NEWSjp</title>
-      <link>https://news.jp/i/1418914935273963573</link>
-      <description>&lt;img src="https://img.nordot.app/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1418914920256979972/origin_1.jpg" /&gt;&lt;br/&gt;へずまりゅう、奈良市議から刑事告訴 「迷惑系YouTuber」から「迷惑系市議会議員」に看板変えただけか 元迷惑系YouTuberのへずまりゅう奈良市議が、脅迫などの疑いで刑事告訴されたことが明らかになった。届けを出したのは同じ奈良市議会議員の柿本元気氏。 へずま市議は、3月16日の奈良市議会で委員会質疑の休憩時間に...</description>
-      <pubDate>Tue, 21 Apr 2026 14:30:11 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.jp/i/1418914935273963573</comments>
-    </item>
-    <item>
       <title>登山アパレルメーカーに『もっと地味な色にしろ&#x1f624;』って言うの山で死にたいのか？って感想しかない→同意する意見やタウンユースしたい人の意見など集まる</title>
       <link>https://togetter.com/li/2688556</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/024e5a259dbda7facc44789c56081eca-1200x630.jpeg" /&gt;&lt;br/&gt;꧁༒ＺＡＧＡＴＯ༒꧂ @ZAGATO57478388 @toritori_gt 本当ソレですね。 バイク仲間の陸自二佐(㊗️昇進)が“アウトドアで雰囲気演出としての迷彩は絶対御法度”と繰り返し訴えている言葉を教えて上げたいです&#x1f645;‍♂️&#x1f645;‍♂️ 狭い範囲、それも“航空機が写っている”と解っている画像でもご覧の通りですから…&#x1f630;&#x1f630; 単体では鮮やかな氷河/洋上迷...</description>
@@ -74,6 +74,13 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/97d0f922799cdc584ac5617d5c041bbb-1200x630.jpeg" /&gt;&lt;br/&gt;おがりや@右下(ムゥ) @ogariya 正常性バイアスって怖いわ… 今日、会社の入ってる建物が火事だったんだけど 出社する 警報が鳴る どうせ誤報やろ→20分以上そのまま仕事する 近所の人が通報したらしく 消防車来る 上の階から来た人は煙もないし警報の誤作動ですよみたいな説明しす 念の為消防士が確認 本当に火事でした 20...</description>
       <pubDate>Wed, 22 Apr 2026 01:56:34 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688566</comments>
+    </item>
+    <item>
+      <title>へずまりゅう、奈良市議から刑事告訴 「迷惑系YouTuber」から「迷惑系市議会議員」に看板変えただけか | NEWSjp</title>
+      <link>https://news.jp/i/1418914935273963573</link>
+      <description>&lt;img src="https://img.nordot.app/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1418914920256979972/origin_1.jpg" /&gt;&lt;br/&gt;へずまりゅう、奈良市議から刑事告訴 「迷惑系YouTuber」から「迷惑系市議会議員」に看板変えただけか 元迷惑系YouTuberのへずまりゅう奈良市議が、脅迫などの疑いで刑事告訴されたことが明らかになった。届けを出したのは同じ奈良市議会議員の柿本元気氏。 へずま市議は、3月16日の奈良市議会で委員会質疑の休憩時間に...</description>
+      <pubDate>Tue, 21 Apr 2026 14:30:11 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.jp/i/1418914935273963573</comments>
     </item>
     <item>
       <title>なぜ、「プログラマーの三大美徳」は日本でばかり有名なのか？</title>
@@ -97,6 +104,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688544</comments>
     </item>
     <item>
+      <title>アルミ市場、「ブラックスワン」級の供給ショック＝商品取引会社</title>
+      <link>https://jp.reuters.com/markets/commodities/SDMG5MEUDZNABCBBOWA7FXMLMI-2026-04-21/</link>
+      <description>&lt;img src="https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&amp;amp;height=1005&amp;amp;width=1920&amp;amp;quality=80&amp;amp;smart=true" /&gt;&lt;br/&gt;[ローザンヌ（スイス） ２１日 ロイター] - 商品取引会社マーキュリアの金属アナリスト​は、世界のアルミニウム市場で‌は中東紛争による混乱で供給ショックが起きており、今年は大幅な不足に陥​る可能性があるとして、「ブラック​スワン（予期せぬ極端な事象）」⁠に見舞われていると語った。 マーキュリアの金属・鉱業リ...</description>
+      <pubDate>Tue, 21 Apr 2026 22:51:26 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/jp.reuters.com/markets/commodities/SDMG5MEUDZNABCBBOWA7FXMLMI-2026-04-21/</comments>
+    </item>
+    <item>
       <title>【特集】 「Claude Cowork」5つの使い方。定型業務を丸ごとAIに任せてみる</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/feature/2103480.html</link>
       <pubDate>Tue, 21 Apr 2026 21:27:45 +0000</pubDate>
@@ -114,13 +128,6 @@
       <description>&lt;img src="https://cdn-ak-img.shonenjumpplus.com/public/series-thumbnail/17107419589536330256-b9397cd973902bcf56b59386e32abb34?1776783007" /&gt;&lt;br/&gt;ヒトナー 屋宜知宏 &lt;毎週水曜更新&gt;ケモノが住む最果ての星に一人の地球人が訪れる。獣人たちは初めて目にする"ヒト"の姿に揺れ動く。異種族交流の中で変化するケモ社会・・・『アイアンナイト』、『レッドスプライト』の屋宜知宏が描くハートフル異種族観察物語!!</description>
       <pubDate>Tue, 21 Apr 2026 15:00:59 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/shonenjumpplus.com/episode/17107419589536396171</comments>
-    </item>
-    <item>
-      <title>辺野古転覆から1カ月超、沖縄・玉城知事が現場近くで献花「落ち着くタイミング待った」</title>
-      <link>https://www.sankei.com/article/20260421-WPFGZRP2T5OCXPBYEMUELPZPD4/</link>
-      <description>&lt;img src="https://www.sankei.com/resizer/v2/OGFWR3TTAFLCHCTTDWRGGSRCII.jpg?auth=eb53191c2501eb402121323c63dfd07c9a58a5eccc770bcb7eea7e685b0cbef9&amp;amp;quality=50&amp;amp;focal=1926%2C1789&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;現場海域に近い瀬嵩の浜で献花する沖縄県の玉城デニー知事＝4月21日、同県名護市（大竹直樹撮影）沖縄県名護市辺野古沖で船2隻が転覆し、平和学習中の同志社国際高（京都府）2年の女子生徒ら2人が死亡した事故で、沖縄県の玉城デニー知事が21日、現場海域近くの浜を訪れ、犠牲者に花を手向けた。事故から1カ月以上たって...</description>
-      <pubDate>Tue, 21 Apr 2026 12:02:22 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260421-WPFGZRP2T5OCXPBYEMUELPZPD4/</comments>
     </item>
   </channel>
 </rss>
