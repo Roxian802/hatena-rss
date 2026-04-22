@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 22 Apr 2026 09:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 10:33:09 +0000</lastBuildDate>
+    <item>
+      <title>高木さんの思い出</title>
+      <link>https://anond.hatelabo.jp/20260421190223</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;7歳の時に父が交通事故で死亡した。 土曜日に友人宅にいった帰りにトラックに追突されての死亡だった。世界で一番悲しい日だった。 地元のニュースに出たのだが、同級生や先生に腫れ物にされるように対応されるのが本当に嫌だった。彼らが、どう対応してくれれば良かったのは、いまだにわからないけど。 労災ではないの...</description>
+      <pubDate>Tue, 21 Apr 2026 10:12:46 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260421190223</comments>
+    </item>
     <item>
       <title>「君のPC、どのローカルAIを動かせる？」がわかるWebサイト「CanIRun.ai」が便利。訪問するだけで自動判定（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
       <link>https://www.techno-edge.net/article/2026/04/22/5008.html</link>
@@ -18,6 +25,13 @@
       <description>&lt;img src="https://www.yomiuri.co.jp/media/2026/04/20260422-GYT1I00111-1.jpg?type=ogp" /&gt;&lt;br/&gt;【読売新聞】　米紙ニューヨーク・タイムズは２１日、ウクライナが東部ドンバス地方（ドネツク、ルハンスク州）の一部を、米国のドナルド・トランプ大統領にちなみ「ドニーランド」に改名することを米側に提案していたと報じた。ドンバス地方の領土割</description>
       <pubDate>Wed, 22 Apr 2026 03:34:16 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/world/20260422-GYT1T00088/</comments>
+    </item>
+    <item>
+      <title>【分析】トランプ氏支持率、崩壊が始まった可能性</title>
+      <link>https://www.cnn.co.jp/usa/35246737.html</link>
+      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/04/22/c4b6e9a2f7d3374366914e2a2484f22f/gettyimages-57268880.jpg" /&gt;&lt;br/&gt;ホワイトハウスでのジョージ・W・ブッシュ大統領（当時）＝2006年4月/Win McNamee/Getty Images/File （CNN） ジョージ・W・ブッシュ元米大統領の支持率が崩れ始めたのは、20年前のまさにほぼこの時期だった。そして、同氏の支持率が冬の終わりから春先にかけて多くの世論調査で初めて30％台に落ち込んだ原因は明白だっ...</description>
+      <pubDate>Wed, 22 Apr 2026 04:15:01 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35246737.html</comments>
     </item>
     <item>
       <title>はてなーってもう40とか50でしょ？</title>
@@ -48,18 +62,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUA21C1K0R20C26A4000000/</comments>
     </item>
     <item>
-      <title>とほほのローカルAI入門 - とほほのWWW入門</title>
-      <link>https://www.tohoho-web.com/ai/local-ai.html</link>
-      <description>docker run -it --name hf python:3.14 bash apt update apt -y install vim pip install transformers torch from transformers import pipeline pipe = pipeline(task="text-generation", model="distilgpt2") print(pipe("Hello")) Can I Run AI locally? 概要 https://www.canirun.ai/ WebGPU などの技術を用いてア...</description>
-      <pubDate>Tue, 21 Apr 2026 10:48:31 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.tohoho-web.com/ai/local-ai.html</comments>
-    </item>
-    <item>
       <title>異世界もので全然元ネタがわからないもの第一位『聖女』…近年のファンタジーにおける神秘性が薄くカジュアルな聖女はどこから出てきたのか？という話</title>
       <link>https://togetter.com/li/2688565</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/71c54e232619a2222139eede028b3a78-1200x630.jpeg" /&gt;&lt;br/&gt;宮前葵 @AOIKEN72 異世界もので私が全然元ネタが分からないもの第一位。 「聖女」 ……これどっから出てきたの？ いや、現状は知ってるよ。書いたもの（笑）。だけどこれほど元ネタが良く分かんない存在もないよね。 2026-04-21 15:51:53 宮前葵 @AOIKEN72 最近のファンタジーにおける聖女。 ・人の傷や怪我を特別に癒す能...</description>
       <pubDate>Wed, 22 Apr 2026 01:42:14 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688565</comments>
+    </item>
+    <item>
+      <title>「鶏刺しを頼んだらこれが来た」一見するとただの鶏の刺身に見えるが...鶏刺し文化のある九州南部出身の人には何がヤバいのかすぐに分かる</title>
+      <link>https://togetter.com/li/2688567</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/c7ebfa302c69b74834131ee04085d06f-1200x630.jpeg" /&gt;&lt;br/&gt;カキ @rdjp524i 「周り炙るのが〜」みたいな引用めちゃくちゃ付いてるけど、それはタタキやろ。 ホッピーがある時点でそもそも怪しいけど（鳥刺しエリア公式ドリンクは焼酎なので）、″鳥刺し″を名乗っておきながら外側に火入ってたらその方が警戒する x.com/takuabei/statu… 2026-04-21 23:15:26</description>
+      <pubDate>Wed, 22 Apr 2026 01:25:02 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688567</comments>
     </item>
     <item>
       <title>TVアニメ『ビブリア古書堂の事件手帖』公式サイト｜2027年 TVアニメ化</title>
@@ -69,11 +83,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/biblia-anime.com/</comments>
     </item>
     <item>
-      <title>「鶏刺しを頼んだらこれが来た」一見するとただの鶏の刺身に見えるが...鶏刺し文化のある九州南部出身の人には何がヤバいのかすぐに分かる</title>
-      <link>https://togetter.com/li/2688567</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/c7ebfa302c69b74834131ee04085d06f-1200x630.jpeg" /&gt;&lt;br/&gt;カキ @rdjp524i 「周り炙るのが〜」みたいな引用めちゃくちゃ付いてるけど、それはタタキやろ。 ホッピーがある時点でそもそも怪しいけど（鳥刺しエリア公式ドリンクは焼酎なので）、″鳥刺し″を名乗っておきながら外側に火入ってたらその方が警戒する x.com/takuabei/statu… 2026-04-21 23:15:26</description>
-      <pubDate>Wed, 22 Apr 2026 01:25:02 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688567</comments>
+      <title>とほほのローカルAI入門 - とほほのWWW入門</title>
+      <link>https://www.tohoho-web.com/ai/local-ai.html</link>
+      <description>docker run -it --name hf python:3.14 bash apt update apt -y install vim pip install transformers torch from transformers import pipeline pipe = pipeline(task="text-generation", model="distilgpt2") print(pipe("Hello")) Can I Run AI locally? 概要 https://www.canirun.ai/ WebGPU などの技術を用いてア...</description>
+      <pubDate>Tue, 21 Apr 2026 10:48:31 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.tohoho-web.com/ai/local-ai.html</comments>
+    </item>
+    <item>
+      <title>「BUTTER」出版契約解消　差別コラム巡り柚木麻子さん</title>
+      <link>https://www.47news.jp/14190113.html</link>
+      <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;作家の柚木麻子さん（44）が、世界的なベストセラーになった小説「BUTTER」の新潮社との出版契約を解消したことを22日、自身のインスタグラムで公表した。週刊新潮が昨年、作家の深沢潮さんの出自に関する差別的なコラムを掲載したことを挙げ「私なりの最大限の意思表示です」としている。今後、河出書房新社が出版する...</description>
+      <pubDate>Wed, 22 Apr 2026 03:59:14 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14190113.html</comments>
     </item>
     <item>
       <title>登山アパレルメーカーに『もっと地味な色にしろ&#x1f624;』って言うの山で死にたいのか？って感想しかない→同意する意見やタウンユースしたい人の意見など集まる</title>
@@ -90,13 +111,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688566</comments>
     </item>
     <item>
-      <title>「BUTTER」出版契約解消　差別コラム巡り柚木麻子さん</title>
-      <link>https://www.47news.jp/14190113.html</link>
-      <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;作家の柚木麻子さん（44）が、世界的なベストセラーになった小説「BUTTER」の新潮社との出版契約を解消したことを22日、自身のインスタグラムで公表した。週刊新潮が昨年、作家の深沢潮さんの出自に関する差別的なコラムを掲載したことを挙げ「私なりの最大限の意思表示です」としている。今後、河出書房新社が出版する...</description>
-      <pubDate>Wed, 22 Apr 2026 03:59:14 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14190113.html</comments>
-    </item>
-    <item>
       <title>へずまりゅう、奈良市議から刑事告訴 「迷惑系YouTuber」から「迷惑系市議会議員」に看板変えただけか | NEWSjp</title>
       <link>https://news.jp/i/1418914935273963573</link>
       <description>&lt;img src="https://img.nordot.app/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1418914920256979972/origin_1.jpg" /&gt;&lt;br/&gt;へずまりゅう、奈良市議から刑事告訴 「迷惑系YouTuber」から「迷惑系市議会議員」に看板変えただけか 元迷惑系YouTuberのへずまりゅう奈良市議が、脅迫などの疑いで刑事告訴されたことが明らかになった。届けを出したのは同じ奈良市議会議員の柿本元気氏。 へずま市議は、3月16日の奈良市議会で委員会質疑の休憩時間に...</description>
@@ -104,18 +118,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.jp/i/1418914935273963573</comments>
     </item>
     <item>
-      <title>なぜ、「プログラマーの三大美徳」は日本でばかり有名なのか？</title>
-      <link>https://zenn.dev/pdfractal/articles/7769297acf47a3</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--VuUOVOPc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%25E3%2580%2581%25E3%2580%258C%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%25E3%2583%25BC%25E3%2581%25AE%25E4%25B8%2589%25E5%25A4%25A7%25E7%25BE%258E%25E5%25BE%25B3%25E3%2580%258D%25E3%2581%25AF%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25A7%25E3%2581%25B0%25E3%2581%258B%25E3%2582%258A%25E6%259C%2589%25E5%2590%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pdfractal%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlODUxNjI3MGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに プログラマーの三大美徳は、ラリー・ウォールが Perl の文化とともに提示した有名な言い回しですが、日本ではそれが単なる Perl の格言にとどまらず、広くエンジニア一般の心得として知られるようになりました。現在の Perl 公式文書でも、この三つは「Laziness, Impatience, and Hubris」として明記され、由来...</description>
-      <pubDate>Mon, 20 Apr 2026 15:36:13 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/pdfractal/articles/7769297acf47a3</comments>
-    </item>
-    <item>
       <title>ドローン編隊で巨大な「監視の目」　犯罪抑止狙う　滋賀・南おうみ市</title>
       <link>https://kyoko-np.net/2026042201.html</link>
       <description>&lt;img src="https://kyoko-np.net/images/miteruzo.jpg" /&gt;&lt;br/&gt;あなたの迷惑行為、空から見ています――。小型ドローン編隊を使って上空に巨大な「目」と「見てるぞ」の文字を浮かび上がらせる取り組みが２１日、滋賀県南おうみ市で始まった。軽犯罪や迷惑行為の抑止につなげるのが狙いだ。 市と浮汽製作所（滋賀県）の官民連携事業。約５千台の小型ドローンを編隊飛行させて、上空に人...</description>
       <pubDate>Tue, 21 Apr 2026 17:55:15 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/kyoko-np.net/2026042201.html</comments>
+    </item>
+    <item>
+      <title>なぜ、「プログラマーの三大美徳」は日本でばかり有名なのか？</title>
+      <link>https://zenn.dev/pdfractal/articles/7769297acf47a3</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--VuUOVOPc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%25E3%2580%2581%25E3%2580%258C%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%25E3%2583%25BC%25E3%2581%25AE%25E4%25B8%2589%25E5%25A4%25A7%25E7%25BE%258E%25E5%25BE%25B3%25E3%2580%258D%25E3%2581%25AF%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25A7%25E3%2581%25B0%25E3%2581%258B%25E3%2582%258A%25E6%259C%2589%25E5%2590%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pdfractal%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlODUxNjI3MGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに プログラマーの三大美徳は、ラリー・ウォールが Perl の文化とともに提示した有名な言い回しですが、日本ではそれが単なる Perl の格言にとどまらず、広くエンジニア一般の心得として知られるようになりました。現在の Perl 公式文書でも、この三つは「Laziness, Impatience, and Hubris」として明記され、由来...</description>
+      <pubDate>Mon, 20 Apr 2026 15:36:13 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/pdfractal/articles/7769297acf47a3</comments>
     </item>
     <item>
       <title>しゃぶ葉の“スケル豚”を生み出した店員は、刃物系の特殊技能の持ち主だから配置変えて活用した方がいいのでは…？「生ハム職人になるべき」</title>
@@ -130,18 +144,6 @@
       <description>&lt;img src="https://www.reuters.com/resizer/v2/672HYL2O7JNZPKGQPZSZ7ZQDR4.jpg?auth=830006e05a9ed382b800b8e310105729409ebdf237825f02fa7b8aa69b81f879&amp;amp;height=1005&amp;amp;width=1920&amp;amp;quality=80&amp;amp;smart=true" /&gt;&lt;br/&gt;写真は商品取引会社マーキュリア。2016年10月、スイスのジュネーブで撮影。REUTERS/Denis Balibouse [ローザンヌ（スイス） ２１日 ロイター] - 商品取引会社マーキュリアの金属アナリスト​は、世界のアルミニウム市場で‌は中東紛争による混乱で供給ショックが起きており、今年は大幅な不足に陥​る可能性があるとして、「...</description>
       <pubDate>Tue, 21 Apr 2026 22:51:26 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/jp.reuters.com/markets/commodities/SDMG5MEUDZNABCBBOWA7FXMLMI-2026-04-21/</comments>
-    </item>
-    <item>
-      <title>【特集】 「Claude Cowork」5つの使い方。定型業務を丸ごとAIに任せてみる</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2103480.html</link>
-      <pubDate>Tue, 21 Apr 2026 21:27:45 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/topic/feature/2103480.html</comments>
-    </item>
-    <item>
-      <title>SNSが好きな人も、そうでない人も知っておきたい「SNS周辺で今起きていること」 【INTERNET Watch編集部コラム】</title>
-      <link>https://internet.watch.impress.co.jp/docs/column/editors/2102935.html</link>
-      <pubDate>Tue, 21 Apr 2026 22:53:22 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/internet.watch.impress.co.jp/docs/column/editors/2102935.html</comments>
     </item>
   </channel>
 </rss>
