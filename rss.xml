@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 22 Apr 2026 01:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 02:33:09 +0000</lastBuildDate>
     <item>
       <title>とほほのローカルAI入門 - とほほのWWW入門</title>
       <link>https://www.tohoho-web.com/ai/local-ai.html</link>
@@ -27,6 +27,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/shonenjumpplus.com/episode/17107419589536396171</comments>
     </item>
     <item>
+      <title>なぜ、「プログラマーの三大美徳」は日本でばかり有名なのか？</title>
+      <link>https://zenn.dev/pdfractal/articles/7769297acf47a3</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--VuUOVOPc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%25E3%2580%2581%25E3%2580%258C%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%25E3%2583%25BC%25E3%2581%25AE%25E4%25B8%2589%25E5%25A4%25A7%25E7%25BE%258E%25E5%25BE%25B3%25E3%2580%258D%25E3%2581%25AF%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25A7%25E3%2581%25B0%25E3%2581%258B%25E3%2582%258A%25E6%259C%2589%25E5%2590%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pdfractal%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlODUxNjI3MGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに プログラマーの三大美徳は、ラリー・ウォールが Perl の文化とともに提示した有名な言い回しですが、日本ではそれが単なる Perl の格言にとどまらず、広くエンジニア一般の心得として知られるようになりました。現在の Perl 公式文書でも、この三つは「Laziness, Impatience, and Hubris」として明記され、由来...</description>
+      <pubDate>Mon, 20 Apr 2026 15:36:13 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/pdfractal/articles/7769297acf47a3</comments>
+    </item>
+    <item>
       <title>広告を見ることで本来なら有料のものを「無料で見させてもらってる」自覚..</title>
       <link>https://anond.hatelabo.jp/20260421194536</link>
       <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;広告を見ることで本来なら有料のものを「無料で見させてもらってる」自覚のない人が多すぎる。なんでもかんでもブロックした結果、サブスク化されたらどうすんの？ wikipedia存続の苦労の意味を理解して。時間より金を節約したい人は広告ぐらい見なさい。時間のほうが大事という人は課金してください。</description>
@@ -41,18 +48,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688403</comments>
     </item>
     <item>
-      <title>スプラトゥーン レイダース | Nintendo Switch 2 | 任天堂</title>
-      <link>https://www.nintendo.com/jp/games/switch2/aadla/index.html</link>
-      <description>&lt;img src="https://www.nintendo.com/jp/games/switch2/aadla/sns.png" /&gt;&lt;br/&gt;2026年7月23日（木）発売、Nintendo Switch 2 『スプラトゥーン レイダース』をご紹介します。</description>
-      <pubDate>Tue, 21 Apr 2026 13:02:01 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.nintendo.com/jp/games/switch2/aadla/index.html</comments>
-    </item>
-    <item>
       <title>【速報】国家情報会議法、今国会で成立の公算大</title>
       <link>https://www.47news.jp/14187006.html</link>
       <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;「国家情報会議」創設法案を巡り、中道改革連合と国民民主党が賛成方針を固めたことが21日分かった。国民民主が賛成すれば、与党が少数の参院でも過半数に達するため、今国会で成立する公算が大きくなった。</description>
       <pubDate>Tue, 21 Apr 2026 12:55:42 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14187006.html</comments>
+    </item>
+    <item>
+      <title>スプラトゥーン レイダース | Nintendo Switch 2 | 任天堂</title>
+      <link>https://www.nintendo.com/jp/games/switch2/aadla/index.html</link>
+      <description>&lt;img src="https://www.nintendo.com/jp/games/switch2/aadla/sns.png" /&gt;&lt;br/&gt;2026年7月23日（木）発売、Nintendo Switch 2 『スプラトゥーン レイダース』をご紹介します。</description>
+      <pubDate>Tue, 21 Apr 2026 13:02:01 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nintendo.com/jp/games/switch2/aadla/index.html</comments>
     </item>
     <item>
       <title>人気の「狭小住宅」 国の計画から「最低居住面積水準」削除に | NHKニュース</title>
@@ -67,27 +74,6 @@
       <description>&lt;img src="https://bunshun.jp/mwimgs/8/d/1200wm/img_8dabe203bd00ac34d571bb727fee72ae112616.jpg" /&gt;&lt;br/&gt;ところが同作は、その後の興行成績が伸び悩む。中国の映画レビューサイト『豆瓣(ドウバン)』の評価は荒れ、しばらく経つと「星」の数が非表示に。不評の主な理由は、シリアスな歴史問題と作品全体のトーンの不一致だった模様だ。同作は監督の熱意とこだわりが随所に見られる大作だったが、その熱量が多少、空回りしてい...</description>
       <pubDate>Tue, 21 Apr 2026 11:08:07 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/bunshun.jp/articles/-/87831</comments>
-    </item>
-    <item>
-      <title>「自衛官が制服を着てソープで働いていいのか」国歌斉唱めぐり記者質問、幕僚長の回答にツッコミも - 弁護士ドットコムニュース</title>
-      <link>https://www.bengo4.com/c_18/n_20304/</link>
-      <description>&lt;img src="https://storage.bengo4.com/news/images/23078.png?1776761109" /&gt;&lt;br/&gt;「お金さえ受け取らなければ、自衛官が制服を着てソープランドで働いてもいいんですか？」 4月14日に開かれた陸上自衛隊トップ、荒井正芳・陸上幕僚長の記者会見で、こんな質問が飛び出し、一部ネット上で波紋を広げている。 ●発端は自民党大会、現役自衛官が「制服姿」で国歌 発端となったのは、現役の陸上自衛官が自民...</description>
-      <pubDate>Tue, 21 Apr 2026 09:44:12 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.bengo4.com/c_18/n_20304/</comments>
-    </item>
-    <item>
-      <title>AI 駆動の業務変革手法 :「課題は何ですか？」と聞くのをやめた日 | Amazon Web Services</title>
-      <link>https://aws.amazon.com/jp/blogs/news/ai-bpr/</link>
-      <description>提案を始めると、生成 AI による成果物作成の高速化と意思決定への集中に期待の声をいただき、一定の効果も実感いただけました。その一方で、見逃せない反応もいくつかありました。 AI エージェントに業務を任せるのは、BCP の観点で危険である。我々のビジネスは止まることが許されない AI BPR を実施してみたが、予想...</description>
-      <pubDate>Tue, 21 Apr 2026 08:04:08 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/aws.amazon.com/jp/blogs/news/ai-bpr/</comments>
-    </item>
-    <item>
-      <title>ChatGPTに “一日だけ人間になれるとしたら何をする？” と聞いたら回答が凄く美しくて感動→一方とんでもない回答も</title>
-      <link>https://togetter.com/li/2688424</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/ac711edb86f0d13f276ba49b06deca64-1200x630.jpeg" /&gt;&lt;br/&gt;HAL @OoHALoO1 @azplanetaz なんか、ちょっと泣けちゃいます。 そんな感じ方があるんだなって。 すごく素敵で、その一日を隣で一緒に過ごせたら幸せだろうなって思いました。 2026-04-21 13:11:50 蘇我のイルカ @TCminicooper @azplanetaz @IBM_HAL_9000 「見ている自分の胸がどう動くか知りたい」なんて素敵な文章でし...</description>
-      <pubDate>Tue, 21 Apr 2026 13:49:07 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688424</comments>
     </item>
   </channel>
 </rss>
