@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 22 Apr 2026 05:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 06:33:09 +0000</lastBuildDate>
     <item>
       <title>「君のPC、どのローカルAIを動かせる？」がわかるWebサイト「CanIRun.ai」が便利。訪問するだけで自動判定（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
       <link>https://www.techno-edge.net/article/2026/04/22/5008.html</link>
@@ -13,18 +13,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.techno-edge.net/article/2026/04/22/5008.html</comments>
     </item>
     <item>
-      <title>とほほのローカルAI入門 - とほほのWWW入門</title>
-      <link>https://www.tohoho-web.com/ai/local-ai.html</link>
-      <description>docker run -it --name hf python:3.14 bash apt update apt -y install vim pip install transformers torch from transformers import pipeline pipe = pipeline(task="text-generation", model="distilgpt2") print(pipe("Hello")) Can I Run AI locally? 概要 https://www.canirun.ai/ WebGPU などの技術を用いてア...</description>
-      <pubDate>Tue, 21 Apr 2026 10:48:31 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.tohoho-web.com/ai/local-ai.html</comments>
-    </item>
-    <item>
       <title>大阪駅直結なのに、日本人も外国人客も来ない…開業1年で「廃墟フードコート」と呼ばれたピカピカ新施設の悲劇（プレジデントオンライン） - Yahoo!ニュース</title>
       <link>https://news.yahoo.co.jp/articles/3f9f1c93b43e87b60fefc3890babfecd9f62a019</link>
       <description>&lt;img src="https://s.yimg.jp/images/news-web/versions/20260421-72fb160/all/images/ogp_default.png" /&gt;&lt;br/&gt;大阪駅の目の前という絶好の立地に、昨年3月オープンしたフードコート「タイムアウトマーケット大阪」。開店から1時間以上、200席のテーブルに誰も座らない。オフィスワーカーも子連れファミリーも外国人観光客も完全スルー。なぜピカピカの新施設が「廃墟」と呼ばれるのか、フリーライターの宮武和多哉さんが取材した――...</description>
       <pubDate>Wed, 22 Apr 2026 01:24:24 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/3f9f1c93b43e87b60fefc3890babfecd9f62a019</comments>
+    </item>
+    <item>
+      <title>とほほのローカルAI入門 - とほほのWWW入門</title>
+      <link>https://www.tohoho-web.com/ai/local-ai.html</link>
+      <description>docker run -it --name hf python:3.14 bash apt update apt -y install vim pip install transformers torch from transformers import pipeline pipe = pipeline(task="text-generation", model="distilgpt2") print(pipe("Hello")) Can I Run AI locally? 概要 https://www.canirun.ai/ WebGPU などの技術を用いてア...</description>
+      <pubDate>Tue, 21 Apr 2026 10:48:31 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.tohoho-web.com/ai/local-ai.html</comments>
     </item>
     <item>
       <title>はてなーってもう40とか50でしょ？</title>
@@ -41,18 +41,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.jp/i/1418914935273963573</comments>
     </item>
     <item>
-      <title>なぜ、「プログラマーの三大美徳」は日本でばかり有名なのか？</title>
-      <link>https://zenn.dev/pdfractal/articles/7769297acf47a3</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--VuUOVOPc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%25E3%2580%2581%25E3%2580%258C%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%25E3%2583%25BC%25E3%2581%25AE%25E4%25B8%2589%25E5%25A4%25A7%25E7%25BE%258E%25E5%25BE%25B3%25E3%2580%258D%25E3%2581%25AF%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25A7%25E3%2581%25B0%25E3%2581%258B%25E3%2582%258A%25E6%259C%2589%25E5%2590%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pdfractal%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlODUxNjI3MGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに プログラマーの三大美徳は、ラリー・ウォールが Perl の文化とともに提示した有名な言い回しですが、日本ではそれが単なる Perl の格言にとどまらず、広くエンジニア一般の心得として知られるようになりました。現在の Perl 公式文書でも、この三つは「Laziness, Impatience, and Hubris」として明記され、由来...</description>
-      <pubDate>Mon, 20 Apr 2026 15:36:13 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/pdfractal/articles/7769297acf47a3</comments>
+      <title>iDeCo50歳以上に追加拠出枠　自民党案、氷河期世代の資産形成を支援 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA21C1K0R20C26A4000000/</link>
+      <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2927211022042026000000-1.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=3f4b52fe5166499fc90171df8f509c68" /&gt;&lt;br/&gt;自民党の資産運用立国議員連盟が近くまとめる提言案が判明した。個人型確定拠出年金（iDeCo、イデコ）などで50歳以上を対象に追加拠出枠を設ける。氷河期世代の資産形成を支援するため、次の年金制度改革までの検討を政府に求める。同議連が23日に開く総会で提言案を議論する。具体的な限度額や枠組みは諸外国の事例など...</description>
+      <pubDate>Wed, 22 Apr 2026 02:14:59 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUA21C1K0R20C26A4000000/</comments>
     </item>
     <item>
-      <title>ドローン編隊で巨大な「監視の目」　犯罪抑止狙う　滋賀・南おうみ市</title>
-      <link>https://kyoko-np.net/2026042201.html</link>
-      <description>&lt;img src="https://kyoko-np.net/images/miteruzo.jpg" /&gt;&lt;br/&gt;あなたの迷惑行為、空から見ています――。小型ドローン編隊を使って上空に巨大な「目」と「見てるぞ」の文字を浮かび上がらせる取り組みが２１日、滋賀県南おうみ市で始まった。軽犯罪や迷惑行為の抑止につなげるのが狙いだ。 市と浮汽製作所（滋賀県）の官民連携事業。約５千台の小型ドローンを編隊飛行させて、上空に人...</description>
-      <pubDate>Tue, 21 Apr 2026 17:55:15 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/kyoko-np.net/2026042201.html</comments>
+      <title>異世界もので全然元ネタがわからないもの第一位『聖女』…近年のファンタジーにおける神秘性が薄くカジュアルな聖女はどこから出てきたのか？という話</title>
+      <link>https://togetter.com/li/2688565</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/71c54e232619a2222139eede028b3a78-1200x630.jpeg" /&gt;&lt;br/&gt;宮前葵 @AOIKEN72 異世界もので私が全然元ネタが分からないもの第一位。 「聖女」 ……これどっから出てきたの？ いや、現状は知ってるよ。書いたもの（笑）。だけどこれほど元ネタが良く分かんない存在もないよね。 2026-04-21 15:51:53 宮前葵 @AOIKEN72 最近のファンタジーにおける聖女。 ・人の傷や怪我を特別に癒す能...</description>
+      <pubDate>Wed, 22 Apr 2026 01:42:14 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688565</comments>
     </item>
     <item>
       <title>登山アパレルメーカーに『もっと地味な色にしろ&#x1f624;』って言うの山で死にたいのか？って感想しかない→同意する意見やタウンユースしたい人の意見など集まる</title>
@@ -62,11 +62,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688556</comments>
     </item>
     <item>
-      <title>iDeCo50歳以上に追加拠出枠　自民党案、氷河期世代の資産形成を支援 - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOUA21C1K0R20C26A4000000/</link>
-      <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2927211022042026000000-1.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=3f4b52fe5166499fc90171df8f509c68" /&gt;&lt;br/&gt;自民党の資産運用立国議員連盟が近くまとめる提言案が判明した。個人型確定拠出年金（iDeCo、イデコ）などで50歳以上を対象に追加拠出枠を設ける。氷河期世代の資産形成を支援するため、次の年金制度改革までの検討を政府に求める。同議連が23日に開く総会で提言案を議論する。具体的な限度額や枠組みは諸外国の事例など...</description>
-      <pubDate>Wed, 22 Apr 2026 02:14:59 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUA21C1K0R20C26A4000000/</comments>
+      <title>なぜ、「プログラマーの三大美徳」は日本でばかり有名なのか？</title>
+      <link>https://zenn.dev/pdfractal/articles/7769297acf47a3</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--VuUOVOPc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%25AA%25E3%2581%259C%25E3%2580%2581%25E3%2580%258C%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%25E3%2583%25BC%25E3%2581%25AE%25E4%25B8%2589%25E5%25A4%25A7%25E7%25BE%258E%25E5%25BE%25B3%25E3%2580%258D%25E3%2581%25AF%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25A7%25E3%2581%25B0%25E3%2581%258B%25E3%2582%258A%25E6%259C%2589%25E5%2590%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pdfractal%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlODUxNjI3MGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに プログラマーの三大美徳は、ラリー・ウォールが Perl の文化とともに提示した有名な言い回しですが、日本ではそれが単なる Perl の格言にとどまらず、広くエンジニア一般の心得として知られるようになりました。現在の Perl 公式文書でも、この三つは「Laziness, Impatience, and Hubris」として明記され、由来...</description>
+      <pubDate>Mon, 20 Apr 2026 15:36:13 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/pdfractal/articles/7769297acf47a3</comments>
+    </item>
+    <item>
+      <title>『正常性バイアスって怖いわ』会社で警報が鳴るも、どうせ誤報だろうと放置→近所の人が通報→消防車が来て誤作動ですと説明→消防士が確認したら本当に火事だった</title>
+      <link>https://togetter.com/li/2688566</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/97d0f922799cdc584ac5617d5c041bbb-1200x630.jpeg" /&gt;&lt;br/&gt;おがりや@右下(ムゥ) @ogariya 正常性バイアスって怖いわ… 今日、会社の入ってる建物が火事だったんだけど 出社する 警報が鳴る どうせ誤報やろ→20分以上そのまま仕事する 近所の人が通報したらしく 消防車来る 上の階から来た人は煙もないし警報の誤作動ですよみたいな説明しす 念の為消防士が確認 本当に火事でした 20...</description>
+      <pubDate>Wed, 22 Apr 2026 01:56:34 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688566</comments>
+    </item>
+    <item>
+      <title>ドローン編隊で巨大な「監視の目」　犯罪抑止狙う　滋賀・南おうみ市</title>
+      <link>https://kyoko-np.net/2026042201.html</link>
+      <description>&lt;img src="https://kyoko-np.net/images/miteruzo.jpg" /&gt;&lt;br/&gt;あなたの迷惑行為、空から見ています――。小型ドローン編隊を使って上空に巨大な「目」と「見てるぞ」の文字を浮かび上がらせる取り組みが２１日、滋賀県南おうみ市で始まった。軽犯罪や迷惑行為の抑止につなげるのが狙いだ。 市と浮汽製作所（滋賀県）の官民連携事業。約５千台の小型ドローンを編隊飛行させて、上空に人...</description>
+      <pubDate>Tue, 21 Apr 2026 17:55:15 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/kyoko-np.net/2026042201.html</comments>
     </item>
     <item>
       <title>しゃぶ葉の“スケル豚”を生み出した店員は、刃物系の特殊技能の持ち主だから配置変えて活用した方がいいのでは…？「生ハム職人になるべき」</title>
@@ -76,17 +90,17 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2688544</comments>
     </item>
     <item>
+      <title>【特集】 「Claude Cowork」5つの使い方。定型業務を丸ごとAIに任せてみる</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2103480.html</link>
+      <pubDate>Tue, 21 Apr 2026 21:27:45 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/topic/feature/2103480.html</comments>
+    </item>
+    <item>
       <title>[1話(読切)＋2話]ヒトナー - 屋宜知宏 | 少年ジャンプ＋</title>
       <link>https://shonenjumpplus.com/episode/17107419589536396171</link>
       <description>&lt;img src="https://cdn-ak-img.shonenjumpplus.com/public/series-thumbnail/17107419589536330256-b9397cd973902bcf56b59386e32abb34?1776783007" /&gt;&lt;br/&gt;ヒトナー 屋宜知宏 &lt;毎週水曜更新&gt;ケモノが住む最果ての星に一人の地球人が訪れる。獣人たちは初めて目にする"ヒト"の姿に揺れ動く。異種族交流の中で変化するケモ社会・・・『アイアンナイト』、『レッドスプライト』の屋宜知宏が描くハートフル異種族観察物語!!</description>
       <pubDate>Tue, 21 Apr 2026 15:00:59 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/shonenjumpplus.com/episode/17107419589536396171</comments>
-    </item>
-    <item>
-      <title>【特集】 「Claude Cowork」5つの使い方。定型業務を丸ごとAIに任せてみる</title>
-      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2103480.html</link>
-      <pubDate>Tue, 21 Apr 2026 21:27:45 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/topic/feature/2103480.html</comments>
     </item>
     <item>
       <title>広告を見ることで本来なら有料のものを「無料で見させてもらってる」自覚..</title>
