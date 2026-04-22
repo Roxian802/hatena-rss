@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 22 Apr 2026 22:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 23:33:09 +0000</lastBuildDate>
+    <item>
+      <title>愚夫愚妻問題</title>
+      <link>https://anond.hatelabo.jp/20260422200526</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;「愚妻と言っても愚夫とは言わない」とか「愚妻というのは『愚かな妻』ではなく『愚かな自分の妻』という意味だ」などという話で盛り上がっているので調べてみた。 まず、中国語では「愚〜」は「自称」としてしか使われないようだ。 たとえば「愚兄」は年長者が使う自称で、「愚老」は老人が使う自称、「愚臣」は家臣が...</description>
+      <pubDate>Wed, 22 Apr 2026 11:15:41 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260422200526</comments>
+    </item>
     <item>
       <title>すごすぎて笑う、なにこれ　OpenAI、漫画や広告に強い画像生成AI「ChatGPT Images 2.0」正式発表</title>
       <link>https://ascii.jp/elem/000/004/396/4396995/</link>
@@ -20,11 +27,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/forbesjapan.com/articles/detail/96195</comments>
     </item>
     <item>
-      <title>「荒川弘は性差別を恐れて男性名義にした」という海外ファンの誤解についての覚書｜ヤヤネヒロコ</title>
-      <link>https://note.com/hiroko_yayane/n/n25ed767e3346</link>
-      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/16a7ec06753a70dddd8fe37b5f26b56d609830d6.png" /&gt;&lt;br/&gt;近年、海外圏を中心に、日本の漫画業界に関するある種の“テンプレ的誤解”が広がっているようである。すなわち、「日本の漫画業界は男性中心で、女性作家は不利な立場に置かれている」という認識である。 これが話題となった契機の一つが、『とんがり帽子のアトリエ』の作者である漫画家・白浜鴎へのインタビューだった。...</description>
-      <pubDate>Wed, 22 Apr 2026 08:11:34 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/hiroko_yayane/n/n25ed767e3346</comments>
+      <title>マカロニは成長するとちくわになる</title>
+      <link>https://anond.hatelabo.jp/20260421121836</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;マカロニとちくわの中間の存在はまだ見つかっていない</description>
+      <pubDate>Wed, 22 Apr 2026 14:12:51 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260421121836</comments>
+    </item>
+    <item>
+      <title>Claude Codeで開発を自動化するSkills 5選 - Qiita</title>
+      <link>https://qiita.com/kamome_susume/items/3b9b18e7e54f15721837</link>
+      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFOSU5NiU4QiVFNyU5OSVCQSVFMyU4MiU5MiVFOCU4NyVBQSVFNSU4QiU5NSVFNSU4QyU5NiVFMyU4MSU5OSVFMyU4MiU4QlNraWxscyUyMDUlRTklODElQjgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iZjhhMWQxNzc2M2Y2ZjVlNjVlOTMyZWIwYTdjNjZhNg&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=181f777dbba3254bcb72ce65a16d7304" /&gt;&lt;br/&gt;「Claude Codeを使い始めたけど、毎回同じような指示をプロンプトに書いている気がする…」と感じていませんか？ Claude Codeは素のままでも強力ですが、Skillsを使うことで繰り返しの作業を自動化し、開発のルーティンをまるごとコマンド一発に変えることができます。この記事では、開発の自動化に特に役立つSkills 5選...</description>
+      <pubDate>Mon, 20 Apr 2026 23:18:23 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/kamome_susume/items/3b9b18e7e54f15721837</comments>
     </item>
     <item>
       <title>その生産性向上、現場が静かに支払っているコストの話</title>
@@ -34,11 +48,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/shintaroamaike/articles/69a7611880420d</comments>
     </item>
     <item>
-      <title>高木さんの思い出</title>
-      <link>https://anond.hatelabo.jp/20260421190223</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;追記 たくさんの人に読んでいただき感謝です。高木さんと、ご家族も天国から見てくれているといいな。 以下、コメントに回答します。 ＞たいへんおもしろく読んだが、これだけよく抑制された具体的な地名のない文章で、なんで秋田県だけ出してきたんだろ。 これは、高木さんが兄について語るとき、必ず「秋田の兄貴」「...</description>
-      <pubDate>Tue, 21 Apr 2026 10:12:46 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260421190223</comments>
+      <title>「荒川弘は性差別を恐れて男性名義にした」という海外ファンの誤解についての覚書｜ヤヤネヒロコ</title>
+      <link>https://note.com/hiroko_yayane/n/n25ed767e3346</link>
+      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/16a7ec06753a70dddd8fe37b5f26b56d609830d6.png" /&gt;&lt;br/&gt;近年、海外圏を中心に、日本の漫画業界に関するある種の“テンプレ的誤解”が広がっているようである。すなわち、「日本の漫画業界は男性中心で、女性作家は不利な立場に置かれている」という認識である。 これが話題となった契機の一つが、『とんがり帽子のアトリエ』の作者である漫画家・白浜鴎へのインタビューだった。...</description>
+      <pubDate>Wed, 22 Apr 2026 08:11:34 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/hiroko_yayane/n/n25ed767e3346</comments>
     </item>
     <item>
       <title>『プロジェクト・ヘイル・メアリー』原作者、映画化における「唯一の後悔」を明かす やはり“南極のシーン”はどうしても入れたかった</title>
@@ -48,18 +62,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/jp.ign.com/project-hail-mary/83206/</comments>
     </item>
     <item>
-      <title>「ロボットは血を流さない」　ウクライナ軍、歩兵の代わりに無人兵器を投入　戦場で優位に</title>
-      <link>https://www.cnn.co.jp/world/35246752.html</link>
-      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/04/22/b2356a20f58c5c58e3ce5f3bbf2a6b1f/gettyimages-2270934926.jpg" /&gt;&lt;br/&gt;訓練場で地上ドローンの試験運用を見守るウクライナ兵＝10日/Dmytro Smolienko/Ukrinform/NurPhoto/Getty Images （CNN） 2人の兵士が両手を挙げて投降し、敵が投げる指示に注意深く従っている。はるか昔から変わらない、戦争の一場面だ。 だがこの場面では、敵側に人間の姿が見えない。ロシア兵2人が降伏している相手は...</description>
-      <pubDate>Wed, 22 Apr 2026 08:02:01 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/world/35246752.html</comments>
+      <title>高木さんの思い出</title>
+      <link>https://anond.hatelabo.jp/20260421190223</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;追記 たくさんの人に読んでいただき感謝です。高木さんと、ご家族も天国から見てくれているといいな。 以下、コメントに回答します。 ＞たいへんおもしろく読んだが、これだけよく抑制された具体的な地名のない文章で、なんで秋田県だけ出してきたんだろ。 これは、高木さんが兄について語るとき、必ず「秋田の兄貴」「...</description>
+      <pubDate>Tue, 21 Apr 2026 10:12:46 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260421190223</comments>
     </item>
     <item>
-      <title>『10式戦車砲弾破裂事故』</title>
-      <link>https://ameblo.jp/type60mbt/entry-12963740156.html</link>
-      <description>&lt;img src="https://stat.ameba.jp/user_images/20260421/19/type60mbt/ef/1d/j/o1024040815773867515.jpg" /&gt;&lt;br/&gt;残念な知らせが飛び込んできた。 まずは、亡くなった戦車隊員たちの御めい福を祈る。 大分県にある陸上自衛隊の日出生台演習場で実弾射撃中の10式戦車の砲塔内で砲弾が破裂したというものだ。 車長、砲手、安全係の3人が死亡し、操縦手が負傷した。 2名は即死、1名は心肺停止後に死亡が確認されたそうなので、砲弾は砲尾...</description>
-      <pubDate>Wed, 22 Apr 2026 06:27:15 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ameblo.jp/type60mbt/entry-12963740156.html</comments>
+      <title>飛行機内で「自称日本人」に対して桃太郎についての質問をして「中国人」だと見破ったCAの話はyoutubeの創作じゃないかな - 電脳塵芥</title>
+      <link>https://nou-yunyun.hatenablog.com/entry/2026/04/22/170000</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/f7675cad2e068781cd1363e68335f34bffe7e73f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.blog.st-hatena.com%2Fimages%2Ftheme%2Fog-image-1500.png" /&gt;&lt;br/&gt;https://x.com/Kshi_nippon/status/2045774406304280890 飛行機で「自称日本人」を名乗る女性が騒ぎを起こした際に日本が大好きなCAが不審に思ったのか、桃太郎が何処で拾われたのかを質問すると、自称日本人が答えられずに中国語を喋り出したという動画が拡散していた。この転載されている動画はインスタグラムの「日本...</description>
+      <pubDate>Wed, 22 Apr 2026 08:55:45 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/nou-yunyun.hatenablog.com/entry/2026/04/22/170000</comments>
     </item>
     <item>
       <title>ソニー生命でも金銭詐取疑い、20〜30件か　金融庁は報告徴求命令検討 - 日本経済新聞</title>
@@ -69,11 +83,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUB2286K0S6A420C2000000/</comments>
     </item>
     <item>
-      <title>日本の武器輸出が「落ちぶれ」にほかならない理由 | ニューズウィーク日本版 オフィシャルサイト</title>
-      <link>https://www.newsweekjapan.jp/articles/-/320368?display=b</link>
-      <description>&lt;img src="https://newsweekjapan.ismcdn.jp/mwimgs/f/b/1200x/img_fbf0cfa84ce48d48aede153c21ab2c08152414.jpg" /&gt;&lt;br/&gt;＜世界の民生品市場で完敗した日本の財界は、二次リーグである官需、その中でも武器輸出に頼ろうとしている＞ 1976年に、当時の外相で後に総理になる宮沢喜一氏は、武器輸出に関連して次のような国会答弁をしました。 「わが国は兵器の輸出をして金を稼ぐほど落ちぶれてはいない」 その50年後の2026年3月に、武器輸出に...</description>
-      <pubDate>Wed, 22 Apr 2026 06:43:40 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.newsweekjapan.jp/articles/-/320368?display=b</comments>
+      <title>『10式戦車砲弾破裂事故』</title>
+      <link>https://ameblo.jp/type60mbt/entry-12963740156.html</link>
+      <description>&lt;img src="https://stat.ameba.jp/user_images/20260421/19/type60mbt/ef/1d/j/o1024040815773867515.jpg" /&gt;&lt;br/&gt;残念な知らせが飛び込んできた。 まずは、亡くなった戦車隊員たちの御めい福を祈る。 大分県にある陸上自衛隊の日出生台演習場で実弾射撃中の10式戦車の砲塔内で砲弾が破裂したというものだ。 車長、砲手、安全係の3人が死亡し、操縦手が負傷した。 2名は即死、1名は心肺停止後に死亡が確認されたそうなので、砲弾は砲尾...</description>
+      <pubDate>Wed, 22 Apr 2026 06:27:15 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/ameblo.jp/type60mbt/entry-12963740156.html</comments>
     </item>
     <item>
       <title>「皇籍に復帰する意志を固めている男性が複数人いると聞いている」　皇室典範改正は今国会中にと意気込む「高市政権」　“強気”の背景を識者が解説（デイリー新潮） - Yahoo!ニュース</title>
@@ -83,18 +97,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/8e833cb3febd3e2faedb2cd39c607e103f0cb7c7</comments>
     </item>
     <item>
-      <title>「賢い人の怖さ」の正体。</title>
-      <link>https://blog.tinect.jp/?p=91004</link>
-      <description>&lt;img src="https://blog.tinect.jp/wp-content/uploads/2026/04/image-2.jpg" /&gt;&lt;br/&gt;コンサルタント、という仕事は、初対面の、様々な人と話すことが必要な職業です。 しかし、不特定多数を相手にする接客業（例えばホテルや飲食店）が接客する相手を自由に選ぶことができないように、コンサルタントも大体において「話をしなければならない人」は、自分で選べません。 どんな嫌味な人であっても。 どんな...</description>
-      <pubDate>Tue, 21 Apr 2026 23:04:42 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/blog.tinect.jp/?p=91004</comments>
-    </item>
-    <item>
-      <title>【分析】トランプ氏支持率、崩壊が始まった可能性</title>
-      <link>https://www.cnn.co.jp/usa/35246737.html</link>
-      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/04/22/c4b6e9a2f7d3374366914e2a2484f22f/gettyimages-57268880.jpg" /&gt;&lt;br/&gt;ホワイトハウスでのジョージ・W・ブッシュ大統領（当時）＝2006年4月/Win McNamee/Getty Images/File （CNN） ジョージ・W・ブッシュ元米大統領の支持率が崩れ始めたのは、20年前のまさにほぼこの時期だった。そして、同氏の支持率が冬の終わりから春先にかけて多くの世論調査で初めて30％台に落ち込んだ原因は明白だっ...</description>
-      <pubDate>Wed, 22 Apr 2026 04:15:01 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35246737.html</comments>
+      <title>「ロボットは血を流さない」　ウクライナ軍、歩兵の代わりに無人兵器を投入　戦場で優位に</title>
+      <link>https://www.cnn.co.jp/world/35246752.html</link>
+      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/04/22/b2356a20f58c5c58e3ce5f3bbf2a6b1f/gettyimages-2270934926.jpg" /&gt;&lt;br/&gt;訓練場で地上ドローンの試験運用を見守るウクライナ兵＝10日/Dmytro Smolienko/Ukrinform/NurPhoto/Getty Images （CNN） 2人の兵士が両手を挙げて投降し、敵が投げる指示に注意深く従っている。はるか昔から変わらない、戦争の一場面だ。 だがこの場面では、敵側に人間の姿が見えない。ロシア兵2人が降伏している相手は...</description>
+      <pubDate>Wed, 22 Apr 2026 08:02:01 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/world/35246752.html</comments>
     </item>
   </channel>
 </rss>
