@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 23 Apr 2026 01:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 02:33:09 +0000</lastBuildDate>
     <item>
       <title>愚夫愚妻問題</title>
       <link>https://anond.hatelabo.jp/20260422200526</link>
@@ -13,18 +13,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260422200526</comments>
     </item>
     <item>
-      <title>昔「世界の謎」が年々明らかになっていく時期あったよな</title>
-      <link>https://anond.hatelabo.jp/20260422190628</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;小学4年ごろ。 長年の未解決問題であった「サンタクロースの正体問題」を解決した私が次に取り組んだのは、「人間の生殖問題」だった。 小学館の図鑑の熟読者だった私は、文献調査によって、動物の生殖には基本的にはオスとメス(精子と卵子)が必要なことを突き止めていた。 魚や昆虫の交尾についての情報も把握していた...</description>
-      <pubDate>Wed, 22 Apr 2026 10:06:50 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260422190628</comments>
-    </item>
-    <item>
       <title>暴落時、なぜ“現金で待つ”のか？ バケツ戦略を先輩が理屈で説明する - FIRE: 投資でセミリタイアする九条日記</title>
       <link>https://www.kuzyofire.com/entry/2026/04/22/%E6%9A%B4%E8%90%BD%E6%99%82%E3%80%81%E3%81%AA%E3%81%9C%E2%80%9C%E7%8F%BE%E9%87%91%E3%81%A7%E5%BE%85%E3%81%A4%E2%80%9D%E3%81%AE%E3%81%8B%EF%BC%9F_%E3%83%90%E3%82%B1%E3%83%84%E6%88%A6%E7%95%A5%E3%82%92</link>
       <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/9f23e7eef61b2724ea3c70af786a1be237b1c35b/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkuzyo%2F20260422%2F20260422185646.png" /&gt;&lt;br/&gt;「退職後は、生活費の数年分を現金で持っておくといい」。ざっくり言うと、これがバケツ戦略の趣旨です。でも、これをみて「そんなの当たり前でしょう？」と思う人や、「歴史的に高リターンを上げてきた株式を考えると、数年分を現金で持つのは非合理では？　現金を持つのは気休めだよ」と思う人もいるでしょう。 実際、...</description>
       <pubDate>Wed, 22 Apr 2026 10:07:27 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.kuzyofire.com/entry/2026/04/22/%E6%9A%B4%E8%90%BD%E6%99%82%E3%80%81%E3%81%AA%E3%81%9C%E2%80%9C%E7%8F%BE%E9%87%91%E3%81%A7%E5%BE%85%E3%81%A4%E2%80%9D%E3%81%AE%E3%81%8B%EF%BC%9F_%E3%83%90%E3%82%B1%E3%83%84%E6%88%A6%E7%95%A5%E3%82%92</comments>
+    </item>
+    <item>
+      <title>昔「世界の謎」が年々明らかになっていく時期あったよな</title>
+      <link>https://anond.hatelabo.jp/20260422190628</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;小学4年ごろ。 長年の未解決問題であった「サンタクロースの正体問題」を解決した私が次に取り組んだのは、「人間の生殖問題」だった。 小学館の図鑑の熟読者だった私は、文献調査によって、動物の生殖には基本的にはオスとメス(精子と卵子)が必要なことを突き止めていた。 魚や昆虫の交尾についての情報も把握していた...</description>
+      <pubDate>Wed, 22 Apr 2026 10:06:50 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260422190628</comments>
     </item>
     <item>
       <title>辺野古抗議船との関わり有無を公表へ　大阪府内400校の修学旅行調査、23日が回答期限</title>
@@ -41,32 +41,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.publickey1.jp/blog/26/googleaiagent_studioaigemini_enterprise_agent_platform.html</comments>
     </item>
     <item>
+      <title>［速報］Google Cloud、ローカルマシンにインストールできる大規模分散RDB「Spanner Omni」プレビュー公開</title>
+      <link>https://www.publickey1.jp/blog/26/google_cloudrdbspanner_omni.html</link>
+      <description>&lt;img src="https://www.publickey1.jp/2026/spanner-omni-ann01.png" /&gt;&lt;br/&gt;［速報］Google Cloud、ローカルマシンにインストールできる大規模分散RDB「Spanner Omni」プレビュー公開 Googleは、日本時間で4月23日未明にラスベガスで開幕したイベント「Google Cloud Next 2026」で、ローカルマシンにインストールできる大規模分散リレーショナルデータベース「Spanner Omni」のプレビュー版を公開...</description>
+      <pubDate>Wed, 22 Apr 2026 17:15:01 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.publickey1.jp/blog/26/google_cloudrdbspanner_omni.html</comments>
+    </item>
+    <item>
+      <title>｢学力低下｣の原因はスマホでもコロナ禍でもない？法学者も指摘｢小学校での探究やグループワークの増加｣が問題か〈再配信〉</title>
+      <link>https://toyokeizai.net/articles/-/940822?display=b</link>
+      <description>&lt;img src="https://tk.ismcdn.jp/mwimgs/a/a/1200xm/img_aad235e4820196677d743662bdeecb8e85021.jpg" /&gt;&lt;br/&gt;※読者の反響が大きかった記事を再配信します。本稿は2025年11月3日に公開した記事を再配信したものです。 文部科学省が子どもの学力の変化を調査する「経年変化分析調査」（2024年）の調査結果を発表し、波紋を呼んだ。小学6年と中学3年の学力が、前回の2021年度調査より著しく低下し、阿部俊子文部科学省大臣（当時）は...</description>
+      <pubDate>Tue, 21 Apr 2026 20:49:41 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/toyokeizai.net/articles/-/940822?display=b</comments>
+    </item>
+    <item>
       <title>マカロニは成長するとちくわになる</title>
       <link>https://anond.hatelabo.jp/20260421121836</link>
       <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;マカロニとちくわの中間の存在はまだ見つかっていない</description>
       <pubDate>Wed, 22 Apr 2026 14:12:51 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260421121836</comments>
-    </item>
-    <item>
-      <title>相次ぐトランプの有力支持者たちの離反、「私は支持したことを長く悔やむだろう」 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-      <link>https://forbesjapan.com/articles/detail/96195</link>
-      <description>&lt;img src="https://images.forbesjapan.com/media/article/96195/images/main_image_c60190346a0fef25924fb7852c92793ba583c032.jpg" /&gt;&lt;br/&gt;イラン攻撃をめぐってドナルド・トランプ大統領と決別し、彼の怒りを買った右派コメンテーターのタッカー・カールソンは、自身のポッドキャスト番組の中で、トランプの当選を助けたみずからの役割について謝罪した。カールソンは、支持したことを「長く悔やむことになるだろう」と吐露している。 カールソンは同番組内で...</description>
-      <pubDate>Wed, 22 Apr 2026 06:33:19 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/forbesjapan.com/articles/detail/96195</comments>
-    </item>
-    <item>
-      <title>すごすぎて笑う、なにこれ　OpenAI、漫画や広告に強い画像生成AI「ChatGPT Images 2.0」正式発表</title>
-      <link>https://ascii.jp/elem/000/004/396/4396995/</link>
-      <description>&lt;img src="https://ascii.jp/img/2026/04/22/4456165/xl/a28fefc6304694a7.png?20200122" /&gt;&lt;br/&gt;画像生成AIは、もはや“きれいな絵を出す道具”ではなくなりつつある。OpenAIは4月22日、画像生成モデル「ChatGPT Images 2.0」を発表し、ChatGPT、Codex、APIで提供を始めた。ThinkingやPro系モデルと組み合わせた高度な出力は、有料プランPlus、Pro、Businessユーザー向け。 画質そのものよりも「どれだけ指示どおりに作...</description>
-      <pubDate>Wed, 22 Apr 2026 03:44:35 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/396/4396995/</comments>
-    </item>
-    <item>
-      <title>Claude Codeで開発を自動化するSkills 5選 - Qiita</title>
-      <link>https://qiita.com/kamome_susume/items/3b9b18e7e54f15721837</link>
-      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFOSU5NiU4QiVFNyU5OSVCQSVFMyU4MiU5MiVFOCU4NyVBQSVFNSU4QiU5NSVFNSU4QyU5NiVFMyU4MSU5OSVFMyU4MiU4QlNraWxscyUyMDUlRTklODElQjgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iZjhhMWQxNzc2M2Y2ZjVlNjVlOTMyZWIwYTdjNjZhNg&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=181f777dbba3254bcb72ce65a16d7304" /&gt;&lt;br/&gt;「Claude Codeを使い始めたけど、毎回同じような指示をプロンプトに書いている気がする…」と感じていませんか？ Claude Codeは素のままでも強力ですが、Skillsを使うことで繰り返しの作業を自動化し、開発のルーティンをまるごとコマンド一発に変えることができます。この記事では、開発の自動化に特に役立つSkills 5選...</description>
-      <pubDate>Mon, 20 Apr 2026 23:18:23 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/kamome_susume/items/3b9b18e7e54f15721837</comments>
     </item>
     <item>
       <title>住人が就寝中に窓ガラス割られ侵入被害　埼玉で多発　さいたま市で集中的に　国道16号周辺で連夜　熊谷でも一晩で複数件【防犯情報】（埼玉新聞） - Yahoo!ニュース</title>
@@ -83,18 +76,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/ynjn.jp/viewer/21346/302411</comments>
     </item>
     <item>
-      <title>その生産性向上、現場が静かに支払っているコストの話</title>
-      <link>https://zenn.dev/shintaroamaike/articles/69a7611880420d</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--t4Qb4dMs--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%259D%25E3%2581%25AE%25E7%2594%259F%25E7%2594%25A3%25E6%2580%25A7%25E5%2590%2591%25E4%25B8%258A%25E3%2580%2581%25E7%258F%25BE%25E5%25A0%25B4%25E3%2581%258C%25E9%259D%2599%25E3%2581%258B%25E3%2581%25AB%25E6%2594%25AF%25E6%2589%2595%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AE%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:ShintaroAmaike%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVmNWYzMmE0MWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに Claude Code をはじめとする AI コーディング支援ツールの高度化により、マークダウンで構造化された仕様書を AI に渡して実装を進める、いわゆる仕様駆動型の開発スタイルが広まりつつあります。 実装速度は目に見えて向上し、かつてであれば数日かかった作業が数時間で完了するケースも珍しくありません。 一...</description>
-      <pubDate>Wed, 22 Apr 2026 05:52:45 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/shintaroamaike/articles/69a7611880420d</comments>
+      <title>相次ぐトランプの有力支持者たちの離反、「私は支持したことを長く悔やむだろう」 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/96195</link>
+      <description>&lt;img src="https://images.forbesjapan.com/media/article/96195/images/main_image_c60190346a0fef25924fb7852c92793ba583c032.jpg" /&gt;&lt;br/&gt;イラン攻撃をめぐってドナルド・トランプ大統領と決別し、彼の怒りを買った右派コメンテーターのタッカー・カールソンは、自身のポッドキャスト番組の中で、トランプの当選を助けたみずからの役割について謝罪した。カールソンは、支持したことを「長く悔やむことになるだろう」と吐露している。 カールソンは同番組内で...</description>
+      <pubDate>Wed, 22 Apr 2026 06:33:19 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/forbesjapan.com/articles/detail/96195</comments>
     </item>
     <item>
-      <title>【速報】自民、AI分野に1兆円規模の投資を要請へ</title>
-      <link>https://www.47news.jp/14192205.html</link>
-      <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;人工知能（AI）政策の推進に向け自民党が取りまとめた提言案が判明した。AIを活用する重点領域に今後5年間で1兆円規模の投資を求めるのが柱。政府が今年夏にも改定する「AI基本計画」への反映を目指す。</description>
-      <pubDate>Wed, 22 Apr 2026 12:31:11 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14192205.html</comments>
+      <title>Claude Codeで開発を自動化するSkills 5選 - Qiita</title>
+      <link>https://qiita.com/kamome_susume/items/3b9b18e7e54f15721837</link>
+      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkzMjQ4JTJGZDhlMmU1OWNiMDVmY2Y3MDQ3ZDgyN2ZjNDlkNDAwMTkzZTU5NDdjOSUyRnhfbGFyZ2UucG5nJTNGMTY4NjMxODg1ND9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9ZDRiNjcyYjg4ZWUxYTRkNjI1ZDRjOGFkMzVkMzQ5NjI%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Ddc9a014e564257547b64353543c58776?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBNyVFOSU5NiU4QiVFNyU5OSVCQSVFMyU4MiU5MiVFOCU4NyVBQSVFNSU4QiU5NSVFNSU4QyU5NiVFMyU4MSU5OSVFMyU4MiU4QlNraWxscyUyMDUlRTklODElQjgmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1iZjhhMWQxNzc2M2Y2ZjVlNjVlOTMyZWIwYTdjNjZhNg&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBrYW1vbWVfc3VzdW1lJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9ZGRiZTIzN2VhYmFmZjQ1YThiNWYzYWQyMWVhNzMzOTI&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=181f777dbba3254bcb72ce65a16d7304" /&gt;&lt;br/&gt;「Claude Codeを使い始めたけど、毎回同じような指示をプロンプトに書いている気がする…」と感じていませんか？ Claude Codeは素のままでも強力ですが、Skillsを使うことで繰り返しの作業を自動化し、開発のルーティンをまるごとコマンド一発に変えることができます。この記事では、開発の自動化に特に役立つSkills 5選...</description>
+      <pubDate>Mon, 20 Apr 2026 23:18:23 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/kamome_susume/items/3b9b18e7e54f15721837</comments>
+    </item>
+    <item>
+      <title>すごすぎて笑う、なにこれ　OpenAI、漫画や広告に強い画像生成AI「ChatGPT Images 2.0」正式発表</title>
+      <link>https://ascii.jp/elem/000/004/396/4396995/</link>
+      <description>&lt;img src="https://ascii.jp/img/2026/04/22/4456165/xl/a28fefc6304694a7.png?20200122" /&gt;&lt;br/&gt;画像生成AIは、もはや“きれいな絵を出す道具”ではなくなりつつある。OpenAIは4月22日、画像生成モデル「ChatGPT Images 2.0」を発表し、ChatGPT、Codex、APIで提供を始めた。ThinkingやPro系モデルと組み合わせた高度な出力は、有料プランPlus、Pro、Businessユーザー向け。 画質そのものよりも「どれだけ指示どおりに作...</description>
+      <pubDate>Wed, 22 Apr 2026 03:44:35 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/396/4396995/</comments>
     </item>
   </channel>
 </rss>
