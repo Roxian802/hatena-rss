@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 25 Apr 2026 10:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 11:33:09 +0000</lastBuildDate>
     <item>
       <title>はてな、まだ走れるよな？ - Everything you've ever Dreamed</title>
       <link>https://delete-all.hatenablog.com/entry/2026/04/25/023500</link>
@@ -20,13 +20,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260425083513</comments>
     </item>
     <item>
-      <title>Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと - Qiita</title>
-      <link>https://qiita.com/ot12/items/06420caf41a34a910c53</link>
-      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzM1NjgxNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTY4ODgxMjQ1Mz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OTc2MjlmNzgzNDI0N2UwMDY1YWVkZDNhMDE2NmJlMzU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc3b2502f4fc1938f7ba4188734382064?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9T3B1czQuNyVFMyU4MSVBRSVFNyU5OSVCQiVFNSVBMCVCNCVFMyU4MSVBQiVFMyU4MiU4OCVFMyU4MiU4QSVFMyU4MCU4MUNsYXVkZSUyMENvZGUlRTMlODElQUUlRTklOTYlOEIlRTclOTklQkElRTglODAlODUlRTMlODElQTglRTUlODUlQUMlRTUlQkMlOEYlRTMlODElOEMlRTMlODAlOEMlRTMlODElOTMlRTMlODIlOEMlRTMlODElQUYlRTMlODIlODIlRTMlODElODYlRTMlODIlODQlRTMlODIlODElRTMlODIlOEQlRTMlODAlOEQlRTMlODElQTglRTglQTglODAlRTMlODElODQlRTUlQTclOEIlRTMlODIlODElRTMlODElOUY2JUUzJTgxJUE0JUUzJTgxJUFFJUUzJTgxJTkzJUUzJTgxJUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTYzNGNjZjEyMDk4MzUzNjE5Mjg0NGRlNWU2M2ZmOGM&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBvdDEyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDk4MTZlOTE4YzY0OTRlMzBiZjQxMjU4ZGU0MDYwZTM&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=b80671eb1d1db73934c694f9b314152d" /&gt;&lt;br/&gt;2026年4月16日、AnthropicがClaude Opus 4.7をリリースしました。 同時に公式ブログ「Best Practices for Using Claude Opus 4.7 with Claude Code」が公開され、Claude Code作者のBoris CherneyもXで「6つの新技」を投下しています。 両方を通してAnthropic公式が言っているのは「これまでのClaude Codeの使い方は、今...</description>
-      <pubDate>Fri, 24 Apr 2026 07:35:57 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/ot12/items/06420caf41a34a910c53</comments>
-    </item>
-    <item>
       <title>「むかない安藤」は高校教師2年目　研究者→氣志團ダンサー→カフェ経営→DPZ編集部員…異色のキャリアを支える信念｜デイリーポータルZ編集部</title>
       <link>https://note.com/dailyportalz/n/na9eb4a066eda</link>
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/267364567/rectangle_large_type_2_899bb61533c6ddafb2673db9b89e0c95.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;「デイリーポータルZ」ライターの安藤昌教さんは今年、高校教師2年目になる。 あらゆるモノをむかずに食べ、おもしろ記事を量産してきたあの安藤さんが昨年、高校教師になった。そのダイナミックな転身に、読者は驚いた。 むかずに食べるむかない安藤です。パイナップルは皮がえぐいですが頑張ればむかなくても大丈夫で...</description>
@@ -39,6 +32,20 @@
       <description>&lt;img src="https://oki.ismcdn.jp/mwimgs/e/9/1200wm/img_e97e52f2ad8df0b60b18354d2a27477e87697.jpg" /&gt;&lt;br/&gt;名護市辺野古沖で「不屈」と「平和丸」の船２隻が転覆し、２人が死亡した事故を巡り、救助された平和丸の船長がスマートフォンを海でなくして通報できなかったと話していることが２４日までに分かった。船を運航したヘリ基地反対協議会の共同代表の一人が、平和丸の船長に聞いた話として本紙の取材に答えた。</description>
       <pubDate>Sat, 25 Apr 2026 04:15:54 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.okinawatimes.co.jp/articles/-/1824920</comments>
+    </item>
+    <item>
+      <title>Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと - Qiita</title>
+      <link>https://qiita.com/ot12/items/06420caf41a34a910c53</link>
+      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzM1NjgxNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTY4ODgxMjQ1Mz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OTc2MjlmNzgzNDI0N2UwMDY1YWVkZDNhMDE2NmJlMzU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc3b2502f4fc1938f7ba4188734382064?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9T3B1czQuNyVFMyU4MSVBRSVFNyU5OSVCQiVFNSVBMCVCNCVFMyU4MSVBQiVFMyU4MiU4OCVFMyU4MiU4QSVFMyU4MCU4MUNsYXVkZSUyMENvZGUlRTMlODElQUUlRTklOTYlOEIlRTclOTklQkElRTglODAlODUlRTMlODElQTglRTUlODUlQUMlRTUlQkMlOEYlRTMlODElOEMlRTMlODAlOEMlRTMlODElOTMlRTMlODIlOEMlRTMlODElQUYlRTMlODIlODIlRTMlODElODYlRTMlODIlODQlRTMlODIlODElRTMlODIlOEQlRTMlODAlOEQlRTMlODElQTglRTglQTglODAlRTMlODElODQlRTUlQTclOEIlRTMlODIlODElRTMlODElOUY2JUUzJTgxJUE0JUUzJTgxJUFFJUUzJTgxJTkzJUUzJTgxJUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTYzNGNjZjEyMDk4MzUzNjE5Mjg0NGRlNWU2M2ZmOGM&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBvdDEyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDk4MTZlOTE4YzY0OTRlMzBiZjQxMjU4ZGU0MDYwZTM&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=b80671eb1d1db73934c694f9b314152d" /&gt;&lt;br/&gt;2026年4月16日、AnthropicがClaude Opus 4.7をリリースしました。 同時に公式ブログ「Best Practices for Using Claude Opus 4.7 with Claude Code」が公開され、Claude Code作者のBoris CherneyもXで「6つの新技」を投下しています。 両方を通してAnthropic公式が言っているのは「これまでのClaude Codeの使い方は、今...</description>
+      <pubDate>Fri, 24 Apr 2026 07:35:57 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/ot12/items/06420caf41a34a910c53</comments>
+    </item>
+    <item>
+      <title>イスラエルによるレバノン南部破壊の規模、衛星画像で判明　ガザの様相、村全体が跡形もなく壊滅</title>
+      <link>https://www.cnn.co.jp/world/35246897.html</link>
+      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/04/25/1c1d684a73bee764c5b698b14b83d598/20260424-lebanon-gaza-echo-split-0426.jpg" /&gt;&lt;br/&gt;4月14日の衛星画像では、ビントジュベイルの中心部が甚大な被害を受けており、灰色の瓦礫（がれき）は破壊に伴う火災の発生を示唆している。残っていた建物や構造物は23日までに完全消滅した/Airbus （CNN） イスラエルと米国がイランとの戦争を開始した2日後、レバノンの親イラン武装組織ヒズボラはイスラエルへ向けて...</description>
+      <pubDate>Sat, 25 Apr 2026 02:18:07 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/world/35246897.html</comments>
     </item>
     <item>
       <title>ナフサ不足「このままでは6月に詰む」と公言した識者が真意を明かす　政権が反論や対策アピールしても現状は：東京新聞デジタル</title>
@@ -62,6 +69,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689508</comments>
     </item>
     <item>
+      <title>あなたの街の財政状況をワンクリックで可視化--デジタル庁らがダッシュボード公開</title>
+      <link>https://japan.cnet.com/article/35246881/</link>
+      <description>総務省は4月24日、デジタル庁と連携して整備を進めてきた「地方財政ダッシュボード」の市町村版を、総務省とデジタル庁のWebサイトで公開した。全国の市町村の歳入・歳出や財政指標を、グラフで確認できる。 総務省はこれまで、地方財政状況調査を通じて全国自治体の決算情報などを取りまとめ、総務省のWebサイトや政府...</description>
+      <pubDate>Fri, 24 Apr 2026 09:12:36 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/japan.cnet.com/article/35246881/</comments>
+    </item>
+    <item>
       <title>JRの夜行列車『サンライズ出雲』に乗車直後、転売ヤーらしき人物がシャワー券を買いだめしたため発車前に完売という異常事態に「転売もここまで来たか…」</title>
       <link>https://togetter.com/li/2689501</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/03c31caa36982f81cb41785e7b128742-1200x630.jpeg" /&gt;&lt;br/&gt;JRの夜行列車『サンライズ出雲』に乗車直後、転売ヤーらしき人物がシャワー券を買いだめしたため発車前に完売という異常事態に「転売もここまで来たか…」</description>
@@ -69,11 +83,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689501</comments>
     </item>
     <item>
-      <title>あなたの街の財政状況をワンクリックで可視化--デジタル庁らがダッシュボード公開</title>
-      <link>https://japan.cnet.com/article/35246881/</link>
-      <description>総務省は4月24日、デジタル庁と連携して整備を進めてきた「地方財政ダッシュボード」の市町村版を、総務省とデジタル庁のWebサイトで公開した。全国の市町村の歳入・歳出や財政指標を、グラフで確認できる。 総務省はこれまで、地方財政状況調査を通じて全国自治体の決算情報などを取りまとめ、総務省のWebサイトや政府...</description>
-      <pubDate>Fri, 24 Apr 2026 09:12:36 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/japan.cnet.com/article/35246881/</comments>
+      <title>Metaが、社員の1割である8,000人をクビにすると発表したが、残った社員のパソコンに、新しいソフトを入れ始め、社員のマウスやキーボードの動きを記録し、画面の中身も、ときどきスクショで取り、AIに学習させていた</title>
+      <link>https://posfie.com/@taimport/p/QwtRbJO</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/6dc374469d2bafb1f441f95d1751fb58-1200x630.jpeg" /&gt;&lt;br/&gt;岡野タケシ弁護士【アトム法律グループ】 @takeshibengo facebookのマークザッカーバーグえぐい。 こんなニュースを目にする日が来るとは思わなかった… Metaが、社員の1割である8,000人をクビにすると発表した。 ここまでは「あ、またAI失業の話か」だ。 えぐいのはここから。 Metaは同じころ、残った社員のパソコンに、...</description>
+      <pubDate>Sat, 25 Apr 2026 01:56:54 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@taimport/p/QwtRbJO</comments>
+    </item>
+    <item>
+      <title>ハーネスエンジニアリングとは？</title>
+      <link>https://speakerdeck.com/kinopeee/hanesuenziniaringutoha</link>
+      <description>&lt;img src="https://files.speakerdeck.com/presentations/314f314c96d3440dafd7b638bebf4047/slide_0.jpg?39213667" /&gt;&lt;br/&gt;Harness Engineering Meetup Tokyo #1、TOPバッターとして、ハーネスエンジニアリングについての導入的説明を行いました。</description>
+      <pubDate>Sat, 25 Apr 2026 02:06:03 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/kinopeee/hanesuenziniaringutoha</comments>
     </item>
     <item>
       <title>自衛隊幹部の階級呼称を変更へ、幕僚長は「大将」・１佐は「大佐」に…旧日本軍の負のイメージから「曹」や「士」は変更せず</title>
@@ -90,18 +111,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/type.jp/et/feature/30852/</comments>
     </item>
     <item>
-      <title>【談話】同志社国際高校修学旅行中の死亡事故について</title>
-      <link>https://www.zenkyo.jp/opinion/12562/</link>
-      <description>&lt;img src="https://www.zenkyo.jp/_cms/wp-content/themes/zenkyo2021/_assets/img/common/og_image_default.png" /&gt;&lt;br/&gt;ENGLISH English（英語）：Google 翻訳 Português（ポルトガル語）：Google 翻訳 한국어（韓国語）：Google 翻訳</description>
-      <pubDate>Fri, 24 Apr 2026 11:25:09 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.zenkyo.jp/opinion/12562/</comments>
-    </item>
-    <item>
-      <title>ハーネスエンジニアリングとは？</title>
-      <link>https://speakerdeck.com/kinopeee/hanesuenziniaringutoha</link>
-      <description>&lt;img src="https://files.speakerdeck.com/presentations/314f314c96d3440dafd7b638bebf4047/slide_0.jpg?39213667" /&gt;&lt;br/&gt;Harness Engineering Meetup Tokyo #1、TOPバッターとして、ハーネスエンジニアリングについての導入的説明を行いました。</description>
-      <pubDate>Sat, 25 Apr 2026 02:06:03 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/kinopeee/hanesuenziniaringutoha</comments>
+      <title>「AIが作った戒名でいいじゃん」という提案で、母の戒名は寿司屋でGeminiが作ったものに決まりました</title>
+      <link>https://togetter.com/li/2689530</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/152788d23bccaa63d3dff873c416912c-1200x630.jpeg" /&gt;&lt;br/&gt;影 @ShadowSR1976 母親と寿司屋で飲んでて、父親の戒名に40万払ったと聞き「そんなんAIに作ってもらったらいいじゃん」と言ったら母が それ最高、いま作って と頼まれ、たった今Geminiで作った戒名を母が気に入ったので、母の戒名は寿司屋でGeminiが作ったものに決まりました(マジで) 2026-04-24 21:10:10 影 @ShadowSR1...</description>
+      <pubDate>Sat, 25 Apr 2026 03:00:49 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689530</comments>
     </item>
     <item>
       <title>これはパワポのダサデザイン…と思いきや「視認性、可読性共に勝てる気がしない」「『正しい』デザインの見本」と絶賛される有能すぎるやつだった</title>
@@ -111,25 +125,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689472</comments>
     </item>
     <item>
-      <title>西野亮廣の「STRAIGHT EDGE」商標登録に反対する署名運動が開始　ハードコア音楽レーベルが主導</title>
-      <link>https://kai-you.net/article/95243</link>
-      <description>&lt;img src="https://img.kai-you.net/storage/2026/04/c3dd1f7b-6532-4c10-9912-e569ac03860f/jpg/03.jpg" /&gt;&lt;br/&gt;大阪のハードコアパンクレーベル・BACK YARD ZINE／RECORDSが、アパレルブランド「STRAIGHT EDGE（ストレート・エッジ）」の商標登録に反対する署名運動を開始した。 同レーベルは、署名サイト「change.org」にて「STRAIGHT EDGE という思想・歴史的背景を軽視し、特定の企業が独占する"商標登録"に反対」と題したページ...</description>
-      <pubDate>Fri, 24 Apr 2026 10:34:01 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/kai-you.net/article/95243</comments>
-    </item>
-    <item>
-      <title>推していた個人VTuberのファンクラブ改革で冷めた</title>
-      <link>https://anond.hatelabo.jp/20260424154829</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;推していた個人VTuberが、だんだん露骨に拝金主義っぽくなってきていて悲しい。 活動にお金が必要なのはわかる。 個人勢ならなおさら、配信機材も、衣装も、イラストも、動画制作も、全部自分で抱えることになる。スタッフや運営がいるわけではない以上、安定した収入源を作りたいという気持ちは理解できる。 ファンがお...</description>
-      <pubDate>Fri, 24 Apr 2026 06:49:47 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260424154829</comments>
-    </item>
-    <item>
-      <title>『はてなブログ』などを運営する株式会社はてなが偽の送金指示により11億円の詐欺被害に→「1人の従業員が11億円もの巨額の資金を承認なく送金できるの...？」</title>
-      <link>https://togetter.com/li/2689499</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/1a6d95f0f2dc40ded31f4b3c25c87a9f-1200x630.jpeg" /&gt;&lt;br/&gt;『はてなブログ』などを運営する株式会社はてなが偽の送金指示により11億円の詐欺被害に→「1人の従業員が11億円もの巨額の資金を承認なく送金できるの...？」</description>
-      <pubDate>Sat, 25 Apr 2026 00:16:02 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689499</comments>
+      <title>【談話】同志社国際高校修学旅行中の死亡事故について</title>
+      <link>https://www.zenkyo.jp/opinion/12562/</link>
+      <description>&lt;img src="https://www.zenkyo.jp/_cms/wp-content/themes/zenkyo2021/_assets/img/common/og_image_default.png" /&gt;&lt;br/&gt;ENGLISH English（英語）：Google 翻訳 Português（ポルトガル語）：Google 翻訳 한국어（韓国語）：Google 翻訳</description>
+      <pubDate>Fri, 24 Apr 2026 11:25:09 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.zenkyo.jp/opinion/12562/</comments>
     </item>
   </channel>
 </rss>
