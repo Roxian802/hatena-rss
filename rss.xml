@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 25 Apr 2026 13:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 14:33:12 +0000</lastBuildDate>
     <item>
       <title>「星野源でも米津玄師でも、この際誰でも良いからこのタイミングで戦争反対・平和主義を全面に押し出した曲出してくんないかな」</title>
       <link>https://posfie.com/@cu6gane/p/ulelaRb</link>
@@ -69,13 +69,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.tokyo-np.co.jp/article/484220</comments>
     </item>
     <item>
-      <title>Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと - Qiita</title>
-      <link>https://qiita.com/ot12/items/06420caf41a34a910c53</link>
-      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzM1NjgxNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTY4ODgxMjQ1Mz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OTc2MjlmNzgzNDI0N2UwMDY1YWVkZDNhMDE2NmJlMzU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc3b2502f4fc1938f7ba4188734382064?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9T3B1czQuNyVFMyU4MSVBRSVFNyU5OSVCQiVFNSVBMCVCNCVFMyU4MSVBQiVFMyU4MiU4OCVFMyU4MiU4QSVFMyU4MCU4MUNsYXVkZSUyMENvZGUlRTMlODElQUUlRTklOTYlOEIlRTclOTklQkElRTglODAlODUlRTMlODElQTglRTUlODUlQUMlRTUlQkMlOEYlRTMlODElOEMlRTMlODAlOEMlRTMlODElOTMlRTMlODIlOEMlRTMlODElQUYlRTMlODIlODIlRTMlODElODYlRTMlODIlODQlRTMlODIlODElRTMlODIlOEQlRTMlODAlOEQlRTMlODElQTglRTglQTglODAlRTMlODElODQlRTUlQTclOEIlRTMlODIlODElRTMlODElOUY2JUUzJTgxJUE0JUUzJTgxJUFFJUUzJTgxJTkzJUUzJTgxJUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTYzNGNjZjEyMDk4MzUzNjE5Mjg0NGRlNWU2M2ZmOGM&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBvdDEyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDk4MTZlOTE4YzY0OTRlMzBiZjQxMjU4ZGU0MDYwZTM&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=b80671eb1d1db73934c694f9b314152d" /&gt;&lt;br/&gt;2026年4月16日、AnthropicがClaude Opus 4.7をリリースしました。 同時に公式ブログ「Best Practices for Using Claude Opus 4.7 with Claude Code」が公開され、Claude Code作者のBoris CherneyもXで「6つの新技」を投下しています。 両方を通してAnthropic公式が言っているのは「これまでのClaude Codeの使い方は、今...</description>
-      <pubDate>Fri, 24 Apr 2026 07:35:57 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/ot12/items/06420caf41a34a910c53</comments>
-    </item>
-    <item>
       <title>「今年中に2作品を発表してその後さらに2作品を描いたらマンガ家をやめます」田中圭一先生による『チ。』魚豊先生のインタビューが面白い、惰性で買われる作家は終わり説も</title>
       <link>https://togetter.com/li/2689508</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/c01f100f267ef05ea76ae98151c8ea1d-1200x630.jpeg" /&gt;&lt;br/&gt;手塚治虫文化賞（朝日新聞社主催） @tezukaprize ／ #手塚治虫文化賞 第30回特別企画&#x1f4ab; ＼ 『チ。』魚豊さん、衝撃の告白･･･⁉ 第26回手塚治虫文化賞マンガ大賞受賞者、魚豊@uotouotoさんの創作の秘密、大公開&#x1f64c; 影響を受けた作品、さらなる展望とは❓手塚タッチのパロディーマンガで知られる田中圭一さんのインタビュ－...</description>
@@ -90,18 +83,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/nomuch.hatenablog.com/entry/2026/03/10/000000</comments>
     </item>
     <item>
-      <title>ラーメン屋で味噌を頼んだら「すみません、今日はもうないです」と言われた→後から入ってきた人には「いいよ、味噌作るよ」と言って作り始めて、最悪な気分になった</title>
-      <link>https://togetter.com/li/2689515</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/53ff635c1f6595cf8b11390b08276b17-1200x630.jpeg" /&gt;&lt;br/&gt;蜉蝣 @196dragonfly 長文失礼、愚痴らせて 店名は出さん 昨日ラーメン食いに行って混んでたから食券買って待ってたのね。んで順番きてどうするか聞かれたから「味噌で」ってしたら『すみません、今日はもうないです&#x1f4a6;』って言われて普通のやつにしたんよ。 んで席に通されて待ってたら男性1人入ってきて席についたのよ。...</description>
-      <pubDate>Fri, 24 Apr 2026 23:41:00 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689515</comments>
-    </item>
-    <item>
-      <title>あなたの街の財政状況をワンクリックで可視化--デジタル庁らがダッシュボード公開</title>
-      <link>https://japan.cnet.com/article/35246881/</link>
-      <description>総務省は4月24日、デジタル庁と連携して整備を進めてきた「地方財政ダッシュボード」の市町村版を、総務省とデジタル庁のWebサイトで公開した。全国の市町村の歳入・歳出や財政指標を、グラフで確認できる。 総務省はこれまで、地方財政状況調査を通じて全国自治体の決算情報などを取りまとめ、総務省のWebサイトや政府...</description>
-      <pubDate>Fri, 24 Apr 2026 09:12:36 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/japan.cnet.com/article/35246881/</comments>
+      <title>Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと - Qiita</title>
+      <link>https://qiita.com/ot12/items/06420caf41a34a910c53</link>
+      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzM1NjgxNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTY4ODgxMjQ1Mz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OTc2MjlmNzgzNDI0N2UwMDY1YWVkZDNhMDE2NmJlMzU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc3b2502f4fc1938f7ba4188734382064?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9T3B1czQuNyVFMyU4MSVBRSVFNyU5OSVCQiVFNSVBMCVCNCVFMyU4MSVBQiVFMyU4MiU4OCVFMyU4MiU4QSVFMyU4MCU4MUNsYXVkZSUyMENvZGUlRTMlODElQUUlRTklOTYlOEIlRTclOTklQkElRTglODAlODUlRTMlODElQTglRTUlODUlQUMlRTUlQkMlOEYlRTMlODElOEMlRTMlODAlOEMlRTMlODElOTMlRTMlODIlOEMlRTMlODElQUYlRTMlODIlODIlRTMlODElODYlRTMlODIlODQlRTMlODIlODElRTMlODIlOEQlRTMlODAlOEQlRTMlODElQTglRTglQTglODAlRTMlODElODQlRTUlQTclOEIlRTMlODIlODElRTMlODElOUY2JUUzJTgxJUE0JUUzJTgxJUFFJUUzJTgxJTkzJUUzJTgxJUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTYzNGNjZjEyMDk4MzUzNjE5Mjg0NGRlNWU2M2ZmOGM&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBvdDEyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDk4MTZlOTE4YzY0OTRlMzBiZjQxMjU4ZGU0MDYwZTM&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=b80671eb1d1db73934c694f9b314152d" /&gt;&lt;br/&gt;2026年4月16日、AnthropicがClaude Opus 4.7をリリースしました。 同時に公式ブログ「Best Practices for Using Claude Opus 4.7 with Claude Code」が公開され、Claude Code作者のBoris CherneyもXで「6つの新技」を投下しています。 両方を通してAnthropic公式が言っているのは「これまでのClaude Codeの使い方は、今...</description>
+      <pubDate>Fri, 24 Apr 2026 07:35:57 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/ot12/items/06420caf41a34a910c53</comments>
     </item>
     <item>
       <title>春泥先生のBL無罪声明。漫画家達からも批判の声があがる。「自分以外の作家を売るようなマネしてる自覚あるのかな？」</title>
@@ -109,6 +95,13 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/ebfb78db568246e6184f189fb1e4c3be-1200x630.jpeg" /&gt;&lt;br/&gt;松田未来　新連載COMICユニコーンで開始！ @macchiMC72 メカ好き漫画家。2026年春新連載「やんごとなきエレバス」開幕！ＭＣ☆あくしず「わーるどわいど☆うぃんぐす」連載20年目。Comicリュウで「夜光雲のサリッサ(原作・デザイン)」を完結。アニメでメカ・プロップデザインも各種手掛けております。 お仕事依頼は j2raid...</description>
       <pubDate>Fri, 24 Apr 2026 23:21:30 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@Winston_Smith2/p/TpKx5V1</comments>
+    </item>
+    <item>
+      <title>あなたの街の財政状況をワンクリックで可視化--デジタル庁らがダッシュボード公開</title>
+      <link>https://japan.cnet.com/article/35246881/</link>
+      <description>総務省は4月24日、デジタル庁と連携して整備を進めてきた「地方財政ダッシュボード」の市町村版を、総務省とデジタル庁のWebサイトで公開した。全国の市町村の歳入・歳出や財政指標を、グラフで確認できる。 総務省はこれまで、地方財政状況調査を通じて全国自治体の決算情報などを取りまとめ、総務省のWebサイトや政府...</description>
+      <pubDate>Fri, 24 Apr 2026 09:12:36 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/japan.cnet.com/article/35246881/</comments>
     </item>
     <item>
       <title>「店を閉じるしか」インド料理店が悲鳴　外国人に資本金3千万円の壁：朝日新聞</title>
@@ -125,25 +118,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@taimport/p/QwtRbJO</comments>
     </item>
     <item>
+      <title>ラーメン屋で味噌を頼んだら「すみません、今日はもうないです」と言われた→後から入ってきた人には「いいよ、味噌作るよ」と言って作り始めて、最悪な気分になった</title>
+      <link>https://togetter.com/li/2689515</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/53ff635c1f6595cf8b11390b08276b17-1200x630.jpeg" /&gt;&lt;br/&gt;蜉蝣 @196dragonfly 長文失礼、愚痴らせて 店名は出さん 昨日ラーメン食いに行って混んでたから食券買って待ってたのね。んで順番きてどうするか聞かれたから「味噌で」ってしたら『すみません、今日はもうないです&#x1f4a6;』って言われて普通のやつにしたんよ。 んで席に通されて待ってたら男性1人入ってきて席についたのよ。...</description>
+      <pubDate>Fri, 24 Apr 2026 23:41:00 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689515</comments>
+    </item>
+    <item>
       <title>ハーネスエンジニアリングとは？</title>
       <link>https://speakerdeck.com/kinopeee/hanesuenziniaringutoha</link>
       <description>&lt;img src="https://files.speakerdeck.com/presentations/314f314c96d3440dafd7b638bebf4047/slide_0.jpg?39213667" /&gt;&lt;br/&gt;Harness Engineering Meetup Tokyo #1、TOPバッターとして、ハーネスエンジニアリングについての導入的説明を行いました。</description>
       <pubDate>Sat, 25 Apr 2026 02:06:03 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/kinopeee/hanesuenziniaringutoha</comments>
-    </item>
-    <item>
-      <title>JRの夜行列車『サンライズ出雲』に乗車直後、転売ヤーらしき人物がシャワー券を買いだめしたため発車前に完売という異常事態に「転売もここまで来たか…」</title>
-      <link>https://togetter.com/li/2689501</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/03c31caa36982f81cb41785e7b128742-1200x630.jpeg" /&gt;&lt;br/&gt;JRの夜行列車『サンライズ出雲』に乗車直後、転売ヤーらしき人物がシャワー券を買いだめしたため発車前に完売という異常事態に「転売もここまで来たか…」</description>
-      <pubDate>Fri, 24 Apr 2026 23:38:35 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689501</comments>
-    </item>
-    <item>
-      <title>「AIが作った戒名でいいじゃん」という提案で、母の戒名は寿司屋でGeminiが作ったものに決まりました</title>
-      <link>https://togetter.com/li/2689530</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/152788d23bccaa63d3dff873c416912c-1200x630.jpeg" /&gt;&lt;br/&gt;影 @ShadowSR1976 母親と寿司屋で飲んでて、父親の戒名に40万払ったと聞き「そんなんAIに作ってもらったらいいじゃん」と言ったら母が それ最高、いま作って と頼まれ、たった今Geminiで作った戒名を母が気に入ったので、母の戒名は寿司屋でGeminiが作ったものに決まりました(マジで) 2026-04-24 21:10:10 影 @ShadowSR1...</description>
-      <pubDate>Sat, 25 Apr 2026 03:00:49 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689530</comments>
     </item>
   </channel>
 </rss>
