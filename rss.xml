@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 25 Apr 2026 00:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 01:33:09 +0000</lastBuildDate>
     <item>
-      <title>【談話】同志社国際高校修学旅行中の死亡事故について</title>
-      <link>https://www.zenkyo.jp/opinion/12562/</link>
-      <description>&lt;img src="https://www.zenkyo.jp/_cms/wp-content/themes/zenkyo2021/_assets/img/common/og_image_default.png" /&gt;&lt;br/&gt;ENGLISH English（英語）：Google 翻訳 Português（ポルトガル語）：Google 翻訳 한국어（韓国語）：Google 翻訳</description>
-      <pubDate>Fri, 24 Apr 2026 11:25:09 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.zenkyo.jp/opinion/12562/</comments>
+      <title>はてな、まだ走れるよな？ - Everything you've ever Dreamed</title>
+      <link>https://delete-all.hatenablog.com/entry/2026/04/25/023500</link>
+      <description>&lt;img src="https://ogimage.blog.st-hatena.com/12921228815713059486/17179246901380248590/1777052100" /&gt;&lt;br/&gt;はてなが振り込み詐欺にあって11億円の資金が流出したと発表した。まず金額の大きさにも驚いたが、振り込み詐欺ってなんなんだよ。インターネット事業をやっている企業が振り込み詐欺に遭うって、なんなんだよ。セキュリティとガバナンスどうなっているんだよ。僕が働いている会社以下じゃないか、まったく。ひとりのユ...</description>
+      <pubDate>Fri, 24 Apr 2026 18:12:02 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/delete-all.hatenablog.com/entry/2026/04/25/023500</comments>
+    </item>
+    <item>
+      <title>Opus4.7の登場により、Claude Codeの開発者と公式が「これはもうやめろ」と言い始めた6つのこと - Qiita</title>
+      <link>https://qiita.com/ot12/items/06420caf41a34a910c53</link>
+      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGMzM1NjgxNCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTY4ODgxMjQ1Mz9peGxpYj1yYi00LjAuMCZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9OTc2MjlmNzgzNDI0N2UwMDY1YWVkZDNhMDE2NmJlMzU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc3b2502f4fc1938f7ba4188734382064?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9T3B1czQuNyVFMyU4MSVBRSVFNyU5OSVCQiVFNSVBMCVCNCVFMyU4MSVBQiVFMyU4MiU4OCVFMyU4MiU4QSVFMyU4MCU4MUNsYXVkZSUyMENvZGUlRTMlODElQUUlRTklOTYlOEIlRTclOTklQkElRTglODAlODUlRTMlODElQTglRTUlODUlQUMlRTUlQkMlOEYlRTMlODElOEMlRTMlODAlOEMlRTMlODElOTMlRTMlODIlOEMlRTMlODElQUYlRTMlODIlODIlRTMlODElODYlRTMlODIlODQlRTMlODIlODElRTMlODIlOEQlRTMlODAlOEQlRTMlODElQTglRTglQTglODAlRTMlODElODQlRTUlQTclOEIlRTMlODIlODElRTMlODElOUY2JUUzJTgxJUE0JUUzJTgxJUFFJUUzJTgxJTkzJUUzJTgxJUE4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9OTYzNGNjZjEyMDk4MzUzNjE5Mjg0NGRlNWU2M2ZmOGM&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBvdDEyJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NDk4MTZlOTE4YzY0OTRlMzBiZjQxMjU4ZGU0MDYwZTM&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=b80671eb1d1db73934c694f9b314152d" /&gt;&lt;br/&gt;2026年4月16日、AnthropicがClaude Opus 4.7をリリースしました。 同時に公式ブログ「Best Practices for Using Claude Opus 4.7 with Claude Code」が公開され、Claude Code作者のBoris CherneyもXで「6つの新技」を投下しています。 両方を通してAnthropic公式が言っているのは「これまでのClaude Codeの使い方は、今...</description>
+      <pubDate>Fri, 24 Apr 2026 07:35:57 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/ot12/items/06420caf41a34a910c53</comments>
     </item>
     <item>
       <title>自衛隊幹部の階級呼称を変更へ、幕僚長は「大将」・１佐は「大佐」に…旧日本軍の負のイメージから「曹」や「士」は変更せず</title>
@@ -20,18 +27,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/politics/20260424-GYT1T00387/</comments>
     </item>
     <item>
-      <title>はてな、11億円の資金流出　振り込め詐欺か</title>
-      <link>https://www.itmedia.co.jp/news/articles/2604/24/news127.html</link>
-      <description>&lt;img src="https://image.itmedia.co.jp/news/articles/2604/24/cover_news127.jpg" /&gt;&lt;br/&gt;インターネット関連事業を手掛けるはてな（京都市中京区）は4月24日、不正な送金指示によって約11億円の資金が銀行口座から流出したと公表した。第三者から虚偽の送金指示があったという。 4月21日に取引先銀行から不審な送金が行われていると連絡があり、確認すると4月20日と21日にある従業員のアカウントから銀行預金...</description>
-      <pubDate>Fri, 24 Apr 2026 12:09:03 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2604/24/news127.html</comments>
-    </item>
-    <item>
-      <title>はてな[3930]：資金流出事案の発生に関するお知らせ 2026年4月24日(適時開示) ：日経会社情報DIGITAL：日本経済新聞</title>
-      <link>https://www.nikkei.com/nkd/disclosure/tdnr/20260424510809/</link>
-      <description>&lt;img src="https://www.nikkei.com/nkd/disclosure/tdnr/20260424510809/thumbnail/?ttype=ogp" /&gt;&lt;br/&gt;2026年4月24日 はてな[3930]の開示資料「資金流出事案の発生に関するお知らせ」 が閲覧できます。資料はPDFでダウンロードできます</description>
-      <pubDate>Fri, 24 Apr 2026 10:48:10 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/nkd/disclosure/tdnr/20260424510809/</comments>
+      <title>【談話】同志社国際高校修学旅行中の死亡事故について</title>
+      <link>https://www.zenkyo.jp/opinion/12562/</link>
+      <description>&lt;img src="https://www.zenkyo.jp/_cms/wp-content/themes/zenkyo2021/_assets/img/common/og_image_default.png" /&gt;&lt;br/&gt;ENGLISH English（英語）：Google 翻訳 Português（ポルトガル語）：Google 翻訳 한국어（韓国語）：Google 翻訳</description>
+      <pubDate>Fri, 24 Apr 2026 11:25:09 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.zenkyo.jp/opinion/12562/</comments>
     </item>
     <item>
       <title>「いじめは楽しい、差別は無意識にやる、道徳的尺度で他者の優位に立つのはとても気持ちがいい」そんな人間の本能をメタ認知をした前提で取り繕うのが大事</title>
@@ -41,6 +41,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689384</comments>
     </item>
     <item>
+      <title>はてな、11億円の資金流出　振り込め詐欺か</title>
+      <link>https://www.itmedia.co.jp/news/articles/2604/24/news127.html</link>
+      <description>&lt;img src="https://image.itmedia.co.jp/news/articles/2604/24/cover_news127.jpg" /&gt;&lt;br/&gt;インターネット関連事業を手掛けるはてな（京都市中京区）は4月24日、不正な送金指示によって約11億円の資金が銀行口座から流出したと公表した。第三者から虚偽の送金指示があったという。 4月21日に取引先銀行から不審な送金が行われていると連絡があり、確認すると4月20日と21日にある従業員のアカウントから銀行預金...</description>
+      <pubDate>Fri, 24 Apr 2026 12:09:03 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2604/24/news127.html</comments>
+    </item>
+    <item>
       <title>小泉防衛相が「共産党さんミサイル大好き」と答弁　それを笑う茂木外相…　揶揄する姿勢を山添拓氏が猛批判：東京新聞デジタル</title>
       <link>https://www.tokyo-np.co.jp/article/484216</link>
       <description>&lt;img src="https://static.tokyo-np.co.jp/image/article/size1/6/b/c/9/6bc9de32191f1de0038477832b8f5ab1_1.jpg" /&gt;&lt;br/&gt;小泉進次郎防衛相が4月21日の参院外交防衛委員会で、武器輸出に関する質問をした共産党の山添拓・政策委員長に「共産党さん、ミサイルが大好きなので」と発言したやりとりが、SNSで拡散している。「山添拓さん、おちょくられる」といった嘲笑を交えた投稿も相次いでいる。</description>
@@ -48,10 +55,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.tokyo-np.co.jp/article/484216</comments>
     </item>
     <item>
-      <title>「FILCO」「Majestouch」のダイヤテックが閉業</title>
-      <link>https://pc.watch.impress.co.jp/docs/news/2104643.html</link>
-      <pubDate>Fri, 24 Apr 2026 11:44:46 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2104643.html</comments>
+      <title>はてな[3930]：資金流出事案の発生に関するお知らせ 2026年4月24日(適時開示) ：日経会社情報DIGITAL：日本経済新聞</title>
+      <link>https://www.nikkei.com/nkd/disclosure/tdnr/20260424510809/</link>
+      <description>&lt;img src="https://www.nikkei.com/nkd/disclosure/tdnr/20260424510809/thumbnail/?ttype=ogp" /&gt;&lt;br/&gt;2026年4月24日 はてな[3930]の開示資料「資金流出事案の発生に関するお知らせ」 が閲覧できます。資料はPDFでダウンロードできます</description>
+      <pubDate>Fri, 24 Apr 2026 10:48:10 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/nkd/disclosure/tdnr/20260424510809/</comments>
     </item>
     <item>
       <title>【速報】GW中の外遊で原油・石油製品の供給源の開拓を　高市総理が閣僚に指示 | TBS NEWS DIG</title>
@@ -61,13 +69,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/newsdig.tbs.co.jp/articles/-/2624159</comments>
     </item>
     <item>
-      <title>内閣官房から指名停止のIPA、再委託先デロイト傘下の不正な行為見つける</title>
-      <link>https://xtech.nikkei.com/atcl/nxt/column/18/00001/11698/</link>
-      <description>&lt;img src="https://xtech.nikkei.com/atcl/nxt/column/18/00001/11698/topm.jpg?20220512" /&gt;&lt;br/&gt;内閣官房が2026年4月に公表した指名停止措置の対象に、情報処理推進機構（IPA）の名があることがSNS（交流サイト）などで話題になっている。IPAが再委託先の契約違反行為を把握し、国家サイバー統括室へ報告したことが発端だった。委託先選定の難しさが浮き彫りになった。 「契約相手方として不適当である」――。内閣官房...</description>
-      <pubDate>Fri, 24 Apr 2026 11:36:07 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/xtech.nikkei.com/atcl/nxt/column/18/00001/11698/</comments>
-    </item>
-    <item>
       <title>幼稚園ですれ違うママさんたちに「おはようございます～」と挨拶してたら「みんなにそうやって挨拶するのやめたほうがいいですよ、不快な方もいるので！」と言われた</title>
       <link>https://togetter.com/li/2689396</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/e12ea605a22aab7b3c30fd4612d62483-1200x630.jpeg" /&gt;&lt;br/&gt;ぴー☺︎ @tfmltfml 幼稚園の送りにて、すれ違うママさんたちにおはようございます～っていつも挨拶してたわけですが、本日！ついに！挨拶警察に捕まりました！！みんなにそうやって挨拶するのやめた方がいいですよ、不快な方もいるので！って！！これ前にXで見たやつ！やっぱりリアルにも存在するんだ！すげええええ！！ 2...</description>
@@ -75,11 +76,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689396</comments>
     </item>
     <item>
-      <title>ダイヤテック株式会社</title>
-      <link>https://www.diatec.co.jp/index.html</link>
-      <description>お知らせ 平素よりダイヤテック株式会社ならびに弊社製品をご愛顧いただきまして、誠にありがとうございます。 突然のお知らせとなり恐縮ではございますが、2026年4月22日をもちまして、弊社は事業を終了(閉業)いたしました。 これまで賜りましたご厚情に心より御礼申し上げます。 ダイヤテック株式会社 個人情報破棄の...</description>
-      <pubDate>Fri, 24 Apr 2026 10:36:12 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.diatec.co.jp/index.html</comments>
+      <title>内閣官房から指名停止のIPA、再委託先デロイト傘下の不正な行為見つける</title>
+      <link>https://xtech.nikkei.com/atcl/nxt/column/18/00001/11698/</link>
+      <description>&lt;img src="https://xtech.nikkei.com/atcl/nxt/column/18/00001/11698/topm.jpg?20220512" /&gt;&lt;br/&gt;内閣官房が2026年4月に公表した指名停止措置の対象に、情報処理推進機構（IPA）の名があることがSNS（交流サイト）などで話題になっている。IPAが再委託先の契約違反行為を把握し、国家サイバー統括室へ報告したことが発端だった。委託先選定の難しさが浮き彫りになった。 「契約相手方として不適当である」――。内閣官房...</description>
+      <pubDate>Fri, 24 Apr 2026 11:36:07 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/xtech.nikkei.com/atcl/nxt/column/18/00001/11698/</comments>
     </item>
     <item>
       <title>【TVミステリー】報道番組に映った、謎の11秒 | オモコロ</title>
@@ -87,6 +88,19 @@
       <description>&lt;img src="https://omocoro.jp/assets/uploads/2026/04/17769403306qmrn-1188x630.jpg" /&gt;&lt;br/&gt;2008年、とある殺人事件を特集したドキュメンタリーが放送された。その中に、不気味な11秒間の映像が差し込まれていたという。 18年前、あるテレビ番組が放送された。 タイトルは「未解決事件を追って～瀬村家事件の謎～」 住宅街で起きた殺人事件の謎を追う、5分間のドキュメンタリーだ。 その中に、不可解な映像が映っ...</description>
       <pubDate>Fri, 24 Apr 2026 03:24:13 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/omocoro.jp/kiji/570254/</comments>
+    </item>
+    <item>
+      <title>「FILCO」「Majestouch」のダイヤテックが閉業</title>
+      <link>https://pc.watch.impress.co.jp/docs/news/2104643.html</link>
+      <pubDate>Fri, 24 Apr 2026 11:44:46 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2104643.html</comments>
+    </item>
+    <item>
+      <title>ダイヤテック株式会社</title>
+      <link>https://www.diatec.co.jp/index.html</link>
+      <description>お知らせ 平素よりダイヤテック株式会社ならびに弊社製品をご愛顧いただきまして、誠にありがとうございます。 突然のお知らせとなり恐縮ではございますが、2026年4月22日をもちまして、弊社は事業を終了(閉業)いたしました。 これまで賜りましたご厚情に心より御礼申し上げます。 ダイヤテック株式会社 個人情報破棄の...</description>
+      <pubDate>Fri, 24 Apr 2026 10:36:12 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.diatec.co.jp/index.html</comments>
     </item>
   </channel>
 </rss>
