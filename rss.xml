@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 26 Apr 2026 19:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 20:33:09 +0000</lastBuildDate>
     <item>
       <title>【速報】高市総理「暴力は世界のいかなる場所でも決して容認できない」 トランプ大統領出席の夕食会付近で銃撃事件 | TBS NEWS DIG</title>
       <link>https://newsdig.tbs.co.jp/articles/-/2626006</link>
@@ -25,6 +25,13 @@
       <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY0MTU3NCUyRjhkMWYzYTM2ZjI1ZmZjMTA2ZDE0NTJjZmU0Zjk2Mjc5MDk3Y2ViMGElMkZ4X2xhcmdlLnBuZyUzRjE3NzA2MzczNjE_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTllZTAxN2FkZDZjNzY3NjNiMDc0ZjIxNWUyYzNlNTE4%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D87727cd561b83f62a4c486bf69980d4e?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBRVZTQ29kZSVFNiU4QiVBMSVFNSVCQyVCNSVFMyU4MSU4QyVFNCVCRCVCRiVFMyU4MSU4NCVFMyU4MiU4NCVFMyU4MSU5OSVFMyU4MSU4NCVFMyU4MiU4OCZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTI4MzdhNjUxZmNhNTIwNzZmMjllNjNmYjQ2YWZkMTFl&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBtb3JpdGFsb3VzJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NTE5MDJlZTJlOTExNTEzZmVhMTBjNzY4YjZmNjRkM2I&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=52f5108c2e9e38fc6ced30d503bf532c" /&gt;&lt;br/&gt;皆様、Claude Code使ってますか？ CLIで利用されている方が大多数だと思いますが、VSCodeの拡張も悪くないよ、というお話です。 いつのころからか、左右にパネルが出るような構成になっています。 右側が通常（？）のチャット欄で左が過去のセッション一覧みたいな感じです。 左側にある「New session」をクリックすると...</description>
       <pubDate>Sat, 25 Apr 2026 23:05:21 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/qiita.com/moritalous/items/3c5269610f26e23c5b04</comments>
+    </item>
+    <item>
+      <title>200万行のテーブルにDDLを打つ前に知りたかったこと</title>
+      <link>https://zenn.dev/shinagawa_web/articles/pm-saas-migration-risks</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--2QApzcIL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:200%25E4%25B8%2587%25E8%25A1%258C%25E3%2581%25AE%25E3%2583%2586%25E3%2583%25BC%25E3%2583%2596%25E3%2583%25AB%25E3%2581%25ABDDL%25E3%2582%2592%25E6%2589%2593%25E3%2581%25A4%25E5%2589%258D%25E3%2581%25AB%25E7%259F%25A5%25E3%2582%258A%25E3%2581%259F%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:shinagawa%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNjZmZlNmQ4OTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;クエリが遅くなった。直そう。ここから問題が始まる プロジェクト管理SaaSを1年ほど運用すると、Issueテーブルが200万行、変更ログテーブルが2000万行を超えてくる。ソフトデリートを採用していれば物理削除されないので、行数は増える一方だ。 最初の兆候はユーザーからの報告だった。「Issue一覧の読み込みが遅くて、...</description>
+      <pubDate>Sun, 26 Apr 2026 09:46:06 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/shinagawa_web/articles/pm-saas-migration-risks</comments>
     </item>
     <item>
       <title>娘と孫について話しをさせてほしい</title>
@@ -62,18 +69,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690109</comments>
     </item>
     <item>
-      <title>メールで “返信不要です” を書く場合にはこう書き換えると印象が全然ちがう、というお話「これは真似したい」</title>
-      <link>https://togetter.com/li/2689837</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/3f49496068eff571aa76361ebe37bb94-1200x630.jpeg" /&gt;&lt;br/&gt;ゴッホ。 @goho___ 「返信不要です」ではなく「もし不備がなければ、ご返信には及びません」という方のメールに感動して、それから真似するようにしています。 “要らない”という突き放した印象ではなく、読み終えた心が温かくなるメールを意識したい。 2026-04-25 14:45:49</description>
-      <pubDate>Sun, 26 Apr 2026 02:12:15 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689837</comments>
-    </item>
-    <item>
       <title>タモリさんの面白さというのはある程度の教養が無いとわからないから”教養のリトマス試験紙”だと思っている→「子供の頃はあまり面白さがわからなかった」</title>
       <link>https://togetter.com/li/2689988</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/9c54ac331686edee0726e50bc00f9e0c-1200x630.jpeg" /&gt;&lt;br/&gt;ライブドアニュース @livedoornews 【声明】ヒカルの「タモリ面白くない」発言、取締役務める「ナポリの窯」が謝罪「極めて不適切」 news.livedoor.com/article/detail… 「ナポリの窯」の労働組合「ナポリの窯ユニオン」が25日までに声明を発表。ヒカルの発言で同社に対する誹謗中傷が多数寄せられているとして、謝罪と...</description>
       <pubDate>Sun, 26 Apr 2026 08:37:21 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689988</comments>
+    </item>
+    <item>
+      <title>メールで “返信不要です” を書く場合にはこう書き換えると印象が全然ちがう、というお話「これは真似したい」</title>
+      <link>https://togetter.com/li/2689837</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/3f49496068eff571aa76361ebe37bb94-1200x630.jpeg" /&gt;&lt;br/&gt;ゴッホ。 @goho___ 「返信不要です」ではなく「もし不備がなければ、ご返信には及びません」という方のメールに感動して、それから真似するようにしています。 “要らない”という突き放した印象ではなく、読み終えた心が温かくなるメールを意識したい。 2026-04-25 14:45:49</description>
+      <pubDate>Sun, 26 Apr 2026 02:12:15 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689837</comments>
     </item>
     <item>
       <title>「終わってるよ、警察も検察も」返るはずの猟銃が廃棄、最高裁勝訴のハンター怒り…亡き友の形見だった（弁護士ドットコムニュース） - Yahoo!ニュース</title>
@@ -83,18 +90,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/ce544877d411e7f5e93964e0a1dd48bc24949809</comments>
     </item>
     <item>
-      <title>何かのアピール？ファッション感覚で「ヘルプマーク」を付ける若者たちの“驚きの理由”（FRIDAY） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/85b00c6834b58f3611112a37732a1d37f7bd59ac</link>
-      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260426-00000002-friday-000-2-view.jpg?exp=10800" /&gt;&lt;br/&gt;赤色に白い十字とハートが施されたデザインのヘルプマークは、援助や配慮を必要としている人が、周囲に知らせるために作製されたマークだ。 「ヘルプマーク」で“日本旅行ハック”…インバウンド客の誤解とSNS大炎上“ だが、このヘルプマークを悪用する人もいる。中国の旅行代理店が中国人観光客向けにヘルプマークを配布し...</description>
-      <pubDate>Sun, 26 Apr 2026 06:08:20 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/85b00c6834b58f3611112a37732a1d37f7bd59ac</comments>
-    </item>
-    <item>
       <title>マクドナルドは子ども向けメニューを昔から充実させていたが逆に今「若者が来てくれない」と嘆いているのは高齢者・大人ばかり相手にした業界である</title>
       <link>https://togetter.com/li/2690029</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/66e47a1b0cb31b934ed2caeb7b65d0ce-1200x630.jpeg" /&gt;&lt;br/&gt;公団ウォーカー 照井啓太 @codanwalker マクドナルドは子ども向けメニューで味を覚えさせ、彼らが大人になっても来てくれるので世代を超えて売れています。逆に今「若者が来てくれない」と嘆いているのは高齢者・大人ばかり相手にした業界です。例えば子ども番組をやめたテレビ局、遊園地をやめた百貨店、そして渋谷がそ...</description>
       <pubDate>Sun, 26 Apr 2026 09:26:29 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690029</comments>
+    </item>
+    <item>
+      <title>何かのアピール？ファッション感覚で「ヘルプマーク」を付ける若者たちの“驚きの理由”（FRIDAY） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/85b00c6834b58f3611112a37732a1d37f7bd59ac</link>
+      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260426-00000002-friday-000-2-view.jpg?exp=10800" /&gt;&lt;br/&gt;赤色に白い十字とハートが施されたデザインのヘルプマークは、援助や配慮を必要としている人が、周囲に知らせるために作製されたマークだ。 「ヘルプマーク」で“日本旅行ハック”…インバウンド客の誤解とSNS大炎上“ だが、このヘルプマークを悪用する人もいる。中国の旅行代理店が中国人観光客向けにヘルプマークを配布し...</description>
+      <pubDate>Sun, 26 Apr 2026 06:08:20 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/85b00c6834b58f3611112a37732a1d37f7bd59ac</comments>
     </item>
     <item>
       <title>NHK「ドキュメント72時間」で取り上げられた中華フードコート「友諠食府」はこんな店 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
@@ -104,20 +111,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/forbesjapan.com/articles/detail/96304</comments>
     </item>
     <item>
-      <title>「ホラーストーリー語るべきでない」経産相　石油の節約要請は不必要：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASV4S10BJV4SULFA004M.html</link>
-      <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260424001414_comm.jpg" /&gt;&lt;br/&gt;赤沢亮正経済産業相は24日、政府が石油の需要抑制対策に慎重な立場を取る理由について、コロナ禍での外出自粛要請を引き合いに、「ホラーストーリーを語って、みんながすごく不安になって健康を害してでも外出を…</description>
-      <pubDate>Sat, 25 Apr 2026 08:09:19 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV4S10BJV4SULFA004M.html</comments>
-    </item>
-    <item>
-      <title>いやマジでラノベ系とかなろう系漫画電子含めて買ってよみんな</title>
-      <link>https://anond.hatelabo.jp/20260426102726</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;https://anond.hatelabo.jp/20260425083513 ものごっついバズったけど、みんなやっぱり勘違いしてる部分あるよな まぁそれがこの業界に遅行毒の様に効いてきてしまってる部分はあるんだが… 当然公開ソースにはなるが、ラノベ系はなろう系含め漫画もマジ電子書籍含めて売れてねえんだよ、みんな買ってよマジで、中身みな...</description>
-      <pubDate>Sun, 26 Apr 2026 01:36:37 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260426102726</comments>
-    </item>
-    <item>
       <title>芦辺拓さん「ネトウヨの定義としては、菅野完氏の『田舎で人生失敗して、女性と外国人を差別することしかすることがなく、一日中YouTubeとSNSに張りついて、悪いことは全て共産党と立憲民主党のせいだと思っているおっさん』が委曲を尽くしてる」</title>
       <link>https://posfie.com/@Elif87995911/p/q3IaAG8</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/b7b597617317d915b5742a3054d11551-1200x630.jpeg" /&gt;&lt;br/&gt;芦辺　拓 @ashibetaku 零細探偵小説家です。仕事はbit.ly/jfXjYy またの名を森江春策Ｐと申しまして、ニコマス動画、ラブライブ！、AGC38、そしてポッピンＱなど、どこでも平均年齢を押し上げてます。 芦辺　拓 @ashibetaku ネトウヨの定義としては、菅野完(SUGANO Tamotsu)氏の「田舎で人生失敗して、女性と外国人を差...</description>
@@ -125,18 +118,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@Elif87995911/p/q3IaAG8</comments>
     </item>
     <item>
-      <title>「大谷翔平に卓球やらせるくらい才能の無駄遣いしてる」新築タワマンのモデルルームを見に行った体験から書かれた文学の才能がすごい</title>
-      <link>https://togetter.com/li/2689950</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/fd427313463ef47b2b9846cb87fb8815-1200x630.jpeg" /&gt;&lt;br/&gt;ワクワクしながら新築タワマンのモデルルームに行ったら、突然殴られた話 設定は架空の家族に置き換えましたが、自分が実際に体験した話を書きました。※蔵前の隅田川沿いのタワマンのモデルルームという設定にしていますが、実在のマンションとは関係がありません。ーーーーモデルルーム… ブリリアント@PageTurner_and</description>
-      <pubDate>Sun, 26 Apr 2026 05:48:10 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689950</comments>
-    </item>
-    <item>
-      <title>「国民の憲法」要綱、産経が発表　「独立自存の道義国家」掲げる　天皇は元首、軍保持明記　アーカイブ「国民の憲法」</title>
-      <link>https://www.sankei.com/article/20260426-MTHTT3JRNJPMNK4JVZSBEFLBAY/</link>
-      <description>&lt;img src="https://www.sankei.com/resizer/v2/7WZ5Y2Z3VZL7TE44WI7K5LYSO4.jpg?auth=0632c12ddc8e13467e28924760d47987c0ff32fd9439221db67ef8fad3fc2d12&amp;amp;quality=50&amp;amp;smart=true&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;2013年4月26日に、産経新聞朝刊で発表された、全12章117条からなる「『国民の憲法』要綱」のアーカイブ記事です。肩書、年齢、名称などは掲載当時のまま。 産経新聞は創刊80周年と「正論」40周年の記念事業として進めてきた「国民の憲法」要綱をまとめ26日、発表した。わが国にふさわしい「新憲法」として国柄を明記、前...</description>
-      <pubDate>Sun, 26 Apr 2026 04:36:14 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260426-MTHTT3JRNJPMNK4JVZSBEFLBAY/</comments>
+      <title>いやマジでラノベ系とかなろう系漫画電子含めて買ってよみんな</title>
+      <link>https://anond.hatelabo.jp/20260426102726</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;https://anond.hatelabo.jp/20260425083513 ものごっついバズったけど、みんなやっぱり勘違いしてる部分あるよな まぁそれがこの業界に遅行毒の様に効いてきてしまってる部分はあるんだが… 当然公開ソースにはなるが、ラノベ系はなろう系含め漫画もマジ電子書籍含めて売れてねえんだよ、みんな買ってよマジで、中身みな...</description>
+      <pubDate>Sun, 26 Apr 2026 01:36:37 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260426102726</comments>
     </item>
   </channel>
 </rss>
