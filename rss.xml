@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 26 Apr 2026 14:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 15:33:09 +0000</lastBuildDate>
     <item>
       <title>【速報】高市総理「暴力は世界のいかなる場所でも決して容認できない」 トランプ大統領出席の夕食会付近で銃撃事件 | TBS NEWS DIG</title>
       <link>https://newsdig.tbs.co.jp/articles/-/2626006</link>
@@ -20,11 +20,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/qiita.com/moritalous/items/3c5269610f26e23c5b04</comments>
     </item>
     <item>
-      <title>メールで “返信不要です” を書く場合にはこう書き換えると印象が全然ちがう、というお話「これは真似したい」</title>
-      <link>https://togetter.com/li/2689837</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/3f49496068eff571aa76361ebe37bb94-1200x630.jpeg" /&gt;&lt;br/&gt;ゴッホ。 @goho___ 「返信不要です」ではなく「もし不備がなければ、ご返信には及びません」という方のメールに感動して、それから真似するようにしています。 “要らない”という突き放した印象ではなく、読み終えた心が温かくなるメールを意識したい。 2026-04-25 14:45:49</description>
-      <pubDate>Sun, 26 Apr 2026 02:12:15 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689837</comments>
+      <title>線形代数学講義ノート</title>
+      <link>http://www.math.kanagawa-u.ac.jp/mine/linear_alg/index.html</link>
+      <description>線形代数学講義ノート 最新版はこちら： 2022/04/04 更新 線形代数学講義ノート(2022/04/04ver)　（最新版になります） YouTubeによる講義動画はこちら： 第I部・第II部 第III部～第V部 第VI部 『数学セミナー』連載　「線形代数に開眼する12の道」 雑誌『数学セミナー』（日本評論社）で連載しました（2023年4月号～202...</description>
+      <pubDate>Sun, 26 Apr 2026 08:55:24 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/www.math.kanagawa-u.ac.jp/mine/linear_alg/index.html</comments>
     </item>
     <item>
       <title>SMAPの「SHAKE」って夜セックスに向かう男の曲だったんだ…</title>
@@ -41,6 +41,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260426152215</comments>
     </item>
     <item>
+      <title>メールで “返信不要です” を書く場合にはこう書き換えると印象が全然ちがう、というお話「これは真似したい」</title>
+      <link>https://togetter.com/li/2689837</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/3f49496068eff571aa76361ebe37bb94-1200x630.jpeg" /&gt;&lt;br/&gt;ゴッホ。 @goho___ 「返信不要です」ではなく「もし不備がなければ、ご返信には及びません」という方のメールに感動して、それから真似するようにしています。 “要らない”という突き放した印象ではなく、読み終えた心が温かくなるメールを意識したい。 2026-04-25 14:45:49</description>
+      <pubDate>Sun, 26 Apr 2026 02:12:15 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689837</comments>
+    </item>
+    <item>
       <title>Claude Code プラグインおすすめ 2026 — 公式マーケットプレイスから入れるべきプラグイン &amp; MCP サーバー</title>
       <link>https://zenn.dev/ino_h/articles/2026-04-23-claude-code-plugins-ranking</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--9ZnCo0vt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%258A%25E3%2581%2599%25E3%2581%2599%25E3%2582%2581%25202026%2520%25E2%2580%2594%2520%25E5%2585%25AC%25E5%25BC%258F%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25B1%25E3%2583%2583%25E3%2583%2588%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25A4%25E3%2582%25B9%25E3%2581%258B%25E3%2582%2589%25E5%2585%25A5%25E3%2582%258C%25E3%2582%258B%25E3%2581%25B9%25E3%2581%258D%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%2520%2526%2520MC...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E4%25BA%2595%25E3%2583%258E%25E5%25AE%259F%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2YzNzBlOWU5YjcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに Claude Code のプラグインエコシステムが急速に拡大しています。2026 年 4 月時点で、公式マーケットプレイス（claude-plugins-official）には 160 個のプラグインが登録されています。うち 32 個が Anthropic 製、残りはサードパーティ製です。 しかし、数が多すぎて「結局どれを入れればいいの？」と迷う方も...</description>
@@ -48,11 +55,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/ino_h/articles/2026-04-23-claude-code-plugins-ranking</comments>
     </item>
     <item>
-      <title>大丈夫、はてなは何も失っていません - orangestar2</title>
-      <link>https://orangestar2.hatenadiary.com/entry/2026/04/26/093901</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/be6d437ab92bcc0c8e8c2a2c07608591eacc9556/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Forangestar%2F20260426%2F20260426093417.jpg" /&gt;&lt;br/&gt;www.nikkei.com 事案の経緯及び概要2026年４月21日、取引先銀行より不審な送金が行われているとの連絡があり、確認したところ、2026年４月20日及び21日に当社の従業員のアカウントより、当社の銀行預金口座から外部の口座への送金が実行されておりました。当該従業員に確認したところ、悪意ある第三者からの虚偽の送金指...</description>
-      <pubDate>Sun, 26 Apr 2026 00:39:53 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/orangestar2.hatenadiary.com/entry/2026/04/26/093901</comments>
+      <title>タモリさんの面白さというのはある程度の教養が無いとわからないから”教養のリトマス試験紙”だと思っている→「子供の頃はあまり面白さがわからなかった」</title>
+      <link>https://togetter.com/li/2689988</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/973f1f2e674d207f8ed2ac2a24a583dc-1200x630.jpeg" /&gt;&lt;br/&gt;ライブドアニュース @livedoornews 【声明】ヒカルの「タモリ面白くない」発言、取締役務める「ナポリの窯」が謝罪「極めて不適切」 news.livedoor.com/article/detail… 「ナポリの窯」の労働組合「ナポリの窯ユニオン」が25日までに声明を発表。ヒカルの発言で同社に対する誹謗中傷が多数寄せられているとして、謝罪と...</description>
+      <pubDate>Sun, 26 Apr 2026 08:37:21 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689988</comments>
     </item>
     <item>
       <title>「終わってるよ、警察も検察も」返るはずの猟銃が廃棄、最高裁勝訴のハンター怒り…亡き友の形見だった（弁護士ドットコムニュース） - Yahoo!ニュース</title>
@@ -62,11 +69,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/ce544877d411e7f5e93964e0a1dd48bc24949809</comments>
     </item>
     <item>
-      <title>タモリさんの面白さというのはある程度の教養が無いとわからないから”教養のリトマス試験紙”だと思っている→「子供の頃はあまり面白さがわからなかった」</title>
-      <link>https://togetter.com/li/2689988</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/973f1f2e674d207f8ed2ac2a24a583dc-1200x630.jpeg" /&gt;&lt;br/&gt;ライブドアニュース @livedoornews 【声明】ヒカルの「タモリ面白くない」発言、取締役務める「ナポリの窯」が謝罪「極めて不適切」 news.livedoor.com/article/detail… 「ナポリの窯」の労働組合「ナポリの窯ユニオン」が25日までに声明を発表。ヒカルの発言で同社に対する誹謗中傷が多数寄せられているとして、謝罪と...</description>
-      <pubDate>Sun, 26 Apr 2026 08:37:21 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689988</comments>
+      <title>大丈夫、はてなは何も失っていません - orangestar2</title>
+      <link>https://orangestar2.hatenadiary.com/entry/2026/04/26/093901</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/be6d437ab92bcc0c8e8c2a2c07608591eacc9556/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Forangestar%2F20260426%2F20260426093417.jpg" /&gt;&lt;br/&gt;www.nikkei.com 事案の経緯及び概要2026年４月21日、取引先銀行より不審な送金が行われているとの連絡があり、確認したところ、2026年４月20日及び21日に当社の従業員のアカウントより、当社の銀行預金口座から外部の口座への送金が実行されておりました。当該従業員に確認したところ、悪意ある第三者からの虚偽の送金指...</description>
+      <pubDate>Sun, 26 Apr 2026 00:39:53 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/orangestar2.hatenadiary.com/entry/2026/04/26/093901</comments>
     </item>
     <item>
       <title>何かのアピール？ファッション感覚で「ヘルプマーク」を付ける若者たちの“驚きの理由”（FRIDAY） - Yahoo!ニュース</title>
@@ -125,6 +132,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2689950</comments>
     </item>
     <item>
+      <title>芦辺拓さん「ネトウヨの定義としては、菅野完氏の「田舎で人生失敗して、女性と外国人を差別することしかすることがなく、一日中YouTubeとSNSに張りついて、悪いことは全て共産党と立憲民主党のせいだと思っているおっさんが委曲を尽くしてる」</title>
+      <link>https://posfie.com/@Elif87995911/p/q3IaAG8</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/5fa7c4f676db1c0d242c448414f0f45d-1200x630.jpeg" /&gt;&lt;br/&gt;芦辺　拓 @ashibetaku 零細探偵小説家です。仕事はbit.ly/jfXjYy またの名を森江春策Ｐと申しまして、ニコマス動画、ラブライブ！、AGC38、そしてポッピンＱなど、どこでも平均年齢を押し上げてます。 芦辺　拓 @ashibetaku ネトウヨの定義としては、菅野完(SUGANO Tamotsu)氏の「田舎で人生失敗して、女性と外国人を差...</description>
+      <pubDate>Sun, 26 Apr 2026 07:40:32 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@Elif87995911/p/q3IaAG8</comments>
+    </item>
+    <item>
       <title>「若いのに知ったような口を利かれると協力する気が...」市委託業者が女性劇団員を「叱責」　劇団訴えも...食い違う主張（J-CASTニュース） - Yahoo!ニュース</title>
       <link>https://news.yahoo.co.jp/articles/b74e6ac04bdc35d346bb9e9188cf9cb572cb2870</link>
       <pubDate>Sun, 26 Apr 2026 03:16:58 +0000</pubDate>
@@ -143,20 +157,6 @@
       <description>&lt;img src="https://www.jiji.com/news2/kiji_photos/202604/20260425ax06S_o.jpg" /&gt;&lt;br/&gt;円の実力、凋落止まらず　５６年前下回る、購買力減退 時事通信 経済部2026年04月26日07時05分配信 【図解】実質実効為替レートの推移 「円」の価値が凋落（ちょうらく）し続けている。国際決済銀行（ＢＩＳ）によると、通貨としての総合的な実力を示す「実質実効為替レート」は今年３月時点で６６．３３（２０２０年＝...</description>
       <pubDate>Sat, 25 Apr 2026 23:36:58 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.jiji.com/jc/article?k=2026042500296&amp;g=eco</comments>
-    </item>
-    <item>
-      <title>『機動戦艦ナデシコ』（角川スニーカー文庫）解説</title>
-      <link>https://www.asahi-net.or.jp/~kx3m-ab/nadesico.html</link>
-      <description>うーん、ユリカ派のオレとしてはルリルリ萌えな人たちとは一線を画してるつもりだったんだけどなあ。やっぱ星野ルリ一人称はダメでしょう。ゲラ読んでるあいだじゅう、南央美嬢に耳もとで囁かれてる感覚で、ついビデオひっぱりだして頭から見ちゃったり。 われながら、こう簡単にボタン押されてていいのかと思いますが、...</description>
-      <pubDate>Fri, 05 Jan 2024 08:40:28 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.asahi-net.or.jp/~kx3m-ab/nadesico.html</comments>
-    </item>
-    <item>
-      <title>なぜLLMは日本文化に夢中なのか？ – LLMに潜む隠れた文化的・地域的バイアス - AIDB</title>
-      <link>https://ai-data-base.com/paper/2604-21751</link>
-      <description>&lt;img src="https://ai-data-base.com/wp-content/uploads/2026/04/paper-ogp-107575-1777117736.png" /&gt;&lt;br/&gt;LLMs have been showing limitations when it comes to cultural coverage and competence, and in some cases show regional biases such as amplifying Western and Anglocentric viewpoints. While there have been works analysing the cultural capabilities of LLMs, there has not been specific work on highlig...</description>
-      <pubDate>Sat, 25 Apr 2026 18:39:51 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ai-data-base.com/paper/2604-21751</comments>
     </item>
   </channel>
 </rss>
