@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Tue, 28 Apr 2026 00:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 01:33:12 +0000</lastBuildDate>
     <item>
       <title>「メディアは沈黙」は本当か…辺野古転覆事故を1か月追って分かった、沖縄2紙と産経新聞の決定的な違い | 文春オンライン</title>
       <link>https://bunshun.jp/articles/-/88212</link>
@@ -26,6 +26,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOSG1793D0X10C26A4000000/</comments>
     </item>
     <item>
+      <title>【2026年版】フロントエンド技術選定：React・Vue・Angularの現在地と「AI時代の生存戦略」</title>
+      <link>https://zenn.dev/nijima/articles/651ed3c1f2ded5</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--oxIji8kk--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%25902026%25E5%25B9%25B4%25E7%2589%2588%25E3%2580%2591%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25A8%25E3%2583%25B3%25E3%2583%2589%25E6%258A%2580%25E8%25A1%2593%25E9%2581%25B8%25E5%25AE%259A%25EF%25BC%259AReact%25E3%2583%25BBVue%25E3%2583%25BBAngular%25E3%2581%25AE%25E7%258F%25BE%25E5%259C%25A8%25E5%259C%25B0%25E3%2581%25A8%25E3%2580%258CAI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E7%2594%259F%25E5%25AD%2598%25E6%2588%25A6%25E7%2595%25A5%25E3%2580%258D%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%258B%25E3%2582%25A4%25E3%2582%25B8%25E3%2583%259E%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzJkOTg0YTUwNjMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに 「どのフレームワークを選ぶべきか？」 これは初学者だけでなく、新規事業の技術選定を任された中級者にとっても常に悩ましいテーマです。 いまフロントエンドの世界は、大きな転換期を迎えています。長年使われてきたReact、Vue、Angularの三大フレームワークが、これまでの古い常識を捨てて新しい次元へとア...</description>
+      <pubDate>Mon, 27 Apr 2026 16:14:18 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/nijima/articles/651ed3c1f2ded5</comments>
+    </item>
+    <item>
       <title>大学で好きになった女が、茂みにリュックを隠すタイプだった</title>
       <link>https://anond.hatelabo.jp/20260427222637</link>
       <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;大学1年の春、同じ学部に気になる子がいた。 見た目が可愛いとか、話し方が独特とか、そういうありがちな入口だったと思う。たまたまその子の幼馴染と同じサークルで仲良くなって、流れでその子とも話すようになった。 ただ、今思うと、俺は恋をしていたというより、未知の生態を観察していたのかもしれない。 最初に「...</description>
@@ -38,6 +45,13 @@
       <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260427003551_comm.jpg" /&gt;&lt;br/&gt;26日投開票の宮城県気仙沼市長選は、現職の菅原茂氏が5選を果たした。だが、当選が決まっても菅原陣営からは歓声が上がらなかった。当初は無投票の公算大と見られた中で、告示直前に出馬を決めた候補者が5千票…</description>
       <pubDate>Mon, 27 Apr 2026 15:28:19 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV4W3GR7V4WUNHB00JM.html</comments>
+    </item>
+    <item>
+      <title>世界初「宇宙太陽光発電」で地上に電気供給　JAXA、マイクロ波で - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOSG010SU0R00C26A1000000/</link>
+      <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2719796006032026000000-2.png?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;upscale=false&amp;amp;w=1200&amp;amp;s=314730a9c5da9c20348571fbe7dd236a" /&gt;&lt;br/&gt;【この記事でわかること】・宇宙の発電所はいつ実現？・地上へ電気をどう送る？・発電所と月探査の意外な関係宇宙航空研究開発機構（JAXA）などは2026年度にも宇宙で作った電気を地上に送る実験をする。小型衛星からマイクロ波を使って送電し、天候に関わらない「宇宙太陽光発電」の実現を目指す。地上で電気を取り出せ...</description>
+      <pubDate>Mon, 27 Apr 2026 20:22:36 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOSG010SU0R00C26A1000000/</comments>
     </item>
     <item>
       <title>第1話 異世界とガチャ / 神引きのモナーク - 杉浦次郎/オキウミレイ | サンデーうぇぶり</title>
@@ -59,13 +73,6 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/c4de10b3d59bc7bd32b06f492d707d1c-1200x630.jpeg" /&gt;&lt;br/&gt;やませちか&#x1f48e;8巻発売中4/23&#x1f48e;宝石商のメイド @yamasetubuyaki この高校で揉まれた結果、今は漫画家になれました。 『宝石商のメイド』というメイドが宝石鑑定で無双する 漫画を描いてますのでよろしくね！ pic.x.com/lETOd2zKNy 2026-04-26 21:32:50</description>
       <pubDate>Mon, 27 Apr 2026 08:41:44 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@golden_haniwa/p/sGuPmLJ</comments>
-    </item>
-    <item>
-      <title>弁当のメインおかずの下に敷いてある味のないパスタを食べていたら『それって油とか汁とかが流れないように敷いてあるだけだから食べるものじゃない』と言われた</title>
-      <link>https://togetter.com/li/2690404</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/185341983560185811d857b479e6d01f-1200x630.jpeg" /&gt;&lt;br/&gt;たんさんすい♨️ @7m1VkjRzkW7fSbB 弁当でメイン料理の下に敷いてある味の無いパスタ(伝われ)食べてたら 「えーwそれって実は傾けた時に汁とか油とかが流れないように敷いてあるだけだから食べるものじゃないんだよwww」 って笑われたんだけど は？？？パスタは食べるものだが？？？？？？？？？？？ 2026-04-27 13:08:19</description>
-      <pubDate>Mon, 27 Apr 2026 12:11:09 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690404</comments>
     </item>
   </channel>
 </rss>
