@@ -4,13 +4,13 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 29 Apr 2026 02:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 03:33:10 +0000</lastBuildDate>
     <item>
-      <title>Claude Code Skills × 投資分析シリーズ — 記事一覧</title>
-      <link>https://zenn.dev/okikusan/articles/23041c3800a927</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--dWyCb2XN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520Skills%2520%25C3%2597%2520%25E6%258A%2595%25E8%25B3%2587%25E5%2588%2586%25E6%259E%2590%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%2520%25E2%2580%2594%2520%25E8%25A8%2598%25E4%25BA%258B%25E4%25B8%2580%25E8%25A6%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:okikusan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmMjQ3NTEyMzYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;Claude Code Skills を使って投資分析システムを構築・進化させてきたシリーズです。自然言語で話しかけるだけで、銘柄探索・分析・ポートフォリオ管理・リスク評価が自動実行されます。 シリーズの流れ スクリプトによる 自動化 から始まり、GraphRAG による 学習、高度な分析機能の追加を経て、6つの AI エージェント...</description>
-      <pubDate>Fri, 24 Apr 2026 13:45:35 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/okikusan/articles/23041c3800a927</comments>
+      <title>【実録】ソニーの「8年間の部品保有」とは何だったのか。フラッグシップ機TA-ZH1ES、生産終了から3年半で修理拒絶された記録｜Taka</title>
+      <link>https://note.com/chic_marten6647/n/n1f2ebc5a9a85</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/270712255/rectangle_large_type_2_a02f5dcd21d8cce34fe9cc4e62209a31.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;【実録】ソニーの「8年間の部品保有」とは何だったのか。フラッグシップ機TA-ZH1ES、生産終了から3年半で修理拒絶された記録 はじめにこれは、ソニーの高級据え置き型ヘッドホンアンプ「TA-ZH1ES」が、生産終了からわずか約3.5年で修理を拒絶された記録です。 私自身はすでに自力で問題を解決していますが、同様の被害者...</description>
+      <pubDate>Tue, 28 Apr 2026 21:26:50 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/chic_marten6647/n/n1f2ebc5a9a85</comments>
     </item>
     <item>
       <title>「データセンターは工場・倉庫だ！」周辺住民が国交省前で訴え | NHKニュース</title>
@@ -20,11 +20,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nb-1000128140</comments>
     </item>
     <item>
-      <title>実はここまでできるCoworkハンズオン — Claude Codeに行く、その前に を経て｜まつにぃ</title>
-      <link>https://note.com/yugen_matuni/n/n23e80ce10151</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/270999405/rectangle_large_type_2_53543147b5fd53984f53a20ca2908da1.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;なぜ「Claude Codeに行く、その前に」なのかClaude Codeは、とても強力なエージェントツールです。ローカルファイルを編集でき、コマンドを実行でき、Git操作やMCP連携まで扱えます。実際、開発寄りの業務に限らず、あらゆる業務に適用できるエージェントツールの最有力な選択肢になってきています。 ただし、強い権限を...</description>
-      <pubDate>Tue, 28 Apr 2026 18:51:53 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/yugen_matuni/n/n23e80ce10151</comments>
+      <title>Claude Code Skills × 投資分析シリーズ — 記事一覧</title>
+      <link>https://zenn.dev/okikusan/articles/23041c3800a927</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--dWyCb2XN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520Skills%2520%25C3%2597%2520%25E6%258A%2595%25E8%25B3%2587%25E5%2588%2586%25E6%259E%2590%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%2520%25E2%2580%2594%2520%25E8%25A8%2598%25E4%25BA%258B%25E4%25B8%2580%25E8%25A6%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:okikusan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmMjQ3NTEyMzYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;Claude Code Skills を使って投資分析システムを構築・進化させてきたシリーズです。自然言語で話しかけるだけで、銘柄探索・分析・ポートフォリオ管理・リスク評価が自動実行されます。 シリーズの流れ スクリプトによる 自動化 から始まり、GraphRAG による 学習、高度な分析機能の追加を経て、6つの AI エージェント...</description>
+      <pubDate>Fri, 24 Apr 2026 13:45:35 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/okikusan/articles/23041c3800a927</comments>
+    </item>
+    <item>
+      <title>ガンダムの富野由悠季さん「今は希望のある物語は作れない気が」　叙勲を喜びつつ語った「戦争の恐ろしさ」：東京新聞デジタル</title>
+      <link>https://www.tokyo-np.co.jp/article/484951</link>
+      <description>&lt;img src="https://static.tokyo-np.co.jp/image/article/size1/d/a/1/2/da120236a4a53eddaebcaf9a809eb2ad_1.jpg" /&gt;&lt;br/&gt;政府は2026年春の叙勲受章者計3875人を発表した。発令は29日付。芸術・文化の分野では、「機動戦士ガンダム」シリーズを手がけたアニメーション監督富野由悠季（本名・富野喜幸）さん（84）や漫画家里中満智子さん（78）に旭日中綬章が、現代美術家森村泰昌さん（74）らに旭日小綬章が贈られた。</description>
+      <pubDate>Tue, 28 Apr 2026 22:21:18 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.tokyo-np.co.jp/article/484951</comments>
     </item>
     <item>
       <title>「わかめスープを作るときはわかめを炒めると美味しくできる」と聞き挑戦してみた結果、わかめが飛び跳ねる事態に→韓国ニキからガチアドバイスが届く【レシピあり】</title>
@@ -34,11 +41,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690816</comments>
     </item>
     <item>
-      <title>戦争でトランプファミリーに巨額利益　腐敗した文化で咲き誇る“トランプの黒い花”【報道1930】 | TBS NEWS DIG</title>
-      <link>https://newsdig.tbs.co.jp/articles/-/2631351</link>
-      <description>&lt;img src="https://newsdig.ismcdn.jp/mwimgs/5/5/1200w/img_55030f165d32131be00d7119c95ea8fc282557.jpg" /&gt;&lt;br/&gt;トランプ大統領の政治的立場を利用して、トランプファミリーが巨額の利益を上げているという噂が政権発足以来絶えることはないといわれてきた。その種の噂が現在のイランを巡る戦争でも湧き上がっている。戦争とフ…</description>
-      <pubDate>Tue, 28 Apr 2026 11:53:14 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/newsdig.tbs.co.jp/articles/-/2631351</comments>
+      <title>実はここまでできるCoworkハンズオン — Claude Codeに行く、その前に を経て｜まつにぃ</title>
+      <link>https://note.com/yugen_matuni/n/n23e80ce10151</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/270999405/rectangle_large_type_2_53543147b5fd53984f53a20ca2908da1.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;なぜ「Claude Codeに行く、その前に」なのかClaude Codeは、とても強力なエージェントツールです。ローカルファイルを編集でき、コマンドを実行でき、Git操作やMCP連携まで扱えます。実際、開発寄りの業務に限らず、あらゆる業務に適用できるエージェントツールの最有力な選択肢になってきています。 ただし、強い権限を...</description>
+      <pubDate>Tue, 28 Apr 2026 18:51:53 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/yugen_matuni/n/n23e80ce10151</comments>
     </item>
     <item>
       <title>「なぜ謝罪しないんですか？」　辺野古沖「女子高生」死亡事故で「反基地団体」幹部を直撃すると驚きの返答が！（デイリー新潮） - Yahoo!ニュース</title>
@@ -48,18 +55,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/a8e1ce17609471c2b5cac0a6f5b279117d0b58c8</comments>
     </item>
     <item>
+      <title>戦争でトランプファミリーに巨額利益　腐敗した文化で咲き誇る“トランプの黒い花”【報道1930】 | TBS NEWS DIG</title>
+      <link>https://newsdig.tbs.co.jp/articles/-/2631351</link>
+      <description>&lt;img src="https://newsdig.ismcdn.jp/mwimgs/5/5/1200w/img_55030f165d32131be00d7119c95ea8fc282557.jpg" /&gt;&lt;br/&gt;トランプ大統領の政治的立場を利用して、トランプファミリーが巨額の利益を上げているという噂が政権発足以来絶えることはないといわれてきた。その種の噂が現在のイランを巡る戦争でも湧き上がっている。戦争とフ…</description>
+      <pubDate>Tue, 28 Apr 2026 11:53:14 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/newsdig.tbs.co.jp/articles/-/2631351</comments>
+    </item>
+    <item>
+      <title>人間レビューはもう不要？ AI と人間のレビューの線引きを決めた話</title>
+      <link>https://ai.acsim.app/articles/introducing-self-merge-policy</link>
+      <description>&lt;img src="https://ai.acsim.app/images/articles/introducing-self-merge-policy/cover.png" /&gt;&lt;br/&gt;はじめに こんにちは！Acsim 開発チームの笹沢です。 AI 駆動開発の浸透でコードの生産量は飛躍的に増えました。一方、人間がレビューに割ける時間は変わらないため、レビュー待ちで PR がスタックする場面が以前より増えていきました。 私たちのチームでは「人間のレビューを必須とするもの」と「AI レビューで OK とす...</description>
+      <pubDate>Tue, 28 Apr 2026 12:43:47 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/ai.acsim.app/articles/introducing-self-merge-policy</comments>
+    </item>
+    <item>
       <title>無知のグルメ 18話 - ジャンプルーキー！</title>
       <link>https://rookie.shonenjump.com/series/OmknL2IAah0/OmkvmYUWV7Q</link>
       <description>&lt;img src="https://cdn-img.rookie.shonenjump.com/public/cover_images/4208938411215579705-383103567647" /&gt;&lt;br/&gt;無知のグルメ漫画です。</description>
       <pubDate>Tue, 28 Apr 2026 15:25:21 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/rookie.shonenjump.com/series/OmknL2IAah0/OmkvmYUWV7Q</comments>
-    </item>
-    <item>
-      <title>自治体指定のごみ袋が買い占めにより店から消えた...メルカリには大量のごみ袋の出品が→「買い占め転売しても普通のごみ袋でのごみ出しが許可されるだけなのに...」</title>
-      <link>https://togetter.com/li/2690789</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/4336abf7305d6755ab3f7c54192c5bae-1200x630.jpeg" /&gt;&lt;br/&gt;自治体指定のごみ袋が買い占めにより店から消えた...メルカリには大量のごみ袋の出品が→「買い占め転売しても普通のごみ袋でのごみ出しが許可されるだけなのに...」</description>
-      <pubDate>Tue, 28 Apr 2026 20:10:12 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690789</comments>
     </item>
     <item>
       <title>決済業界に25年いて、いくつもの詐欺手法を見てきましたが、最近のフィッシング詐欺は「注意してても引っかかる」レベルまで進化しています。</title>
@@ -69,11 +83,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@TElZiBwoGn32797/p/k8CX7Wx</comments>
     </item>
     <item>
-      <title>[3話]ヒトナー - 屋宜知宏 | 少年ジャンプ＋</title>
-      <link>https://shonenjumpplus.com/episode/17107419589696004428</link>
-      <description>&lt;img src="https://cdn-ak-img.shonenjumpplus.com/public/series-thumbnail/17107419589536330256-b9397cd973902bcf56b59386e32abb34?1776783007" /&gt;&lt;br/&gt;ヒトナー 屋宜知宏 &lt;毎週水曜更新&gt;ケモノが住む最果ての星に一人の地球人が訪れる。獣人たちは初めて目にする"ヒト"の姿に揺れ動く。異種族交流の中で変化するケモ社会・・・『アイアンナイト』、『レッドスプライト』の屋宜知宏が描くハートフル異種族観察物語!!</description>
-      <pubDate>Tue, 28 Apr 2026 15:02:48 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/shonenjumpplus.com/episode/17107419589696004428</comments>
+      <title>自治体指定のごみ袋が買い占めにより店から消えた...メルカリには大量のごみ袋の出品が→「買い占め転売しても普通のごみ袋でのごみ出しが許可されるだけなのに...」</title>
+      <link>https://togetter.com/li/2690789</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/4336abf7305d6755ab3f7c54192c5bae-1200x630.jpeg" /&gt;&lt;br/&gt;自治体指定のごみ袋が買い占めにより店から消えた...メルカリには大量のごみ袋の出品が→「買い占め転売しても普通のごみ袋でのごみ出しが許可されるだけなのに...」</description>
+      <pubDate>Tue, 28 Apr 2026 20:10:12 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690789</comments>
     </item>
     <item>
       <title>東京国立近代美術館「コレクションを中心とした特集　記録をひらく 記憶をつむぐ」展の記録集</title>
@@ -89,6 +103,19 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690668</comments>
     </item>
     <item>
+      <title>契約書なしで草刈り委託　1400万円自腹の徳島県職員を懲戒免職 | 毎日新聞</title>
+      <link>https://mainichi.jp/articles/20260428/k00/00m/040/380000c</link>
+      <pubDate>Tue, 28 Apr 2026 15:47:41 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260428/k00/00m/040/380000c</comments>
+    </item>
+    <item>
+      <title>[3話]ヒトナー - 屋宜知宏 | 少年ジャンプ＋</title>
+      <link>https://shonenjumpplus.com/episode/17107419589696004428</link>
+      <description>&lt;img src="https://cdn-ak-img.shonenjumpplus.com/public/series-thumbnail/17107419589536330256-b9397cd973902bcf56b59386e32abb34?1776783007" /&gt;&lt;br/&gt;ヒトナー 屋宜知宏 &lt;毎週水曜更新&gt;ケモノが住む最果ての星に一人の地球人が訪れる。獣人たちは初めて目にする"ヒト"の姿に揺れ動く。異種族交流の中で変化するケモ社会・・・『アイアンナイト』、『レッドスプライト』の屋宜知宏が描くハートフル異種族観察物語!!</description>
+      <pubDate>Tue, 28 Apr 2026 15:02:48 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/shonenjumpplus.com/episode/17107419589696004428</comments>
+    </item>
+    <item>
       <title>中国でも科学者9人が次々と「謎の死」…米国では11人が相次ぎ死亡</title>
       <link>https://www.chosunonline.com/site/data/html_dir/2026/04/27/2026042780072.html</link>
       <description>&lt;img src="https://www.chosunonline.com/site/data/img_dir/2026/04/27/2026042780072_0.jpg" /&gt;&lt;br/&gt;中国でも科学者9人が次々と「謎の死」…米国では11人が相次ぎ死亡 ▲写真＝UTOIMAGE 米国で最近、宇宙・航空・原子力分野を研究していた科学者11人が次々と死亡したり行方不明になったりする中、中国でもここ数年で複数の科学者が謎の死を迎えていたことが報じられた。 【写真】「中国人研究者ら、不当な調査受け米入国拒...</description>
@@ -96,24 +123,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.chosunonline.com/site/data/html_dir/2026/04/27/2026042780072.html</comments>
     </item>
     <item>
-      <title>契約書なしで草刈り委託　1400万円自腹の徳島県職員を懲戒免職 | 毎日新聞</title>
-      <link>https://mainichi.jp/articles/20260428/k00/00m/040/380000c</link>
-      <pubDate>Tue, 28 Apr 2026 15:47:41 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260428/k00/00m/040/380000c</comments>
-    </item>
-    <item>
       <title>氷河期世代、出だしでつまずいても逆転できたのでは？→努力を重ねたが運に見放された人の声「教員採用試験受け続けて、30前にダムに身を投げたり」</title>
       <link>https://togetter.com/li/2690730</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/6f0d9d2ad887db39883f7826a8ee2285-1200x630.jpeg" /&gt;&lt;br/&gt;ウェルスナビび @wealthnavi_days 氷河期世代って新卒の時に採用が渋かったのは運が悪かったけど、そのあと20-30年もあったのに挽回できなかったのは自分の責任ではないの？ なんの努力したん？ 2026-04-26 13:14:57 ウェルスナビび @wealthnavi_days 出だしでつまずいたのは間違いなく時代が悪かったけど、そのあと本屋...</description>
       <pubDate>Tue, 28 Apr 2026 14:28:08 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690730</comments>
-    </item>
-    <item>
-      <title>Anthropicはなぜ異次元の速度で開発できるのか｜すてぃお</title>
-      <link>https://note.com/suthio/n/n7f053c52b06d</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/270869155/rectangle_large_type_2_7dd1bfb385750d7d255e0510ce6f2311.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;「Anthropic（Claudeを作っている会社）、開発が速すぎる」 最近、周りのエンジニアと話していると、この話題がよく出ます。僕も同じことを思っていて、いろいろ調べているうちに、単に「AIを使っているから速い」という一言では説明できない構造があることが見えてきました。 例えば、下記になります。 2026年Q1の3ヶ月...</description>
-      <pubDate>Mon, 27 Apr 2026 23:48:42 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/suthio/n/n7f053c52b06d</comments>
     </item>
   </channel>
 </rss>
