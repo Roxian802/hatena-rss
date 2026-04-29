@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 29 Apr 2026 03:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 04:33:09 +0000</lastBuildDate>
     <item>
       <title>【実録】ソニーの「8年間の部品保有」とは何だったのか。フラッグシップ機TA-ZH1ES、生産終了から3年半で修理拒絶された記録｜Taka</title>
       <link>https://note.com/chic_marten6647/n/n1f2ebc5a9a85</link>
@@ -41,6 +41,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690816</comments>
     </item>
     <item>
+      <title>大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ</title>
+      <link>https://zenn.dev/nttdata_tech/articles/bf6b694144e55a</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--wj5FCcOc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25A4%25A7%25E8%25A6%258F%25E6%25A8%25A1%25E6%25A1%2588%25E4%25BB%25B6%25E3%2581%25AESlack%25E3%2581%25ABAI%25E7%25A4%25BE%25E5%2593%25A13%25E4%25BA%25BA%25E3%2582%2592%25E5%25B8%25B8%25E9%25A7%2590%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E3%2580%25812%25E5%25B9%25B4%25E7%259B%25AE%25E3%2581%258C%25E5%258F%2582%25E7%2594%25BB1%25E9%2580%25B1%25E9%2596%2593%25E3%2581%25A7%25E8%25A8%25AD%25E8%25A8%2588%25E6%25A0%25B9%25E6%259C%25AC%25E3%2581%25AB%25E8%25B8%258F%25E3%2581%25BF%25E8%25BE%25BC%25E3%2582%2593%25E3%2581%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:htakasu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q1ZjRhYzE4MTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NTT%2520DATA%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlhNmY1MzY5NmQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;実際の画面とは異なるサンプルイメージです チームのSlackにAI社員を3人常駐させています。 社員5人で、2週間動かしました。 誤解を招きそうだからちゃんと書いておきます。 2週間です。半年でも1年でもなく、2週間。 それでも書きたくなるくらいのことが起きたので、この記事を書いています。 SIerの大規模開発で扱う資...</description>
+      <pubDate>Tue, 28 Apr 2026 04:22:01 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/nttdata_tech/articles/bf6b694144e55a</comments>
+    </item>
+    <item>
       <title>実はここまでできるCoworkハンズオン — Claude Codeに行く、その前に を経て｜まつにぃ</title>
       <link>https://note.com/yugen_matuni/n/n23e80ce10151</link>
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/270999405/rectangle_large_type_2_53543147b5fd53984f53a20ca2908da1.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;なぜ「Claude Codeに行く、その前に」なのかClaude Codeは、とても強力なエージェントツールです。ローカルファイルを編集でき、コマンドを実行でき、Git操作やMCP連携まで扱えます。実際、開発寄りの業務に限らず、あらゆる業務に適用できるエージェントツールの最有力な選択肢になってきています。 ただし、強い権限を...</description>
@@ -53,6 +60,13 @@
       <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260429-01447473-shincho-000-1-view.jpg?exp=10800" /&gt;&lt;br/&gt;3月16日に、沖縄県名護市の辺野古沖で修学旅行中の同志社国際高校（京都府京田辺市）の2年生らが乗船した小型船「不屈」と「平和丸」が転覆し、乗船していた生徒の武石知華さん（17）らが亡くなるという痛ましい事故が起きてから1カ月超が経過した。だが、両船を運用する「ヘリ基地反対協議会」（以下、反対協）はいまだ...</description>
       <pubDate>Tue, 28 Apr 2026 22:21:55 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/a8e1ce17609471c2b5cac0a6f5b279117d0b58c8</comments>
+    </item>
+    <item>
+      <title>国立国会図書館のOCR技術を使って、完全オフラインOCRのChrome拡張を作ってみた</title>
+      <link>https://zenn.dev/lecto/articles/a2ee65243b02b3</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--gUss9xab--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%259B%25BD%25E7%25AB%258B%25E5%259B%25BD%25E4%25BC%259A%25E5%259B%25B3%25E6%259B%25B8%25E9%25A4%25A8%25E3%2581%25AEOCR%25E6%258A%2580%25E8%25A1%2593%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2580%2581%25E5%25AE%258C%25E5%2585%25A8%25E3%2582%25AA%25E3%2583%2595%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3OCR%25E3%2581%25AEChrome%25E6%258B%25A1%25E5%25BC%25B5%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tamoco%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RlYzIzMDI3ODQuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Lecto%252C%2520Inc.%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSncxc3hPRzZtOHdRX0tfU0JsaGszN2s5dFhWUl9RNnJ3UFdDQlQ4UTNieDJEei10cmc9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに 画像やPDFのテキストをコピーしたいとき、オンラインのOCRサービスに画像を送るのはちょっと抵抗がありませんか？ 特に社外秘の資料や個人情報が写っている場合。 通信ゼロ、ブラウザの中だけで完結するOCR があれば安心して使えるのに — そう思って、Chrome拡張機能を作りました。 以前からいくつかの日本語OC...</description>
+      <pubDate>Tue, 28 Apr 2026 15:35:33 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/lecto/articles/a2ee65243b02b3</comments>
     </item>
     <item>
       <title>戦争でトランプファミリーに巨額利益　腐敗した文化で咲き誇る“トランプの黒い花”【報道1930】 | TBS NEWS DIG</title>
@@ -90,17 +104,24 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690789</comments>
     </item>
     <item>
+      <title>「日本のKFCは世界で一番まずい」と主張する韓国ユーザーの投稿が話題に...”初めて食べたときしょっぱくてベチャっとしてて油っこくて本当に衝撃だった”</title>
+      <link>https://togetter.com/li/2690668</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/374b0982d58fc6548ff901e02bd8dbee-1200x630.jpeg" /&gt;&lt;br/&gt;「日本のKFCは世界で一番まずい」と主張する韓国ユーザーの投稿が話題に...”初めて食べたときしょっぱくてベチャっとしてて油っこくて本当に衝撃だった”</description>
+      <pubDate>Tue, 28 Apr 2026 09:30:55 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690668</comments>
+    </item>
+    <item>
       <title>東京国立近代美術館「コレクションを中心とした特集　記録をひらく 記憶をつむぐ」展の記録集</title>
       <link>https://www.momat.go.jp/wp-content/uploads/2026/04/ODWM_book_260424-B.pdf</link>
       <pubDate>Tue, 28 Apr 2026 08:11:35 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.momat.go.jp/wp-content/uploads/2026/04/ODWM_book_260424-B.pdf</comments>
     </item>
     <item>
-      <title>「日本のKFCは世界で一番まずい」と主張する韓国ユーザーの投稿が話題に...”初めて食べたときしょっぱくてベチャっとしてて油っこくて本当に衝撃だった”</title>
-      <link>https://togetter.com/li/2690668</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/374b0982d58fc6548ff901e02bd8dbee-1200x630.jpeg" /&gt;&lt;br/&gt;「日本のKFCは世界で一番まずい」と主張する韓国ユーザーの投稿が話題に...”初めて食べたときしょっぱくてベチャっとしてて油っこくて本当に衝撃だった”</description>
-      <pubDate>Tue, 28 Apr 2026 09:30:55 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690668</comments>
+      <title>アメリカ人以外に「もう一回原爆落としてやろうか？」と煽られても「原爆も落ちてないのにそのざまなの？」と思ってしまう…あれは負け犬の遠吠えらしい</title>
+      <link>https://togetter.com/li/2690796</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/3b23b595225a2bbb9ca22ec2a25008bf-1200x630.jpeg" /&gt;&lt;br/&gt;アメリカ人以外に「もう一回原爆落としてやろうか？」と煽られても「原爆も落ちてないのにそのざまなの？」と思ってしまう…あれは負け犬の遠吠えらしい</description>
+      <pubDate>Tue, 28 Apr 2026 17:10:39 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690796</comments>
     </item>
     <item>
       <title>契約書なしで草刈り委託　1400万円自腹の徳島県職員を懲戒免職 | 毎日新聞</title>
@@ -109,25 +130,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260428/k00/00m/040/380000c</comments>
     </item>
     <item>
-      <title>[3話]ヒトナー - 屋宜知宏 | 少年ジャンプ＋</title>
-      <link>https://shonenjumpplus.com/episode/17107419589696004428</link>
-      <description>&lt;img src="https://cdn-ak-img.shonenjumpplus.com/public/series-thumbnail/17107419589536330256-b9397cd973902bcf56b59386e32abb34?1776783007" /&gt;&lt;br/&gt;ヒトナー 屋宜知宏 &lt;毎週水曜更新&gt;ケモノが住む最果ての星に一人の地球人が訪れる。獣人たちは初めて目にする"ヒト"の姿に揺れ動く。異種族交流の中で変化するケモ社会・・・『アイアンナイト』、『レッドスプライト』の屋宜知宏が描くハートフル異種族観察物語!!</description>
-      <pubDate>Tue, 28 Apr 2026 15:02:48 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/shonenjumpplus.com/episode/17107419589696004428</comments>
-    </item>
-    <item>
-      <title>中国でも科学者9人が次々と「謎の死」…米国では11人が相次ぎ死亡</title>
-      <link>https://www.chosunonline.com/site/data/html_dir/2026/04/27/2026042780072.html</link>
-      <description>&lt;img src="https://www.chosunonline.com/site/data/img_dir/2026/04/27/2026042780072_0.jpg" /&gt;&lt;br/&gt;中国でも科学者9人が次々と「謎の死」…米国では11人が相次ぎ死亡 ▲写真＝UTOIMAGE 米国で最近、宇宙・航空・原子力分野を研究していた科学者11人が次々と死亡したり行方不明になったりする中、中国でもここ数年で複数の科学者が謎の死を迎えていたことが報じられた。 【写真】「中国人研究者ら、不当な調査受け米入国拒...</description>
-      <pubDate>Tue, 28 Apr 2026 06:47:47 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.chosunonline.com/site/data/html_dir/2026/04/27/2026042780072.html</comments>
-    </item>
-    <item>
-      <title>氷河期世代、出だしでつまずいても逆転できたのでは？→努力を重ねたが運に見放された人の声「教員採用試験受け続けて、30前にダムに身を投げたり」</title>
-      <link>https://togetter.com/li/2690730</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/6f0d9d2ad887db39883f7826a8ee2285-1200x630.jpeg" /&gt;&lt;br/&gt;ウェルスナビび @wealthnavi_days 氷河期世代って新卒の時に採用が渋かったのは運が悪かったけど、そのあと20-30年もあったのに挽回できなかったのは自分の責任ではないの？ なんの努力したん？ 2026-04-26 13:14:57 ウェルスナビび @wealthnavi_days 出だしでつまずいたのは間違いなく時代が悪かったけど、そのあと本屋...</description>
-      <pubDate>Tue, 28 Apr 2026 14:28:08 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690730</comments>
+      <title>講演会で高校生たちがスマホをずっと見ているので何しているか聞いたらAIで内容をファクトチェックしていた→質問もハイレベルなものばかりで「もう適当なこと言えない...」</title>
+      <link>https://togetter.com/li/2690755</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/1aa2470fc8f8411ba8c5161819939cb2-1200x630.jpeg" /&gt;&lt;br/&gt;デスクロ(手巣九牢)&#x1f9ee; @Ushikun_desu 高校生達を相手にお話する会があったんですが 皆さんスマホをずっと見てるので「何やってるの？」と聞いてみたら Claude等のLLMで私の話した内容をファクトチェックしまくっていました笑 質問タイムでは私の話を全て咀嚼し終わった上の高レベルな質問ばかり。。もう適当なこと言えな...</description>
+      <pubDate>Tue, 28 Apr 2026 15:36:56 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690755</comments>
     </item>
   </channel>
 </rss>
