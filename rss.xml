@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 29 Apr 2026 04:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 05:33:09 +0000</lastBuildDate>
     <item>
       <title>【実録】ソニーの「8年間の部品保有」とは何だったのか。フラッグシップ機TA-ZH1ES、生産終了から3年半で修理拒絶された記録｜Taka</title>
       <link>https://note.com/chic_marten6647/n/n1f2ebc5a9a85</link>
@@ -20,11 +20,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nb-1000128140</comments>
     </item>
     <item>
+      <title>昔、ファンだったAV女優さんがコンビニで働いている</title>
+      <link>https://anond.hatelabo.jp/20260429075743</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;ずいぶんとお年を召されているが御本人に間違いない。 声が変わっていないし、手のひらのほくろの位置も一緒だ。 もう、おばあちゃんと呼ばれていてもおかしくない年齢だが、あの頃の妖艶な瞳の輝きは今も変わらない。 とはいえ詮索はもうしない。 そのコンビニにももう行かなくなった。 その理由を説明するのは少し難し...</description>
+      <pubDate>Tue, 28 Apr 2026 22:58:49 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260429075743</comments>
+    </item>
+    <item>
       <title>Claude Code Skills × 投資分析シリーズ — 記事一覧</title>
       <link>https://zenn.dev/okikusan/articles/23041c3800a927</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--dWyCb2XN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520Skills%2520%25C3%2597%2520%25E6%258A%2595%25E8%25B3%2587%25E5%2588%2586%25E6%259E%2590%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA%2520%25E2%2580%2594%2520%25E8%25A8%2598%25E4%25BA%258B%25E4%25B8%2580%25E8%25A6%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:okikusan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZmMjQ3NTEyMzYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;Claude Code Skills を使って投資分析システムを構築・進化させてきたシリーズです。自然言語で話しかけるだけで、銘柄探索・分析・ポートフォリオ管理・リスク評価が自動実行されます。 シリーズの流れ スクリプトによる 自動化 から始まり、GraphRAG による 学習、高度な分析機能の追加を経て、6つの AI エージェント...</description>
       <pubDate>Fri, 24 Apr 2026 13:45:35 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/okikusan/articles/23041c3800a927</comments>
+    </item>
+    <item>
+      <title>大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ</title>
+      <link>https://zenn.dev/nttdata_tech/articles/bf6b694144e55a</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--wj5FCcOc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25A4%25A7%25E8%25A6%258F%25E6%25A8%25A1%25E6%25A1%2588%25E4%25BB%25B6%25E3%2581%25AESlack%25E3%2581%25ABAI%25E7%25A4%25BE%25E5%2593%25A13%25E4%25BA%25BA%25E3%2582%2592%25E5%25B8%25B8%25E9%25A7%2590%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E3%2580%25812%25E5%25B9%25B4%25E7%259B%25AE%25E3%2581%258C%25E5%258F%2582%25E7%2594%25BB1%25E9%2580%25B1%25E9%2596%2593%25E3%2581%25A7%25E8%25A8%25AD%25E8%25A8%2588%25E6%25A0%25B9%25E6%259C%25AC%25E3%2581%25AB%25E8%25B8%258F%25E3%2581%25BF%25E8%25BE%25BC%25E3%2582%2593%25E3%2581%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:htakasu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q1ZjRhYzE4MTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NTT%2520DATA%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlhNmY1MzY5NmQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;実際の画面とは異なるサンプルイメージです チームのSlackにAI社員を3人常駐させています。 社員5人で、2週間動かしました。 誤解を招きそうだからちゃんと書いておきます。 2週間です。半年でも1年でもなく、2週間。 それでも書きたくなるくらいのことが起きたので、この記事を書いています。 SIerの大規模開発で扱う資...</description>
+      <pubDate>Tue, 28 Apr 2026 04:22:01 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/nttdata_tech/articles/bf6b694144e55a</comments>
     </item>
     <item>
       <title>ガンダムの富野由悠季さん「今は希望のある物語は作れない気が」　叙勲を喜びつつ語った「戦争の恐ろしさ」：東京新聞デジタル</title>
@@ -39,13 +53,6 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/248864f3540bc7b0000fadc226732429-1200x630.jpeg" /&gt;&lt;br/&gt;ゆかりちゃん @yukaric03886076 あの⁉️もしもし⁉️ 数日前に韓国の方のポストがおすすめに流れてきて 「わかめスープを作る時はわかめを時間をかけてしっかり炒めるととんでもなく美味しくなる」 と書いてあったので早速炒めてるんだけど爆発起こしてるんやが&#x1f62d; 何が原因？&#x1f62d; （恐怖のあまりｳｨﾘ！という変な声が入っていま...</description>
       <pubDate>Tue, 28 Apr 2026 20:12:50 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690816</comments>
-    </item>
-    <item>
-      <title>大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ</title>
-      <link>https://zenn.dev/nttdata_tech/articles/bf6b694144e55a</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--wj5FCcOc--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25A4%25A7%25E8%25A6%258F%25E6%25A8%25A1%25E6%25A1%2588%25E4%25BB%25B6%25E3%2581%25AESlack%25E3%2581%25ABAI%25E7%25A4%25BE%25E5%2593%25A13%25E4%25BA%25BA%25E3%2582%2592%25E5%25B8%25B8%25E9%25A7%2590%25E3%2581%2595%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E3%2580%25812%25E5%25B9%25B4%25E7%259B%25AE%25E3%2581%258C%25E5%258F%2582%25E7%2594%25BB1%25E9%2580%25B1%25E9%2596%2593%25E3%2581%25A7%25E8%25A8%25AD%25E8%25A8%2588%25E6%25A0%25B9%25E6%259C%25AC%25E3%2581%25AB%25E8%25B8%258F%25E3%2581%25BF%25E8%25BE%25BC%25E3%2582%2593%25E3%2581%25A0%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:htakasu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q1ZjRhYzE4MTIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:NTT%2520DATA%2520TECH%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlhNmY1MzY5NmQuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;実際の画面とは異なるサンプルイメージです チームのSlackにAI社員を3人常駐させています。 社員5人で、2週間動かしました。 誤解を招きそうだからちゃんと書いておきます。 2週間です。半年でも1年でもなく、2週間。 それでも書きたくなるくらいのことが起きたので、この記事を書いています。 SIerの大規模開発で扱う資...</description>
-      <pubDate>Tue, 28 Apr 2026 04:22:01 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/nttdata_tech/articles/bf6b694144e55a</comments>
     </item>
     <item>
       <title>実はここまでできるCoworkハンズオン — Claude Codeに行く、その前に を経て｜まつにぃ</title>
@@ -90,6 +97,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/rookie.shonenjump.com/series/OmknL2IAah0/OmkvmYUWV7Q</comments>
     </item>
     <item>
+      <title>トー横キッズ、完全に駆逐される : 哲学ニュースnwk</title>
+      <link>https://nwknews.jp/archives/6240452.html</link>
+      <description>&lt;img src="https://livedoor.blogimg.jp/nwknews/imgs/b/7/b76de469-s.jpg" /&gt;&lt;br/&gt;2026年04月28日18:10 トー横キッズ、完全に駆逐される Tweet 1: それでも動く名無し 2026/04/28(火) 15:49:45.27 ID:7khqHZ3Ed 焼肉キッチンカーが襲来し肉の香りが充満する肉エリアと化した結果おらんくなった模様 59％OFF 2: それでも動く名無し 2026/04/28(火) 15:50:03.18 ID:XdyNRidcd 草 3: それでも動く名無し 20...</description>
+      <pubDate>Tue, 28 Apr 2026 11:48:54 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/nwknews.jp/archives/6240452.html</comments>
+    </item>
+    <item>
       <title>決済業界に25年いて、いくつもの詐欺手法を見てきましたが、最近のフィッシング詐欺は「注意してても引っかかる」レベルまで進化しています。</title>
       <link>https://posfie.com/@TElZiBwoGn32797/p/k8CX7Wx</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/f5d7326079baf03a5ed4b4a14be7ca7e-1200x630.jpeg" /&gt;&lt;br/&gt;りゅーいち @doragon10822 決済業界に25年いて、いくつもの詐欺手法を見てきましたが、最近のフィッシング詐欺は「注意してても引っかかる」レベルまで進化しています。「怪しいメールは開くな」なんてアドバイスはもう古い。絶対に覚えてほしい誰もが一瞬ヒヤッとする「フィッシング詐欺の手口」５選をリプ欄で紹介しま...</description>
@@ -111,10 +125,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690668</comments>
     </item>
     <item>
-      <title>東京国立近代美術館「コレクションを中心とした特集　記録をひらく 記憶をつむぐ」展の記録集</title>
-      <link>https://www.momat.go.jp/wp-content/uploads/2026/04/ODWM_book_260424-B.pdf</link>
-      <pubDate>Tue, 28 Apr 2026 08:11:35 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.momat.go.jp/wp-content/uploads/2026/04/ODWM_book_260424-B.pdf</comments>
+      <title>ナフサ不足で中国化学品の輸入急増　プラ原料3割増、6年ぶり品目も - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC284M00Y6A420C2000000/</link>
+      <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2957980028042026000000-1.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=31c526b480849bf6c73fa7e304b53da6" /&gt;&lt;br/&gt;中東危機をきっかけに中国からの化学品輸入が急増している。ナフサ（粗製ガソリン）不足で国産化学品の品薄が懸念されるなか、プラスチックやタイヤの原料を中国から代替調達する動きが広がる。緊急措置の側面もあるが、割安な中国原料の輸入が常態化すれば日本企業が顧客を奪われる可能性がある。28日に財務省が発表し...</description>
+      <pubDate>Tue, 28 Apr 2026 20:19:25 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUC284M00Y6A420C2000000/</comments>
     </item>
     <item>
       <title>アメリカ人以外に「もう一回原爆落としてやろうか？」と煽られても「原爆も落ちてないのにそのざまなの？」と思ってしまう…あれは負け犬の遠吠えらしい</title>
@@ -124,17 +139,10 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690796</comments>
     </item>
     <item>
-      <title>契約書なしで草刈り委託　1400万円自腹の徳島県職員を懲戒免職 | 毎日新聞</title>
-      <link>https://mainichi.jp/articles/20260428/k00/00m/040/380000c</link>
-      <pubDate>Tue, 28 Apr 2026 15:47:41 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260428/k00/00m/040/380000c</comments>
-    </item>
-    <item>
-      <title>講演会で高校生たちがスマホをずっと見ているので何しているか聞いたらAIで内容をファクトチェックしていた→質問もハイレベルなものばかりで「もう適当なこと言えない...」</title>
-      <link>https://togetter.com/li/2690755</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/1aa2470fc8f8411ba8c5161819939cb2-1200x630.jpeg" /&gt;&lt;br/&gt;デスクロ(手巣九牢)&#x1f9ee; @Ushikun_desu 高校生達を相手にお話する会があったんですが 皆さんスマホをずっと見てるので「何やってるの？」と聞いてみたら Claude等のLLMで私の話した内容をファクトチェックしまくっていました笑 質問タイムでは私の話を全て咀嚼し終わった上の高レベルな質問ばかり。。もう適当なこと言えな...</description>
-      <pubDate>Tue, 28 Apr 2026 15:36:56 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690755</comments>
+      <title>東京国立近代美術館「コレクションを中心とした特集　記録をひらく 記憶をつむぐ」展の記録集</title>
+      <link>https://www.momat.go.jp/wp-content/uploads/2026/04/ODWM_book_260424-B.pdf</link>
+      <pubDate>Tue, 28 Apr 2026 08:11:35 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.momat.go.jp/wp-content/uploads/2026/04/ODWM_book_260424-B.pdf</comments>
     </item>
   </channel>
 </rss>
