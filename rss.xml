@@ -4,13 +4,27 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 30 Apr 2026 01:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 02:33:10 +0000</lastBuildDate>
+    <item>
+      <title>【修理編】ソニーが「直せない」と言ったTA-ZH1ESを、海外から部品を取り寄せて自力で修理した記録｜Taka</title>
+      <link>https://note.com/chic_marten6647/n/n2dfbaa438c8a</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/271567943/rectangle_large_type_2_d7fa82c08c3e908335110b8f5a20bc9c.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;前回の記事を執筆後、のんびりとこの記事を準備していたところ、予想外の大きな反響をいただき驚いています。私個人としては、こちらの「分解修理による問題解決」こそが本編だと思っています。 メーカーに「部品がない」と断られても、道はあります。 注意事項（必ずお読みください）自己責任の徹底： 分解・修理を行う...</description>
+      <pubDate>Wed, 29 Apr 2026 17:20:08 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/chic_marten6647/n/n2dfbaa438c8a</comments>
+    </item>
     <item>
       <title>ドンキ、鍵もライトもない「1万円自転車」が好調　“装備を削る発想”はテレビから　安全面は？</title>
       <link>https://www.itmedia.co.jp/business/articles/2604/29/news011.html</link>
       <description>&lt;img src="https://image.itmedia.co.jp/business/articles/2604/29/cover_news011.jpg" /&gt;&lt;br/&gt;PPIH（パン・パシフィック・インターナショナルホールディングス）が運営するドン・キホーテのPBで展開する、鍵・荷台・ライトをあえて省いた自転車「Option-0」（オプションゼロ、1万1000円）が好調だ。3月21日に関東で先行発売し、入荷後すぐに売り切れるケースが相次いでいる。全国展開は7月の予定だ。</description>
       <pubDate>Tue, 28 Apr 2026 23:38:19 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/business/articles/2604/29/news011.html</comments>
+    </item>
+    <item>
+      <title>【完全版】Claude Code運用40選｜KAWAI</title>
+      <link>https://note.com/kawaidesign/n/nce2f82c62f1f</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/271135173/rectangle_large_type_2_2e6ba31c39762b707b3b0b4d23caace3.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;Claude Codeは、便利なチャットではありません。 設定、文脈、検証、自動化、並列化まで設計すると、日々の作業環境そのものになります。 この記事では、手元にあるClaude Code運用メモを土台に、Anthropic公式ドキュメント、Claude Help Center、GitHub Actions、MCP、Hooks、Skills、Subagents、非対話モード、情報収...</description>
+      <pubDate>Wed, 29 Apr 2026 02:37:49 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/kawaidesign/n/nce2f82c62f1f</comments>
     </item>
     <item>
       <title>「15分で15,000円は余裕」→とあるYouTube動画に「モラルを疑う」と批判が続々と「保管の時点でアウトくらってそう」「引火して⚪︎ぬ可能性もある」</title>
@@ -20,6 +34,12 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691137</comments>
     </item>
     <item>
+      <title>【特集】 古いPCが無料で高機能NASに。「TrueNAS Community Edition」構築手順</title>
+      <link>https://pc.watch.impress.co.jp/docs/topic/feature/2105357.html</link>
+      <pubDate>Wed, 29 Apr 2026 21:34:16 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/topic/feature/2105357.html</comments>
+    </item>
+    <item>
       <title>福岡にある『牧のうどん』は東京進出の誘いはあるけど全部断っているらしい「その姿勢はかっこいい」「昆布をそんなに使ってるの！？」</title>
       <link>https://togetter.com/li/2691139</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/a7049cb7681561e013b27d17288431c1-1200x630.jpeg" /&gt;&lt;br/&gt;たび @mesotabi 福岡のうどん相次ぐ東京進出も　『牧のうどん』は「誘いはあるけど断っています」　社長が明かす創業当初からの“鉄の掟”｜福岡TNCニュース news.tnc.co.jp/news/articles/… &gt;高級な利尻昆布を1カ月に約2トンも使用しています。その量はだし用利尻昆布の国内全体の消費量のうち「7％」を占めるほどです。 ...</description>
@@ -27,18 +47,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691139</comments>
     </item>
     <item>
-      <title>Claude Codeにレビューを任せてチームの負担を減らす</title>
-      <link>https://zenn.dev/wwwave/articles/4d21d34ad604ba</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--CMPqdfYL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AB%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%2592%25E4%25BB%25BB%25E3%2581%259B%25E3%2581%25A6%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E8%25B2%25A0%25E6%258B%2585%25E3%2582%2592%25E6%25B8%259B%25E3%2582%2589%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%25B7%25E3%2583%25A9%25E3%2583%25B3%25E3%2582%25B1%25E3%2583%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA0OTU3ZTVkYWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:wwwave%2527s%2520Techblog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M5YmE1MGE5ZDYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに チームのコードレビューの負担を少しでも減らすために、Claude Code の Skill を作成しました。 今回は、backend（Rails） 用として作成した /review-backend を紹介します。 暫く使って安定したら、frontend 用にも展開する予定です。 狙いは、人のレビュー工数を少しでも多く軽減することです。 まだ実運用を...</description>
-      <pubDate>Wed, 29 Apr 2026 03:16:39 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/wwwave/articles/4d21d34ad604ba</comments>
-    </item>
-    <item>
       <title>「スケバン刑事という少女漫画のWikipediaを見てたら荒唐無稽であまりに尖りすぎてる。武器はヨーヨーて。こんなの絶対おもしろいよ」→実写ドラマは三部作続いてね…</title>
       <link>https://togetter.com/li/2690572</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/432e71a9bc6a7a11e43d8a4eced74fde-1200x630.jpeg" /&gt;&lt;br/&gt;たぬきち @Tanukichi_mingo リプでもらったスケバン刑事という少女漫画のWikipedia見てたんだけどこれ荒唐無稽であまりに尖りすぎてる。まず女子校に普通に犯罪組織がある。そして警視に女子高生が、お前は刑事になれと言われる。敵は銃を持っているが、こちらの武器はヨーヨー。いやヨーヨーて。こんなの絶対おもしろい...</description>
       <pubDate>Wed, 29 Apr 2026 08:57:35 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2690572</comments>
+    </item>
+    <item>
+      <title>Claude Codeにレビューを任せてチームの負担を減らす</title>
+      <link>https://zenn.dev/wwwave/articles/4d21d34ad604ba</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--CMPqdfYL--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25AB%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%2592%25E4%25BB%25BB%25E3%2581%259B%25E3%2581%25A6%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%25E3%2581%25AE%25E8%25B2%25A0%25E6%258B%2585%25E3%2582%2592%25E6%25B8%259B%25E3%2582%2589%25E3%2581%2599%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2582%25B7%25E3%2583%25A9%25E3%2583%25B3%25E3%2582%25B1%25E3%2583%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzA0OTU3ZTVkYWIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:wwwave%2527s%2520Techblog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M5YmE1MGE5ZDYuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに チームのコードレビューの負担を少しでも減らすために、Claude Code の Skill を作成しました。 今回は、backend（Rails） 用として作成した /review-backend を紹介します。 暫く使って安定したら、frontend 用にも展開する予定です。 狙いは、人のレビュー工数を少しでも多く軽減することです。 まだ実運用を...</description>
+      <pubDate>Wed, 29 Apr 2026 03:16:39 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/wwwave/articles/4d21d34ad604ba</comments>
     </item>
     <item>
       <title>米のイラン港湾封鎖長期化か、トランプ氏「いい人やめた」</title>
@@ -62,13 +82,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.denfaminicogamer.jp/news/2604292w</comments>
     </item>
     <item>
-      <title>宮古島にいるのでピック持ち帰り禁止で話題のハンバーガーショップにいってきた…そこに書かれていた文言を巡り賛否「これじゃわからん」「これでなんで持って帰る？」</title>
-      <link>https://togetter.com/li/2691072</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/352cdbac9b7b90dcaf0b41baa6cd48cb-1200x630.jpeg" /&gt;&lt;br/&gt;JUJU @juju04150 折角宮古にいるから行ってきた笑 質感がマットで細いからフォーク的な重みがない。皿に置けばｶﾁﾝと言うのでプラでないことはわかるけど置かないとわからないかも。 それとみんなに「これは再利用してるから返せと言えば？」と言われてる件について、店はもう言ってるんだよ、でもその言い方が、 x.com/d...</description>
-      <pubDate>Wed, 29 Apr 2026 13:04:39 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691072</comments>
-    </item>
-    <item>
       <title>【速報】米英両軍が日本含む基地相互使用の密約</title>
       <link>https://www.47news.jp/14227028.html</link>
       <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;米英両軍が冷戦初期の1948年12月、世界各地の基地を相互使用する密約を結んでいたことが29日、機密解除されたオーストラリアの公文書で分かった。米軍が接収した日本の12施設も対象で、日本政府の頭越しに締結していた。（共同）</description>
@@ -76,11 +89,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14227028.html</comments>
     </item>
     <item>
-      <title>三大「あんまり美味くねえな」の言い換え</title>
-      <link>https://anond.hatelabo.jp/20260428201140</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;懐かしい味 優しい味だね ハマる人はハマる味あと一つは？</description>
-      <pubDate>Wed, 29 Apr 2026 08:09:00 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260428201140</comments>
+      <title>宮古島にいるのでピック持ち帰り禁止で話題のハンバーガーショップにいってきた…そこに書かれていた文言を巡り賛否「これじゃわからん」「これでなんで持って帰る？」</title>
+      <link>https://togetter.com/li/2691072</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/352cdbac9b7b90dcaf0b41baa6cd48cb-1200x630.jpeg" /&gt;&lt;br/&gt;JUJU @juju04150 折角宮古にいるから行ってきた笑 質感がマットで細いからフォーク的な重みがない。皿に置けばｶﾁﾝと言うのでプラでないことはわかるけど置かないとわからないかも。 それとみんなに「これは再利用してるから返せと言えば？」と言われてる件について、店はもう言ってるんだよ、でもその言い方が、 x.com/d...</description>
+      <pubDate>Wed, 29 Apr 2026 13:04:39 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691072</comments>
     </item>
   </channel>
 </rss>
