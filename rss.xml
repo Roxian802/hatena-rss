@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 01 May 2026 10:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 11:33:10 +0000</lastBuildDate>
     <item>
       <title>GW中に「Claude Code」を一気に学びたい人のための記事・動画ガイド｜梶谷健人</title>
       <link>https://note.com/kajiken0630/n/n597f3da0249a</link>
@@ -13,11 +13,32 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/kajiken0630/n/n597f3da0249a</comments>
     </item>
     <item>
+      <title>『GitHub』への不正アクセス発生に関するお知らせとお詫び（第一報）</title>
+      <link>https://corp.moneyforward.com/news/info/20260501-mf-press-1/</link>
+      <description>&lt;img src="https://corp.moneyforward.com/assets/common/img/ogp_img.jpg" /&gt;&lt;br/&gt;平素は、マネーフォワードグループが提供するサービスをご利用いただき、誠にありがとうございます。 当社がソフトウェア開発およびシステム管理に利用している『GitHub』※1の認証情報が漏えいし、これを用いた第三者による不正なアクセスが発生し、『GitHub』※1内の「リポジトリ」※2がコピーされたことが判明しました。...</description>
+      <pubDate>Fri, 01 May 2026 08:18:36 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/corp.moneyforward.com/news/info/20260501-mf-press-1/</comments>
+    </item>
+    <item>
+      <title>戦争や社会問題を扱った名曲</title>
+      <link>https://anond.hatelabo.jp/20260501172943</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;ミュージシャンに党派性の踏み絵を踏ませたがる態度はわけわからん。下品。 おまえらに言われんでもミュージシャンはもう楽曲で語っとる。というわけでみんなの思う戦争や社会問題を扱った名曲をブコメで教えてね。 まず、私からのおすすめは↓ ZORN『戦争と少女』 (Prod. Nujabes) https://www.youtube.com/watch?v=MNdp...</description>
+      <pubDate>Fri, 01 May 2026 08:30:49 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260501172943</comments>
+    </item>
+    <item>
       <title>いらすとやメーカー</title>
       <link>https://irasutoyamaker.com/ja</link>
       <description>&lt;img src="https://cdn.irasutoyamaker.com/assets/player/20260501014249/_astro/ogp.3-0gPyW-.png" /&gt;&lt;br/&gt;いろいろなパーツを組み合わせて、 自分だけのいらすとやキャラクターを 無料で作成することができます！</description>
       <pubDate>Fri, 01 May 2026 02:55:23 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/irasutoyamaker.com/ja</comments>
+    </item>
+    <item>
+      <title>陸上自衛隊が公開した“新ロゴ”に「殺意丸出し」「禍々しくて気持ち悪い」批判殺到、衝撃の“ドクロ”デザイン | 週刊女性PRIME</title>
+      <link>https://www.jprime.jp/articles/-/41556?display=b</link>
+      <description>&lt;img src="https://jprime.ismcdn.jp/mwimgs/4/7/-/img_47fdba40d424c7c777b8f854d78c8c29107114.jpg" /&gt;&lt;br/&gt;ホルムズ海峡の封鎖をめぐり、未だ緊迫した状態が続く中東情勢。アメリカのドナルド・トランプ大統領が日本に対して自衛隊の艦船派遣を求めたことも話題になったが、ネット上ではそんな“国を守る組織”のとある発信が物議を醸している。 「殺意丸出し」自衛隊のロゴ 4月29日、公式X（旧ツイッター）を更新したのは「陸上...</description>
+      <pubDate>Fri, 01 May 2026 08:27:35 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.jprime.jp/articles/-/41556?display=b</comments>
     </item>
     <item>
       <title>高市首相がナフサ由来品｢年越し供給｣を表明､実像は</title>
@@ -34,6 +55,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.nikkan-gendai.com/articles/view/money/387146</comments>
     </item>
     <item>
+      <title>Codex のゲーム開発のためのプロンプトまとめ｜npaka</title>
+      <link>https://note.com/npaka/n/n8fb9f73d2ce3</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/271922241/rectangle_large_type_2_0c8bb270404b796962b6eb613ce6a776.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;以下の記事が面白かったので、簡単にまとめました。 ・Game development – Codex | OpenAI Developers 1. ブラウザゲームの作成1-1. はじめにゲーム開発は、Codexがコード生成以上の役割を果たす最も分かりやすい例の一つです。実際のゲーム開発には、通常、コンセプトの記述、レンダリングレイヤー、フロントエンドのシ...</description>
+      <pubDate>Fri, 01 May 2026 01:25:03 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/npaka/n/n8fb9f73d2ce3</comments>
+    </item>
+    <item>
       <title>高市陣営が総裁選中に進次郎氏、林氏を“大バッシング”した疑惑…「中傷動画問題」の告発者はサナエトークン騒動のキーマンだった | 集英社オンライン | ニュースを本気で噛み砕け</title>
       <link>https://shueisha.online/articles/-/257434</link>
       <description>&lt;img src="https://shuon.ismcdn.jp/mwimgs/7/e/1200xm/img_7e91390e6be51a9ba3729301898cd8ba747062.jpg" /&gt;&lt;br/&gt;当サイトでは当社の提携先等がお客様のニーズ等について調査・分析したり、お客様にお勧めの広告を表示する目的で Cookie を使用する場合があります。 詳しくはこちら</description>
@@ -48,11 +76,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/huyukiitoichi.hatenadiary.jp/entry/2026/05/01/080000</comments>
     </item>
     <item>
-      <title>Codex のゲーム開発のためのプロンプトまとめ｜npaka</title>
-      <link>https://note.com/npaka/n/n8fb9f73d2ce3</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/271922241/rectangle_large_type_2_0c8bb270404b796962b6eb613ce6a776.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;以下の記事が面白かったので、簡単にまとめました。 ・Game development – Codex | OpenAI Developers 1. ブラウザゲームの作成1-1. はじめにゲーム開発は、Codexがコード生成以上の役割を果たす最も分かりやすい例の一つです。実際のゲーム開発には、通常、コンセプトの記述、レンダリングレイヤー、フロントエンドのシ...</description>
-      <pubDate>Fri, 01 May 2026 01:25:03 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/npaka/n/n8fb9f73d2ce3</comments>
+      <title>AIが「その感覚、完全に正しいです」などのごますり構文を使ってくる条件がAnthropicの調査により判明 - GIGAZINE</title>
+      <link>https://gigazine.net/news/20260501-ai-sycophantically-response/</link>
+      <description>&lt;img src="https://i.gzn.jp/img/2026/05/01/ai-sycophantically-response/00.png" /&gt;&lt;br/&gt;チャットAIと会話していると「その感覚、完全に正しいです」とか「めちゃくちゃ鋭い意見です」といったように不必要なごますりフレーズを返してくることがあります。AI企業のAnthropicが自社製チャットAI「Claude」の応答内容を収集し、AIがごますりフレーズを使う条件を分析した結果を公開しました。 How people ask Cl...</description>
+      <pubDate>Fri, 01 May 2026 04:44:29 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/gigazine.net/news/20260501-ai-sycophantically-response/</comments>
     </item>
     <item>
       <title>辺野古転覆、船運航の抗議団体「ご遺族にさらなる深い傷を負わせた」とコメント掲載</title>
@@ -62,11 +90,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260501-UYYCBQTZOFJLFG3ARTCWEPWCQE/</comments>
     </item>
     <item>
-      <title>BeRealによる会社内部情報漏洩、なぜ若い女ばかり？</title>
-      <link>https://anond.hatelabo.jp/20260430200747</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;case1 西日本シティ銀行 職員　女性　2026-04-30　顧客7人の氏名を公式確認。営業目標なども映り込み https://news.yahoo.co.jp/articles/c3819a160f0343818712b89bdd669e1dc9442d00 case2 岩見沢市立総合病院 委託業者職員　女性　2025-11-18　患者20人分の個人情報画面 https://youtu.be/hzY4fnMOL7M case3 仙台市立小...</description>
-      <pubDate>Thu, 30 Apr 2026 11:08:48 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260430200747</comments>
+      <title>トランプ氏、イタリアとスペインからも米軍撤退の可能性示唆</title>
+      <link>https://jp.reuters.com/world/us/2R4ATIUQGVPGRHIBSDKKONCXW4-2026-04-30/</link>
+      <description>&lt;img src="https://www.reuters.com/resizer/v2/54EDS6JU6BKM7BSJJMD2OCYF3M.jpg?auth=a81e467b630b2fd6d26c97257c8a54cc4cbb06e4a0af6084ee3b88580e4602f3&amp;amp;height=1005&amp;amp;width=1920&amp;amp;quality=80&amp;amp;smart=true" /&gt;&lt;br/&gt;［ワシントン　３０日　ロイター］ - トランプ米大統領は３０日、イタリアとスペイ​ンから米軍部隊を撤退させる可能性‌を示唆した。前日には、ドイツ駐留米軍を削減する可能性を検討していると明らかにし、近く決定​すると述べていた。 トランプ氏は米国と​イスラエルによる対イラン戦争を巡⁠り、北大西洋条約機構（ＮＡ...</description>
+      <pubDate>Thu, 30 Apr 2026 23:24:20 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/jp.reuters.com/world/us/2R4ATIUQGVPGRHIBSDKKONCXW4-2026-04-30/</comments>
     </item>
     <item>
       <title>任天堂がうらやましい…海外メディアが報じた｢日本のゲーム会社が世界で売れるヒット作を連発できる理由」</title>
@@ -76,25 +104,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/president.jp/articles/-/112393</comments>
     </item>
     <item>
-      <title>トランプ氏、イタリアとスペインからも米軍撤退の可能性示唆</title>
-      <link>https://jp.reuters.com/world/us/2R4ATIUQGVPGRHIBSDKKONCXW4-2026-04-30/</link>
-      <description>&lt;img src="https://www.reuters.com/resizer/v2/54EDS6JU6BKM7BSJJMD2OCYF3M.jpg?auth=a81e467b630b2fd6d26c97257c8a54cc4cbb06e4a0af6084ee3b88580e4602f3&amp;amp;height=1005&amp;amp;width=1920&amp;amp;quality=80&amp;amp;smart=true" /&gt;&lt;br/&gt;［ワシントン　３０日　ロイター］ - トランプ米大統領は３０日、イタリアとスペイ​ンから米軍部隊を撤退させる可能性‌を示唆した。前日には、ドイツ駐留米軍を削減する可能性を検討していると明らかにし、近く決定​すると述べていた。 トランプ氏は米国と​イスラエルによる対イラン戦争を巡⁠り、北大西洋条約機構（ＮＡ...</description>
-      <pubDate>Thu, 30 Apr 2026 23:24:20 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/jp.reuters.com/world/us/2R4ATIUQGVPGRHIBSDKKONCXW4-2026-04-30/</comments>
-    </item>
-    <item>
-      <title>AIが「その感覚、完全に正しいです」などのごますり構文を使ってくる条件がAnthropicの調査により判明 - GIGAZINE</title>
-      <link>https://gigazine.net/news/20260501-ai-sycophantically-response/</link>
-      <description>&lt;img src="https://i.gzn.jp/img/2026/05/01/ai-sycophantically-response/00.png" /&gt;&lt;br/&gt;チャットAIと会話していると「その感覚、完全に正しいです」とか「めちゃくちゃ鋭い意見です」といったように不必要なごますりフレーズを返してくることがあります。AI企業のAnthropicが自社製チャットAI「Claude」の応答内容を収集し、AIがごますりフレーズを使う条件を分析した結果を公開しました。 How people ask Cl...</description>
-      <pubDate>Fri, 01 May 2026 04:44:29 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/gigazine.net/news/20260501-ai-sycophantically-response/</comments>
-    </item>
-    <item>
       <title>コーディングをAIに任せても、エンジニアの仕事は減らなかった ― ほぼ一人で1か月、AI機能をリリースしてみて - Findy Tech Blog</title>
       <link>https://tech.findy.co.jp/entry/2026/05/01/070000</link>
       <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/e0054124a45f309e80495dd18a5348dd522680bb/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyohei1229%2F20260427%2F20260427173035.png" /&gt;&lt;br/&gt;こんにちは、ファインディでFindy Toolsの開発をしている本田です。 このたび、Findy Toolsの新機能として「アーキテクチャAI」をリリースしました。要件を入力するとAWSのアーキテクチャ図と設計の提案が生成される機能です。 findy.co.jp 今回の開発では、PM・仕様策定・スコープ定義・インフラ・FE/BE開発・テストま...</description>
       <pubDate>Thu, 30 Apr 2026 22:12:42 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/tech.findy.co.jp/entry/2026/05/01/070000</comments>
+    </item>
+    <item>
+      <title>BeRealによる会社内部情報漏洩、なぜ若い女ばかり？</title>
+      <link>https://anond.hatelabo.jp/20260430200747</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;case1 西日本シティ銀行 職員　女性　2026-04-30　顧客7人の氏名を公式確認。営業目標なども映り込み https://news.yahoo.co.jp/articles/c3819a160f0343818712b89bdd669e1dc9442d00 case2 岩見沢市立総合病院 委託業者職員　女性　2025-11-18　患者20人分の個人情報画面 https://youtu.be/hzY4fnMOL7M case3 仙台市立小...</description>
+      <pubDate>Thu, 30 Apr 2026 11:08:48 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260430200747</comments>
     </item>
     <item>
       <title>なぜ「BeReal」から漏えいが相次ぐのか　“2分以内”の焦りが生む不用意な投稿</title>
@@ -104,13 +125,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2604/30/news112.html</comments>
     </item>
     <item>
-      <title>エフピコ、食品容器など全製品20％以上値上げ</title>
-      <link>https://www.logi-today.com/946558</link>
-      <description>荷主エフピコは4月30日、同社が製造する製品全般について価格改定を実施すると発表した。対象は全製品で、改定幅は20％以上。6月1日出荷分から適用する。 中東情勢の緊迫化に伴う原油・ナフサなど石油化学原料の調達環境悪化が背景にある。主原料に加え、副資材費も急騰しており、生産コストは大幅に上昇する見通しとな...</description>
-      <pubDate>Thu, 30 Apr 2026 15:17:33 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.logi-today.com/946558</comments>
-    </item>
-    <item>
       <title>自民党大会で国歌、告発状を提出　弁護士ら「自衛隊法違反」 | NEWSjp</title>
       <link>https://news.jp/i/1422473173302951942?c=39550187727945729</link>
       <description>&lt;img src="https://img.nordot.app/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1422483748187537886/origin_1.jpg" /&gt;&lt;br/&gt;陸上自衛隊の女性隊員による自民党大会での国歌歌唱に関し、弁護士や市民らが30日、政治的行為を制限する自衛隊法に抵触するとして、隊員らに対する自衛隊法違反容疑の告発状を東京地検に提出した。他に陸上幕僚長と、党大会の実行委員長だった簗和生衆院議員も共犯として告発した。 自衛隊法61条は、選挙権の行使を除く...</description>
@@ -118,11 +132,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.jp/i/1422473173302951942?c=39550187727945729</comments>
     </item>
     <item>
-      <title>お茶屋さんがお茶の写真と一緒に「この濁りのない水色を見て欲しい」と投稿したら「どう見ても水色には見えないけど...？」という反応が集まる→実は業界用語だった</title>
-      <link>https://togetter.com/li/2691688</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/06a41cb0316f11023ddb76c483d8e5eb-1200x630.jpeg" /&gt;&lt;br/&gt;お茶屋さんがお茶の写真と一緒に「この濁りのない水色を見て欲しい」と投稿したら「どう見ても水色には見えないけど...？」という反応が集まる→実は業界用語だった</description>
-      <pubDate>Fri, 01 May 2026 00:35:01 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691688</comments>
+      <title>エフピコ、食品容器など全製品20％以上値上げ</title>
+      <link>https://www.logi-today.com/946558</link>
+      <description>荷主エフピコは4月30日、同社が製造する製品全般について価格改定を実施すると発表した。対象は全製品で、改定幅は20％以上。6月1日出荷分から適用する。 中東情勢の緊迫化に伴う原油・ナフサなど石油化学原料の調達環境悪化が背景にある。主原料に加え、副資材費も急騰しており、生産コストは大幅に上昇する見通しとな...</description>
+      <pubDate>Thu, 30 Apr 2026 15:17:33 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.logi-today.com/946558</comments>
     </item>
     <item>
       <title>DeNAやGOなど、AI勉強会の資料を無料公開中　累計100件超</title>
@@ -137,20 +151,6 @@
       <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260501/K10015112361_2605010715_0501071645_01_02.jpg" /&gt;&lt;br/&gt;テニスで日本の男子選手として最高の世界ランキング4位を記録した36歳の錦織圭選手が現役を引退することになりました。 錦織選手は1日、自身のSNSで、「今シーズンをもって現役を引退する決断をいたしま…</description>
       <pubDate>Thu, 30 Apr 2026 22:07:09 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015112361000</comments>
-    </item>
-    <item>
-      <title>SWIM - しま太郎 | 少年ジャンプ＋</title>
-      <link>https://shonenjumpplus.com/episode/17107419589696004631</link>
-      <description>&lt;img src="https://cdn-ak-img.shonenjumpplus.com/public/series-thumbnail/17107419589695933427-6bef9298d6f3be09a4542a5002623fcc?1777259492" /&gt;&lt;br/&gt;SWIM しま太郎 視覚障害を持つ水泳選手の少年、菫太郎。試合に負けて以来、何のために泳いでいるのか分からなくなり、自問を続けていた。ある時、ライバルの言葉を受けて、菫太郎の中で答えが揺れ始める。</description>
-      <pubDate>Thu, 30 Apr 2026 15:00:40 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/shonenjumpplus.com/episode/17107419589696004631</comments>
-    </item>
-    <item>
-      <title>母が亡くなったとき、自分は火葬のつもりでいたが、父が「うちは代々土葬や。絶対に火葬するな」といいだしたので、あわてて父の親戚に電話で説得を頼み、ことなきを得た話</title>
-      <link>https://togetter.com/li/2691666</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/f4df8698c2bc7241866637ff833d387d-1200x630.jpeg" /&gt;&lt;br/&gt;Aya Nishitani 西谷史 @ayanakajima3 ああ、生々しいことを思い出してしまった。2013年、母が亡くなったとき、僕は火葬のつもりでいたんですが、父が「うちは代々土葬や。絶対に火葬するな」といいだしたので、あわてて父の親戚に電話をかけて、「もう火葬は禁じられてると、説得して」と頼んで、ことなきを得たことがあ...</description>
-      <pubDate>Thu, 30 Apr 2026 23:27:45 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691666</comments>
     </item>
   </channel>
 </rss>
