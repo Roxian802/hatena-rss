@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 01 May 2026 03:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 04:33:09 +0000</lastBuildDate>
     <item>
       <title>GW中に「Claude Code」を一気に学びたい人のための記事・動画ガイド｜梶谷健人</title>
       <link>https://note.com/kajiken0630/n/n597f3da0249a</link>
@@ -27,13 +27,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260430200747</comments>
     </item>
     <item>
-      <title>任天堂がうらやましい…海外メディアが報じた｢日本のゲーム会社が世界で売れるヒット作を連発できる理由」</title>
-      <link>https://president.jp/articles/-/112393</link>
-      <description>&lt;img src="https://president.ismcdn.jp/mwimgs/a/3/1200wm/img_a3d796edbf998019bcb4f104eee135111770750.jpg" /&gt;&lt;br/&gt;日本のゲーム会社はなぜ世界で売れるヒット作を生み出せるのか。欧米のゲーム会社では業績次第でリストラやスタジオの閉鎖が行われる一方、日本では社員を解雇せず、1ピクセルにこだわる品質追求が根づいている。海外メディアが報じた「日本のゲーム開発哲学」の正体とは――。 ファン待望のゲームを開発中止したワケ 海外...</description>
-      <pubDate>Thu, 30 Apr 2026 19:45:21 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/president.jp/articles/-/112393</comments>
-    </item>
-    <item>
       <title>高市陣営が総裁選中に進次郎氏、林氏を“大バッシング”した疑惑…「中傷動画問題」の告発者はサナエトークン騒動のキーマンだった | 集英社オンライン | ニュースを本気で噛み砕け</title>
       <link>https://shueisha.online/articles/-/257434</link>
       <description>&lt;img src="https://shuon.ismcdn.jp/mwimgs/7/e/1200xm/img_7e91390e6be51a9ba3729301898cd8ba747062.jpg" /&gt;&lt;br/&gt;ネット上の世論工作が問題化する中、「文春オンライン」の報道が波紋を広げている。昨年秋の自民党総裁選において、高市早苗総理の陣営が、他候補を中傷する動画を作成したと報じたのだ。高市総理は関与を否定しているというが、仮に事実であれば総裁選の公平性を揺るがす大問題だ。実は、その“告発者”は「サナエトーク...</description>
@@ -41,11 +34,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/shueisha.online/articles/-/257434</comments>
     </item>
     <item>
+      <title>任天堂がうらやましい…海外メディアが報じた｢日本のゲーム会社が世界で売れるヒット作を連発できる理由」</title>
+      <link>https://president.jp/articles/-/112393</link>
+      <description>&lt;img src="https://president.ismcdn.jp/mwimgs/a/3/1200wm/img_a3d796edbf998019bcb4f104eee135111770750.jpg" /&gt;&lt;br/&gt;日本のゲーム会社はなぜ世界で売れるヒット作を生み出せるのか。欧米のゲーム会社では業績次第でリストラやスタジオの閉鎖が行われる一方、日本では社員を解雇せず、1ピクセルにこだわる品質追求が根づいている。海外メディアが報じた「日本のゲーム開発哲学」の正体とは――。 ファン待望のゲームを開発中止したワケ 海外...</description>
+      <pubDate>Thu, 30 Apr 2026 19:45:21 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/president.jp/articles/-/112393</comments>
+    </item>
+    <item>
       <title>エフピコ、食品容器など全製品20％以上値上げ</title>
       <link>https://www.logi-today.com/946558</link>
       <description>荷主エフピコは4月30日、同社が製造する製品全般について価格改定を実施すると発表した。対象は全製品で、改定幅は20％以上。6月1日出荷分から適用する。 中東情勢の緊迫化に伴う原油・ナフサなど石油化学原料の調達環境悪化が背景にある。主原料に加え、副資材費も急騰しており、生産コストは大幅に上昇する見通しとな...</description>
       <pubDate>Thu, 30 Apr 2026 15:17:33 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.logi-today.com/946558</comments>
+    </item>
+    <item>
+      <title>コーディングをAIに任せても、エンジニアの仕事は減らなかった ― ほぼ一人で1か月、AI機能をリリースしてみて - Findy Tech Blog</title>
+      <link>https://tech.findy.co.jp/entry/2026/05/01/070000</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/e0054124a45f309e80495dd18a5348dd522680bb/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyohei1229%2F20260427%2F20260427173035.png" /&gt;&lt;br/&gt;こんにちは、ファインディでFindy Toolsの開発をしている本田です。 このたび、Findy Toolsの新機能として「アーキテクチャAI」をリリースしました。要件を入力するとAWSのアーキテクチャ図と設計の提案が生成される機能です。 findy.co.jp 今回の開発では、PM・仕様策定・スコープ定義・インフラ・FE/BE開発・テストま...</description>
+      <pubDate>Thu, 30 Apr 2026 22:12:42 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/tech.findy.co.jp/entry/2026/05/01/070000</comments>
     </item>
     <item>
       <title>《衝撃》高市早苗陣営が野党中傷動画を投稿していた　今年の衆院選期間中に中道大物候補を「一度国を壊した素人」、野党批判ショート動画を続々と作成（文春オンライン） - Yahoo!ニュース</title>
@@ -62,18 +69,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/aiplus/articles/2604/28/news106.html</comments>
     </item>
     <item>
-      <title>「ほぼすべての野球マンガ」の年譜を作成したと謳っていたアレについて｜ちゆ12歳</title>
-      <link>https://note.com/tiyu/n/n7fda20fd88e3</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/271250867/rectangle_large_type_2_6e3d4e72cb31182edac99c7cbf75b77d.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;「ほぼすべての野球マンガ」4月17日に『野球マンガ学概論』という本が出ました。 発売前の情報では、 URLと、「ほぼすべての野球マンガ」の年譜を作成したと宣伝していました。 それが気になって買ってみたのですけど……。 まあこんなもんですよね、みたいな感想でした。 それほど酷くはないですたぶん、すぐに思い出せる...</description>
-      <pubDate>Thu, 30 Apr 2026 14:06:14 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/tiyu/n/n7fda20fd88e3</comments>
-    </item>
-    <item>
       <title>データで見るウメハラの現状</title>
       <link>https://anond.hatelabo.jp/20260429175327</link>
       <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;anond:20260429110251 シーンをそれなりに真剣に追っている者として、ウメハラがメナに勝つ確率は低いと思っている。 そのあたりをデータで語りたい。 ウメハラの昨年度の戦績はこうだ。 主要なオフライントーナメントEVO Japan 2025 : 33位Combo Breaker 2025: 49位CEO 2025: 25位EVO 2025: 33位Esports World Cup (EWC...</description>
       <pubDate>Wed, 29 Apr 2026 09:05:13 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260429175327</comments>
+    </item>
+    <item>
+      <title>「ほぼすべての野球マンガ」の年譜を作成したと謳っていたアレについて｜ちゆ12歳</title>
+      <link>https://note.com/tiyu/n/n7fda20fd88e3</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/271250867/rectangle_large_type_2_6e3d4e72cb31182edac99c7cbf75b77d.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;「ほぼすべての野球マンガ」4月17日に『野球マンガ学概論』という本が出ました。 発売前の情報では、 URLと、「ほぼすべての野球マンガ」の年譜を作成したと宣伝していました。 それが気になって買ってみたのですけど……。 まあこんなもんですよね、みたいな感想でした。 それほど酷くはないですたぶん、すぐに思い出せる...</description>
+      <pubDate>Thu, 30 Apr 2026 14:06:14 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/tiyu/n/n7fda20fd88e3</comments>
     </item>
     <item>
       <title>受験や就職で失敗してから社会復帰するルート、あまり知られていないがオススメがあった「ジジイになっても働ける仕事」「夜勤が身体に合うか」</title>
@@ -95,27 +102,6 @@
       <description>&lt;img src="https://smhn.info/wp-content/uploads/2026/04/IMG_0123.jpeg" /&gt;&lt;br/&gt;すまほん!! » ニュース » 噂・リーク情報 » 【朗報】GmailやGoogle Driveのアイコンが全面刷新へ。Google Workspace系アプリがグラデーション調に 9to5Googleは、GoogleがGmailやGoogle ドライブ、Google カレンダーなど、Google Workspace関連アプリのアイコンを大幅にリデザインする見込みだと伝えました。9to5Google...</description>
       <pubDate>Thu, 30 Apr 2026 07:23:42 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/smhn.info/202604-google-workspace-icon</comments>
-    </item>
-    <item>
-      <title>以前付き合っていた女性に振られた人、その理由に様々な意見「超少数派という自覚は持った方が良い」「わたしも具だけ食べる派でした...」</title>
-      <link>https://togetter.com/li/2691501</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/d2d31a299ed869091d0f37e9fbb6b9dd-1200x630.jpeg" /&gt;&lt;br/&gt;デヴィ布陣 @devifujinpug そういえば以前付き合っていた女性に価値観の違いで振られた。 その中で価値観の違いを大きく感じたきっかけが『味噌汁の件』と言われた。 彼女の家で作ってくれたご飯を食べた。 食べ終わってお皿をシンクに持っていて、残った味噌汁の汁をジャーっと捨てた。 そしてそこから関係がギクシャク...</description>
-      <pubDate>Thu, 30 Apr 2026 12:49:02 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691501</comments>
-    </item>
-    <item>
-      <title>独身子無し中年女性だが「子供いなくて自由満喫。お金も時間も自由にやり放題」とは思ってないし「寂しい！不幸！」とも思ってない…ただ可もなく不可もない</title>
-      <link>https://togetter.com/li/2691540</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/5085a33ecce97b0943b923d8ec40f325-1200x630.jpeg" /&gt;&lt;br/&gt;義井 @kimura6933 独身子なし中年女性なんだけど「子供がいなくて自由を満喫中！お金も好きに使えるし幸せ&#x1f603;&#x1f495;」みたいな感じでもないんだよなあ。かといって「寂しい！不幸すぎる。死にたい&#x1f62d;」という感じでもないし。なんだろうなあ。ふつうだな。可もなく不可もなく。 2026-04-30 17:58:05</description>
-      <pubDate>Thu, 30 Apr 2026 16:24:21 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691540</comments>
-    </item>
-    <item>
-      <title>町長が２月から意識不明、議会が不信任案を提出へ…「本人の名誉のために不信任という言葉を使わない議案名を考えている」</title>
-      <link>https://www.yomiuri.co.jp/national/20260430-GYT1T00320/</link>
-      <description>&lt;img src="https://www.yomiuri.co.jp/media/2026/04/20260430-GYT1I00322-1.jpg?type=ogp" /&gt;&lt;br/&gt;【読売新聞】　２月の公務中に倒れ、意識不明の状態が続く秋田県八郎潟町の畠山菊夫町長（７２）について、町議会は４月２８日、不信任決議案を提出することを決めた。今月８日に開会予定の臨時会で審議する。 町によると、町長は２月に同県井川町で</description>
-      <pubDate>Thu, 30 Apr 2026 13:08:09 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/national/20260430-GYT1T00320/</comments>
     </item>
   </channel>
 </rss>
