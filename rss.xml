@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 01 May 2026 17:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 18:33:12 +0000</lastBuildDate>
     <item>
       <title>IT関連会社「はてな」11億円流出 警察官かたる詐欺被害か | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/na-k10015112951000</link>
@@ -41,13 +41,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691857</comments>
     </item>
     <item>
-      <title>GW中に「Claude Code」を一気に学びたい人のための記事・動画ガイド｜梶谷健人</title>
-      <link>https://note.com/kajiken0630/n/n597f3da0249a</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/271938291/rectangle_large_type_2_0fb832faec452001c0ebc7048291425c.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;この連休に「Claude Code」を一気に勉強しようと思っている人向けに、「これを上から順番に見切ったらClaude Codeにめちゃくちゃ詳しくなれる」という記事・動画ガイドを作りました。 14のステップごとに記事・動画を紹介しており、「まず全体像をつかみ、土台を整え、育て方を学び、応用とチーム展開まで広げる」という...</description>
-      <pubDate>Thu, 30 Apr 2026 23:48:10 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/kajiken0630/n/n597f3da0249a</comments>
-    </item>
-    <item>
       <title>身内があまりにストイックに勉強できるのでコツを聞いたらこんな方法で環境を整えていた「面白いアイデア」実践者多数</title>
       <link>https://togetter.com/li/2691849</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/f7d9aa74b7c4051f37890188a8ae66f4-1200x630.jpeg" /&gt;&lt;br/&gt;kajatony&#x1f423; @kajatony_tweet 身内があんまりにもストイックに勉強できるのでコツを聞いたら、タスクを消化じゃなくて積み上げ型の報酬として脳に誤認させるよう環境を整えている、との事で、ともあれそれに倣ってタスク一覧表を「終わったタスクを消す」じゃなくて「終わったタスクを装飾的にマークする」処理に変えたと...</description>
@@ -60,6 +53,20 @@
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--2-Y5C6fF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E8%25A8%25BA%25E6%2596%25AD%25E3%2580%2581AI%25E3%2581%25AB%25E5%2585%25A8%25E9%2583%25A8%25E3%2582%2584%25E3%2582%2589%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E6%259C%2588%25240.5%25E3%2581%25A7%25E5%259B%259E%25E3%2581%259B%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2520%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Sabakan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2NWY0YjNjODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;&#x1f4e2; アップデート版を公開しました（2026/05/01） この記事のあと、3スキル体制に分割 + テストハーネスで検出率100%を達成 しました。最新の使い方は以下の記事をどうぞ。 &#x1f449; claude-security-scanを3スキル体制にアップデートしたら月$1未満で検出率100%を達成した話&#x1f3af; はじめに こんにちは、Sabakanです。 今回、Claud...</description>
       <pubDate>Fri, 01 May 2026 02:49:13 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/sabakan1/articles/bd286802d6a91d</comments>
+    </item>
+    <item>
+      <title>GW中に「Claude Code」を一気に学びたい人のための記事・動画ガイド｜梶谷健人</title>
+      <link>https://note.com/kajiken0630/n/n597f3da0249a</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/271938291/rectangle_large_type_2_0fb832faec452001c0ebc7048291425c.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;この連休に「Claude Code」を一気に勉強しようと思っている人向けに、「これを上から順番に見切ったらClaude Codeにめちゃくちゃ詳しくなれる」という記事・動画ガイドを作りました。 14のステップごとに記事・動画を紹介しており、「まず全体像をつかみ、土台を整え、育て方を学び、応用とチーム展開まで広げる」という...</description>
+      <pubDate>Thu, 30 Apr 2026 23:48:10 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/kajiken0630/n/n597f3da0249a</comments>
+    </item>
+    <item>
+      <title>「戦争反対、際限ない軍拡はいらない」というと「戦うためじゃなく抑止力としての軍拡だ」という人がいるが、日本は既に世界７位の軍事力を持っており、どこまでやれば気がすむのか？</title>
+      <link>https://posfie.com/@taimport/p/dPEXIg7</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/140708f1744813531156cb3c0136d8f9-1200x630.jpeg" /&gt;&lt;br/&gt;辻 愛沙子｜arca @ai_1124at_ 「戦争反対、際限ない軍拡はいらない」 というと 「戦うためじゃなく抑止力としての軍拡だ」 という人がいる。 日本は既に世界７位の軍事力を持っています。どこまでやれば気がすみますか。 戦わずして国益と国民市民を守れるよう、経済的カードも含めた平和外交に心血を注ぐのが政治の役割...</description>
+      <pubDate>Fri, 01 May 2026 07:29:54 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@taimport/p/dPEXIg7</comments>
     </item>
     <item>
       <title>https://x.com/MrBeast/status/2049273335742435617 地球上の誰もが、赤いボタンか青いボ..</title>
@@ -76,11 +83,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691832</comments>
     </item>
     <item>
-      <title>いらすとやメーカー</title>
-      <link>https://irasutoyamaker.com/ja</link>
-      <description>&lt;img src="https://cdn.irasutoyamaker.com/assets/player/20260501080412/_astro/ogp.3-0gPyW-.png" /&gt;&lt;br/&gt;いろいろなパーツを組み合わせて、 自分だけのいらすとやキャラクターを 無料で作成することができます！</description>
-      <pubDate>Fri, 01 May 2026 02:55:23 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/irasutoyamaker.com/ja</comments>
+      <title>糸井重里のキヨシロー批判は犯罪的に底が浅い</title>
+      <link>https://eatnaan.seesaa.net/article/473962964.html</link>
+      <description>今から糸井重里さんを猛烈に批判する（それこそ、グーの音も出ないくらいコテンパンにします。相手が有名人だろうと関係ない！）わけですが、間抜けなタイミングなのは申し訳ない。それこそ20年以上昔の文章ですよ。この文章を書いた本人はご存命ですが、対象はもう亡くなってしまっていますし。 そもそものきっかけは糸...</description>
+      <pubDate>Fri, 01 May 2026 09:13:17 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/eatnaan.seesaa.net/article/473962964.html</comments>
     </item>
     <item>
       <title>Codex のゲーム開発のためのプロンプトまとめ｜npaka</title>
@@ -88,6 +95,13 @@
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/271922241/rectangle_large_type_2_0c8bb270404b796962b6eb613ce6a776.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;以下の記事が面白かったので、簡単にまとめました。 ・Game development – Codex | OpenAI Developers 1. ブラウザゲームの作成1-1. はじめにゲーム開発は、Codexがコード生成以上の役割を果たす最も分かりやすい例の1つです。実際のゲーム開発には、通常、コンセプトの記述、レンダリングレイヤー、フロントエンドのシ...</description>
       <pubDate>Fri, 01 May 2026 01:25:03 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/npaka/n/n8fb9f73d2ce3</comments>
+    </item>
+    <item>
+      <title>いらすとやメーカー</title>
+      <link>https://irasutoyamaker.com/ja</link>
+      <description>&lt;img src="https://cdn.irasutoyamaker.com/assets/player/20260501080412/_astro/ogp.3-0gPyW-.png" /&gt;&lt;br/&gt;いろいろなパーツを組み合わせて、 自分だけのいらすとやキャラクターを 無料で作成することができます！</description>
+      <pubDate>Fri, 01 May 2026 02:55:23 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/irasutoyamaker.com/ja</comments>
     </item>
     <item>
       <title>急増する日本人女性と韓国人男性の結婚「経済的ハードルが低い」　心遣いも魅力（西日本新聞） - Yahoo!ニュース</title>
@@ -104,13 +118,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.sponichi.co.jp/sports/news/2026/05/01/articles/20260501s00079000099000c.html</comments>
     </item>
     <item>
-      <title>高市首相がどんなに反論しても…石油・ナフサ危機「6月に詰む」に現実味、トヨタ系企業からも悲鳴｜日刊ゲンダイDIGITAL</title>
-      <link>https://www.nikkan-gendai.com/articles/view/money/387146</link>
-      <description>&lt;img src="https://jmqvqzo7.user.webaccel.jp/img/article/000/387/146/42599f5d67b9f3ac9baf7b183ce0d77f20260430111416066.jpg" /&gt;&lt;br/&gt;「ナフサは6月に詰む」が現実になるのか──。TBS「報道特集」でそう発言した専門家に政府は猛反論したが、産業界から聞こえてくるのは「6月危機」の声ばかりだ。やっぱり「大丈夫」じゃない。 ◇　　◇　　◇ 財務省が28日に発表した3月の貿易統計で、中東から輸入するナフサの量が前年同月から約4割減少していた。ホルムズ...</description>
-      <pubDate>Fri, 01 May 2026 01:15:57 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.nikkan-gendai.com/articles/view/money/387146</comments>
-    </item>
-    <item>
       <title>AIが「その感覚、完全に正しいです」などのごますり構文を使ってくる条件がAnthropicの調査により判明 - GIGAZINE</title>
       <link>https://gigazine.net/news/20260501-ai-sycophantically-response/</link>
       <description>&lt;img src="https://i.gzn.jp/img/2026/05/01/ai-sycophantically-response/00.png" /&gt;&lt;br/&gt;チャットAIと会話していると「その感覚、完全に正しいです」とか「めちゃくちゃ鋭い意見です」といったように不必要なごますりフレーズを返してくることがあります。AI企業のAnthropicが自社製チャットAI「Claude」の応答内容を収集し、AIがごますりフレーズを使う条件を分析した結果を公開しました。 How people ask Cl...</description>
@@ -118,11 +125,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/gigazine.net/news/20260501-ai-sycophantically-response/</comments>
     </item>
     <item>
-      <title>女性へ 付き合ってるのにGWに会えない男は既婚者か茶農家です→米農家「我々も入れてください！」繁忙期に突入している職業の人々が存在をアピール</title>
-      <link>https://togetter.com/li/2691796</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/5be404f68a8b2eaf35048e45a6681be3-1200x630.jpeg" /&gt;&lt;br/&gt;サンティ【SUNTEA SHOP】 @sunteaworkshop サンティ（@Suntchannel）のやっているサブ垢です。小規模ながらも製茶業を営んでおります。仕事や私生活の個人的なポストをします。※国産茶葉を使用しております。&#x1f375;お茶の販売サイト→suntea.base.shop youtube.com/@sunteashop?si… サンティ【SUNTEA SHOP】 @sunteaworkshop ...</description>
-      <pubDate>Fri, 01 May 2026 05:05:02 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691796</comments>
+      <title>高市首相がどんなに反論しても…石油・ナフサ危機「6月に詰む」に現実味、トヨタ系企業からも悲鳴｜日刊ゲンダイDIGITAL</title>
+      <link>https://www.nikkan-gendai.com/articles/view/money/387146</link>
+      <description>&lt;img src="https://jmqvqzo7.user.webaccel.jp/img/article/000/387/146/42599f5d67b9f3ac9baf7b183ce0d77f20260430111416066.jpg" /&gt;&lt;br/&gt;「ナフサは6月に詰む」が現実になるのか──。TBS「報道特集」でそう発言した専門家に政府は猛反論したが、産業界から聞こえてくるのは「6月危機」の声ばかりだ。やっぱり「大丈夫」じゃない。 ◇　　◇　　◇ 財務省が28日に発表した3月の貿易統計で、中東から輸入するナフサの量が前年同月から約4割減少していた。ホルムズ...</description>
+      <pubDate>Fri, 01 May 2026 01:15:57 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nikkan-gendai.com/articles/view/money/387146</comments>
     </item>
   </channel>
 </rss>
