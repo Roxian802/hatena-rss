@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 01 May 2026 16:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 17:33:10 +0000</lastBuildDate>
     <item>
       <title>IT関連会社「はてな」11億円流出 警察官かたる詐欺被害か | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/na-k10015112951000</link>
@@ -15,7 +15,7 @@
     <item>
       <title>『GitHub』への不正アクセス発生に関するお知らせとお詫び（第一報）</title>
       <link>https://corp.moneyforward.com/news/info/20260501-mf-press-1/</link>
-      <description>&lt;img src="https://corp.moneyforward.com/assets/common/img/ogp_img.jpg" /&gt;&lt;br/&gt;平素は、マネーフォワードグループが提供するサービスをご利用いただき、誠にありがとうございます。 当社がソフトウェア開発およびシステム管理に利用している『GitHub』※1の認証情報が漏えいし、これを用いた第三者による不正なアクセスが発生し、『GitHub』※1内の「リポジトリ」※2がコピーされたことが判明しました。...</description>
+      <description>&lt;img src="https://corp.moneyforward.com/wp-content/uploads/2024/09/OGP-3-e1725429882582.png" /&gt;&lt;br/&gt;平素は、マネーフォワードグループが提供するサービスをご利用いただき、誠にありがとうございます。 当社がソフトウェア開発およびシステム管理に利用している『GitHub』※1の認証情報が漏えいし、これを用いた第三者による不正なアクセスが発生し、『GitHub』※1内の「リポジトリ」※2がコピーされたことが判明しました。...</description>
       <pubDate>Fri, 01 May 2026 08:18:36 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/corp.moneyforward.com/news/info/20260501-mf-press-1/</comments>
     </item>
@@ -57,23 +57,9 @@
     <item>
       <title>セキュリティ診断、AIに全部やらせたら月$0.5で回せるようになった話&#x1f4b0;</title>
       <link>https://zenn.dev/sabakan1/articles/bd286802d6a91d</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--2-Y5C6fF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E8%25A8%25BA%25E6%2596%25AD%25E3%2580%2581AI%25E3%2581%25AB%25E5%2585%25A8%25E9%2583%25A8%25E3%2582%2584%25E3%2582%2589%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E6%259C%2588%25240.5%25E3%2581%25A7%25E5%259B%259E%25E3%2581%259B%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2520%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Sabakan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2NWY0YjNjODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに こんにちは、Sabakanです。 今回、Claude Code 用のセキュリティ診断スキル claude-security-scan を作って公開しました。 正直、自分でもびっくりするくらい実用的なものができたので、紹介させてください。 リポジトリはこちら → https://github.com/sabakan0123/claude-security-scan こんな気持ち、ありま...</description>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--2-Y5C6fF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E8%25A8%25BA%25E6%2596%25AD%25E3%2580%2581AI%25E3%2581%25AB%25E5%2585%25A8%25E9%2583%25A8%25E3%2582%2584%25E3%2582%2589%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E6%259C%2588%25240.5%25E3%2581%25A7%25E5%259B%259E%25E3%2581%259B%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2520%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Sabakan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2NWY0YjNjODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;&#x1f4e2; アップデート版を公開しました（2026/05/01） この記事のあと、3スキル体制に分割 + テストハーネスで検出率100%を達成 しました。最新の使い方は以下の記事をどうぞ。 &#x1f449; claude-security-scanを3スキル体制にアップデートしたら月$1未満で検出率100%を達成した話&#x1f3af; はじめに こんにちは、Sabakanです。 今回、Claud...</description>
       <pubDate>Fri, 01 May 2026 02:49:13 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/sabakan1/articles/bd286802d6a91d</comments>
-    </item>
-    <item>
-      <title>いらすとやメーカー</title>
-      <link>https://irasutoyamaker.com/ja</link>
-      <description>&lt;img src="https://cdn.irasutoyamaker.com/assets/player/20260501014249/_astro/ogp.3-0gPyW-.png" /&gt;&lt;br/&gt;いろいろなパーツを組み合わせて、 自分だけのいらすとやキャラクターを 無料で作成することができます！</description>
-      <pubDate>Fri, 01 May 2026 02:55:23 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/irasutoyamaker.com/ja</comments>
-    </item>
-    <item>
-      <title>映像整理してたら「公園で偶然撮影できた悔しい瞬間」が出てきた→画角・タイミング・間、すべてが絶妙でじわじわくる</title>
-      <link>https://togetter.com/li/2691832</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/f691b96212bb5db5136ebcf8d9e0b0f9-1200x630.jpeg" /&gt;&lt;br/&gt;Togetter編集部 X（旧Twitter）に日々流れる情報の中から、編集部がさまざまなポストを選び出し、わかりやすい形でお届けすることを大切にしています。新たな視点や世間の反応を添えることで、読者の皆様にとって安心・安全で価値あるコンテンツとすることを目指しています。詳しくは編集方針をご覧ください。</description>
-      <pubDate>Fri, 01 May 2026 07:37:46 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691832</comments>
     </item>
     <item>
       <title>https://x.com/MrBeast/status/2049273335742435617 地球上の誰もが、赤いボタンか青いボ..</title>
@@ -83,23 +69,30 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260501125833</comments>
     </item>
     <item>
+      <title>映像整理してたら「公園で偶然撮影できた悔しい瞬間」が出てきた→画角・タイミング・間、すべてが絶妙でじわじわくる</title>
+      <link>https://togetter.com/li/2691832</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/f691b96212bb5db5136ebcf8d9e0b0f9-1200x630.jpeg" /&gt;&lt;br/&gt;Togetter編集部 X（旧Twitter）に日々流れる情報の中から、編集部がさまざまなポストを選び出し、わかりやすい形でお届けすることを大切にしています。新たな視点や世間の反応を添えることで、読者の皆様にとって安心・安全で価値あるコンテンツとすることを目指しています。詳しくは編集方針をご覧ください。</description>
+      <pubDate>Fri, 01 May 2026 07:37:46 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691832</comments>
+    </item>
+    <item>
+      <title>いらすとやメーカー</title>
+      <link>https://irasutoyamaker.com/ja</link>
+      <description>&lt;img src="https://cdn.irasutoyamaker.com/assets/player/20260501080412/_astro/ogp.3-0gPyW-.png" /&gt;&lt;br/&gt;いろいろなパーツを組み合わせて、 自分だけのいらすとやキャラクターを 無料で作成することができます！</description>
+      <pubDate>Fri, 01 May 2026 02:55:23 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/irasutoyamaker.com/ja</comments>
+    </item>
+    <item>
       <title>Codex のゲーム開発のためのプロンプトまとめ｜npaka</title>
       <link>https://note.com/npaka/n/n8fb9f73d2ce3</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/271922241/rectangle_large_type_2_0c8bb270404b796962b6eb613ce6a776.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;以下の記事が面白かったので、簡単にまとめました。 ・Game development – Codex | OpenAI Developers 1. ブラウザゲームの作成1-1. はじめにゲーム開発は、Codexがコード生成以上の役割を果たす最も分かりやすい例の一つです。実際のゲーム開発には、通常、コンセプトの記述、レンダリングレイヤー、フロントエンドのシ...</description>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/271922241/rectangle_large_type_2_0c8bb270404b796962b6eb613ce6a776.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;以下の記事が面白かったので、簡単にまとめました。 ・Game development – Codex | OpenAI Developers 1. ブラウザゲームの作成1-1. はじめにゲーム開発は、Codexがコード生成以上の役割を果たす最も分かりやすい例の1つです。実際のゲーム開発には、通常、コンセプトの記述、レンダリングレイヤー、フロントエンドのシ...</description>
       <pubDate>Fri, 01 May 2026 01:25:03 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/npaka/n/n8fb9f73d2ce3</comments>
     </item>
     <item>
-      <title>高市首相がどんなに反論しても…石油・ナフサ危機「6月に詰む」に現実味、トヨタ系企業からも悲鳴｜日刊ゲンダイDIGITAL</title>
-      <link>https://www.nikkan-gendai.com/articles/view/money/387146</link>
-      <description>&lt;img src="https://jmqvqzo7.user.webaccel.jp/img/article/000/387/146/42599f5d67b9f3ac9baf7b183ce0d77f20260430111416066.jpg" /&gt;&lt;br/&gt;「ナフサは6月に詰む」が現実になるのか──。TBS「報道特集」でそう発言した専門家に政府は猛反論したが、産業界から聞こえてくるのは「6月危機」の声ばかりだ。やっぱり「大丈夫」じゃない。 ◇　　◇　　◇ 財務省が28日に発表した3月の貿易統計で、中東から輸入するナフサの量が前年同月から約4割減少していた。ホルムズ...</description>
-      <pubDate>Fri, 01 May 2026 01:15:57 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.nikkan-gendai.com/articles/view/money/387146</comments>
-    </item>
-    <item>
       <title>急増する日本人女性と韓国人男性の結婚「経済的ハードルが低い」　心遣いも魅力（西日本新聞） - Yahoo!ニュース</title>
       <link>https://news.yahoo.co.jp/articles/f0d9f9fe96e34e8dd9deb01c29991c7d47661413</link>
-      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260501-00010002-nishinpc-000-6-view.jpg?exp=10800" /&gt;&lt;br/&gt;韓国で日本人女性と韓国人男性による結婚が急増している。韓国統計庁によると2023、24年の結婚件数は前年比4割増の高い伸びを示し、25年も26・1％増の1483件だった。背景には、日韓双方の文化の浸透や結婚の経済的負担を夫婦で分かち合えることなどがあるとみられる。韓国ではベビーブーム世代の子どもが結婚適齢期を迎...</description>
+      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260501-00010002-nishinpc-000-7-view.jpg?exp=10800" /&gt;&lt;br/&gt;韓国で日本人女性と韓国人男性による結婚が急増している。韓国統計庁によると2023、24年の結婚件数は前年比4割増の高い伸びを示し、25年も26・1％増の1483件だった。背景には、日韓双方の文化の浸透や結婚の経済的負担を夫婦で分かち合えることなどがあるとみられる。韓国ではベビーブーム世代の子どもが結婚適齢期を迎...</description>
       <pubDate>Fri, 01 May 2026 06:44:32 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/f0d9f9fe96e34e8dd9deb01c29991c7d47661413</comments>
     </item>
@@ -111,6 +104,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.sponichi.co.jp/sports/news/2026/05/01/articles/20260501s00079000099000c.html</comments>
     </item>
     <item>
+      <title>高市首相がどんなに反論しても…石油・ナフサ危機「6月に詰む」に現実味、トヨタ系企業からも悲鳴｜日刊ゲンダイDIGITAL</title>
+      <link>https://www.nikkan-gendai.com/articles/view/money/387146</link>
+      <description>&lt;img src="https://jmqvqzo7.user.webaccel.jp/img/article/000/387/146/42599f5d67b9f3ac9baf7b183ce0d77f20260430111416066.jpg" /&gt;&lt;br/&gt;「ナフサは6月に詰む」が現実になるのか──。TBS「報道特集」でそう発言した専門家に政府は猛反論したが、産業界から聞こえてくるのは「6月危機」の声ばかりだ。やっぱり「大丈夫」じゃない。 ◇　　◇　　◇ 財務省が28日に発表した3月の貿易統計で、中東から輸入するナフサの量が前年同月から約4割減少していた。ホルムズ...</description>
+      <pubDate>Fri, 01 May 2026 01:15:57 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nikkan-gendai.com/articles/view/money/387146</comments>
+    </item>
+    <item>
       <title>AIが「その感覚、完全に正しいです」などのごますり構文を使ってくる条件がAnthropicの調査により判明 - GIGAZINE</title>
       <link>https://gigazine.net/news/20260501-ai-sycophantically-response/</link>
       <description>&lt;img src="https://i.gzn.jp/img/2026/05/01/ai-sycophantically-response/00.png" /&gt;&lt;br/&gt;チャットAIと会話していると「その感覚、完全に正しいです」とか「めちゃくちゃ鋭い意見です」といったように不必要なごますりフレーズを返してくることがあります。AI企業のAnthropicが自社製チャットAI「Claude」の応答内容を収集し、AIがごますりフレーズを使う条件を分析した結果を公開しました。 How people ask Cl...</description>
@@ -118,25 +118,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/gigazine.net/news/20260501-ai-sycophantically-response/</comments>
     </item>
     <item>
-      <title>トランプ氏、イタリアとスペインからも米軍撤退の可能性示唆</title>
-      <link>https://jp.reuters.com/world/us/2R4ATIUQGVPGRHIBSDKKONCXW4-2026-04-30/</link>
-      <description>&lt;img src="https://www.reuters.com/resizer/v2/54EDS6JU6BKM7BSJJMD2OCYF3M.jpg?auth=a81e467b630b2fd6d26c97257c8a54cc4cbb06e4a0af6084ee3b88580e4602f3&amp;amp;height=1005&amp;amp;width=1920&amp;amp;quality=80&amp;amp;smart=true" /&gt;&lt;br/&gt;［ワシントン　３０日　ロイター］ - トランプ米大統領は３０日、イタリアとスペイ​ンから米軍部隊を撤退させる可能性‌を示唆した。前日には、ドイツ駐留米軍を削減する可能性を検討していると明らかにし、近く決定​すると述べていた。 トランプ氏は米国と​イスラエルによる対イラン戦争を巡⁠り、北大西洋条約機構（ＮＡ...</description>
-      <pubDate>Thu, 30 Apr 2026 23:24:20 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/jp.reuters.com/world/us/2R4ATIUQGVPGRHIBSDKKONCXW4-2026-04-30/</comments>
-    </item>
-    <item>
       <title>女性へ 付き合ってるのにGWに会えない男は既婚者か茶農家です→米農家「我々も入れてください！」繁忙期に突入している職業の人々が存在をアピール</title>
       <link>https://togetter.com/li/2691796</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/5be404f68a8b2eaf35048e45a6681be3-1200x630.jpeg" /&gt;&lt;br/&gt;サンティ【SUNTEA SHOP】 @sunteaworkshop サンティ（@Suntchannel）のやっているサブ垢です。小規模ながらも製茶業を営んでおります。仕事や私生活の個人的なポストをします。※国産茶葉を使用しております。&#x1f375;お茶の販売サイト→suntea.base.shop youtube.com/@sunteashop?si… サンティ【SUNTEA SHOP】 @sunteaworkshop ...</description>
       <pubDate>Fri, 01 May 2026 05:05:02 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691796</comments>
-    </item>
-    <item>
-      <title>辺野古転覆、船運航の抗議団体「ご遺族にさらなる深い傷を負わせた」とコメント掲載</title>
-      <link>https://www.sankei.com/article/20260501-UYYCBQTZOFJLFG3ARTCWEPWCQE/</link>
-      <description>&lt;img src="https://www.sankei.com/resizer/v2/I6IW2GB5PROO3JOALC52YN35TY.jpg?auth=7363fea333a726d6c6ce61230b7c543d707455ca0d6bc585bcb8da13d6931469&amp;amp;quality=50&amp;amp;smart=true&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;沖縄県名護市辺野古近くの道路わきに、転覆した2隻を運航する抗議団体ののぼりが立っていた（大竹直樹撮影） 沖縄県名護市辺野古沖で船2隻が転覆し、平和学習中の同志社国際高（京都府）2年の武石知華さんら2人が死亡した事故で、2隻を運航する「ヘリ基地反対協議会」が1日、「ご遺族にさらなる深い傷を負わせてしまった...</description>
-      <pubDate>Fri, 01 May 2026 03:22:27 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260501-UYYCBQTZOFJLFG3ARTCWEPWCQE/</comments>
     </item>
   </channel>
 </rss>
