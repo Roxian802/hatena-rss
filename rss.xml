@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 02 May 2026 00:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 01:33:09 +0000</lastBuildDate>
     <item>
       <title>産経新聞が11月末に東北撤退へ／赤字の改善が見込めず／28年4月に品川シーサイドに本社移転</title>
       <link>https://facta.co.jp/article/202605060.html</link>
       <description>&lt;img src="https://facta.co.jp/articles/images/202605/202605_112_1.jpg" /&gt;&lt;br/&gt;産経新聞が11月末に東北撤退へ／赤字の改善が見込めず／28年4月に品川シーサイドに本社移転 号外速報（5月1日 21:00） 2026年5月号 BUSINESS ［号外速報］ 全国紙の一角を占める産経新聞が東北6県から撤退することを決めた。11月末に産経本紙とサンケイスポーツの発行を停止する。赤字の改善が見込めず、東北6県での新聞...</description>
       <pubDate>Fri, 01 May 2026 14:29:53 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/facta.co.jp/article/202605060.html</comments>
+    </item>
+    <item>
+      <title>マネーフォワードのGitHub不正アクセス事件をエンジニア視点で読み解く — なぜソースコードに本番カード情報と認証キーが入っていたのか</title>
+      <link>https://zenn.dev/awesome_kou/articles/moneyforward-github-source-leak</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--GLCNm6eT--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%259E%25E3%2583%258D%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AEGitHub%25E4%25B8%258D%25E6%25AD%25A3%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E4%25BA%258B%25E4%25BB%25B6%25E3%2582%2592%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E8%25A6%2596%25E7%2582%25B9%25E3%2581%25A7%25E8%25AA%25AD%25E3%2581%25BF%25E8%25A7%25A3%25E3%2581%258F%2520%25E2%2580%2594%2520%25E3%2581%25AA%25E3%2581%259C%25E3%2582%25BD%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2581%25AB%25E6%259C%25AC%25E7%2595%25AA%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%2589%25E6%2583%2585%25E5%25A0%25B1%25E3%2581%25A8%25E8%25AA%258D...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kou%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUzMzk2ODE4YzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;マネーフォワードのGitHub不正アクセス事件をエンジニア視点で読み解く — なぜソースコードに本番カード情報と認証キーが入っていたのか はじめに 2026 年 5 月 1 日、マネーフォワードが「GitHub への不正アクセス発生に関するお知らせとお詫び（第一報）」を公表しました。GitHub の認証情報が漏えいし、第三者により...</description>
+      <pubDate>Fri, 01 May 2026 15:30:54 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/awesome_kou/articles/moneyforward-github-source-leak</comments>
     </item>
     <item>
       <title>水酸化ナトリウムを下級生に「お菓子だ」と食べさせる　中学生2人が口内やけど　第三者委「いじめに該当する」と認定《新潟》 - ライブドアニュース</title>
@@ -48,6 +55,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691849</comments>
     </item>
     <item>
+      <title>客が自分で加熱して食べるハンバーグ専門店『花より、ハンバーグ。』でO157による食中毒が発生し営業禁止処分に→「いつか起きると思ってた...」</title>
+      <link>https://togetter.com/li/2691924</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/48c63a12ea94a1b2bde8737ad4b44c8f-1200x630.jpeg" /&gt;&lt;br/&gt;EARLの医学&amp;AIノート @EARL_med_tw 横浜の飲食店「花より、ハンバーグ。」で、腸管出血性大腸菌O157による食中毒が発生 営業禁止処分に city.yokohama.lg.jp/kenko-iryo-fuk… 客が自分で焼くスタイルのハンバーグは危険ですよ 2026-05-01 12:54:56 食中毒の発生について 横 浜 市 記 者 発 表 資 料 令 和 ８ 年 ４ 月 3...</description>
+      <pubDate>Fri, 01 May 2026 12:25:38 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691924</comments>
+    </item>
+    <item>
       <title>ワインが流行らない理由は千円で飲める美味しいワインが無いからではなく、普段飲まない人が奮発して買った三千円のワインがガッカリする味だからではないかと思う</title>
       <link>https://togetter.com/li/2691857</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/23c5787b9d6a378409b4625e50a9c0a5-1200x630.jpeg" /&gt;&lt;br/&gt;うせ&#x1f3a0;&#x1f98c; @Use_Fx 本当にこれ。普通に見かけるシャンパンやブルゴーニュやボルドーを5000円以上で買っても基本的にガッカリする。ワインは飲まないと味わからないのにハズレが無数に存在しているコンテンツ。 x.com/arubachacof/st… 2026-04-30 20:30:50 国際ソムリエくん|安旨ワイン発信中 @miyamoto_ryuta おっしゃる...</description>
@@ -59,48 +73,6 @@
       <link>https://forest.watch.impress.co.jp/docs/review/2105103.html</link>
       <pubDate>Fri, 01 May 2026 09:52:01 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/review/2105103.html</comments>
-    </item>
-    <item>
-      <title>客が自分で加熱して食べるハンバーグ専門店『花より、ハンバーグ。』でO157による食中毒が発生し営業禁止処分に→「いつか起きると思ってた...」</title>
-      <link>https://togetter.com/li/2691924</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/48c63a12ea94a1b2bde8737ad4b44c8f-1200x630.jpeg" /&gt;&lt;br/&gt;EARLの医学&amp;AIノート @EARL_med_tw 横浜の飲食店「花より、ハンバーグ。」で、腸管出血性大腸菌O157による食中毒が発生 営業禁止処分に city.yokohama.lg.jp/kenko-iryo-fuk… 客が自分で焼くスタイルのハンバーグは危険ですよ 2026-05-01 12:54:56 食中毒の発生について 横 浜 市 記 者 発 表 資 料 令 和 ８ 年 ４ 月 3...</description>
-      <pubDate>Fri, 01 May 2026 12:25:38 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2691924</comments>
-    </item>
-    <item>
-      <title>『GitHub』への不正アクセス発生に関するお知らせとお詫び（第一報）</title>
-      <link>https://corp.moneyforward.com/news/info/20260501-mf-press-1/</link>
-      <description>&lt;img src="https://corp.moneyforward.com/wp-content/uploads/2024/09/OGP-3-e1725429882582.png" /&gt;&lt;br/&gt;平素は、マネーフォワードグループが提供するサービスをご利用いただき、誠にありがとうございます。 当社がソフトウェア開発およびシステム管理に利用している『GitHub』※1の認証情報が漏えいし、これを用いた第三者による不正なアクセスが発生し、『GitHub』※1内の「リポジトリ」※2がコピーされたことが判明しました。...</description>
-      <pubDate>Fri, 01 May 2026 08:18:36 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/corp.moneyforward.com/news/info/20260501-mf-press-1/</comments>
-    </item>
-    <item>
-      <title>「戦争反対、際限ない軍拡はいらない」というと「戦うためじゃなく抑止力としての軍拡だ」という人がいるが、日本は既に世界７位の軍事力を持っており、どこまでやれば気がすむのか？</title>
-      <link>https://posfie.com/@taimport/p/dPEXIg7</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/140708f1744813531156cb3c0136d8f9-1200x630.jpeg" /&gt;&lt;br/&gt;辻 愛沙子｜arca @ai_1124at_ 「戦争反対、際限ない軍拡はいらない」 というと 「戦うためじゃなく抑止力としての軍拡だ」 という人がいる。 日本は既に世界７位の軍事力を持っています。どこまでやれば気がすみますか。 戦わずして国益と国民市民を守れるよう、経済的カードも含めた平和外交に心血を注ぐのが政治の役割...</description>
-      <pubDate>Fri, 01 May 2026 07:29:54 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@taimport/p/dPEXIg7</comments>
-    </item>
-    <item>
-      <title>戦争や社会問題を扱った名曲</title>
-      <link>https://anond.hatelabo.jp/20260501172943</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;ミュージシャンに党派性の踏み絵を踏ませたがる態度はわけわからん。下品。 おまえらに言われんでもミュージシャンはもう楽曲で語っとる。というわけでみんなの思う戦争や社会問題を扱った名曲をブコメで教えてね。 まず、私からのおすすめは↓ ZORN『戦争と少女』 (Prod. Nujabes) https://www.youtube.com/watch?v=MNdp...</description>
-      <pubDate>Fri, 01 May 2026 08:30:49 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260501172943</comments>
-    </item>
-    <item>
-      <title>納豆や冷蔵ギョーザ販売休止の動き“資材の調達困難”など理由 | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/na-k10015112681000</link>
-      <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260501/K10015112681_2605011601_0501160242_01_02.jpg" /&gt;&lt;br/&gt;イラン情勢の影響で、包装用の資材の安定調達が困難になるおそれがあるなどとして、納豆の一部商品や冷蔵ギョーザの販売を休止する企業が出ています。 このうち、食品メーカーの「ミツカン」は、5月1日から納…</description>
-      <pubDate>Fri, 01 May 2026 07:04:07 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015112681000</comments>
-    </item>
-    <item>
-      <title>セキュリティ診断、AIに全部やらせたら月$0.5で回せるようになった話&#x1f4b0;</title>
-      <link>https://zenn.dev/sabakan1/articles/bd286802d6a91d</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--2-Y5C6fF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%25E8%25A8%25BA%25E6%2596%25AD%25E3%2580%2581AI%25E3%2581%25AB%25E5%2585%25A8%25E9%2583%25A8%25E3%2582%2584%25E3%2582%2589%25E3%2581%259B%25E3%2581%259F%25E3%2582%2589%25E6%259C%2588%25240.5%25E3%2581%25A7%25E5%259B%259E%25E3%2581%259B%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2520%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Sabakan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2NWY0YjNjODEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;&#x1f4e2; アップデート版を公開しました（2026/05/01） この記事のあと、3スキル体制に分割 + テストハーネスで検出率100%を達成 しました。最新の使い方は以下の記事をどうぞ。 &#x1f449; claude-security-scanを3スキル体制にアップデートしたら月$1未満で検出率100%を達成した話&#x1f3af; はじめに こんにちは、Sabakanです。 今回、Claud...</description>
-      <pubDate>Fri, 01 May 2026 02:49:13 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/sabakan1/articles/bd286802d6a91d</comments>
     </item>
   </channel>
 </rss>
