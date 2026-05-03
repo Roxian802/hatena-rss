@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 03 May 2026 16:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 17:33:09 +0000</lastBuildDate>
     <item>
       <title>【速報】憲法は時代に合わせて更新すべきだと首相</title>
       <link>https://www.47news.jp/14245327.html</link>
@@ -20,25 +20,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/qiita.com/sharu389no/items/ede7d1c0be4a14024857</comments>
     </item>
     <item>
-      <title>あたし、時計 1話 - ジャンプルーキー！</title>
-      <link>https://rookie.shonenjump.com/series/OmkvmYUXPmE/OmkvmYUXPmM</link>
-      <description>&lt;img src="https://cdn-img.rookie.shonenjump.com/public/cover_images/4208947663163833947-0f734230d3b6" /&gt;&lt;br/&gt;田舎の村で時計のお仕事をしている女の子のお話</description>
-      <pubDate>Sun, 03 May 2026 03:45:40 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/rookie.shonenjump.com/series/OmkvmYUXPmE/OmkvmYUXPmM</comments>
-    </item>
-    <item>
       <title>【緊急】Cursorに「git clone」するだけでPCが乗っ取られる脆弱性！CVSS 9.9のヤバすぎる攻撃手法 - Qiita</title>
       <link>https://qiita.com/emi_ndk/items/8e6607a09cb8ff86c298</link>
       <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRmF2YXRhcnMuZ2l0aHVidXNlcmNvbnRlbnQuY29tJTJGdSUyRjU0MTczODUwJTNGdiUzRDQ_aXhsaWI9cmItNC4wLjAmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTQ5ZGU0OTdkMjMwMjhmNWZmOTcwNmZlNGNmY2E5MDZm%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D29ced0e10c8c1d24806abaf93840cae7?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU3JUI3JThBJUU2JTgwJUE1JUUzJTgwJTkxQ3Vyc29yJUUzJTgxJUFCJUUzJTgwJThDZ2l0JTIwY2xvbmUlRTMlODAlOEQlRTMlODElOTklRTMlODIlOEIlRTMlODElQTAlRTMlODElOTElRTMlODElQTdQQyVFMyU4MSU4QyVFNCVCOSU5NyVFMyU4MSVBMyVFNSU4RiU5NiVFMyU4MiU4OSVFMyU4MiU4QyVFMyU4MiU4QiVFOCU4NCU4NiVFNSVCQyVCMSVFNiU4MCVBNyVFRiVCQyU4MUNWU1MlMjA5LjklRTMlODElQUUlRTMlODMlQTQlRTMlODMlOTAlRTMlODElOTklRTMlODElOEUlRTMlODIlOEIlRTYlOTQlQkIlRTYlOTIlODMlRTYlODklOEIlRTYlQjMlOTUmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1mNjU4YzgwZDFjOWMwODEyYTIzYjg4YWY4N2UzNDRkMQ&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDBlbWlfbmRrJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9NzU0NDg1YzBhMGMzNTE3YTkwZWM1ZTU4MzFlOTQyMWY&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=49f5ab209b830984d232870fb446d630" /&gt;&lt;br/&gt;結論から言うと、Cursorユーザーは今すぐバージョン2.5以上にアップデートしてください。 2026年4月28日、AIコーディングツール「Cursor」にCVSS 9.9（ほぼ満点） の致命的な脆弱性が公開されました。 あなたが悪意のあるリポジトリをgit cloneするだけで、何も操作しなくてもPCが完全に乗っ取られます。 何が起きている...</description>
       <pubDate>Sun, 03 May 2026 09:21:55 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/qiita.com/emi_ndk/items/8e6607a09cb8ff86c298</comments>
-    </item>
-    <item>
-      <title>辺野古ボート事故の風向きが変わってきた</title>
-      <link>https://anond.hatelabo.jp/20260503112637</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;遅きに失したとは言え、活動家側が平謝りの謝罪文を公表した 遺族側は「真実を伝える」という名目の元、活動家側やメディアを非難するnoteを連載している それ自体は良いとして、被害者の生前の生活描写などで「私達は上級国民である」ことを自慢する記述が目立ち始めている つまり、ブルジョアとプロレタリアの対立構造...</description>
-      <pubDate>Sun, 03 May 2026 02:36:13 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260503112637</comments>
     </item>
     <item>
       <title>AIが週報をつまらなくした。週報のフォーマットを大幅改訂しました｜山田裕一朗（CEO at Findy Inc.）</title>
@@ -48,6 +34,20 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/yuichiro826/n/na3673744543d</comments>
     </item>
     <item>
+      <title>あたし、時計 1話 - ジャンプルーキー！</title>
+      <link>https://rookie.shonenjump.com/series/OmkvmYUXPmE/OmkvmYUXPmM</link>
+      <description>&lt;img src="https://cdn-img.rookie.shonenjump.com/public/cover_images/4208947663163833947-0f734230d3b6" /&gt;&lt;br/&gt;田舎の村で時計のお仕事をしている女の子のお話</description>
+      <pubDate>Sun, 03 May 2026 03:45:40 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/rookie.shonenjump.com/series/OmkvmYUXPmE/OmkvmYUXPmM</comments>
+    </item>
+    <item>
+      <title>辺野古ボート事故の風向きが変わってきた</title>
+      <link>https://anond.hatelabo.jp/20260503112637</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;遅きに失したとは言え、活動家側が平謝りの謝罪文を公表した 遺族側は「真実を伝える」という名目の元、活動家側やメディアを非難するnoteを連載している それ自体は良いとして、被害者の生前の生活描写などで「私達は上級国民である」ことを自慢する記述が目立ち始めている つまり、ブルジョアとプロレタリアの対立構造...</description>
+      <pubDate>Sun, 03 May 2026 02:36:13 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260503112637</comments>
+    </item>
+    <item>
       <title>［おわび］ | 沖縄タイムス＋プラス</title>
       <link>https://www.okinawatimes.co.jp/articles/-/1829943</link>
       <description>&lt;img src="https://oki.ismcdn.jp/mwimgs/a/1/1200wm/img_a11277de1bd31065c6498d6e1f45eca089462.jpg" /&gt;&lt;br/&gt;１日付５面の読者投稿「辺野古事故デマは許されず」で、末尾の「天国から二人の声が聞こえてくる。『誹謗（ひぼう）中傷にめげず、抗議行動を続けてほしい』と」を投稿者の同意を得て削除します。亡くなった方々の意思を断定する不適切な表現になっており、本紙の編集過程の確認作業が不十分でした。おわびします。</description>
@@ -55,18 +55,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.okinawatimes.co.jp/articles/-/1829943</comments>
     </item>
     <item>
-      <title>スーパーマーケットで3000円のワインは買わないほうが無難 - シロクマの屑籠</title>
-      <link>https://p-shirokuma.hatenadiary.com/entry/20260502/1777718662</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/0cedbdae9711fbe650dff044760419be6cbce7ba/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fhbb.afl.rakuten.co.jp%2Fhgb%2F0bb72a66.62dd926b.0bb72a67.403b01c5%2F%3Fme_id%3D1224100%26item_id%3D10013147%26pc%3Dhttps%253A%252F%252Fthumbnail.image.rakuten.co.jp%252F%25400_mall%252Fledled%252Fcabinet%252Fimg044%252Fgancia-brut-sp_1.jpg%253F_ex%253D128x128%26s%3D128x128%26t%3Dpicttext" /&gt;&lt;br/&gt;ＧＷで帰省し、ワインを買ってはいけなそうなスーパーマーケットに立ち寄ってしまったので「スーパーマーケットで3000円以上のワインを買わないほうが良い理由」を書いてみますね。 昨日、「ワインが流行らない理由は千円で飲める美味しいワインが無いからではなく、普段飲まない人が奮発して買った三千円のワインがガッ...</description>
-      <pubDate>Sat, 02 May 2026 11:01:04 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/p-shirokuma.hatenadiary.com/entry/20260502/1777718662</comments>
-    </item>
-    <item>
       <title>「日本の兄貴たちへ 味噌汁ってキャベツを入れてもいいのか？」「こうするといいぞ」→常識の範囲で味噌汁に入れちゃいけないものってあるんだっけ…？</title>
       <link>https://togetter.com/li/2692675</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/45a2676790eabadf6e31e861571c9506-1200x630.jpeg" /&gt;&lt;br/&gt;「日本の兄貴たちへ 味噌汁ってキャベツを入れてもいいのか？」「こうするといいぞ」→常識の範囲で味噌汁に入れちゃいけないものってあるんだっけ…？</description>
       <pubDate>Sun, 03 May 2026 09:17:56 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692675</comments>
+    </item>
+    <item>
+      <title>憲法9条の縛りは「合理的で実利的」　長谷部教授に聞く憲法の効能：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASV4Z3PTCV4ZUPQJ01CM.html</link>
+      <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260430003679_comm.jpg" /&gt;&lt;br/&gt;ホルムズ海峡への自衛隊派遣には憲法9条の制約がある――。中東危機でいま、9条に光があたる。戦後手にした9条にはそもそもどんな機能や役割があるのか、どのように使いこなすべきなのか。長谷部恭男・早稲田大…</description>
+      <pubDate>Sun, 03 May 2026 07:28:40 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV4Z3PTCV4ZUPQJ01CM.html</comments>
+    </item>
+    <item>
+      <title>スーパーマーケットで3000円のワインは買わないほうが無難 - シロクマの屑籠</title>
+      <link>https://p-shirokuma.hatenadiary.com/entry/20260502/1777718662</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/0cedbdae9711fbe650dff044760419be6cbce7ba/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fhbb.afl.rakuten.co.jp%2Fhgb%2F0bb72a66.62dd926b.0bb72a67.403b01c5%2F%3Fme_id%3D1224100%26item_id%3D10013147%26pc%3Dhttps%253A%252F%252Fthumbnail.image.rakuten.co.jp%252F%25400_mall%252Fledled%252Fcabinet%252Fimg044%252Fgancia-brut-sp_1.jpg%253F_ex%253D128x128%26s%3D128x128%26t%3Dpicttext" /&gt;&lt;br/&gt;ＧＷで帰省し、ワインを買ってはいけなそうなスーパーマーケットに立ち寄ってしまったので「スーパーマーケットで3000円以上のワインを買わないほうが良い理由」を書いてみますね。 昨日、「ワインが流行らない理由は千円で飲める美味しいワインが無いからではなく、普段飲まない人が奮発して買った三千円のワインがガッ...</description>
+      <pubDate>Sat, 02 May 2026 11:01:04 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/p-shirokuma.hatenadiary.com/entry/20260502/1777718662</comments>
     </item>
     <item>
       <title>SKILL.md AGENTS.md AgentSkills 完全整理ノート（備忘録）</title>
@@ -90,25 +97,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/qiita.com/TooMe/items/c9e42de497a9eff2b680</comments>
     </item>
     <item>
-      <title>ポイ活しない人は、やっぱり損なのか　8859億円「取りこぼしポイント」のカラクリ</title>
-      <link>https://www.itmedia.co.jp/business/articles/2605/03/news005.html</link>
-      <description>&lt;img src="https://image.itmedia.co.jp/business/articles/2605/03/cover_news005.jpg" /&gt;&lt;br/&gt;「ポイント経済圏」定点観測： キャッシュレス化が進む中、ポイントは単なる「お得」から「経済活動の一部」へと変貌を遂げている。本連載では、クレジットカード、QR決済、電子マネーを中心としたポイントプログラムの最新動向を追い、企業の戦略やユーザーへの影響などを分析する。 ポイントを貯めて使う「ポイ活」は...</description>
-      <pubDate>Sat, 02 May 2026 23:17:16 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/business/articles/2605/03/news005.html</comments>
-    </item>
-    <item>
       <title>個人開発の運用コストを本当に0円にした技術選定と設計判断のすべて - Qiita</title>
       <link>https://qiita.com/teppei19980914/items/3c744bb8fd71dc4550af</link>
       <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.0.0%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNjU5OTE0JTJGcHJvZmlsZS1pbWFnZXMlMkYxNzQ3MTM4NjIzP2l4bGliPXJiLTQuMC4wJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05Y2MyOWUxNTYyZDhhNzYzNzhkZDRhYjQxZDIxMjJkOA%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D816bcb5389817fabf38487332281b314?ixlib=rb-4.0.0&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JTgwJThCJUU0JUJBJUJBJUU5JTk2JThCJUU3JTk5JUJBJUUzJTgxJUFFJUU5JTgxJThCJUU3JTk0JUE4JUUzJTgyJUIzJUUzJTgyJUI5JUUzJTgzJTg4JUUzJTgyJTkyJUU2JTlDJUFDJUU1JUJEJTkzJUUzJTgxJUFCMCVFNSU4NiU4NiVFMyU4MSVBQiVFMyU4MSU5NyVFMyU4MSU5RiVFNiU4QSU4MCVFOCVBMSU5MyVFOSU4MSVCOCVFNSVBRSU5QSVFMyU4MSVBOCVFOCVBOCVBRCVFOCVBOCU4OCVFNSU4OCVBNCVFNiU5NiVBRCVFMyU4MSVBRSVFMyU4MSU5OSVFMyU4MSVCOSVFMyU4MSVBNiZ0eHQtYWxpZ249bGVmdCUyQ3RvcCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTU2JnR4dC1wYWQ9MCZzPTkzZjc0YTk2OTY0ZWQ0ZjBjNjI3MDJkNzY2ZjA0ZGMy&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjAuMCZ3PTgzOCZoPTU4JnR4dD0lNDB0ZXBwZWkxOTk4MDkxNCZ0eHQtY29sb3I9JTIzMUUyMTIxJnR4dC1mb250PUhpcmFnaW5vJTIwU2FucyUyMFc2JnR4dC1zaXplPTM2JnR4dC1wYWQ9MCZzPThmZjIzM2Q3OGUyYzBjYTNjNTBkNDM4MGZiNmMzZWJl&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=548ff42306651b060107bc9d50648a14" /&gt;&lt;br/&gt;筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。 &#x1f449; ポートフォリオ: 筆者ホームページ この記事は約5分で読めます。 「個人開発はサーバ代がかかるから公開できない...</description>
       <pubDate>Sat, 02 May 2026 09:38:19 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/qiita.com/teppei19980914/items/3c744bb8fd71dc4550af</comments>
-    </item>
-    <item>
-      <title>「ＡＩが数学の未解決問題を解いた」報告ラッシュ、リーマン予想もいずれ…　高まる思考力、疲れ知らずの働き者。人間に残された仕事は？ | NEWSjp</title>
-      <link>https://news.jp/i/1417683400603631631?c=39546741839462401</link>
-      <description>&lt;img src="https://img.nordot.app/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1421798310279758445/origin_1.jpg" /&gt;&lt;br/&gt;２０２６年が明けてすぐに「人工知能（ＡＩ）が未解決の数学の定理を証明した」とする論文の公表が世界で相次いだ。近年のＡＩの進化はめざましく、数学者が長年答えを出せなかった問題が次々と解かれている。専門家は「２０２６年はＡＩが安定して数学の未解決問題を解けるようになった最初の年といえる」と話す。 この...</description>
-      <pubDate>Sun, 03 May 2026 03:31:52 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.jp/i/1417683400603631631?c=39546741839462401</comments>
     </item>
   </channel>
 </rss>
