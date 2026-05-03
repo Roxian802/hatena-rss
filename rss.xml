@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 03 May 2026 11:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 12:33:10 +0000</lastBuildDate>
     <item>
       <title>【速報】憲法は時代に合わせて更新すべきだと首相</title>
       <link>https://www.47news.jp/14245327.html</link>
@@ -34,6 +34,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.okinawatimes.co.jp/articles/-/1829943</comments>
     </item>
     <item>
+      <title>辺野古ボート事故の風向きが変わってきた</title>
+      <link>https://anond.hatelabo.jp/20260503112637</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;遅きに失したとは言え、活動家側が平謝りの謝罪文を公表した 遺族側は「真実を伝える」という名目の元、活動家側やメディアを非難するnoteを連載している それ自体は良いとして、被害者の生前の生活描写などで「私達は上級国民である」ことを自慢する記述が目立ち始めている つまり、ブルジョアとプロレタリアの対立構造...</description>
+      <pubDate>Sun, 03 May 2026 02:36:13 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260503112637</comments>
+    </item>
+    <item>
       <title>ポイ活しない人は、やっぱり損なのか　8859億円「取りこぼしポイント」のカラクリ</title>
       <link>https://www.itmedia.co.jp/business/articles/2605/03/news005.html</link>
       <description>&lt;img src="https://image.itmedia.co.jp/business/articles/2605/03/cover_news005.jpg" /&gt;&lt;br/&gt;「ポイント経済圏」定点観測： キャッシュレス化が進む中、ポイントは単なる「お得」から「経済活動の一部」へと変貌を遂げている。本連載では、クレジットカード、QR決済、電子マネーを中心としたポイントプログラムの最新動向を追い、企業の戦略やユーザーへの影響などを分析する。 ポイントを貯めて使う「ポイ活」は...</description>
@@ -41,18 +48,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/business/articles/2605/03/news005.html</comments>
     </item>
     <item>
-      <title>ジョセフ・ヒース『資本主義が嫌いな人のための経済学』勝手に紹介文 - 清く正しく小賢しく</title>
-      <link>https://kozakashiku.hatenablog.com/entry/2026/05/02/194214</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/37f79f5f0bac0493e3fdb58f8cfd1bf4ac3371d6/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51caQoIcLBL._SL500_.jpg" /&gt;&lt;br/&gt;このたび、ジョセフ・ヒースの著書『資本主義が嫌いな人のための経済学』が早川書房で文庫化されます。既にハードカバーをお持ちの方もいらっしゃるかもしれませんが、吉川浩満さんによるアツい解説と、文庫版のために書き下ろされた序文がついてくるので、改めて買って損なしです。ぜひ手に取ってみてください。 そして...</description>
-      <pubDate>Sat, 02 May 2026 10:42:40 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/kozakashiku.hatenablog.com/entry/2026/05/02/194214</comments>
-    </item>
-    <item>
       <title>SKILL.md AGENTS.md AgentSkills 完全整理ノート（備忘録）</title>
       <link>https://zenn.dev/kodak_diary/articles/8fb30c071e9752</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--vpcm61ze--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SKILL.md%2520AGENTS.md%2520AgentSkills%2520%25E5%25AE%258C%25E5%2585%25A8%25E6%2595%25B4%25E7%2590%2586%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588%25EF%25BC%2588%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:KodaK%25E3%2581%25AE%25E6%2597%25A5%25E5%25B8%25B8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEtmWHJYdDlVT3FOd1dNTHhrN3ZNeEhGMEhWd2tkZU1PSmhFQWhWU0JPQW9NdlRHaz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;エグゼクティブサマリー この記事は、AIコーディングツールまわりで増えがちな AGENTS.md、CLAUDE.md、GEMINI.md、SKILL.md、agents系ファイルをどう分けるか、という話です。 結論はかなりシンプルで、「常に読ませるもの」「必要なときだけ読ませるもの」「役割を持つ別エージェント」を分けると扱いやすいです。 AGEN...</description>
       <pubDate>Sat, 02 May 2026 03:03:54 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/kodak_diary/articles/8fb30c071e9752</comments>
+    </item>
+    <item>
+      <title>ジョセフ・ヒース『資本主義が嫌いな人のための経済学』勝手に紹介文 - 清く正しく小賢しく</title>
+      <link>https://kozakashiku.hatenablog.com/entry/2026/05/02/194214</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/37f79f5f0bac0493e3fdb58f8cfd1bf4ac3371d6/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51caQoIcLBL._SL500_.jpg" /&gt;&lt;br/&gt;このたび、ジョセフ・ヒースの著書『資本主義が嫌いな人のための経済学』が早川書房で文庫化されます。既にハードカバーをお持ちの方もいらっしゃるかもしれませんが、吉川浩満さんによるアツい解説と、文庫版のために書き下ろされた序文がついてくるので、改めて買って損なしです。ぜひ手に取ってみてください。 そして...</description>
+      <pubDate>Sat, 02 May 2026 10:42:40 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/kozakashiku.hatenablog.com/entry/2026/05/02/194214</comments>
     </item>
     <item>
       <title>「ＡＩが数学の未解決問題を解いた」報告ラッシュ、リーマン予想もいずれ…　高まる思考力、疲れ知らずの働き者。人間に残された仕事は？ | NEWSjp</title>
@@ -69,18 +76,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/qiita.com/teppei19980914/items/3c744bb8fd71dc4550af</comments>
     </item>
     <item>
-      <title>憲法改正「賛成」５７％…読売世論調査</title>
-      <link>https://www.yomiuri.co.jp/election/yoron-chosa/20260502-GYT1T00347/</link>
-      <description>&lt;img src="https://www.yomiuri.co.jp/media/2026/05/20260502-GYT1I00348-1.jpg?type=ogp" /&gt;&lt;br/&gt;【読売新聞】　読売新聞社は３～４月、憲法に関する全国世論調査（郵送方式）を実施した。憲法を「改正する方がよい」とした人は５７％（昨年調査６０％）だった。高市首相の在任中に、国会で憲法改正の議論が進むことを「期待する」と答えた人は５４</description>
-      <pubDate>Sat, 02 May 2026 21:25:36 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/election/yoron-chosa/20260502-GYT1T00347/</comments>
-    </item>
-    <item>
       <title>女体シャンパンタワー騒動で渦中の坂井秀人氏が新たなポスト… ADHDの薬の影響で自分の意思とは違うことをしてたり、その時の記憶がなかったりの症状がたまにあるとの説明</title>
       <link>https://togetter.com/li/2692704</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/d434b2106f6d972d92ccdb621103d58b-1200x630.jpeg" /&gt;&lt;br/&gt;坂井秀人 @hideto_sa 最後に 僕はやってません というか覚えがありません 説明させてください ADHDの薬をのんでいるんですが、そのせいで自分の意思とは違うことをしてたり、その時の記憶がなかったりの症状がたまにあります 今回のこと身近な友人達に聞いても皆口を揃えて「坂井がそんなことするはずない」と言ってくれ...</description>
       <pubDate>Sun, 03 May 2026 07:26:01 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692704</comments>
+    </item>
+    <item>
+      <title>憲法改正「賛成」５７％…読売世論調査</title>
+      <link>https://www.yomiuri.co.jp/election/yoron-chosa/20260502-GYT1T00347/</link>
+      <description>&lt;img src="https://www.yomiuri.co.jp/media/2026/05/20260502-GYT1I00348-1.jpg?type=ogp" /&gt;&lt;br/&gt;【読売新聞】　読売新聞社は３～４月、憲法に関する全国世論調査（郵送方式）を実施した。憲法を「改正する方がよい」とした人は５７％（昨年調査６０％）だった。高市首相の在任中に、国会で憲法改正の議論が進むことを「期待する」と答えた人は５４</description>
+      <pubDate>Sat, 02 May 2026 21:25:36 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/election/yoron-chosa/20260502-GYT1T00347/</comments>
     </item>
     <item>
       <title>日本のイラン戦争認識はなぜこんなにも歪んでしまうのか</title>
@@ -104,11 +111,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692591</comments>
     </item>
     <item>
-      <title>偽警察から具体的に11億の振り込め指示があったわけじゃないと思う</title>
-      <link>https://anond.hatelabo.jp/20260502221802</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015112951000 一体どうやって、11億も騙し取ったんだ？みたいなコメントがちょくちょくあるけど、実際に振り込め詐欺にあった俺の経験から話すと、偽警察は具体的に11億円振り込めって指示したわけじゃないと思うよ。 簡単な話で、「口座の金をチェックす...</description>
-      <pubDate>Sat, 02 May 2026 13:18:49 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260502221802</comments>
+      <title>義父母（90代）は食のこだわりが細かく「買い物は絶対に午前中」「梅雨時や真夏は刺身・寿司はダメ」を厳守していたが、プラ梱包と冷蔵設備のない時代に覚えたことだった</title>
+      <link>https://togetter.com/li/2692538</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/d310c38077e06c5b5df11b45b3e31b30-1200x630.jpeg" /&gt;&lt;br/&gt;Campos @campos_neutros そういえば義父母が(今90代)買い物は絶対午前中、日曜は市場がないから土曜の午前に絶対買い物、梅雨時や真夏は刺身・寿司はダメ、弁当はとにかく早く食べる、って感じで食のルールが多くてウザいと思ってたんだけど、プラ梱包と冷蔵設備のない世界はそれが最適解だったんだと思い知る。 x.com/8...</description>
+      <pubDate>Sun, 03 May 2026 03:06:53 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692538</comments>
     </item>
     <item>
       <title>俺が振り込め詐欺にあったケースだと、偽警察から直接電話があったわけじ..</title>
@@ -118,32 +125,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260503072233</comments>
     </item>
     <item>
-      <title>最高裁判所 今崎幸彦長官 “憲法のあり方は国民が決めること” | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/na-k10015113601000</link>
-      <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260503/K10015113601_2605022008_0503050933_01_02.jpg" /&gt;&lt;br/&gt;最高裁判所の今崎幸彦長官は、憲法記念日にあわせて会見を開き、改正の是非をめぐる現在の議論について「国民が関心を持つのは非常に重要だが、憲法のあり方は国民が決めることだ」と述べ、具体的な言及は避けました…</description>
-      <pubDate>Sat, 02 May 2026 22:34:54 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015113601000</comments>
-    </item>
-    <item>
       <title>移民反対デモ　土葬は日本の文化を壊す？ わからなさに向き合う：朝日新聞</title>
       <link>https://www.asahi.com/articles/ASV3K2HYCV3KUTIL01DM.html</link>
       <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260405000022_comm.jpg" /&gt;&lt;br/&gt;■多民社会シリーズ　「不安の正体」第2部③　信じる価値観が違うほど、人々の心の壁は高くなるのだろうか。　日本で異なる宗教や文化的な背景を持つ外国人が増えている。自分たちの文化が侵されるのではないか。そ…</description>
       <pubDate>Sat, 02 May 2026 23:27:17 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV3K2HYCV3KUTIL01DM.html</comments>
-    </item>
-    <item>
-      <title>まともなカウンセリングの文化がなかったりマーケティングが弱いと「話をきちんと聞いて時に助言もくれる」立ち位置が占いや宗教に乗っ取られてしまう</title>
-      <link>https://togetter.com/li/2692364</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/1a9996cfb7a213149426f9ab72fbdd65-1200x630.jpeg" /&gt;&lt;br/&gt;灸花 @swPXz18I2azvEwf 現代文得意めでケーキの切れない元被虐待児。発達障害の話や二次障害の話もします。 子供を出生させること、自ら時期を選んで楽に確実に死ねないことを問題視しています。 不注意おとこC-PTSD @cptsd2525 本当にそうだと思う。日本の場合カウンセリングのマーケ弱すぎて急成長のスピリチュアル市...</description>
-      <pubDate>Sat, 02 May 2026 16:14:13 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692364</comments>
-    </item>
-    <item>
-      <title>ジャガイモが夜になるとめっちゃウネウネ活動していた… タイムラプスにするととてもキモい「夜こんなんなってるんか」「植物も生き物ってよくわかる映像」</title>
-      <link>https://togetter.com/li/2692495</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/a5180c802156b0ae11696b945b8d792f-1200x630.jpeg" /&gt;&lt;br/&gt;ジャガイモが夜になるとめっちゃウネウネ活動していた… タイムラプスにするととてもキモい「夜こんなんなってるんか」「植物も生き物ってよくわかる映像」</description>
-      <pubDate>Sun, 03 May 2026 01:11:31 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692495</comments>
     </item>
   </channel>
 </rss>
