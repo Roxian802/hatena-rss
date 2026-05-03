@@ -4,20 +4,13 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 02 May 2026 23:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 00:33:09 +0000</lastBuildDate>
     <item>
       <title>私と知華｜辺野古ボート転覆事故遺族メモ</title>
       <link>https://note.com/beloved_tomoka/n/nee0482724b5f</link>
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/272225763/rectangle_large_type_2_e48e0dcddb5aa4eb175043d870ddd460.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;はじめに知華が旅立ってから、明日で四十九日を迎えます。 この間、たくさんの方が知華を想い、言葉を寄せてくださいました。 家族だけでは抱えきれない悲しみの中で、そのひとつひとつに支えられています。本当にありがとうございます。 まだ、知華がいない毎日を受け止めることはできません。 それでも、知華が確かに...</description>
       <pubDate>Sat, 02 May 2026 14:08:38 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/beloved_tomoka/n/nee0482724b5f</comments>
-    </item>
-    <item>
-      <title>サプライチェーン攻撃の対策 - kawasima</title>
-      <link>https://scrapbox.io/kawasima/%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%94%BB%E6%92%83%E3%81%AE%E5%AF%BE%E7%AD%96</link>
-      <description>&lt;img src="https://scrapbox.io/assets/img/content-logo.png" /&gt;&lt;br/&gt;背景: 何が起きているか 2025年9月、Shai-Hulud攻撃がnpmエコシステムを直撃した。ngx-bootstrap、ng2-file-upload、@ctrl/tinycolor等の正規パッケージが改ざんされ、postinstallフックで難読化済みのbundle.jsを実行、npm/GitHub/クラウドの認証情報を窃取しwebhook経由で外部へ送信した。最終的に数百パッケージが汚...</description>
-      <pubDate>Sat, 02 May 2026 02:56:18 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/scrapbox.io/kawasima/%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%94%BB%E6%92%83%E3%81%AE%E5%AF%BE%E7%AD%96</comments>
     </item>
     <item>
       <title>高市総理が22年前に書いた“憲法改正のススメ”「国民は国防の義務」「私権の一部制限に協力」から浮かび上がる憲法観【報道特集】 | TBS NEWS DIG</title>
@@ -27,11 +20,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/newsdig.tbs.co.jp/articles/-/2640528</comments>
     </item>
     <item>
-      <title>「CD捨てなくて正解だった！」　パソコンなしでスマホに取り込む『1番簡単な方法』に「ラクすぎて拍子抜け」「思い出の曲を持ち歩ける！」</title>
-      <link>https://www.oricon.co.jp/news/2451807/full/</link>
-      <description>&lt;img src="https://contents.oricon.co.jp/upimg/news/2452000/2451807/20260428_175723_p_o_77959602.jpg" /&gt;&lt;br/&gt;通勤や通学の移動中や家事の合間、トレーニング中など、日常のさまざまなシーンで音楽を楽しむ人は多いだろう。かつてはCDが主流だった音楽の聴き方は、今ではサブスクの配信サービスへと移り変わっている。コンポやCDドライブつきのパソコンが減ったことで、「昔集めていたCDが手元にあるのに再生できる機器がない…」と...</description>
-      <pubDate>Sat, 02 May 2026 08:31:40 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.oricon.co.jp/news/2451807/full/</comments>
+      <title>サプライチェーン攻撃の対策 - kawasima</title>
+      <link>https://scrapbox.io/kawasima/%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%94%BB%E6%92%83%E3%81%AE%E5%AF%BE%E7%AD%96</link>
+      <description>&lt;img src="https://scrapbox.io/assets/img/content-logo.png" /&gt;&lt;br/&gt;背景: 何が起きているか 2025年9月、Shai-Hulud攻撃がnpmエコシステムを直撃した。ngx-bootstrap、ng2-file-upload、@ctrl/tinycolor等の正規パッケージが改ざんされ、postinstallフックで難読化済みのbundle.jsを実行、npm/GitHub/クラウドの認証情報を窃取しwebhook経由で外部へ送信した。最終的に数百パッケージが汚...</description>
+      <pubDate>Sat, 02 May 2026 02:56:18 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/scrapbox.io/kawasima/%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E6%94%BB%E6%92%83%E3%81%AE%E5%AF%BE%E7%AD%96</comments>
+    </item>
+    <item>
+      <title>ホテルでカップ麺を食べたら？　残ってしまったスープは「こうしていただけると幸いです」（grape）｜ｄメニューニュース</title>
+      <link>https://topics.smt.docomo.ne.jp/article/grapee/trend/grapee-2227184</link>
+      <description>&lt;img src="https://img.topics.smt.news.goo.ne.jp/picture/grapee/m_grapee-2227184.jpg" /&gt;&lt;br/&gt;旅行や出張でホテルに滞在している際、夜食としてカップめんなどを食べることもあるでしょう。 そんな時、悩んでしまうのが『残った汁』の処分方法です。 このように、迷ったことがある人は多いはず。 悪気がなくても、実はホテルの設備にダメージを与えてしまう可能性もあるといいます。 意外と知らない、ホテル側が「...</description>
+      <pubDate>Sat, 02 May 2026 12:02:15 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/topics.smt.docomo.ne.jp/article/grapee/trend/grapee-2227184</comments>
     </item>
     <item>
       <title>高市早苗側が野党への誹謗中傷動画を大量に流布していたという報道を見たが、「リベラル」が悪口を言うから支持されないという話は何だったのだろう…… - 法華狼の日記</title>
@@ -41,11 +41,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/hokke-ookami.hatenablog.com/entry/20260501/1777647559</comments>
     </item>
     <item>
-      <title>運動が苦手、絵を描くのが苦手...世の中には努力だけではどうにもならないものが山ほどあるのになぜ勉強だけは許されず本人の努力不足とか怠慢だと言われるのか</title>
-      <link>https://togetter.com/li/2692275</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/d092054502194482f7485181cd2ed02b-1200x630.jpeg" /&gt;&lt;br/&gt;アニサキス @munou0613 ｢ピアノが苦手｣｢運動が苦手｣｢絵を描くのが苦手｣だとか、この世には努力云々じゃ片付けられない限界ってものがそれぞれに存在してるのに、なんで『勉強ができない』奴は努力不足だとか怠慢だとか言われなきゃいけないの？ たまたま苦手なことの中に『勉強』があっただけなのに、なんで？ 2026-04-3...</description>
-      <pubDate>Sat, 02 May 2026 09:56:57 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692275</comments>
+      <title>「CD捨てなくて正解だった！」　パソコンなしでスマホに取り込む『1番簡単な方法』に「ラクすぎて拍子抜け」「思い出の曲を持ち歩ける！」</title>
+      <link>https://www.oricon.co.jp/news/2451807/full/</link>
+      <description>&lt;img src="https://contents.oricon.co.jp/upimg/news/2452000/2451807/20260428_175723_p_o_77959602.jpg" /&gt;&lt;br/&gt;通勤や通学の移動中や家事の合間、トレーニング中など、日常のさまざまなシーンで音楽を楽しむ人は多いだろう。かつてはCDが主流だった音楽の聴き方は、今ではサブスクの配信サービスへと移り変わっている。コンポやCDドライブつきのパソコンが減ったことで、「昔集めていたCDが手元にあるのに再生できる機器がない…」と...</description>
+      <pubDate>Sat, 02 May 2026 08:31:40 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.oricon.co.jp/news/2451807/full/</comments>
     </item>
     <item>
       <title>BeRealが問題になったことで、今の平均的な大学生のNS事情がどうなっているのかに注目が集まり、「Discord」を知らない人が多い事実が判明</title>
@@ -55,11 +55,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692323</comments>
     </item>
     <item>
-      <title>「トランプはどうしようもないばか」米カリフォルニア州民、ガソリン価格急騰に激怒</title>
-      <link>https://www.afpbb.com/articles/-/3633827</link>
-      <description>&lt;img src="https://afpbb.ismcdn.jp/mwimgs/5/a/1000x/img_5a62176d2c859809c10721eedd7dd773167361.jpg" /&gt;&lt;br/&gt;【5月2日 AFP】米西部カリフォルニア州ロサンゼルスのガソリンスタンドで、ピックアップトラックに給油していたライダー・トーマスさん（28、男性）は、満タンにするのに130ドル（約2万400円）もかかるのを見て、抑えきれない怒りを顔に浮かべた。米イスラエルによる対イラン軍事作戦開始前よりも30ドル（約4700円）も高...</description>
-      <pubDate>Sat, 02 May 2026 05:25:42 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.afpbb.com/articles/-/3633827</comments>
+      <title>運動が苦手、絵を描くのが苦手...世の中には努力だけではどうにもならないものが山ほどあるのになぜ勉強だけは許されず本人の努力不足とか怠慢だと言われるのか</title>
+      <link>https://togetter.com/li/2692275</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/d092054502194482f7485181cd2ed02b-1200x630.jpeg" /&gt;&lt;br/&gt;アニサキス @munou0613 ｢ピアノが苦手｣｢運動が苦手｣｢絵を描くのが苦手｣だとか、この世には努力云々じゃ片付けられない限界ってものがそれぞれに存在してるのに、なんで『勉強ができない』奴は努力不足だとか怠慢だとか言われなきゃいけないの？ たまたま苦手なことの中に『勉強』があっただけなのに、なんで？ 2026-04-3...</description>
+      <pubDate>Sat, 02 May 2026 09:56:57 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692275</comments>
+    </item>
+    <item>
+      <title>「勉強に広告は邪魔です」 登録者数9万人いるのに広告もメンバーシップもスパチャも無しで受験指導チャンネルを運営しているおじいちゃんが話題に</title>
+      <link>https://togetter.com/li/2692361</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/eabd3c2e437a718571f8882353d0f3bc-1200x630.jpeg" /&gt;&lt;br/&gt;電機くん @denkikun_stepup こういう高齢者は尊敬できる。 年寄りを敬えというのは昔は長生きするのは難しく、高齢者は知識の宝庫だったから大切にされていたし尊敬もされていた。最近はただ年齢を重ねただけで中身はそこらへんの30代と変わらないような高齢者が増えたから敬えない、年金払いたくないと言われる。昔の「...</description>
+      <pubDate>Sat, 02 May 2026 13:49:20 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692361</comments>
     </item>
     <item>
       <title>『なぜプリキュアは発達障害に好かれるのか』を職場の臨床心理士と真面目に考察した、というツイートが海外でも取り上げられる展開に</title>
@@ -67,20 +74,6 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/235358f8c59677eaba3885df9c7ef2f3-1200x630.jpeg" /&gt;&lt;br/&gt;ナの @nano_macoron 『なぜプリキュアは発達障害に好かれるのか』 職場の臨床心理士と真面目に考察した ツイッターから見たプリキュア界隈の大人、特性に無自覚なオタクを含めるとかなりの割合で該当しそうとのこと (ASDの男女比から男性7割以上、女性3割程度) pic.x.com/QsuFKEnnEh 2026-04-28 19:24:46</description>
       <pubDate>Sat, 02 May 2026 11:34:25 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692314</comments>
-    </item>
-    <item>
-      <title>けっこう実用的。｢OpenCode｣×ローカルLLMで“無料Claude Code”してみた</title>
-      <link>https://www.gizmodo.jp/2026/05/opencode_google_gemma_4.html</link>
-      <description>&lt;img src="https://media.loom-app.com/gizmodo/dist/images/2026/04/28/opencode_top.jpg?w=1280&amp;amp;h=630&amp;amp;f=jpg" /&gt;&lt;br/&gt;けっこう実用的。｢OpenCode｣×ローカルLLMで“無料Claude Code”してみた2026.05.02 13:007,921 かみやまたくみ オープンソースのAIコーディングエージェント｢OpenCode｣をローカルLLM｢Gemma-4-26b-a4b｣で動かして簡単なゲームを作っているところ Image: かみやまたくみ AIでいろんなことができる反面、料金もけっこうかかる...</description>
-      <pubDate>Sat, 02 May 2026 04:56:01 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.gizmodo.jp/2026/05/opencode_google_gemma_4.html</comments>
-    </item>
-    <item>
-      <title>石原環境相、水俣病患者に協力姿勢から一転難色　支援者ら反発 | 毎日新聞</title>
-      <link>https://mainichi.jp/articles/20260502/k00/00m/040/105000c</link>
-      <description>&lt;img src="https://cdn.mainichi.jp/vol1/2026/05/02/20260502k0000m040115000p/0c10.jpg?1" /&gt;&lt;br/&gt;水俣病の患者・被害者と面会や懇談をした石原宏高環境相が、胎児性患者が要望した福祉サービス利用について協力的な姿勢を見せながら、1日夕に熊本県水俣市で開いた記者会見で一転して難色を示し、「（本人が）目の前でいらっしゃったので、そういう発言をした」と述べた。支援団体はうわべだけの対応だったと反発してい...</description>
-      <pubDate>Sat, 02 May 2026 10:42:12 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260502/k00/00m/040/105000c</comments>
     </item>
   </channel>
 </rss>
