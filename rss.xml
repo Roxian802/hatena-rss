@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 03 May 2026 19:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 20:33:09 +0000</lastBuildDate>
     <item>
       <title>【速報】憲法は時代に合わせて更新すべきだと首相</title>
       <link>https://www.47news.jp/14245327.html</link>
@@ -34,6 +34,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/yuichiro826/n/na3673744543d</comments>
     </item>
     <item>
+      <title>他人を幸せにしたいな</title>
+      <link>https://anond.hatelabo.jp/20260502175849</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;自分の生活がそこそこ安定してきたので、他人を幸せにしたいなと思う心の余裕ができたのだが、親もいなけりゃパートナーもおらん、当然ながら子もおらんので、気持ちの行き場がない。こういう人が「推し活」に行くのかなー。でも『イン・ザ・メガチャーチ』をついこのあいだ読んだこともあり、そういう仕組みに乗っかる...</description>
+      <pubDate>Sat, 02 May 2026 09:03:14 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260502175849</comments>
+    </item>
+    <item>
       <title>辺野古ボート事故の風向きが変わってきた</title>
       <link>https://anond.hatelabo.jp/20260503112637</link>
       <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;遅きに失したとは言え、活動家側が平謝りの謝罪文を公表した 遺族側は「真実を伝える」という名目の元、活動家側やメディアを非難するnoteを連載している それ自体は良いとして、被害者の生前の生活描写などで「私達は上級国民である」ことを自慢する記述が目立ち始めている つまり、ブルジョアとプロレタリアの対立構造...</description>
@@ -41,11 +48,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260503112637</comments>
     </item>
     <item>
-      <title>他人を幸せにしたいな</title>
-      <link>https://anond.hatelabo.jp/20260502175849</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;自分の生活がそこそこ安定してきたので、他人を幸せにしたいなと思う心の余裕ができたのだが、親もいなけりゃパートナーもおらん、当然ながら子もおらんので、気持ちの行き場がない。こういう人が「推し活」に行くのかなー。でも『イン・ザ・メガチャーチ』をついこのあいだ読んだこともあり、そういう仕組みに乗っかる...</description>
-      <pubDate>Sat, 02 May 2026 09:03:14 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260502175849</comments>
+      <title>AIは速度を前払いし、失敗を後払いにする｜Kosuke Kuzuoka</title>
+      <link>https://note.com/kkosukeee/n/n99258fe1da3c</link>
+      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/8bb52a34ecaf9dcb95320b2a1f5508fa15aaefb0.png" /&gt;&lt;br/&gt;はじめに「AIは速度をフロントローディングし、失敗をバックローディングする」 Opsera社が25万人のエンジニアを分析した2026年版ベンチマークレポートに記されたこの一文は、AI時代のソフトウェア開発組織が直面している本質的な矛盾を的確に言い当てている（出典: Opsera AI Coding Impact Benchmark Report 2026）。9...</description>
+      <pubDate>Fri, 01 May 2026 14:48:21 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/kkosukeee/n/n99258fe1da3c</comments>
+    </item>
+    <item>
+      <title>VSCode 1.118 のアップデートがアツすぎ</title>
+      <link>https://zenn.dev/headwaters/articles/f629e2f92828e7</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--q3EwBGxf--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:VSCode%25201.118%2520%25E3%2581%25AE%25E3%2582%25A2%25E3%2583%2583%25E3%2583%2597%25E3%2583%2587%25E3%2583%25BC%25E3%2583%2588%25E3%2581%258C%25E3%2582%25A2%25E3%2583%2584%25E3%2581%2599%25E3%2581%258E%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E5%25A6%25B9%25E5%25B0%25BE%25E6%2582%25A0%25E7%259C%259F%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZjNGExY2UxMDYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2583%2598%25E3%2583%2583%25E3%2583%2589%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2582%25B9%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhOTNmNzAyMzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;2026年4月29日にリリースされた VSCode 1.118。 今回のリリースは Github Copilot の使い方の解像度がワンランク上がる内容だった。 正直、値上げのインパクトを相殺して余りあるほどの内容だと思う。 トークンベースへの課金への移行が発表されたタイミングで、トークン効率の改善が複数入ってきたのも印象的。 個人的...</description>
+      <pubDate>Sun, 03 May 2026 05:44:12 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/headwaters/articles/f629e2f92828e7</comments>
     </item>
     <item>
       <title>あたし、時計 1話 - ジャンプルーキー！</title>
@@ -55,18 +69,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/rookie.shonenjump.com/series/OmkvmYUXPmE/OmkvmYUXPmM</comments>
     </item>
     <item>
-      <title>［おわび］ | 沖縄タイムス＋プラス</title>
-      <link>https://www.okinawatimes.co.jp/articles/-/1829943</link>
-      <description>&lt;img src="https://oki.ismcdn.jp/mwimgs/a/1/1200wm/img_a11277de1bd31065c6498d6e1f45eca089462.jpg" /&gt;&lt;br/&gt;１日付５面の読者投稿「辺野古事故デマは許されず」で、末尾の「天国から二人の声が聞こえてくる。『誹謗（ひぼう）中傷にめげず、抗議行動を続けてほしい』と」を投稿者の同意を得て削除します。亡くなった方々の意思を断定する不適切な表現になっており、本紙の編集過程の確認作業が不十分でした。おわびします。</description>
-      <pubDate>Sun, 03 May 2026 04:46:14 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.okinawatimes.co.jp/articles/-/1829943</comments>
-    </item>
-    <item>
       <title>「日本の兄貴たちへ 味噌汁ってキャベツを入れてもいいのか？」「こうするといいぞ」→常識の範囲で味噌汁に入れちゃいけないものってあるんだっけ…？</title>
       <link>https://togetter.com/li/2692675</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/45a2676790eabadf6e31e861571c9506-1200x630.jpeg" /&gt;&lt;br/&gt;「日本の兄貴たちへ 味噌汁ってキャベツを入れてもいいのか？」「こうするといいぞ」→常識の範囲で味噌汁に入れちゃいけないものってあるんだっけ…？</description>
       <pubDate>Sun, 03 May 2026 09:17:56 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692675</comments>
+    </item>
+    <item>
+      <title>無料でウェブページを監視し、変更があった場合にメール・スマートフォン・その他の手段で通知を受け取れる「urlwatch」、オープンソースでセルフホスト可能</title>
+      <link>https://gigazine.net/news/20260503-urlwatch/</link>
+      <description>&lt;img src="https://i.gzn.jp/img/2026/05/03/urlwatch/00.png" /&gt;&lt;br/&gt;ブログや企業サイト、官公庁のお知らせページなど、更新を追いたいのにRSSが用意されていないページは今でも多く存在します。「urlwatch」を使うと、指定したページを定期的に取得して前回との差分を比較し、変更があった時だけ通知を受け取ることが可能です。メールやSlack・Discord・Telegramなどに対応しており、自分...</description>
+      <pubDate>Sun, 03 May 2026 09:41:41 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/gigazine.net/news/20260503-urlwatch/</comments>
     </item>
     <item>
       <title>憲法9条の縛りは「合理的で実利的」　長谷部教授に聞く憲法の効能：朝日新聞</title>
@@ -76,6 +90,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV4Z3PTCV4ZUPQJ01CM.html</comments>
     </item>
     <item>
+      <title>［おわび］ | 沖縄タイムス＋プラス</title>
+      <link>https://www.okinawatimes.co.jp/articles/-/1829943</link>
+      <description>&lt;img src="https://oki.ismcdn.jp/mwimgs/a/1/1200wm/img_a11277de1bd31065c6498d6e1f45eca089462.jpg" /&gt;&lt;br/&gt;１日付５面の読者投稿「辺野古事故デマは許されず」で、末尾の「天国から二人の声が聞こえてくる。『誹謗（ひぼう）中傷にめげず、抗議行動を続けてほしい』と」を投稿者の同意を得て削除します。亡くなった方々の意思を断定する不適切な表現になっており、本紙の編集過程の確認作業が不十分でした。おわびします。</description>
+      <pubDate>Sun, 03 May 2026 04:46:14 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.okinawatimes.co.jp/articles/-/1829943</comments>
+    </item>
+    <item>
       <title>【追記あり】女体シャンパンタワー騒動で渦中の坂井秀人氏が新たなポスト… ADHDの薬の影響で自分の意思とは違うことをしてたり、その時の記憶がなかったりの症状がたまにあるとの説明</title>
       <link>https://togetter.com/li/2692704</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/797e9a903e6c41617719f185c97e9355-1200x630.jpeg" /&gt;&lt;br/&gt;坂井秀人 @hideto_sa 最後に 僕はやってません というか覚えがありません 説明させてください ADHDの薬をのんでいるんですが、そのせいで自分の意思とは違うことをしてたり、その時の記憶がなかったりの症状がたまにあります 今回のこと身近な友人達に聞いても皆口を揃えて「坂井がそんなことするはずない」と言ってくれ...</description>
@@ -83,25 +104,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692704</comments>
     </item>
     <item>
-      <title>SKILL.md AGENTS.md AgentSkills 完全整理ノート（備忘録）</title>
-      <link>https://zenn.dev/kodak_diary/articles/8fb30c071e9752</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--vpcm61ze--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SKILL.md%2520AGENTS.md%2520AgentSkills%2520%25E5%25AE%258C%25E5%2585%25A8%25E6%2595%25B4%25E7%2590%2586%25E3%2583%258E%25E3%2583%25BC%25E3%2583%2588%25EF%25BC%2588%25E5%2582%2599%25E5%25BF%2598%25E9%258C%25B2%25EF%25BC%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:KodaK%25E3%2581%25AE%25E6%2597%25A5%25E5%25B8%25B8%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEtmWHJYdDlVT3FOd1dNTHhrN3ZNeEhGMEhWd2tkZU1PSmhFQWhWU0JPQW9NdlRHaz1zOTYtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;エグゼクティブサマリー この記事は、AIコーディングツールまわりで増えがちな AGENTS.md、CLAUDE.md、GEMINI.md、SKILL.md、agents系ファイルをどう分けるか、という話です。 結論はかなりシンプルで、「常に読ませるもの」「必要なときだけ読ませるもの」「役割を持つ別エージェント」を分けると扱いやすいです。 AGEN...</description>
-      <pubDate>Sat, 02 May 2026 03:03:54 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/kodak_diary/articles/8fb30c071e9752</comments>
-    </item>
-    <item>
-      <title>スーパーマーケットで3000円のワインは買わないほうが無難 - シロクマの屑籠</title>
-      <link>https://p-shirokuma.hatenadiary.com/entry/20260502/1777718662</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/0cedbdae9711fbe650dff044760419be6cbce7ba/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fhbb.afl.rakuten.co.jp%2Fhgb%2F0bb72a66.62dd926b.0bb72a67.403b01c5%2F%3Fme_id%3D1224100%26item_id%3D10013147%26pc%3Dhttps%253A%252F%252Fthumbnail.image.rakuten.co.jp%252F%25400_mall%252Fledled%252Fcabinet%252Fimg044%252Fgancia-brut-sp_1.jpg%253F_ex%253D128x128%26s%3D128x128%26t%3Dpicttext" /&gt;&lt;br/&gt;ＧＷで帰省し、ワインを買ってはいけなそうなスーパーマーケットに立ち寄ってしまったので「スーパーマーケットで3000円以上のワインを買わないほうが良い理由」を書いてみますね。 昨日、「ワインが流行らない理由は千円で飲める美味しいワインが無いからではなく、普段飲まない人が奮発して買った三千円のワインがガッ...</description>
-      <pubDate>Sat, 02 May 2026 11:01:04 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/p-shirokuma.hatenadiary.com/entry/20260502/1777718662</comments>
-    </item>
-    <item>
-      <title>SKILL.mdを使っている人は全員"gh skill"も知っておいてください - Qiita</title>
-      <link>https://qiita.com/TooMe/items/c9e42de497a9eff2b680</link>
-      <description>SKILL.mdを使っている開発者の皆さん、gh skillというコマンドを知っていますか？ ぱっと見、GitHubのリポジトリやPRの操作を最適化させるためのAgent Skillsのように見えますが、実際は SKILL.mdを管理するためのコマンドです。 2026年4月16日、GitHub CLI v2.90.0 のリリースと同時に、新たにgh skillサブコマンドが追...</description>
-      <pubDate>Fri, 01 May 2026 16:43:32 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/TooMe/items/c9e42de497a9eff2b680</comments>
+      <title>「見覚えしかない」 ディスカバリーチャンネルが、ネットミームになってる親子喧嘩の映像を投稿し話題に「ほぼほぼピーしか言ってない」</title>
+      <link>https://togetter.com/li/2692697</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/d30cdb7e671f64ebd51713848aa3078f-1200x630.jpeg" /&gt;&lt;br/&gt;ディスカバリーチャンネル @DiscoveryJapan ディスカバリーチャンネルの公式アカウント。YouTube登録者 200万人ありがとうございます✨✨ アニマルプラネット、MotorTrend Japan 、Investigation Discovery、Food Network Japan、TLC Japanについても発信中&#x1faf0;&#x1f3fb; 今日は何を #ディスカバる ? lit.link/discoveryjapan アメ...</description>
+      <pubDate>Sun, 03 May 2026 08:31:09 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692697</comments>
     </item>
   </channel>
 </rss>
