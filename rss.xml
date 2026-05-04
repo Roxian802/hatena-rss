@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 04 May 2026 16:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 17:33:09 +0000</lastBuildDate>
     <item>
       <title>ChatGPTが出た瞬間、日本の、ど田舎で震えた。その後、私はClaude Codeをゼロから一人で作ったボリス・チェルニー/アンソロピック｜MasaT. 武富　正人</title>
       <link>https://note.com/vueloo_blog/n/n5e431ba0a160</link>
@@ -27,11 +27,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/399/4399150/</comments>
     </item>
     <item>
+      <title>3000円前後のお勧めワイン in 2026 (地域ごとの傾向も踏まえて) - シロクマの屑籠</title>
+      <link>https://p-shirokuma.hatenadiary.com/entry/20260504/1777897392</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/d1683436a994a646d209960ac8c7a9f034f3c970/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fhbb.afl.rakuten.co.jp%2Fhgb%2F0bb72a66.62dd926b.0bb72a67.403b01c5%2F%3Fme_id%3D1224100%26item_id%3D10029076%26pc%3Dhttps%253A%252F%252Fthumbnail.image.rakuten.co.jp%252F%25400_mall%252Fledled%252Fcabinet%252F%252Fimg069%252Ff706f018f3b988318_s.jpg%253F_ex%253D128x128%26s%3D128x128%26t%3Dpict" /&gt;&lt;br/&gt;二日前に書いたワインの文章にはいろいろなご意見が集まって参考になった。で、3000円前後でお勧めのワインや初心者向けのワインを知りたい人が少なくないようにも見えた。 なので、今日は20226年におけるお勧めのワインを地域別の傾向も書き添えつつ、紹介してみる。ルールは以下のとおりだ。 販売価格は2000～4000円ぐ...</description>
+      <pubDate>Mon, 04 May 2026 12:27:38 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/p-shirokuma.hatenadiary.com/entry/20260504/1777897392</comments>
+    </item>
+    <item>
       <title>GitHubに機密情報をpushしてしまった日のために — 無効化、履歴除去、多層防御の組み立て方</title>
       <link>https://zenn.dev/okamyuji/articles/github-secret-removal-multi-layer-defense</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--pyD28Upq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%25E3%2581%25AB%25E6%25A9%259F%25E5%25AF%2586%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592push%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2597%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F%25E6%2597%25A5%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%2520%25E2%2580%2594%2520%25E7%2584%25A1%25E5%258A%25B9%25E5%258C%2596%25E3%2580%2581%25E5%25B1%25A5%25E6%25AD%25B4%25E9%2599%25A4%25E5%258E%25BB%25E3%2580%2581%25E5%25A4%259A%25E5%25B1%25A4%25E9%2598%25B2%25E5%25BE%25A1%25E3%2581%25AE%25E7%25B5%2584%25E3%2581%25BF%25E7%25AB%258B%25E3%2581%25A6%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:okamyuji%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY5YjFmNDYyYjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに GitHubに機密情報が混入してしまったとき、最初に取るべき行動は履歴削除ではありません。漏れたものが何なのかで対応の順序が大きく変わります。本記事では、GitHub Enterprise CloudやGitHub Enterprise Serverを前提に、機密情報の混入を止める仕組みと、混入してしまったあとに残存物を取り除くための作業...</description>
       <pubDate>Mon, 04 May 2026 06:51:30 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/okamyuji/articles/github-secret-removal-multi-layer-defense</comments>
+    </item>
+    <item>
+      <title>「いつかこうなると…」修道女襲撃に揺れるエルサレム、日常化する宗教的暴力</title>
+      <link>https://www.afpbb.com/articles/-/3633927</link>
+      <description>&lt;img src="https://afpbb.ismcdn.jp/mwimgs/e/a/1000x/img_eaf1e4b7ba120c74a6ed1ead231f3a6b619842.jpg" /&gt;&lt;br/&gt;【5月4日 AFP】先週、カトリックのフランス人修道女がエルサレムでユダヤ人の男に襲撃される映像が拡散し、世界中に衝撃を与えた。しかし、現地で日曜ミサに出席した信者たちにとっては、こうした「宗教的敵意」をむき出しにした事件は日常の一部になりつつある。 防犯カメラで4月28日に撮影された映像には、極右のユダ...</description>
+      <pubDate>Mon, 04 May 2026 11:03:38 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.afpbb.com/articles/-/3633927</comments>
     </item>
     <item>
       <title>引っ越しのサカイで洗濯機移設してもらったら「ゴム足を置かないと設置できません、1個9000円です」と後出しで言われた→後で調べたら4個で3000円の商品で呆れたという話</title>
@@ -41,11 +55,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2693082</comments>
     </item>
     <item>
-      <title>「間違いが流布」　辺野古転覆、抗議団体代表が事故後に平和ガイド育成講座で講演</title>
-      <link>https://www.sankei.com/article/20260504-YQINITWJSJOEDJPYMJL3QTVISY/</link>
-      <description>&lt;img src="https://www.sankei.com/resizer/v2/LBYV5O2JWVIWFAXVWQP4A5BVHY.jpg?auth=178e0027eaa5d2b37e4277f762f1ea949127d55bd7da1a594572acb03df12f0c&amp;amp;quality=50&amp;amp;focal=2253%2C1562&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;事故当日夜に会見に臨んだヘリ基地反対協議会の浦島悦子共同代表＝3月16日、沖縄県名護市（大竹直樹撮影） 沖縄県名護市辺野古沖で船2隻が転覆し、平和学習中の同志社国際高（京都府）2年の武石知華（ともか）さんら2人が死亡した事故で、2隻を運航する「ヘリ基地反対協議会」の浦島悦子共同代表が事故後、平和ガイドや...</description>
-      <pubDate>Mon, 04 May 2026 07:40:55 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260504-YQINITWJSJOEDJPYMJL3QTVISY/</comments>
+      <title>不眠症でかかっている医者に「最近気力無くて…」と相談したら「玉子食べてください」と脳筋返答されたので一応言うことを聞いていたら「人体雑すぎる」と思ってしまった</title>
+      <link>https://togetter.com/li/2693182</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/ce7f337566452237416bd5f7c5afce2a-1200x630.jpeg" /&gt;&lt;br/&gt;ひいろ @firecracker0230 不眠症でかかってる医師に「最近気力無くて…」て相談したら「玉子食べてください」て脳筋返答されてから一応言うこと聞いてここ数ヶ月1日2、3個食べてたら普通に元気になった　人体雑すぎる何なんだよ 2026-05-03 12:54:52 ひいろ @firecracker0230 これ完全自炊でバランス考えながら鍋中心の食...</description>
+      <pubDate>Mon, 04 May 2026 11:06:44 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2693182</comments>
     </item>
     <item>
       <title>超初心者が30歳から作曲講座に通って、曲が作れるようになった話「こうやって一歩ずつ楽しんで進んでいけることは素晴らしい」「人生を楽しんでる。いいな」</title>
@@ -55,11 +69,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692951</comments>
     </item>
     <item>
-      <title>不眠症でかかっている医者に「最近気力無くて…」と相談したら「玉子食べてください」と脳筋返答されたので一応言うことを聞いていたら「人体雑すぎる」と思ってしまった</title>
-      <link>https://togetter.com/li/2693182</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/ce7f337566452237416bd5f7c5afce2a-1200x630.jpeg" /&gt;&lt;br/&gt;ひいろ @firecracker0230 不眠症でかかってる医師に「最近気力無くて…」て相談したら「玉子食べてください」て脳筋返答されてから一応言うこと聞いてここ数ヶ月1日2、3個食べてたら普通に元気になった　人体雑すぎる何なんだよ 2026-05-03 12:54:52 ひいろ @firecracker0230 これ完全自炊でバランス考えながら鍋中心の食...</description>
-      <pubDate>Mon, 04 May 2026 11:06:44 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2693182</comments>
+      <title>「間違いが流布」　辺野古転覆、抗議団体代表が事故後に平和ガイド育成講座で講演</title>
+      <link>https://www.sankei.com/article/20260504-YQINITWJSJOEDJPYMJL3QTVISY/</link>
+      <description>&lt;img src="https://www.sankei.com/resizer/v2/LBYV5O2JWVIWFAXVWQP4A5BVHY.jpg?auth=178e0027eaa5d2b37e4277f762f1ea949127d55bd7da1a594572acb03df12f0c&amp;amp;quality=50&amp;amp;focal=2253%2C1562&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;事故当日夜に会見に臨んだヘリ基地反対協議会の浦島悦子共同代表＝3月16日、沖縄県名護市（大竹直樹撮影） 沖縄県名護市辺野古沖で船2隻が転覆し、平和学習中の同志社国際高（京都府）2年の武石知華（ともか）さんら2人が死亡した事故で、2隻を運航する「ヘリ基地反対協議会」の浦島悦子共同代表が事故後、平和ガイドや...</description>
+      <pubDate>Mon, 04 May 2026 07:40:55 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260504-YQINITWJSJOEDJPYMJL3QTVISY/</comments>
+    </item>
+    <item>
+      <title>女性は「女性の友人同士の集まり」に夫を呼んで見せびらかしたがるのって..</title>
+      <link>https://anond.hatelabo.jp/20260504075154</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;女性は「女性の友人同士の集まり」に夫を呼んで見せびらかしたがるのって、あまり聞かないけど、男性はよく聞くよね。 （どちらかというと、女性は子供を見せたがるような気がする） 男性の、妻子を直接見せたがる欲求って、何欲求なんかね？ 写真じゃダメなんでしょ？ 現在も家父長制があるとかいうのは、私は信じてな...</description>
+      <pubDate>Sun, 03 May 2026 22:52:49 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260504075154</comments>
     </item>
     <item>
       <title>サイゼリヤ、特にパスタを中心に味が変化しているという意見集まる→サイゼリヤ警察さんがその理由を語るが、それでもショックという反応「新規でどれだけ補えるのか」</title>
@@ -90,11 +111,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.jiji.com/jc/article?k=2026050300220&amp;g=eco</comments>
     </item>
     <item>
-      <title>女性は「女性の友人同士の集まり」に夫を呼んで見せびらかしたがるのって..</title>
-      <link>https://anond.hatelabo.jp/20260504075154</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;女性は「女性の友人同士の集まり」に夫を呼んで見せびらかしたがるのって、あまり聞かないけど、男性はよく聞くよね。 （どちらかというと、女性は子供を見せたがるような気がする） 男性の、妻子を直接見せたがる欲求って、何欲求なんかね？ 写真じゃダメなんでしょ？ 現在も家父長制があるとかいうのは、私は信じてな...</description>
-      <pubDate>Sun, 03 May 2026 22:52:49 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260504075154</comments>
+      <title>Microsoft本社で見た、AI時代の企業変革｜外山 英幸 | ビズリーチ CTO</title>
+      <link>https://note.com/hideyuki_toyama/n/nd3adfe43be75</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/271616939/rectangle_large_type_2_15ce6656752ec131c3b713a00a7115be.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;先日、シアトルのMicrosoft本社で、AI・エージェント・データ基盤に関する複数のセッションへ参加する機会があった。 単なる製品アップデートの共有ではない。 そこにあったのは、AIを導入する企業ではなく、AIを前提に企業そのものを書き換えようとしている姿だった。 そして同時に、なぜ日本企業の変革が難しいのか、...</description>
+      <pubDate>Sun, 03 May 2026 14:40:52 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/hideyuki_toyama/n/nd3adfe43be75</comments>
     </item>
     <item>
       <title>スマホなし生活を4年過ごした42歳男性が直面した深刻すぎる現実を伝える記事から、スマホがある前提の日本社会について多くの疑問の声が集まる</title>
@@ -104,25 +125,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2693084</comments>
     </item>
     <item>
-      <title>トランプ氏、イランに関する前日の発言を否定　カメラの前で行った発言の否定は以前から</title>
-      <link>https://www.cnn.co.jp/usa/35247148.html</link>
-      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/05/04/8ab1853832842c6cd2f2c171296d24d3/gettyimages-2273703489.jpg" /&gt;&lt;br/&gt;記者団に応じるトランプ米大統領＝2日、パームビーチ国際空港/Jim Watson/AFP/Getty Images （CNN） 米国のトランプ大統領は2日、記者団に対し、イランの新たな和平提案を「検討している」と語った。これを受け、記者はトランプ氏が前日夜にイランとの合意を結ばない方が米国にとって好都合かもしれないと発言していたこ...</description>
-      <pubDate>Mon, 04 May 2026 04:18:19 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35247148.html</comments>
-    </item>
-    <item>
-      <title>Microsoft本社で見た、AI時代の企業変革｜外山 英幸 | ビズリーチ CTO</title>
-      <link>https://note.com/hideyuki_toyama/n/nd3adfe43be75</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/271616939/rectangle_large_type_2_15ce6656752ec131c3b713a00a7115be.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;先日、シアトルのMicrosoft本社で、AI・エージェント・データ基盤に関する複数のセッションへ参加する機会があった。 単なる製品アップデートの共有ではない。 そこにあったのは、AIを導入する企業ではなく、AIを前提に企業そのものを書き換えようとしている姿だった。 そして同時に、なぜ日本企業の変革が難しいのか、...</description>
-      <pubDate>Sun, 03 May 2026 14:40:52 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/hideyuki_toyama/n/nd3adfe43be75</comments>
-    </item>
-    <item>
-      <title>外国人の男性『日本では恥ずかしがらずに1人でスイーツ食べても平気なのか？』大丈夫です→投稿された画像に「スイーツの情報全ッ然入ってこねぇ」</title>
-      <link>https://togetter.com/li/2693039</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/95f38fc40fd59289e4813f8bf92250e3-1200x630.jpeg" /&gt;&lt;br/&gt;サーバル様/筋肉資料集販売中&#x1f4aa; @JPparkGuardian 普段からこういのばっかりは食べません 「食べてOK、代謝が下がってしまって食べなくてはいけない日」のみです 「食べたい+食べねばならない」が重なった日にだけ食べてます 普段はPFCをガチガチに固定して節制してます 2026-05-04 10:07:07</description>
-      <pubDate>Mon, 04 May 2026 04:33:59 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2693039</comments>
+      <title>デリヘル嬢に本番できない？と質問してみた</title>
+      <link>https://anond.hatelabo.jp/20260504105326</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;「ええとですね、まず最初に申し上げておきたいのは、いわゆるその、お客様がおっしゃるところの『本番』という行為を、当店がいかなる立場でどう位置づけているのかという点を、きちんと整理しておかないとですね、話がかみ合わないまま、単純に『できる・できない』という二項対立で語ってしまうことになり、それはお...</description>
+      <pubDate>Mon, 04 May 2026 01:54:49 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260504105326</comments>
     </item>
     <item>
       <title>諦めきれない苦しい</title>
@@ -130,6 +137,20 @@
       <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;35歳非正規派遣童貞なんだけど、最近夜になると「どうしてこんな人生になってしまったんだろうな」と苦しくなって仕方なくなってしまう。 それこそ、数年前までは自分の趣味や興味に邁進してる生き方に多少なりとも自信があって、長いことしていた引きこもりもやめられたし、これでいいと思っていたんだけど、ここ最近ふ...</description>
       <pubDate>Mon, 04 May 2026 00:44:49 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260504094358</comments>
+    </item>
+    <item>
+      <title>トランプ氏、イランに関する前日の発言を否定　カメラの前で行った発言の否定は以前から</title>
+      <link>https://www.cnn.co.jp/usa/35247148.html</link>
+      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/05/04/8ab1853832842c6cd2f2c171296d24d3/gettyimages-2273703489.jpg" /&gt;&lt;br/&gt;記者団に応じるトランプ米大統領＝2日、パームビーチ国際空港/Jim Watson/AFP/Getty Images （CNN） 米国のトランプ大統領は2日、記者団に対し、イランの新たな和平提案を「検討している」と語った。これを受け、記者はトランプ氏が前日夜にイランとの合意を結ばない方が米国にとって好都合かもしれないと発言していたこ...</description>
+      <pubDate>Mon, 04 May 2026 04:18:19 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35247148.html</comments>
+    </item>
+    <item>
+      <title>みんなこれでいいAI。Googleの最新ローカルLLM｢Gemma 4｣は日本語うますぎ、でも無料</title>
+      <link>https://www.gizmodo.jp/2026/05/google_gemma_4_series.html</link>
+      <description>&lt;img src="https://media.loom-app.com/gizmodo/dist/images/2026/04/28/gemma_4_top.jpg?w=1280&amp;amp;h=630&amp;amp;f=jpg" /&gt;&lt;br/&gt;Gemma 4シリーズは動作デバイスと性能の観点から、2種に分類できます。 ・E2B・E4B：普通のノートPCで動かせる軽量モデル ・26B-A4B：ハイエンドマシンで動かす高性能モデル いずれも非常に実用性が高いモデルとなっており、とりあえず動かせるものを選べばOKです。 Apache 2.0ライセンスで提供されており、個人利用はも...</description>
+      <pubDate>Sun, 03 May 2026 15:17:12 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.gizmodo.jp/2026/05/google_gemma_4_series.html</comments>
     </item>
   </channel>
 </rss>
