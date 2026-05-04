@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 04 May 2026 13:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 14:33:10 +0000</lastBuildDate>
     <item>
       <title>ChatGPTが出た瞬間、日本の、ど田舎で震えた。その後、私はClaude Codeをゼロから一人で作ったボリス・チェルニー/アンソロピック｜MasaT. 武富　正人</title>
       <link>https://note.com/vueloo_blog/n/n5e431ba0a160</link>
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/272316009/rectangle_large_type_2_fd8ebab4397483137d594ae829a555b3.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;ChatGPTが出た瞬間、日本の、ど田舎で震えた。その後、私はClaude Codeをゼロから一人で作ったボリス・チェルニー/アンソロピック ChatGPTが出た時、私は日本のど田舎にいた。「これはヤバい」と思った瞬間2022年末〜2023年初頭。 私は日本の田舎町に住んでいた。 町で唯一のエンジニアで、唯一の英語を話す人間。 周り...</description>
       <pubDate>Sun, 03 May 2026 23:53:40 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/vueloo_blog/n/n5e431ba0a160</comments>
+    </item>
+    <item>
+      <title>これでも「恋愛はしなくていい」？</title>
+      <link>https://anond.hatelabo.jp/20260504195652</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;めまいがした。 ずっと減り続けてるじゃん！ 子どもの数、1329万人で過去最少　45年連続減で最低更新 - 日本経済新聞 恋愛できず悩む男性に、ときどき「恋愛なんてしなくていい」ってアドバイスが送られてるけどさ。 出生数の驚きの現状を知ってなお、同じセリフを言えるなら、せめて ”恋愛なしで少子化をどうするか”の...</description>
+      <pubDate>Mon, 04 May 2026 11:40:55 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260504195652</comments>
     </item>
     <item>
       <title>作業時間のストレスが一気に解消！ 「NotebookLM」活用法 (1/3)</title>
@@ -69,11 +76,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.gizmodo.jp/2026/05/google_gemma_4_series.html</comments>
     </item>
     <item>
-      <title>非エンジニアが数百万円級のツールを開発　画像＆動画生成AIツールがゼロから作れた話 (1/5)</title>
-      <link>https://ascii.jp/elem/000/004/400/4400003/</link>
-      <description>&lt;img src="https://ascii.jp/img/2026/05/03/4462408/xl/5fa94e42eabe62ec.png?20200122" /&gt;&lt;br/&gt;今回は、筆者が個人的にAnthropicの「Claude Code」を使い、ビューアーと画像・動画AIの統合環境「百夜スタジオ」を開発している話です。筆者はプログラミングはほぼ初心者で、本格的な開発経験はありません。にもかかわらず、AIツール環境「ComfyUI」やLLM環境「LM Studio」と組み合わせた本格的なアプリを開発できるよ...</description>
-      <pubDate>Sun, 03 May 2026 23:35:07 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/400/4400003/</comments>
+      <title>女性は「女性の友人同士の集まり」に夫を呼んで見せびらかしたがるのって..</title>
+      <link>https://anond.hatelabo.jp/20260504075154</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;女性は「女性の友人同士の集まり」に夫を呼んで見せびらかしたがるのって、あまり聞かないけど、男性はよく聞くよね。 （どちらかというと、女性は子供を見せたがるような気がする） 男性の、妻子を直接見せたがる欲求って、何欲求なんかね？ 写真じゃダメなんでしょ？ 現在も家父長制があるとかいうのは、私は信じてな...</description>
+      <pubDate>Sun, 03 May 2026 22:52:49 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260504075154</comments>
     </item>
     <item>
       <title>スマホなし生活を4年過ごした42歳男性が直面した深刻すぎる現実を伝える記事から、スマホがある前提の日本社会について多くの疑問の声が集まる</title>
@@ -90,6 +97,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35247148.html</comments>
     </item>
     <item>
+      <title>非エンジニアが数百万円級のツールを開発　画像＆動画生成AIツールがゼロから作れた話 (1/5)</title>
+      <link>https://ascii.jp/elem/000/004/400/4400003/</link>
+      <description>&lt;img src="https://ascii.jp/img/2026/05/03/4462408/xl/5fa94e42eabe62ec.png?20200122" /&gt;&lt;br/&gt;今回は、筆者が個人的にAnthropicの「Claude Code」を使い、ビューアーと画像・動画AIの統合環境「百夜スタジオ」を開発している話です。筆者はプログラミングはほぼ初心者で、本格的な開発経験はありません。にもかかわらず、AIツール環境「ComfyUI」やLLM環境「LM Studio」と組み合わせた本格的なアプリを開発できるよ...</description>
+      <pubDate>Sun, 03 May 2026 23:35:07 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/400/4400003/</comments>
+    </item>
+    <item>
       <title>外国人の男性『日本では恥ずかしがらずに1人でスイーツ食べても平気なのか？』大丈夫です→投稿された画像に「スイーツの情報全ッ然入ってこねぇ」</title>
       <link>https://togetter.com/li/2693039</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/95f38fc40fd59289e4813f8bf92250e3-1200x630.jpeg" /&gt;&lt;br/&gt;サーバル様/筋肉資料集販売中&#x1f4aa; @JPparkGuardian 普段からこういのばっかりは食べません 「食べてOK、代謝が下がってしまって食べなくてはいけない日」のみです 「食べたい+食べねばならない」が重なった日にだけ食べてます 普段はPFCをガチガチに固定して節制してます 2026-05-04 10:07:07</description>
@@ -102,13 +116,6 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/799fc2b789e43fce9bd7fc4b7c344651-1200x630.jpeg" /&gt;&lt;br/&gt;「女体シャンパンタワー」騒動で炎上中の飲食店の系列しゃぶしゃぶ店に様々な疑惑が浮上してしまう「保健所に無許可で営業て」「レストランで医療行為か？」</description>
       <pubDate>Mon, 04 May 2026 02:55:27 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2692980</comments>
-    </item>
-    <item>
-      <title>軍隊でドクロのマークは珍しくない（JSF） - エキスパート - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/expert/articles/0fe50536633818daa49424720a6ca475aea31cac</link>
-      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/obiekt/02615789/title-1777813380249.jpeg?exp=10800" /&gt;&lt;br/&gt;陸上自衛隊第1師団第1普通科連隊は5月2日、先月末に発表していた第4中隊の新しいロゴについて使用を中止すると発表しました。インターネットのSNS上で批判的な意見が続出したからという理由です。出典：@1i_nerima 陸上自衛隊第1師団第1普通科連隊第4中隊のロゴ陸上自衛隊第1師団第1普通科連隊の公式Xアカウントより第4...</description>
-      <pubDate>Sun, 03 May 2026 22:32:59 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/expert/articles/0fe50536633818daa49424720a6ca475aea31cac</comments>
     </item>
   </channel>
 </rss>
