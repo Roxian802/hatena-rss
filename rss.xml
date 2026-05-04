@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 04 May 2026 12:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 13:33:09 +0000</lastBuildDate>
     <item>
       <title>ChatGPTが出た瞬間、日本の、ど田舎で震えた。その後、私はClaude Codeをゼロから一人で作ったボリス・チェルニー/アンソロピック｜MasaT. 武富　正人</title>
       <link>https://note.com/vueloo_blog/n/n5e431ba0a160</link>
@@ -20,6 +20,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/399/4399150/</comments>
     </item>
     <item>
+      <title>GitHubに機密情報をpushしてしまった日のために — 無効化、履歴除去、多層防御の組み立て方</title>
+      <link>https://zenn.dev/okamyuji/articles/github-secret-removal-multi-layer-defense</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--pyD28Upq--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:GitHub%25E3%2581%25AB%25E6%25A9%259F%25E5%25AF%2586%25E6%2583%2585%25E5%25A0%25B1%25E3%2582%2592push%25E3%2581%2597%25E3%2581%25A6%25E3%2581%2597%25E3%2581%25BE%25E3%2581%25A3%25E3%2581%259F%25E6%2597%25A5%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%2520%25E2%2580%2594%2520%25E7%2584%25A1%25E5%258A%25B9%25E5%258C%2596%25E3%2580%2581%25E5%25B1%25A5%25E6%25AD%25B4%25E9%2599%25A4%25E5%258E%25BB%25E3%2580%2581%25E5%25A4%259A%25E5%25B1%25A4%25E9%2598%25B2%25E5%25BE%25A1%25E3%2581%25AE%25E7%25B5%2584%25E3%2581%25BF%25E7%25AB%258B%25E3%2581%25A6%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:okamyuji%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY5YjFmNDYyYjkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに GitHubに機密情報が混入してしまったとき、最初に取るべき行動は履歴削除ではありません。漏れたものが何なのかで対応の順序が大きく変わります。本記事では、GitHub Enterprise CloudやGitHub Enterprise Serverを前提に、機密情報の混入を止める仕組みと、混入してしまったあとに残存物を取り除くための作業...</description>
+      <pubDate>Mon, 04 May 2026 06:51:30 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/okamyuji/articles/github-secret-removal-multi-layer-defense</comments>
+    </item>
+    <item>
       <title>「間違いが流布」　辺野古転覆、抗議団体代表が事故後に平和ガイド育成講座で講演</title>
       <link>https://www.sankei.com/article/20260504-YQINITWJSJOEDJPYMJL3QTVISY/</link>
       <description>&lt;img src="https://www.sankei.com/resizer/v2/LBYV5O2JWVIWFAXVWQP4A5BVHY.jpg?auth=178e0027eaa5d2b37e4277f762f1ea949127d55bd7da1a594572acb03df12f0c&amp;amp;quality=50&amp;amp;focal=2253%2C1562&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;事故当日夜に会見に臨んだヘリ基地反対協議会の浦島悦子共同代表＝3月16日、沖縄県名護市（大竹直樹撮影） 沖縄県名護市辺野古沖で船2隻が転覆し、平和学習中の同志社国際高（京都府）2年の武石知華（ともか）さんら2人が死亡した事故で、2隻を運航する「ヘリ基地反対協議会」の浦島悦子共同代表が事故後、平和ガイドや...</description>
@@ -27,18 +34,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260504-YQINITWJSJOEDJPYMJL3QTVISY/</comments>
     </item>
     <item>
+      <title>引っ越しのサカイで洗濯機移設してもらったら「ゴム足を置かないと設置できません、1個9000円です」と後出しで言われた→後で調べたら4個で3000円の商品で呆れたという話</title>
+      <link>https://togetter.com/li/2693082</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/dca01f7585090da70c09d41952102b64-1200x630.jpeg" /&gt;&lt;br/&gt;めにほび @manyhobbyneet この件だけだったら運が悪かったねで済むかもしれないけど、 僕も引っ越しのサカイで洗濯機の移設オプション任せたら新居に運んだ後に「ゴム足を置かないと設置できません、1個9000円です」と後出しで言われて、 後から調べたらヨドバシで4個3000円で売ってて呆れた事あります。 ホントにアコギ...</description>
+      <pubDate>Mon, 04 May 2026 06:52:48 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2693082</comments>
+    </item>
+    <item>
       <title>サイゼリヤ、特にパスタを中心に味が変化しているという意見集まる→サイゼリヤ警察さんがその理由を語るが、それでもショックという反応「新規でどれだけ補えるのか」</title>
       <link>https://togetter.com/li/2693028</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/bc1a0f84fc3da92ede05cd3d535fe371-1200x630.jpeg" /&gt;&lt;br/&gt;サイゼリヤ、特にパスタを中心に味が変化しているという意見集まる→サイゼリヤ警察さんがその理由を語るが、それでもショックという反応「新規でどれだけ補えるのか」</description>
       <pubDate>Mon, 04 May 2026 04:38:21 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2693028</comments>
-    </item>
-    <item>
-      <title>みんなこれでいいAI。Googleの最新ローカルLLM｢Gemma 4｣は日本語うますぎ、でも無料</title>
-      <link>https://www.gizmodo.jp/2026/05/google_gemma_4_series.html</link>
-      <description>&lt;img src="https://media.loom-app.com/gizmodo/dist/images/2026/04/28/gemma_4_top.jpg?w=1280&amp;amp;h=630&amp;amp;f=jpg" /&gt;&lt;br/&gt;Gemma 4シリーズは動作デバイスと性能の観点から、2種に分類できます。 ・E2B・E4B：普通のノートPCで動かせる軽量モデル ・26B-A4B：ハイエンドマシンで動かす高性能モデル いずれも非常に実用性が高いモデルとなっており、とりあえず動かせるものを選べばOKです。 Apache 2.0ライセンスで提供されており、個人利用はも...</description>
-      <pubDate>Sun, 03 May 2026 15:17:12 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.gizmodo.jp/2026/05/google_gemma_4_series.html</comments>
     </item>
     <item>
       <title>大学時代に一目惚れした女性にどストレートに「見た目が百点なんです」と言い切ったら、相手は彼氏持ちだったが結局付き合うことになりのちに結婚した話</title>
@@ -55,11 +62,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.jiji.com/jc/article?k=2026050300220&amp;g=eco</comments>
     </item>
     <item>
-      <title>引っ越しのサカイで洗濯機移設してもらったら「ゴム足を置かないと設置できません、1個9000円です」と後出しで言われた→後で調べたら4個で3000円の商品で呆れたという話</title>
-      <link>https://togetter.com/li/2693082</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/dca01f7585090da70c09d41952102b64-1200x630.jpeg" /&gt;&lt;br/&gt;めにほび @manyhobbyneet この件だけだったら運が悪かったねで済むかもしれないけど、 僕も引っ越しのサカイで洗濯機の移設オプション任せたら新居に運んだ後に「ゴム足を置かないと設置できません、1個9000円です」と後出しで言われて、 後から調べたらヨドバシで4個3000円で売ってて呆れた事あります。 ホントにアコギ...</description>
-      <pubDate>Mon, 04 May 2026 06:52:48 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2693082</comments>
+      <title>みんなこれでいいAI。Googleの最新ローカルLLM｢Gemma 4｣は日本語うますぎ、でも無料</title>
+      <link>https://www.gizmodo.jp/2026/05/google_gemma_4_series.html</link>
+      <description>&lt;img src="https://media.loom-app.com/gizmodo/dist/images/2026/04/28/gemma_4_top.jpg?w=1280&amp;amp;h=630&amp;amp;f=jpg" /&gt;&lt;br/&gt;Gemma 4シリーズは動作デバイスと性能の観点から、2種に分類できます。 ・E2B・E4B：普通のノートPCで動かせる軽量モデル ・26B-A4B：ハイエンドマシンで動かす高性能モデル いずれも非常に実用性が高いモデルとなっており、とりあえず動かせるものを選べばOKです。 Apache 2.0ライセンスで提供されており、個人利用はも...</description>
+      <pubDate>Sun, 03 May 2026 15:17:12 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.gizmodo.jp/2026/05/google_gemma_4_series.html</comments>
     </item>
     <item>
       <title>非エンジニアが数百万円級のツールを開発　画像＆動画生成AIツールがゼロから作れた話 (1/5)</title>
@@ -69,18 +76,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/400/4400003/</comments>
     </item>
     <item>
-      <title>トランプ氏、イランに関する前日の発言を否定　カメラの前で行った発言の否定は以前から</title>
-      <link>https://www.cnn.co.jp/usa/35247148.html</link>
-      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/05/04/8ab1853832842c6cd2f2c171296d24d3/gettyimages-2273703489.jpg" /&gt;&lt;br/&gt;記者団に応じるトランプ米大統領＝2日、パームビーチ国際空港/Jim Watson/AFP/Getty Images （CNN） 米国のトランプ大統領は2日、記者団に対し、イランの新たな和平提案を「検討している」と語った。これを受け、記者はトランプ氏が前日夜にイランとの合意を結ばない方が米国にとって好都合かもしれないと発言していたこ...</description>
-      <pubDate>Mon, 04 May 2026 04:18:19 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35247148.html</comments>
-    </item>
-    <item>
       <title>スマホなし生活を4年過ごした42歳男性が直面した深刻すぎる現実を伝える記事から、スマホがある前提の日本社会について多くの疑問の声が集まる</title>
       <link>https://togetter.com/li/2693084</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/e8feb7f773bef7c62a06fb6c5d6500bd-1200x630.jpeg" /&gt;&lt;br/&gt;「電話番号がないと電気もガスも契約できない」スマホなし生活4年、42歳男性が直面した深刻すぎる“現実” | 集英社オンライン | ニュースを本気で噛み砕け 「電話番号は、ありません」。日本国内のスマホの所有率が世帯で9割を超えるとされる現代において、収入減少や病気による料金滞納、刑務所からの出所など何らかの事...</description>
       <pubDate>Mon, 04 May 2026 07:13:47 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2693084</comments>
+    </item>
+    <item>
+      <title>トランプ氏、イランに関する前日の発言を否定　カメラの前で行った発言の否定は以前から</title>
+      <link>https://www.cnn.co.jp/usa/35247148.html</link>
+      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/05/04/8ab1853832842c6cd2f2c171296d24d3/gettyimages-2273703489.jpg" /&gt;&lt;br/&gt;記者団に応じるトランプ米大統領＝2日、パームビーチ国際空港/Jim Watson/AFP/Getty Images （CNN） 米国のトランプ大統領は2日、記者団に対し、イランの新たな和平提案を「検討している」と語った。これを受け、記者はトランプ氏が前日夜にイランとの合意を結ばない方が米国にとって好都合かもしれないと発言していたこ...</description>
+      <pubDate>Mon, 04 May 2026 04:18:19 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35247148.html</comments>
     </item>
     <item>
       <title>外国人の男性『日本では恥ずかしがらずに1人でスイーツ食べても平気なのか？』大丈夫です→投稿された画像に「スイーツの情報全ッ然入ってこねぇ」</title>
