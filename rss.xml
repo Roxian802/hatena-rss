@@ -4,14 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 06 May 2026 04:33:09 +0000</lastBuildDate>
-    <item>
-      <title>外部からアクセス可能なhttpsサイトはドメイン設定後「即」攻撃にさらされる件</title>
-      <link>https://zenn.dev/kusuke/articles/25330f7759eba4</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--E2-K6rYy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25A4%2596%25E9%2583%25A8%25E3%2581%258B%25E3%2582%2589%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E5%258F%25AF%25E8%2583%25BD%25E3%2581%25AAhttps%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2581%25AF%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E8%25A8%25AD%25E5%25AE%259A%25E5%25BE%258C%25E3%2580%258C%25E5%258D%25B3%25E3%2580%258D%25E6%2594%25BB%25E6%2592%2583%25E3%2581%25AB%25E3%2581%2595%25E3%2582%2589%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E4%25BB%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yusuke%2520Kawabata%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFiNjBjMzBiZjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;今日も元気にXを徘徊していたところ、どこにも公開していないサイトなのにめちゃくちゃアクセスが来るというポストがあり、そういえばCT Logとかもウォッチされてるしな。とつぶやいたところ まとめがあるといいな、とのコメントをいただいたので簡単にまとめてみました。（なお当該のポストはCT Log経由の攻撃と断定さ...</description>
-      <pubDate>Tue, 05 May 2026 15:05:00 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/kusuke/articles/25330f7759eba4</comments>
-    </item>
+    <lastBuildDate>Wed, 06 May 2026 05:33:10 +0000</lastBuildDate>
     <item>
       <title>医療費の負担増 “受け入れられない68％” NHK世論調査 | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/na-k10015115001000</link>
@@ -25,6 +18,20 @@
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/273149642/rectangle_large_type_2_dcf4d3dbaff95e4db49399f03bd5f4f9.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;先日、こんなニュースが流れてきた。 財務省は財政制度等審議会の分科会で、2040年までに少なくとも私立大学を250校 削減する必要があるとし、縮減案を公表した。 おっ、なかなかパンチのある話だ。気になったので財政制度等審議会の資料を探してみた。ニュースで伝えられた「250校削減」より踏み込んだ記載があって、「...</description>
       <pubDate>Tue, 05 May 2026 23:27:57 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/unlearner/n/n5167c54161cc</comments>
+    </item>
+    <item>
+      <title>外部からアクセス可能なhttpsサイトはドメイン設定後「即」攻撃にさらされる件</title>
+      <link>https://zenn.dev/kusuke/articles/25330f7759eba4</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--E2-K6rYy--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25A4%2596%25E9%2583%25A8%25E3%2581%258B%25E3%2582%2589%25E3%2582%25A2%25E3%2582%25AF%25E3%2582%25BB%25E3%2582%25B9%25E5%258F%25AF%25E8%2583%25BD%25E3%2581%25AAhttps%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2588%25E3%2581%25AF%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E8%25A8%25AD%25E5%25AE%259A%25E5%25BE%258C%25E3%2580%258C%25E5%258D%25B3%25E3%2580%258D%25E6%2594%25BB%25E6%2592%2583%25E3%2581%25AB%25E3%2581%2595%25E3%2582%2589%25E3%2581%2595%25E3%2582%258C%25E3%2582%258B%25E4%25BB%25B6%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yusuke%2520Kawabata%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFiNjBjMzBiZjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;今日も元気にXを徘徊していたところ、どこにも公開していないサイトなのにめちゃくちゃアクセスが来るというポストがあり、そういえばCT Logとかもウォッチされてるしな。とつぶやいたところ まとめがあるといいな、とのコメントをいただいたので簡単にまとめてみました。（なお当該のポストはCT Log経由の攻撃と断定さ...</description>
+      <pubDate>Tue, 05 May 2026 15:05:00 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/kusuke/articles/25330f7759eba4</comments>
+    </item>
+    <item>
+      <title>AI時代に価値が出るのは「作る力」ではなく「評価して回す力」｜すてぃお</title>
+      <link>https://note.com/suthio/n/n21809850230e</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/272962116/rectangle_large_type_2_6347be432782a878d000d8238127d015.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;最近、AIを使ったソフトウェア開発の話をしていて、話が噛み合わないことが増えました。 「Claude Codeすごいですよね」「Cursor使ってます」みたいな表面的な話で終わる人もいます。一方で、「いまうちはCIに3つのエージェント並走させて、人間はラベル付けるだけにしてます」みたいな話が出てくる人もいます。同じツー...</description>
+      <pubDate>Tue, 05 May 2026 08:09:46 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/suthio/n/n21809850230e</comments>
     </item>
     <item>
       <title>｢MPCサーバー｣でローカルLLMを“無料AIエージェント”に変えてみる</title>
@@ -48,6 +55,20 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2693648</comments>
     </item>
     <item>
+      <title>祖母が死んだら俺の生活はどうなるんだろうと、GW明けの朝にぼんやり考えた</title>
+      <link>https://anond.hatelabo.jp/20260506015643</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;GWが終わった。5連休だった。外に出たのは祖母に頼まれてスーパーに行った2回だけだ。それ以外はずっと家にいた。アニメ消化してVtuberのアーカイブ流して、途中で昼寝して、気づいたら夜だった。それを5日繰り返した。 不満はなかった。疲れもしなかった。ただ「休んだ」という感覚もあまりない。普段と何が違ったかと...</description>
+      <pubDate>Tue, 05 May 2026 21:05:08 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260506015643</comments>
+    </item>
+    <item>
+      <title>ハーバード大の最終結論「コーヒーを１日１リットル以上飲むとアウト」</title>
+      <link>https://gendai.media/articles/-/166564</link>
+      <description>&lt;img src="https://res.cloudinary.com/gb-cache/image/upload/prod/serooxey7o3a6x6s7585xcf1" /&gt;&lt;br/&gt;朝の目覚めに一杯、仕事の合間に一杯、食後にまた一杯―世界中の人々の生活に深く溶け込んでいるコーヒー。エチオピアに起源をもつが、当初は「目を覚ます秘薬」として飲まれていたという。 それが15世紀末、飲酒を禁じられていたイスラム教徒の間で嗜好品として定着し、やがてローマ教皇の目に留まると、瞬く間にヨーロ...</description>
+      <pubDate>Tue, 05 May 2026 00:55:33 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/gendai.media/articles/-/166564</comments>
+    </item>
+    <item>
       <title>男が下ネタを言い始めたとき、それを上回る下ネタを返すとたまに「この女何を言うとるねん…」みたいな引いた空気になるのが腑に落ちない</title>
       <link>https://togetter.com/li/2693511</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/d8b6a685dc6bb7acbbf7edb6984b195e-1200x630.jpeg" /&gt;&lt;br/&gt;笑顔で決めろ @Smilebomber461 男が下ネタを言い出したとき、それ以上のえげつない下ネタを返すことがあるのですが、たまに、この女何を言うとるねんと何故かドン引きされるのが腑に落ちない お前が始めた物語やないか 2026-05-04 16:35:07</description>
@@ -60,6 +81,13 @@
       <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;多少カネができても、出自がド庶民なせいか変な贅沢をしようという気が全く起こらない。 不動産屋のオッサンとか外銀のエリートリーマンとか、成金趣味に命かけてる感じの人が多いけど、どう育つとああいうモチベーションが湧くんだろうな？</description>
       <pubDate>Tue, 05 May 2026 14:39:51 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260505233859</comments>
+    </item>
+    <item>
+      <title>東京に比べて「ぶつかりおじさん」が少ないという大阪で数日過ごしたが、大量の人が好きな方向に猛スピードで歩いているのが理由の一つではないか→寄せられた意見にも納得</title>
+      <link>https://togetter.com/li/2693652</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/bf86b1804a5e8683ba8bad688e52bdc6-1200x630.jpeg" /&gt;&lt;br/&gt;ジロウ @jiro6663 東京に比べて「ぶつかりおじさん」が圧倒的に少ないという大阪。先日久しぶりに大阪の都会で数日過ごしたら、僕は男性なのでぶつかりおじさんの有無は分からなかったけど、とにかく大量の人が、まったく何の秩序もなくそれぞれ好きな方向に猛スピードで歩いており、カオスだった。 2026-05-05 09:24:06...</description>
+      <pubDate>Tue, 05 May 2026 19:38:07 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2693652</comments>
     </item>
     <item>
       <title>おい、要件を動くものにしろ - じゃあ、おうちで学べる</title>
