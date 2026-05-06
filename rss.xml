@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 06 May 2026 02:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 03:33:09 +0000</lastBuildDate>
     <item>
       <title>外部からアクセス可能なhttpsサイトはドメイン設定後「即」攻撃にさらされる件</title>
       <link>https://zenn.dev/kusuke/articles/25330f7759eba4</link>
@@ -18,6 +18,13 @@
       <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260505/K10015115001_2605051850_0505230105_01_02.jpg" /&gt;&lt;br/&gt;医療費が増え続ける中、財政の破綻を防ぐために保険料などの負担が増えることを受け入れられるかNHKの世論調査で尋ねたところ、受け入れられないと答えた人が68％に上りました。 NHKは、去年11月から…</description>
       <pubDate>Tue, 05 May 2026 15:34:44 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015115001000</comments>
+    </item>
+    <item>
+      <title>AIエージェントに認証情報を安全に渡したい：1Passwordで試して、用途で使い分けに着地した話 - プログラマでありたい</title>
+      <link>https://blog.takuros.net/entry/2026/05/05/151623</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/a876e46de4fdc9bfe2d0aea8f1e8d2718c05b6a8/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fd%2Fdkfj%2F20260505%2F20260505130034.png" /&gt;&lt;br/&gt;Claude Code のような AI エージェントに本格的に作業を任せようとすると、AWS の操作、外部 API への呼び出し、決済処理など、認証情報を渡す場面が増えてきます。 ただし、AI に認証情報をそのまま読める状態で渡すのは危険です。bash 経由で外に出されたり、ログに残ったり、indirect prompt injection で使えと命令...</description>
+      <pubDate>Tue, 05 May 2026 12:07:55 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/blog.takuros.net/entry/2026/05/05/151623</comments>
     </item>
     <item>
       <title>NHKニュースで少し時間が余ってしまいアナウンサーが時間を埋めようとしたがうまいネタを話せずに謝罪していて母と爆笑してしまった</title>
@@ -41,11 +48,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260505233859</comments>
     </item>
     <item>
-      <title>史上最高のギターソロ100選 | Rolling Stone Japan(ローリングストーン ジャパン）</title>
-      <link>https://rollingstonejapan.com/articles/detail/44722</link>
-      <description>&lt;img src="https://images.rollingstonejapan.com/articles/44000/44722/OG/97dd699d425d83b65e4aa9a320d9af4f.jpg" /&gt;&lt;br/&gt;米Rolling Stone誌が選ぶ「史上最高のギターソロ100選」をランキング形式で一挙紹介。50位→1位は選評を完全翻訳。 全音楽ファンよ、ギターソロを称えよ。それは現代音楽において、決して色褪せることのない偉大なる芸術形態の一つだ。栄光に満ちた6弦の爆発がもたらすスリルに勝るものはない。「Free Bird」から「Purple...</description>
-      <pubDate>Tue, 05 May 2026 11:14:33 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/rollingstonejapan.com/articles/detail/44722</comments>
+      <title>おい、要件を動くものにしろ - じゃあ、おうちで学べる</title>
+      <link>https://syu-m-5151.hatenablog.com/entry/2026/05/05/172501</link>
+      <description>&lt;img src="https://ogimage.blog.st-hatena.com/8454420450094081900/17179246901384365798/1777995470" /&gt;&lt;br/&gt;はじめに ドキュメントは、書いた瞬間から腐っていく。 読まれない。検証されない。更新されない。それでも、要件と呼ばれ続けている。 第1部では、要件を言葉にする規律について書きました。引き出し、観察し、ジョブを見極めながら、業務領域の言葉で書く。6つの特性を満たし、検証可能な形にする。揺らぎと固執を組み...</description>
+      <pubDate>Tue, 05 May 2026 09:11:27 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/syu-m-5151.hatenablog.com/entry/2026/05/05/172501</comments>
     </item>
     <item>
       <title>体重約200キロ、体脂肪率は50％超…巨漢芸人『ママタルト大鶴肥満（34）』が明かす生活の苦労「飛行機では“追いシートベルト”を…」 | 文春オンライン</title>
@@ -60,6 +67,13 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/14a8fd7adf57c0e0ea1a87fe3981c5e7-1200x630.jpeg" /&gt;&lt;br/&gt;いぐぞー@5月9日発売『すごい仕事術』 @igz0 俺「婚活で交際を続けるか迷っている人がいて」 既婚者「へーどんな人なの？」 俺「普通の方なんですけど自分と話しているとき、ずっとニコニコとご機嫌なんですよね」 既婚者「逃すな」 俺「え？？」 既婚者「その人、絶対に逃すなよ」 隣の席のおじさん「あーーお兄ちゃん...</description>
       <pubDate>Tue, 05 May 2026 15:34:49 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2693598</comments>
+    </item>
+    <item>
+      <title>史上最高のギターソロ100選 | Rolling Stone Japan(ローリングストーン ジャパン）</title>
+      <link>https://rollingstonejapan.com/articles/detail/44722</link>
+      <description>&lt;img src="https://images.rollingstonejapan.com/articles/44000/44722/OG/97dd699d425d83b65e4aa9a320d9af4f.jpg" /&gt;&lt;br/&gt;米Rolling Stone誌が選ぶ「史上最高のギターソロ100選」をランキング形式で一挙紹介。50位→1位は選評を完全翻訳。 全音楽ファンよ、ギターソロを称えよ。それは現代音楽において、決して色褪せることのない偉大なる芸術形態の一つだ。栄光に満ちた6弦の爆発がもたらすスリルに勝るものはない。「Free Bird」から「Purple...</description>
+      <pubDate>Tue, 05 May 2026 11:14:33 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/rollingstonejapan.com/articles/detail/44722</comments>
     </item>
     <item>
       <title>[4話]ヒトナー - 屋宜知宏 | 少年ジャンプ＋</title>
