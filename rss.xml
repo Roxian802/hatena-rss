@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 09 May 2026 20:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 21:33:09 +0000</lastBuildDate>
     <item>
       <title>teal（ティール）</title>
       <link>https://teal-chocolate-and-icecream.com/</link>
@@ -48,13 +48,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/blog.lai.so/ai-rich-text-format/</comments>
     </item>
     <item>
-      <title>2026年のソフトウェア開発を考える（2026/05版） / Software Engineering Scrum Fest Niigata 2026 Edition</title>
-      <link>https://speakerdeck.com/twada/software-engineering-scrum-fest-niigata-2026-edition</link>
-      <description>&lt;img src="https://files.speakerdeck.com/presentations/d98c0f4fa38a4ddba18c35c45580e0ae/slide_0.jpg?39348953" /&gt;&lt;br/&gt;2026年のソフトウェア開発を考える（2026/05版） Scrum Fest Niigata 2026 2026年5月8日（金） https://www.scrumfestniigata.org/</description>
-      <pubDate>Sat, 09 May 2026 04:36:54 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/twada/software-engineering-scrum-fest-niigata-2026-edition</comments>
-    </item>
-    <item>
       <title>ジョセフ・ヒース「民営化は悪、国有化は善？：左翼ポピュリストの経済政策は同じ轍を二度踏もうとしている」（2026年5月7日）</title>
       <link>https://econ101.jp/naomi-kleins-husband-doubles-down-on-public-grocery-stores/</link>
       <description>&lt;img src="https://i0.wp.com/econ101.jp/wp-content/uploads/2026/05/image-1.png?fit=1200%2C863&amp;amp;ssl=1" /&gt;&lt;br/&gt;カナダ政治を熱心に追っていない人向けに言うと、ナオミ・クライン〔『ブランドなんか、いらない』などで知られるカナダの代表的な左派論客〕の夫であるアビ・ルイス（Avi Lewis）がこの度、カナダ新民主党（伝統的な左翼政党）の党首に選出された。ルイスはポール・ウェルズによる長尺のインタビューを受けているのだが...</description>
@@ -62,11 +55,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/econ101.jp/naomi-kleins-husband-doubles-down-on-public-grocery-stores/</comments>
     </item>
     <item>
-      <title>Wikipediaにフェイク記事を書いたら、すぐに見つかって消された。自分だけで..</title>
-      <link>https://anond.hatelabo.jp/20260509133215</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;Wikipediaにフェイク記事を書いたら、すぐに見つかって消された。自分だけでひっそりとフェイク記事を楽しめればいいって思ってて、目立たないようにわざわざマイナーな内容を書いたんだけどね。なかなかいい文章だったのに。 フェイク記事だと見破った人は、かなり丁寧に裏どりをしてくれてました。あの記事をどうやっ...</description>
-      <pubDate>Sat, 09 May 2026 04:33:49 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260509133215</comments>
+      <title>性格の良し悪しは「その人の経済的、精神的余裕」に左右されるため、やたら攻撃的だったり、他人への嫉妬や見下しが強い人は、強いコンプレックスを抱えているケースが多い</title>
+      <link>https://togetter.com/li/2695080</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/ee8ea176830f1aa45c23651b6be144ba-1200x630.jpeg" /&gt;&lt;br/&gt;香風智乃 @chino_ey 性格が良いとか悪いとかって「その人の経済的、精神的余裕」にもよるよな 「低賃金社畜、セックス無し」とかになればほとんどの人は他人に冷たくなるだろうし、「不労所得生活、セックス三昧」であれば並大抵の人は他人に優しくなるだろう 人間の本性はなかなか見抜けない 2026-05-08 20:32:46 kiku ...</description>
+      <pubDate>Sat, 09 May 2026 12:05:11 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2695080</comments>
+    </item>
+    <item>
+      <title>2026年のソフトウェア開発を考える（2026/05版） / Software Engineering Scrum Fest Niigata 2026 Edition</title>
+      <link>https://speakerdeck.com/twada/software-engineering-scrum-fest-niigata-2026-edition</link>
+      <description>&lt;img src="https://files.speakerdeck.com/presentations/d98c0f4fa38a4ddba18c35c45580e0ae/slide_0.jpg?39348953" /&gt;&lt;br/&gt;2026年のソフトウェア開発を考える（2026/05版） Scrum Fest Niigata 2026 2026年5月8日（金） https://www.scrumfestniigata.org/</description>
+      <pubDate>Sat, 09 May 2026 04:36:54 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/twada/software-engineering-scrum-fest-niigata-2026-edition</comments>
     </item>
     <item>
       <title>要求を仕様に落とすテンプレートを作ってみた</title>
@@ -76,11 +76,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/channnnsm/articles/c3a6de22e71f86</comments>
     </item>
     <item>
-      <title>元m.o.v.eのMOTSUさん、曲を自動認識し映像同期する世界初ポン出しVJソフト、OneManVJを発売。5/22まで4,500円</title>
-      <link>https://www.dtmstation.com/archives/77343.html</link>
-      <description>&lt;img src="https://www.dtmstation.com/wp-content/uploads/2026/05/021542bd9904f7550701e4903f096668.png" /&gt;&lt;br/&gt;「Gamble Rumble」「around the world」「DOGFIGHT」など、アニメ「頭文字D」シリーズの主題歌で広く知られたユニット、m.o.v.e。そのMC/ラッパーだったMOTSUさんが、現在はDeeJei.Tokyoの名義でソフトウェア開発に取り組んでおり、2026年5月8日に新しいアプリ、OneManVJをリリースしました。 OneManVJは、PCのマイクか...</description>
-      <pubDate>Sat, 09 May 2026 00:35:02 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.dtmstation.com/archives/77343.html</comments>
+      <title>Wikipediaにフェイク記事を書いたら、すぐに見つかって消された。自分だけで..</title>
+      <link>https://anond.hatelabo.jp/20260509133215</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;Wikipediaにフェイク記事を書いたら、すぐに見つかって消された。自分だけでひっそりとフェイク記事を楽しめればいいって思ってて、目立たないようにわざわざマイナーな内容を書いたんだけどね。なかなかいい文章だったのに。 フェイク記事だと見破った人は、かなり丁寧に裏どりをしてくれてました。あの記事をどうやっ...</description>
+      <pubDate>Sat, 09 May 2026 04:33:49 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260509133215</comments>
     </item>
     <item>
       <title>イギリス地方選において新興の右派政党「リフォームUK」が最大議員獲得する形となり「イギリス政界が根底から変わってしまう」と危惧される</title>
@@ -90,6 +90,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2695046</comments>
     </item>
     <item>
+      <title>元m.o.v.eのMOTSUさん、曲を自動認識し映像同期する世界初ポン出しVJソフト、OneManVJを発売。5/22まで4,500円</title>
+      <link>https://www.dtmstation.com/archives/77343.html</link>
+      <description>&lt;img src="https://www.dtmstation.com/wp-content/uploads/2026/05/021542bd9904f7550701e4903f096668.png" /&gt;&lt;br/&gt;「Gamble Rumble」「around the world」「DOGFIGHT」など、アニメ「頭文字D」シリーズの主題歌で広く知られたユニット、m.o.v.e。そのMC/ラッパーだったMOTSUさんが、現在はDeeJei.Tokyoの名義でソフトウェア開発に取り組んでおり、2026年5月8日に新しいアプリ、OneManVJをリリースしました。 OneManVJは、PCのマイクか...</description>
+      <pubDate>Sat, 09 May 2026 00:35:02 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.dtmstation.com/archives/77343.html</comments>
+    </item>
+    <item>
       <title>副業で稼いでいる知人、確定申告で200万円の赤字を計上→実態を聞いてみたら家賃を7割、日用品、食費をほぼ100%経費計上していた</title>
       <link>https://togetter.com/li/2694957</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/07545c3e085f0793d232d4a66162cdeb-1200x630.jpeg" /&gt;&lt;br/&gt;あすか&#x1fabd;&#x1fabd; @Monopoly_Asuka 知り合いに副業で年間400万円稼いでいる人がいて、確定申告どうしているか聞いたら、 「200万円の赤字」 らしい。家賃を7割経費、日用品とか食費をほぼ100%経費（営業活動に必要とのこと）、外食も全部経費（接待費）でトータル600万円。 本業の収入もあって、事業を赤字申告しているから、税...</description>
@@ -97,25 +104,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2694957</comments>
     </item>
     <item>
+      <title>【お詫び】５月7日更新の小泉今日子さんの記事について（中西正男） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/301c7721bb71e91680385185f0f9f994f0ee2833</link>
+      <description>&lt;img src="https://s.yimg.jp/images/news-web/versions/20260508-a448319/all/images/ogp_default.png" /&gt;&lt;br/&gt;５月7日午前６時３分にアップしたヤフー拙連載内のエキスパートトピ「ライブ会場での憲法9条が話題。ファンが見たいのは『小泉今日子』か『キョンキョン』か。アイドルの難しさ」について、事実と異なる表現がありました。 そのことについて、こちらのヤフー拙連載の場で、改めてお詫びをさせていただこうと考え、この文...</description>
+      <pubDate>Sat, 09 May 2026 06:21:43 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/expert/articles/301c7721bb71e91680385185f0f9f994f0ee2833</comments>
+    </item>
+    <item>
       <title>英地方選で労働党が大敗、スターマー氏は続投表明　リフォームUKが各地で勝利 - BBCニュース</title>
       <link>https://www.bbc.com/japanese/articles/cqxp4q73vn8o</link>
       <description>&lt;img src="https://ichef.bbci.co.uk/news/1024/branded_japanese/eeb0/live/4c463660-4ab2-11f1-abbe-696bdf3a3d1b.jpg" /&gt;&lt;br/&gt;イギリスで7日に投票が行われた地方選挙は、8日に開票が進められ、大勢が判明した。イングランドではリフォームUKが最大の勝者となり、各地で合わせて1400超の議席を獲得。歴史的に労働党と保守党が優勢だった地域で主導権を握った。こうしたなか、キア・スターマー首相は8日夜、辞任して「国を混乱に陥れる」つもりはな...</description>
       <pubDate>Sat, 09 May 2026 06:25:06 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.bbc.com/japanese/articles/cqxp4q73vn8o</comments>
-    </item>
-    <item>
-      <title>超金持ちの友達が「勝手に増えるお金の使い道がない」というので高いホテルで泊まり歩いたら？と返したら「ホテルのスイートより家の方が豪華で便利だから泊まる意味ない」って言っててキレそう</title>
-      <link>https://togetter.com/li/2694963</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/a4ac536d84ec84d95c01dac24f1788a7-1200x630.jpeg" /&gt;&lt;br/&gt;超金持ちの友達が「勝手に増えるお金の使い道がない」というので高いホテルで泊まり歩いたら？と返したら「ホテルのスイートより家の方が豪華で便利だから泊まる意味ない」って言っててキレそう</description>
-      <pubDate>Sat, 09 May 2026 04:53:29 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2694963</comments>
-    </item>
-    <item>
-      <title>予備校全盛時代に今の現役講師とは比較にならないほどの高給を得ていた方々が、退職された後に無料の授業動画を提供し始めて、結果的に元の現場に迷惑をかけている話</title>
-      <link>https://togetter.com/li/2694984</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/48fbecb90baf73ff930a107e9f600b3a-1200x630.jpeg" /&gt;&lt;br/&gt;新野 元基 @newfield114 あえてケツの穴が小さいことを言いますが、予備校全盛時代に今の現役講師とは比較にならないほどの高給を得ていた方々が、定年やら何やらで退職された後に無料の授業動画を提供し始めて、元の現場で働く人たちに迷惑を掛けるようなことをする様はハッキリ言って面白くないですね。 2026-05-08 10...</description>
-      <pubDate>Sat, 09 May 2026 07:47:46 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2694984</comments>
     </item>
   </channel>
 </rss>
