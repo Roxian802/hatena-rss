@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 10 May 2026 21:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 22:33:11 +0000</lastBuildDate>
     <item>
       <title>過去の辺野古コースについて｜辺野古ボート転覆事故遺族メモ</title>
       <link>https://note.com/beloved_tomoka/n/nff1804b84df7</link>
@@ -20,6 +20,20 @@
       <comments>https://b.hatena.ne.jp/entry/s/bunshun.jp/articles/-/88489</comments>
     </item>
     <item>
+      <title>サポート終了の古いKindle、捨てる前に試したい「第2の活用法」 | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2605how-to-jailbreak-your-kindle/</link>
+      <description>&lt;img src="https://media.loom-app.com/loom/2026/05/08/d65ada5c-a7f4-4f3b-8783-e12b1385ffe7/original.jpg?w=1200&amp;amp;h=630&amp;amp;f=jpg" /&gt;&lt;br/&gt;Amazonは、2012年以前に発売されたKindleデバイスのサポートを2026年5月20日に終了すると発表しました。 単にアップデートが止まるだけではありません。ストアへのアクセスや本のダウンロード、レンタルができなくなり、実質的に「何もできない端末」になってしまうのです。 もちろん新しいKindleを買うのも一つの方針で...</description>
+      <pubDate>Sun, 10 May 2026 10:46:06 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.lifehacker.jp/article/2605how-to-jailbreak-your-kindle/</comments>
+    </item>
+    <item>
+      <title>CodexをローカルLLMで駆動する</title>
+      <link>https://zenn.dev/robustonian/articles/codex_with_local_llm</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s---3c-iGH---/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Codex%25E3%2582%2592%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2581%25A7%25E9%25A7%2586%25E5%258B%2595%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E9%2587%2591%25E3%2581%25AE%25E3%2583%258B%25E3%2583%25AF%25E3%2583%2588%25E3%2583%25AA%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ1NmVjZjczNWIuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;#!/usr/bin/env bash set -euo pipefail fuser -kvn tcp 8080 usage() { cat &lt;&lt;'EOF' Usage: ./lms-load-and-serve.sh &lt;gguf-path&gt; &lt;identifier&gt; Example: ./lms-load-and-serve.sh ../models/Qwen3.6-27B-UD-Q4_K_XL.gguf Qwen3.6-27B-UD-Q4_K_XL LMS_DISABLE_THINKING=0 ./lms-load-and-serve.sh ../models/Qwen3.6-27...</description>
+      <pubDate>Sun, 10 May 2026 09:41:52 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/robustonian/articles/codex_with_local_llm</comments>
+    </item>
+    <item>
       <title>カラオケBanBanアプリに「予約ボタン」を1つ追加するのに、14ヶ月かかった話｜GENDA</title>
       <link>https://note.com/genda_jp/n/n4bf35e4690f9</link>
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/274115485/rectangle_large_type_2_6163df27de0aeb5e66e8b079e338cded.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;こんにちは。 GENDAでプロダクトマネージャー（PdM）をしている船坂です。 2026年3月から、カラオケBanBanのアプリに予約機能がつきました。「イマカラ予約」という名称で展開しています。 アプリのトップに「予約」ボタンが1つ増えた、それだけの話です。 ただ、このボタン1つにたどり着くまでに約14ヶ月かかりました。...</description>
@@ -27,11 +41,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/genda_jp/n/n4bf35e4690f9</comments>
     </item>
     <item>
-      <title>中国政府、自動運転を「全てストップ」 百度が原因か | 自動運転ラボ</title>
-      <link>https://jidounten-lab.com/u_62109</link>
-      <description>&lt;img src="https://jidounten-lab.com/wp/wp-content/uploads/2020/11/china-e1605504766124.jpg" /&gt;&lt;br/&gt;2026年4月29日、中国政府は自動運転車の新規許可証発行を無期限で停止したとBloombergが報じた。既存サービスは継続できるものの、新たなロボタクシーの増車・新テスト計画・新都市への参入という「成長の3条件」がすべて封じられた形だ。 引き金となったのは3月31日夜に武漢で起きた百度（バイドゥ）のロボタクシーサー...</description>
-      <pubDate>Sat, 09 May 2026 23:49:59 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/jidounten-lab.com/u_62109</comments>
+      <title>00年代のIT業界最大のバズワード「XML」は現在どうなったのか？</title>
+      <link>https://zenn.dev/pdfractal/articles/89b1943aef64fe</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--cAazoETI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:00%25E5%25B9%25B4%25E4%25BB%25A3%25E3%2581%25AEIT%25E6%25A5%25AD%25E7%2595%258C%25E6%259C%2580%25E5%25A4%25A7%25E3%2581%25AE%25E3%2583%2590%25E3%2582%25BA%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E3%2580%258CXML%25E3%2580%258D%25E3%2581%25AF%25E7%258F%25BE%25E5%259C%25A8%25E3%2581%25A9%25E3%2581%2586%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pdfractal%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlODUxNjI3MGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに 2000年代のIT業界で最大級のバズワードを一つ挙げるなら、XMLは間違いなく有力候補です。UML、SOAP、WSDL、MDA、Ajax、Webサービス、エンタープライズJava、.NET、Office文書形式、各種設定ファイルまで、当時のXMLは単なるデータ形式ではなく、あらゆるものをつなぐ共通中間表現として語られていました。現在...</description>
+      <pubDate>Sat, 09 May 2026 20:01:25 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/pdfractal/articles/89b1943aef64fe</comments>
     </item>
     <item>
       <title>「Switch2とはご縁がなかった、値上げ後は絶対買わないだろう」本体を買えなかった皆さんの声「キラーソフトが出ない限り買うことはない」</title>
@@ -41,6 +55,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2695372</comments>
     </item>
     <item>
+      <title>中国政府、自動運転を「全てストップ」 百度が原因か | 自動運転ラボ</title>
+      <link>https://jidounten-lab.com/u_62109</link>
+      <description>&lt;img src="https://jidounten-lab.com/wp/wp-content/uploads/2020/11/china-e1605504766124.jpg" /&gt;&lt;br/&gt;2026年4月29日、中国政府は自動運転車の新規許可証発行を無期限で停止したとBloombergが報じた。既存サービスは継続できるものの、新たなロボタクシーの増車・新テスト計画・新都市への参入という「成長の3条件」がすべて封じられた形だ。 引き金となったのは3月31日夜に武漢で起きた百度（バイドゥ）のロボタクシーサー...</description>
+      <pubDate>Sat, 09 May 2026 23:49:59 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/jidounten-lab.com/u_62109</comments>
+    </item>
+    <item>
       <title>中間管理職が成績評価のアブソーバーになる味わい - やしお</title>
       <link>https://yashio.hatenablog.com/entry/20260509/1778331720</link>
       <description>&lt;img src="https://ogimage.blog.st-hatena.com/10257846132675391649/17179246901386134311/1778331720" /&gt;&lt;br/&gt;日本の古い大企業（いわゆるJTC）で課長になって1年強が経った。課長としての業務の中で一番「中間管理職み」があるのが、課員の成績評価だなと感じている。矛盾を吸収するバッファというかアブソーバーみたいな機能を明示的でない形で要求されている、この感じ。 評価ルールと、そのルールによって生じる心理やムーブに...</description>
@@ -48,11 +69,10 @@
       <comments>https://b.hatena.ne.jp/entry/s/yashio.hatenablog.com/entry/20260509/1778331720</comments>
     </item>
     <item>
-      <title>【婚活】カフェでケーキを“半分こ”したら交際終了…42歳男性が落ちた“価値観の違い”の落とし穴（オトナンサー） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/50c6b2ebfd430c6796798c25723d5a0560b8e4e3</link>
-      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260510-00361244-otonans-000-31-view.jpg?exp=10800" /&gt;&lt;br/&gt;婚活でも恋愛でも、「相性がいい人と出会いたい」という言葉をよく聞きます。しかし、相性とは単に趣味や価値観が合うことだけではありません。同じ出来事を経験した時に、どのように感じ、どんな感情を共有できるかという部分に“波長”が表れます。 【トップ9】「えっ…なんか生々しい…！」 これが、男性が選んだ「彼女に...</description>
-      <pubDate>Sun, 10 May 2026 06:38:45 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/50c6b2ebfd430c6796798c25723d5a0560b8e4e3</comments>
+      <title>[アップデート] AWS公式 AIコーディングエージェント向けのSkill集「Agent Toolkit for AWS」の提供を開始！ | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/20260506-agent-toolkit-for-aws/</link>
+      <pubDate>Sun, 10 May 2026 05:53:48 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/dev.classmethod.jp/articles/20260506-agent-toolkit-for-aws/</comments>
     </item>
     <item>
       <title>「これはあんまりでは…」料理研究家・リュウジ氏がアンチから作れと言われて作ったチキンステーキの動画が、向こうからの著作権の申し立てで削除されたことを報告</title>
@@ -60,27 +80,6 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/4b7b367ee0b4c5d5f8ab845c027ff65d-1200x630.jpeg" /&gt;&lt;br/&gt;リュウジ@料理のおじさんバズレシピ @ore825 チキンステーキの動画を作れとアンチさんから言われて作ったのに向こうからの著作権の申し立てで削除されました これはあんまりでは…なら最初から作れと言わないでほしい pic.x.com/gUi0KN4LFm x.com/ore825/status/… 2026-05-10 17:37:37 リュウジ@料理のおじさんバズレシピ...</description>
       <pubDate>Sun, 10 May 2026 09:50:17 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2695408</comments>
-    </item>
-    <item>
-      <title>ヤマハ、DXはなぜ失敗した？「大きなDX」と「小さなDX」で再構築へ</title>
-      <link>https://news.mynavi.jp/techplus/article/20260403-4258506/</link>
-      <description>&lt;img src="https://news.mynavi.jp/techplus/article/20260403-4258506/ogp_images/ogp.jpg" /&gt;&lt;br/&gt;コロナ禍の巣ごもり需要の反動による需要減、中国の教育方針の転換によるピアノの販売数激減、さらにトランプ関税の影響など、環境の変化により苦境が続くヤマハ。同社は、2025年度からの中期経営計画で「Rebuild（再構築）&amp; Evolve（進化）」というテーマを打ち出し、適正規模で需要変動に強い生産体制の構築を目指して...</description>
-      <pubDate>Sat, 09 May 2026 15:28:33 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.mynavi.jp/techplus/article/20260403-4258506/</comments>
-    </item>
-    <item>
-      <title>中国産ソシャゲ「NTE」をプレイしたマンガ家が思う「アニメ調オープンワールド大作」を日本が作らなくてもいい理由</title>
-      <link>https://www.itmedia.co.jp/news/articles/2605/10/news014.html</link>
-      <description>&lt;img src="https://image.itmedia.co.jp/news/articles/2605/10/cover_news014.jpg" /&gt;&lt;br/&gt;最近、SNSで盛り上がっている話題の一つに「日本のゲーム業界はアニメ調のオープンワールドゲームをなぜ作らないのか」というものがあります。キッカケは4月29日にサービスを始めた中国Hotta Studioによる新作ソーシャルゲーム「NTE: Neverness to Everness」でした。 「NTE: Neverness to Everness」は基本プレイ無料（...</description>
-      <pubDate>Sat, 09 May 2026 23:02:50 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2605/10/news014.html</comments>
-    </item>
-    <item>
-      <title>人間がMarkdownを書いたり修正しない時代に、Claude Code hookでドキュメントを自動でファンシーHTML化する</title>
-      <link>https://zenn.dev/uehaj/articles/claude-code-fancy-html-hook</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--9w3zRqV5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BA%25BA%25E9%2596%2593%25E3%2581%258CMarkdown%25E3%2582%2592%25E6%259B%25B8%25E3%2581%2584%25E3%2581%259F%25E3%2582%258A%25E4%25BF%25AE%25E6%25AD%25A3%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AB%25E3%2580%2581Claude%2520Code%2520hook%25E3%2581%25A7%25E3%2583%2589%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E8%2587%25AA%25E5%258B%2595%25E3%2581%25A7%25E3%2583%2595%25E3%2582%25A1%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25BC...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Junji%2520Uehara%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2pxNHd0RGFSTVNVZHhYUHk1dmVfYWpnOWlqUkhyOHlwT2hEUUREPXMyNTAtYw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに X 上で見かけた 「もう Markdown じゃなくて HTML でドキュメント書いた方がよくない？」 系の議論（@trq212 のポスト等）には、まったく同感です。 というのも、自分は もう半年ほど前から、Claude CodeにHTMLでドキュメント生成させています。エージェントを使えばつかうほど、その生成物を直接人間が修正す...</description>
-      <pubDate>Sun, 10 May 2026 04:33:14 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/uehaj/articles/claude-code-fancy-html-hook</comments>
     </item>
   </channel>
 </rss>
