@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 10 May 2026 23:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 00:33:09 +0000</lastBuildDate>
+    <item>
+      <title>【完全版】Claude Coworkが凄い…資料作成もフォルダ整理も全自動化、神スキル活用術</title>
+      <link>https://www.sbbit.jp/article/cont1/185228</link>
+      <description>&lt;img src="https://www.sbbit.jp/article/image/185228/OGP_bit202604271617156653.jpg" /&gt;&lt;br/&gt;これまでのAIは「対話」の枠組みにとどまっていましたが、現在はAIがPC操作を代行する「エージェント」へと進化する歴史的転換点にあります。その最前線が、Claudeデスクトップアプリ限定の「Cowork（コワーク）」機能です。従来のプロンプトによる断片的な生成とは異なり、Coworkはブラウザやローカル環境を自律的に操...</description>
+      <pubDate>Sun, 10 May 2026 21:51:04 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.sbbit.jp/article/cont1/185228</comments>
+    </item>
     <item>
       <title>過去の辺野古コースについて｜辺野古ボート転覆事故遺族メモ</title>
       <link>https://note.com/beloved_tomoka/n/nff1804b84df7</link>
@@ -27,6 +34,20 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.lifehacker.jp/article/2605how-to-jailbreak-your-kindle/</comments>
     </item>
     <item>
+      <title>AI生成画像の背景を透明化するのに役立つ画像背景削除ツール「Rembg」</title>
+      <link>https://gigazine.net/news/20260510-rembg/</link>
+      <description>&lt;img src="https://i.gzn.jp/img/2026/05/10/rembg/00.png" /&gt;&lt;br/&gt;Stable DiffusionやFLUXなどの画像生成AIは透過背景のPNG画像を直接出力できないため、生成した素材をそのまま使うには別途背景除去の工程が必要です。人物・アニメキャラクターなど被写体の種類に合わせて16種類以上のAIモデルを切り替えられる背景除去ツール「Rembg」が、ローカル環境で無料で使えるオープンソースと...</description>
+      <pubDate>Sun, 10 May 2026 04:00:20 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/gigazine.net/news/20260510-rembg/</comments>
+    </item>
+    <item>
+      <title>カラオケBanBanアプリに「予約ボタン」を1つ追加するのに、14ヶ月かかった話｜GENDA</title>
+      <link>https://note.com/genda_jp/n/n4bf35e4690f9</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/274115485/rectangle_large_type_2_6163df27de0aeb5e66e8b079e338cded.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;こんにちは。 GENDAでプロダクトマネージャー（PdM）をしている船坂です。 2026年3月から、カラオケBanBanのアプリに予約機能がつきました。「イマカラ予約」という名称で展開しています。 アプリのトップに「予約」ボタンが1つ増えた、それだけの話です。 ただ、このボタン1つにたどり着くまでに約14ヶ月かかりました。...</description>
+      <pubDate>Sun, 10 May 2026 03:56:17 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/genda_jp/n/n4bf35e4690f9</comments>
+    </item>
+    <item>
       <title>高市首相は“中傷投稿”否定も…最側近秘書が中道批判を陣営スタッフに依頼していた〈これらも拡散願います〉《週刊文春が証拠メッセージを入手》 | 文春オンライン</title>
       <link>https://bunshun.jp/articles/-/88489</link>
       <description>&lt;img src="https://bunshun.jp/mwimgs/a/4/1200wm/img_a4f5aa7c4f8b3bd3230ac79baef93745838274.jpg" /&gt;&lt;br/&gt;5月8日、高市早苗首相は、自身の陣営のメンバーが衆院選で野党候補を中傷する動画を作成し、SNSに投稿していたという「週刊文春」の報道について説明を行った。 参議院本会議で立憲民主党の小島智子氏に「週刊文春」の報道について問われ、「他の候補に関するネガティブな情報、動画を作成して発信するといったことは一...</description>
@@ -41,13 +62,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/robustonian/articles/codex_with_local_llm</comments>
     </item>
     <item>
-      <title>カラオケBanBanアプリに「予約ボタン」を1つ追加するのに、14ヶ月かかった話｜GENDA</title>
-      <link>https://note.com/genda_jp/n/n4bf35e4690f9</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/274115485/rectangle_large_type_2_6163df27de0aeb5e66e8b079e338cded.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;こんにちは。 GENDAでプロダクトマネージャー（PdM）をしている船坂です。 2026年3月から、カラオケBanBanのアプリに予約機能がつきました。「イマカラ予約」という名称で展開しています。 アプリのトップに「予約」ボタンが1つ増えた、それだけの話です。 ただ、このボタン1つにたどり着くまでに約14ヶ月かかりました。...</description>
-      <pubDate>Sun, 10 May 2026 03:56:17 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/genda_jp/n/n4bf35e4690f9</comments>
-    </item>
-    <item>
       <title>00年代のIT業界最大のバズワード「XML」は現在どうなったのか？</title>
       <link>https://zenn.dev/pdfractal/articles/89b1943aef64fe</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--cAazoETI--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:00%25E5%25B9%25B4%25E4%25BB%25A3%25E3%2581%25AEIT%25E6%25A5%25AD%25E7%2595%258C%25E6%259C%2580%25E5%25A4%25A7%25E3%2581%25AE%25E3%2583%2590%25E3%2582%25BA%25E3%2583%25AF%25E3%2583%25BC%25E3%2583%2589%25E3%2580%258CXML%25E3%2580%258D%25E3%2581%25AF%25E7%258F%25BE%25E5%259C%25A8%25E3%2581%25A9%25E3%2581%2586%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E3%2581%25AE%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:pdfractal%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FlODUxNjI3MGYuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに 2000年代のIT業界で最大級のバズワードを一つ挙げるなら、XMLは間違いなく有力候補です。UML、SOAP、WSDL、MDA、Ajax、Webサービス、エンタープライズJava、.NET、Office文書形式、各種設定ファイルまで、当時のXMLは単なるデータ形式ではなく、あらゆるものをつなぐ共通中間表現として語られていました。現在...</description>
@@ -60,19 +74,6 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/66df08c1f6e47b8aba795942bfd94834-1200x630.jpeg" /&gt;&lt;br/&gt;「Switch2とはご縁がなかった、値上げ後は絶対買わないだろう」本体を買えなかった皆さんの声「キラーソフトが出ない限り買うことはない」</description>
       <pubDate>Sun, 10 May 2026 09:44:34 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2695372</comments>
-    </item>
-    <item>
-      <title>中国政府、自動運転を「全てストップ」 百度が原因か | 自動運転ラボ</title>
-      <link>https://jidounten-lab.com/u_62109</link>
-      <description>&lt;img src="https://jidounten-lab.com/wp/wp-content/uploads/2020/11/china-e1605504766124.jpg" /&gt;&lt;br/&gt;2026年4月29日、中国政府は自動運転車の新規許可証発行を無期限で停止したとBloombergが報じた。既存サービスは継続できるものの、新たなロボタクシーの増車・新テスト計画・新都市への参入という「成長の3条件」がすべて封じられた形だ。 引き金となったのは3月31日夜に武漢で起きた百度（バイドゥ）のロボタクシーサー...</description>
-      <pubDate>Sat, 09 May 2026 23:49:59 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/jidounten-lab.com/u_62109</comments>
-    </item>
-    <item>
-      <title>[アップデート] AWS公式 AIコーディングエージェント向けのSkill集「Agent Toolkit for AWS」の提供を開始！ | DevelopersIO</title>
-      <link>https://dev.classmethod.jp/articles/20260506-agent-toolkit-for-aws/</link>
-      <pubDate>Sun, 10 May 2026 05:53:48 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/dev.classmethod.jp/articles/20260506-agent-toolkit-for-aws/</comments>
     </item>
   </channel>
 </rss>
