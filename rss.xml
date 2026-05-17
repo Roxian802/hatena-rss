@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 17 May 2026 22:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 23:33:09 +0000</lastBuildDate>
+    <item>
+      <title>専任情シスがいない20人規模の町工場で、自分たちでランサムウェア対策基盤を組む - Qiita</title>
+      <link>https://qiita.com/masakai/items/d55a39ac35dca575b8ce</link>
+      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY4Nzk0OCUyRjI0ZGQzYTI1ZWRjZDAxMjM5NjJiYWJhNDhlY2YzZWY4Nzk3MTEwOGIlMkZ4X2xhcmdlLnBuZyUzRjE3NzI5ODI5MjQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTUzNmQyNDNkOTk3Y2E1MjhiOTgyNDJmZDk4NzcyMWZh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dca2987e2b2d26b3e9b2757d511debf43?ixlib=rb-4.1.1&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JUIwJTgyJUU0JUJCJUJCJUU2JTgzJTg1JUUzJTgyJUI3JUUzJTgyJUI5JUUzJTgxJThDJUUzJTgxJTg0JUUzJTgxJUFBJUUzJTgxJTg0MjAlRTQlQkElQkElRTglQTYlOEYlRTYlQTglQTElRTMlODElQUUlRTclOTQlQkElRTUlQjclQTUlRTUlQTAlQjQlRTMlODElQTclRTMlODAlODElRTglODclQUElRTUlODglODYlRTMlODElOUYlRTMlODElQTElRTMlODElQTclRTMlODMlQTklRTMlODMlQjMlRTMlODIlQjUlRTMlODMlQTAlRTMlODIlQTYlRTMlODIlQTclRTMlODIlQTIlRTUlQUYlQkUlRTclQUQlOTYlRTUlOUYlQkElRTclOUIlQTQlRTMlODIlOTIlRTclQjUlODQlRTMlODIlODAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00NzgwYzc3NjIzZGZjNmI1OGI4MGY3ZDcyYjdiZjE2Mg&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYXNha2FpJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Y2Q5MTM3OTI0NjBmNjg4OTFiM2M3ZjkxMmE3ZmJjMTc&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=6346d53f658ef730d9a2764d574b7c59" /&gt;&lt;br/&gt;中小企業や町工場でセキュリティ対策を進めようとすると、よく出てくる悩みがあります。 「大企業みたいなSOCやSIEMは無理だけど、ランサムウェアは怖い」 「NASで共有している図面や受発注データが止まったら、本当に仕事にならない」 「専任の情シスはいない。でも、できるところは自分たちで構築したい」 この記事で...</description>
+      <pubDate>Sun, 17 May 2026 07:44:58 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/masakai/items/d55a39ac35dca575b8ce</comments>
+    </item>
     <item>
       <title>Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン - Qiita</title>
       <link>https://qiita.com/ennagara128/items/aeaee3e64e75076503fe</link>
@@ -27,6 +34,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260517-FGHNIURGUNPFVO4LK4SZ6HHFKM/</comments>
     </item>
     <item>
+      <title>誰でもできる！ Geminiを使った「プロンプト講座」：似合う髪型がひと目でわかる『髪型コラージュ画像』の作り方</title>
+      <link>https://rocketnews24.com/2026/05/17/2760885/</link>
+      <description>&lt;img src="https://rocketnews24.com/wp-content/uploads/sites/2/2026/05/hairstyle.jpg?w=1200&amp;amp;h=630&amp;amp;crop=1" /&gt;&lt;br/&gt;» 誰でもできる！ Geminiを使った「プロンプト講座」：似合う髪型がひと目でわかる『髪型コラージュ画像』の作り方 特集 私（佐藤）にとって、もはや生活から欠くことのできない存在になった生成AI。Googleの「Gemini」をすでにパートナーとして活用しており、仕事だけでなく音楽制作などのプライベートな面でも積極的に...</description>
+      <pubDate>Sun, 17 May 2026 12:33:34 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/rocketnews24.com/2026/05/17/2760885/</comments>
+    </item>
+    <item>
       <title>共産党、辺野古事故でおわび　高校生乗せたこと「重大な過ち」　</title>
       <link>https://ryukyushimpo.jp/news/entry-5254412.html</link>
       <description>&lt;img src="https://ryukyushimpo.jp/tachyon/2026/05/%E7%94%B0%E6%9D%91%E6%B0%8F.jpg?resize=1200%2C630&amp;amp;gravity&amp;amp;crop=0px%2C60px%2C1200px%2C630px" /&gt;&lt;br/&gt;共産党の田村智子委員長は17日、那覇市の琉球新報ホールで開いた演説会で、名護市辺野古沖での船舶転覆事故について「修学旅行の高校生を船に乗せたこと自体が重大な誤りで、（船を運航していた）ヘリ基地反対協議会の構成団体である日本共産党として心からおわびを申し上げる」と述べた。 その上で「事故原因の解明、ご...</description>
@@ -41,18 +55,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/asahikokura0805/n/n3300f03f7354</comments>
     </item>
     <item>
-      <title>誰でもできる！ Geminiを使った「プロンプト講座」：似合う髪型がひと目でわかる『髪型コラージュ画像』の作り方</title>
-      <link>https://rocketnews24.com/2026/05/17/2760885/</link>
-      <description>&lt;img src="https://rocketnews24.com/wp-content/uploads/sites/2/2026/05/hairstyle.jpg?w=1200&amp;amp;h=630&amp;amp;crop=1" /&gt;&lt;br/&gt;» 誰でもできる！ Geminiを使った「プロンプト講座」：似合う髪型がひと目でわかる『髪型コラージュ画像』の作り方 特集 私（佐藤）にとって、もはや生活から欠くことのできない存在になった生成AI。Googleの「Gemini」をすでにパートナーとして活用しており、仕事だけでなく音楽制作などのプライベートな面でも積極的に...</description>
-      <pubDate>Sun, 17 May 2026 12:33:34 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/rocketnews24.com/2026/05/17/2760885/</comments>
-    </item>
-    <item>
       <title>ウクライナの地上ロボット、ロシア兵が潜む集合住宅を300kgの爆薬で丸ごと爆破 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
       <link>https://forbesjapan.com/articles/detail/97571</link>
       <description>&lt;img src="https://images.forbesjapan.com/media/article/97571/images/main_image_f84934856a4ee917d3a4c0e43dd5eb540947eb82.jpg" /&gt;&lt;br/&gt;(c) linkties Co., Ltd. Under license from Forbes.com LLC™ All rights reserved.</description>
       <pubDate>Sun, 17 May 2026 04:27:13 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/forbesjapan.com/articles/detail/97571</comments>
+    </item>
+    <item>
+      <title>ウクライナがモスクワへ大規模攻撃、3人死亡　ロシア国営メディア「ここ1年あまりで最大」</title>
+      <link>https://www.cnn.co.jp/world/35247613.html</link>
+      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/05/17/7cc5b0421276bf4847e39446f3f14bb0/2026-05-17t060927z-1453956728-rc2tala4o5o5-rtrmadp-3-ukraine-crisis-russia-drones-moscow.jpg" /&gt;&lt;br/&gt;ウクライナ軍のドローン攻撃により炎上したロシアの民家＝17日、モスクワ州ナロフォミンスクの村/Moscow regional Governor Andrei Vorobyov/Reuters （CNN）  ロシア国営タス通信は17日、地元当局者や軍関係者の話として、ウクライナが夜間に500機を超えるドローン（無人機）でロシアを攻撃し、首都モスクワ近郊で少な...</description>
+      <pubDate>Sun, 17 May 2026 08:19:38 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/world/35247613.html</comments>
     </item>
     <item>
       <title>データエンジニア向け Mermaid データモデル図 記法ガイド</title>
@@ -69,39 +83,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/golden-lucky.hatenablog.com/entry/2026/05/17/170605</comments>
     </item>
     <item>
+      <title>データセンターの雄叫び</title>
+      <link>https://zenn.dev/tokium_dev/articles/shouting-in-the-datacenter</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--MhLs-dtM--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25BB%25E3%2583%25B3%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AE%25E9%259B%2584%25E5%258F%25AB%25E3%2581%25B3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:tsushima_m%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1MTRmMkxMVHFIQ2g1OVNkLW5NWVJHRENpMlNmNWdzZ2RHYUhGdz1zOTYtYw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;クラウドが当たり前になって20年近くたちましたが、その裏側で無数の物理サーバーが稼働していることを忘れてはいけません。 余談 キャリアのほとんどをAWSに甘やかされてきた私ですが、1日だけサーバールームのネットワーク敷設に携わったことがあります。 それは10年も前の出来事で、社会人になりたの頃でした。 だい...</description>
+      <pubDate>Sat, 16 May 2026 09:55:57 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/tokium_dev/articles/shouting-in-the-datacenter</comments>
+    </item>
+    <item>
       <title>栃木強盗殺人、２５歳女と２８歳の夫を容疑で逮捕…指示役か</title>
       <link>https://www.yomiuri.co.jp/national/20260517-GYT1T00104/</link>
       <description>&lt;img src="https://www.yomiuri.co.jp/media/2026/05/20260517-GYT1I00105-1.jpg?type=ogpw" /&gt;&lt;br/&gt;【読売新聞】　栃木県上三川町の民家で親子３人が死傷した強盗殺人事件で、栃木県警は１７日、新たに事件の指示役とみられる横浜市港北区小机町、無職竹前海人容疑者（２８）と妻で無職の美結容疑者（２５）を強盗殺人容疑で逮捕した。 この事件では</description>
       <pubDate>Sun, 17 May 2026 08:51:47 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/national/20260517-GYT1T00104/</comments>
-    </item>
-    <item>
-      <title>【記事更新】レース中に熊の目撃情報、柏崎潮風マラソンが途中で中止に…イノシシの可能性も | 新潟日報</title>
-      <link>https://www.niigata-nippo.co.jp/articles/-/832134</link>
-      <description>&lt;img src="https://niigata-nippo.ismcdn.jp/mwimgs/c/5/1200m/img_c52029b2213d2293000f7a32367363a3263459.jpg?rd=202605151446" /&gt;&lt;br/&gt;１７日午前１０時ごろ、柏崎市内で開かれていた柏崎潮風マラソンのコースで、複数の関係者からクマ１頭を目撃したと市に通報があった。主催者は大会の続行は危険と判断し、中止とした。けが人はいない。地元の猟友会が現場を確認したところ、足跡などからイノシシの可能性もあるという。 柏崎市によると、目撃されたのは...</description>
-      <pubDate>Sun, 17 May 2026 09:15:28 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.niigata-nippo.co.jp/articles/-/832134</comments>
-    </item>
-    <item>
-      <title>「もし生まれ変わるとしたらデカパイ自撮り女になりたい」に対して収益化のパイオニアが登場、その世知辛い現状を語る</title>
-      <link>https://togetter.com/li/2698096</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/56864f31eb989e39c555d44c28bfa75e-1200x630.jpeg" /&gt;&lt;br/&gt;木野二平（木野一平II世） @niheikino もし生まれ変わることができたら 私は貝になりたい いや、デカパイ自撮り女になりたい！ デカパイ揺らした動画でインスタフォロワー数100万人になりたい！ 月額5千円のファンサイトで若干肌面積増やしただけで乳輪すらも見せないようなナメた写真を月2〜3枚出すだけで生活できるよ...</description>
-      <pubDate>Sun, 17 May 2026 09:52:59 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2698096</comments>
-    </item>
-    <item>
-      <title>“AI堕ち”とボコボコに叩かれたイラストレーター「七瀬葵」…それでも「コミケから生成AIの創作物を排除しちゃダメ」と語る理由 | デイリー新潮</title>
-      <link>https://www.dailyshincho.jp/article/2026/05171101/</link>
-      <description>&lt;img src="https://www.dailyshincho.com/wp-content/uploads/2026/05/1453857_1.jpg" /&gt;&lt;br/&gt;「週刊新潮」の発売前日に速報が届く！ メールマガジン登録 デイリー新潮とは？ 広告掲載について お問い合わせ 著作権・リンクについて ご購入について 免責事項 プライバシーポリシー データポリシー 運営：株式会社新潮社 Copyright © SHINCHOSHA All Rights Reserved. すべての画像・データについて無断転用・無断転...</description>
-      <pubDate>Sun, 17 May 2026 03:52:28 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.dailyshincho.jp/article/2026/05171101/</comments>
-    </item>
-    <item>
-      <title>国旗損壊罪、国連規約に抵触の可能性　国際人権団体がみる「危険性」：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASV5J25VHV5JUHBI01MM.html</link>
-      <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260516002068_comm.jpg" /&gt;&lt;br/&gt;日本で自民党が議論している国旗損壊罪創設について、国際人権団体ヒューマン・ライツ・ウォッチ（HRW）は「危険性」を指摘する。HRWのナンバー2で副事務局長のフェデリコ・ボレロ氏にその理由を聞いた。</description>
-      <pubDate>Sun, 17 May 2026 03:54:14 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV5J25VHV5JUHBI01MM.html</comments>
     </item>
   </channel>
 </rss>
