@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 17 May 2026 20:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 21:33:10 +0000</lastBuildDate>
     <item>
       <title>筋が悪そうに見える方針に口を出す - Konifar's ZATSU</title>
       <link>https://konifar-zatsu.hatenadiary.jp/entry/2026/05/16/092704</link>
@@ -41,18 +41,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/rocketnews24.com/2026/05/17/2760885/</comments>
     </item>
     <item>
-      <title>データエンジニア向け Mermaid データモデル図 記法ガイド</title>
-      <link>https://zenn.dev/yuichi_dev/articles/217f4d3165d59f</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--KY_M3SbF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E5%2590%2591%25E3%2581%2591%2520Mermaid%2520%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E5%259B%25B3%2520%25E8%25A8%2598%25E6%25B3%2595%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuichi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZiMmI0ZGExMjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;Mermaid の flowchart 記法でデータモデルの関係図を描くためのルール集です。 ER図・データリネージ図・スタースキーマなど、データエンジニア向けのモデリングにおける主要なユースケースをカバーします。</description>
-      <pubDate>Sun, 17 May 2026 03:40:35 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/yuichi_dev/articles/217f4d3165d59f</comments>
-    </item>
-    <item>
       <title>ウクライナの地上ロボット、ロシア兵が潜む集合住宅を300kgの爆薬で丸ごと爆破 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
       <link>https://forbesjapan.com/articles/detail/97571</link>
       <description>&lt;img src="https://images.forbesjapan.com/media/article/97571/images/main_image_f84934856a4ee917d3a4c0e43dd5eb540947eb82.jpg" /&gt;&lt;br/&gt;(c) linkties Co., Ltd. Under license from Forbes.com LLC™ All rights reserved.</description>
       <pubDate>Sun, 17 May 2026 04:27:13 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/forbesjapan.com/articles/detail/97571</comments>
+    </item>
+    <item>
+      <title>データエンジニア向け Mermaid データモデル図 記法ガイド</title>
+      <link>https://zenn.dev/yuichi_dev/articles/217f4d3165d59f</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--KY_M3SbF--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E5%2590%2591%25E3%2581%2591%2520Mermaid%2520%25E3%2583%2587%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25A2%25E3%2583%2587%25E3%2583%25AB%25E5%259B%25B3%2520%25E8%25A8%2598%25E6%25B3%2595%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuichi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzZiMmI0ZGExMjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;Mermaid の flowchart 記法でデータモデルの関係図を描くためのルール集です。 ER図・データリネージ図・スタースキーマなど、データエンジニア向けのモデリングにおける主要なユースケースをカバーします。</description>
+      <pubDate>Sun, 17 May 2026 03:40:35 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/yuichi_dev/articles/217f4d3165d59f</comments>
     </item>
     <item>
       <title>AI時代のコンピューター技術書 - golden-luckyの日記</title>
@@ -67,6 +67,20 @@
       <description>&lt;img src="https://niigata-nippo.ismcdn.jp/mwimgs/c/5/1200m/img_c52029b2213d2293000f7a32367363a3263459.jpg?rd=202605151446" /&gt;&lt;br/&gt;１７日午前１０時ごろ、柏崎市内で開かれていた柏崎潮風マラソンのコースで、複数の関係者からクマ１頭を目撃したと市に通報があった。主催者は大会の続行は危険と判断し、中止とした。けが人はいない。地元の猟友会が現場を確認したところ、足跡などからイノシシの可能性もあるという。 柏崎市によると、目撃されたのは...</description>
       <pubDate>Sun, 17 May 2026 09:15:28 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.niigata-nippo.co.jp/articles/-/832134</comments>
+    </item>
+    <item>
+      <title>栃木強盗殺人、２５歳女と２８歳の夫を容疑で逮捕…指示役か</title>
+      <link>https://www.yomiuri.co.jp/national/20260517-GYT1T00104/</link>
+      <description>&lt;img src="https://www.yomiuri.co.jp/media/2026/05/20260517-GYT1I00105-1.jpg?type=ogpw" /&gt;&lt;br/&gt;【読売新聞】　栃木県上三川町の民家で親子３人が死傷した強盗殺人事件で、栃木県警は１７日、新たに事件の指示役とみられる横浜市港北区小机町、無職竹前海人容疑者（２８）と妻で無職の美結容疑者（２５）を強盗殺人容疑で逮捕した。 この事件では</description>
+      <pubDate>Sun, 17 May 2026 08:51:47 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/national/20260517-GYT1T00104/</comments>
+    </item>
+    <item>
+      <title>「もし生まれ変わるとしたらデカパイ自撮り女になりたい」に対して収益化のパイオニアが登場、その世知辛い現状を語る</title>
+      <link>https://togetter.com/li/2698096</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/56864f31eb989e39c555d44c28bfa75e-1200x630.jpeg" /&gt;&lt;br/&gt;木野二平（木野一平II世） @niheikino もし生まれ変わることができたら 私は貝になりたい いや、デカパイ自撮り女になりたい！ デカパイ揺らした動画でインスタフォロワー数100万人になりたい！ 月額5千円のファンサイトで若干肌面積増やしただけで乳輪すらも見せないようなナメた写真を月2〜3枚出すだけで生活できるよ...</description>
+      <pubDate>Sun, 17 May 2026 09:52:59 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2698096</comments>
     </item>
     <item>
       <title>“AI堕ち”とボコボコに叩かれたイラストレーター「七瀬葵」…それでも「コミケから生成AIの創作物を排除しちゃダメ」と語る理由 | デイリー新潮</title>
@@ -90,13 +104,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2698037</comments>
     </item>
     <item>
-      <title>「もし生まれ変わるとしたらデカパイ自撮り女になりたい」に対して収益化のパイオニアが登場、その世知辛い現状を語る</title>
-      <link>https://togetter.com/li/2698096</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/56864f31eb989e39c555d44c28bfa75e-1200x630.jpeg" /&gt;&lt;br/&gt;木野二平（木野一平II世） @niheikino もし生まれ変わることができたら 私は貝になりたい いや、デカパイ自撮り女になりたい！ デカパイ揺らした動画でインスタフォロワー数100万人になりたい！ 月額5千円のファンサイトで若干肌面積増やしただけで乳輪すらも見せないようなナメた写真を月2〜3枚出すだけで生活できるよ...</description>
-      <pubDate>Sun, 17 May 2026 09:52:59 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2698096</comments>
-    </item>
-    <item>
       <title>国旗損壊罪、国連規約に抵触の可能性　国際人権団体がみる「危険性」：朝日新聞</title>
       <link>https://www.asahi.com/articles/ASV5J25VHV5JUHBI01MM.html</link>
       <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260516002068_comm.jpg" /&gt;&lt;br/&gt;日本で自民党が議論している国旗損壊罪創設について、国際人権団体ヒューマン・ライツ・ウォッチ（HRW）は「危険性」を指摘する。HRWのナンバー2で副事務局長のフェデリコ・ボレロ氏にその理由を聞いた。</description>
@@ -109,20 +116,6 @@
       <description>&lt;img src="https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/WhiteCanvas-4.jpg" /&gt;&lt;br/&gt;ソーシャル・ネットワーキング・サービス「X」は5月15日～5月16日頃、同サービスにおける投稿制限についてヘルプページを更新。記事執筆時点で日本語版には掲載されていないが、英語版に新たに追加された記述が話題を呼んでいる。 具体的には「未認証アカウントが行える1日あたりの通常ポストが50件、リプライが200件に...</description>
       <pubDate>Sun, 17 May 2026 03:38:45 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.denfaminicogamer.jp/news/260517b</comments>
-    </item>
-    <item>
-      <title>なぜモダニズム建築は壊されてしまうのか。専門家・松隈洋が語る、いま私たちに問われていること</title>
-      <link>https://bijutsutecho.com/magazine/interview/32472</link>
-      <description>&lt;img src="https://bt.imgix.net/magazine/32472/main/1778112710499_a92d733e8e0622fb9aefc4b5b31437a4.jpg?v=19&amp;amp;cs=origin&amp;amp;q=90&amp;amp;fm=jpg&amp;amp;fit=crop&amp;amp;crop=faces%2Cedges&amp;amp;w=1200&amp;amp;h=630" /&gt;&lt;br/&gt;解体が決まった「船の体育館」──日本を代表する建築家のひとりである丹下健三が設計した旧香川県立体育館（通称「船の体育館」、1964竣工）が解体されることとなり、2026年4月10日に解体工事が始まりました。なぜこういった貴重なモダニズム建築が壊されてしまうのかを考えていきたいのですが、そもそも「モダニズム建築...</description>
-      <pubDate>Sun, 17 May 2026 05:19:51 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/bijutsutecho.com/magazine/interview/32472</comments>
-    </item>
-    <item>
-      <title>アメリカが台湾に「独立宣言するなよ？」に釘を差したら台湾が「宣言も何も既に独立主権国家だが？」と表明したがダチョウ倶楽部かなにかか？</title>
-      <link>https://togetter.com/li/2698022</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/3f2a991590bde4eb787abe4b8313bc15-1200x630.jpeg" /&gt;&lt;br/&gt;台湾、既に「独立国」だと表明 トランプ氏の警告受け　写真1枚　国際ニュース：AFPBB News 【5月16日 AFP】（更新）ドナルド・トランプ米大統領が台湾に対し正式な独立宣言をしないよう警告したことを受け、台湾は16日、台湾は既に「独立国」だと表明した 37 users www.afpbb.com</description>
-      <pubDate>Sun, 17 May 2026 06:28:01 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2698022</comments>
     </item>
   </channel>
 </rss>
