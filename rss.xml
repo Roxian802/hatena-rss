@@ -4,14 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 18 May 2026 01:33:13 +0000</lastBuildDate>
-    <item>
-      <title>専任情シスがいない20人規模の町工場で、自分たちでランサムウェア対策基盤を組む - Qiita</title>
-      <link>https://qiita.com/masakai/items/d55a39ac35dca575b8ce</link>
-      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY4Nzk0OCUyRjI0ZGQzYTI1ZWRjZDAxMjM5NjJiYWJhNDhlY2YzZWY4Nzk3MTEwOGIlMkZ4X2xhcmdlLnBuZyUzRjE3NzI5ODI5MjQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTUzNmQyNDNkOTk3Y2E1MjhiOTgyNDJmZDk4NzcyMWZh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dca2987e2b2d26b3e9b2757d511debf43?ixlib=rb-4.1.1&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JUIwJTgyJUU0JUJCJUJCJUU2JTgzJTg1JUUzJTgyJUI3JUUzJTgyJUI5JUUzJTgxJThDJUUzJTgxJTg0JUUzJTgxJUFBJUUzJTgxJTg0MjAlRTQlQkElQkElRTglQTYlOEYlRTYlQTglQTElRTMlODElQUUlRTclOTQlQkElRTUlQjclQTUlRTUlQTAlQjQlRTMlODElQTclRTMlODAlODElRTglODclQUElRTUlODglODYlRTMlODElOUYlRTMlODElQTElRTMlODElQTclRTMlODMlQTklRTMlODMlQjMlRTMlODIlQjUlRTMlODMlQTAlRTMlODIlQTYlRTMlODIlQTclRTMlODIlQTIlRTUlQUYlQkUlRTclQUQlOTYlRTUlOUYlQkElRTclOUIlQTQlRTMlODIlOTIlRTclQjUlODQlRTMlODIlODAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00NzgwYzc3NjIzZGZjNmI1OGI4MGY3ZDcyYjdiZjE2Mg&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYXNha2FpJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Y2Q5MTM3OTI0NjBmNjg4OTFiM2M3ZjkxMmE3ZmJjMTc&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=6346d53f658ef730d9a2764d574b7c59" /&gt;&lt;br/&gt;中小企業や町工場でセキュリティ対策を進めようとすると、よく出てくる悩みがあります。 「大企業みたいなSOCやSIEMは無理だけど、ランサムウェアは怖い」 「NASで共有している図面や受発注データが止まったら、本当に仕事にならない」 「専任の情シスはいない。でも、できるところは自分たちで構築したい」 この記事で...</description>
-      <pubDate>Sun, 17 May 2026 07:44:58 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/masakai/items/d55a39ac35dca575b8ce</comments>
-    </item>
+    <lastBuildDate>Mon, 18 May 2026 02:33:10 +0000</lastBuildDate>
     <item>
       <title>今まで衝撃を受けたゲームのギミック集メモ</title>
       <link>https://anond.hatelabo.jp/20260516134140</link>
@@ -27,11 +20,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/newsdig.tbs.co.jp/articles/-/2666132</comments>
     </item>
     <item>
+      <title>専任情シスがいない20人規模の町工場で、自分たちでランサムウェア対策基盤を組む - Qiita</title>
+      <link>https://qiita.com/masakai/items/d55a39ac35dca575b8ce</link>
+      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkY4Nzk0OCUyRjI0ZGQzYTI1ZWRjZDAxMjM5NjJiYWJhNDhlY2YzZWY4Nzk3MTEwOGIlMkZ4X2xhcmdlLnBuZyUzRjE3NzI5ODI5MjQ_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPTUzNmQyNDNkOTk3Y2E1MjhiOTgyNDJmZDk4NzcyMWZh%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dca2987e2b2d26b3e9b2757d511debf43?ixlib=rb-4.1.1&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUU1JUIwJTgyJUU0JUJCJUJCJUU2JTgzJTg1JUUzJTgyJUI3JUUzJTgyJUI5JUUzJTgxJThDJUUzJTgxJTg0JUUzJTgxJUFBJUUzJTgxJTg0MjAlRTQlQkElQkElRTglQTYlOEYlRTYlQTglQTElRTMlODElQUUlRTclOTQlQkElRTUlQjclQTUlRTUlQTAlQjQlRTMlODElQTclRTMlODAlODElRTglODclQUElRTUlODglODYlRTMlODElOUYlRTMlODElQTElRTMlODElQTclRTMlODMlQTklRTMlODMlQjMlRTMlODIlQjUlRTMlODMlQTAlRTMlODIlQTYlRTMlODIlQTclRTMlODIlQTIlRTUlQUYlQkUlRTclQUQlOTYlRTUlOUYlQkElRTclOUIlQTQlRTMlODIlOTIlRTclQjUlODQlRTMlODIlODAmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz00NzgwYzc3NjIzZGZjNmI1OGI4MGY3ZDcyYjdiZjE2Mg&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBtYXNha2FpJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9Y2Q5MTM3OTI0NjBmNjg4OTFiM2M3ZjkxMmE3ZmJjMTc&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=6346d53f658ef730d9a2764d574b7c59" /&gt;&lt;br/&gt;中小企業や町工場でセキュリティ対策を進めようとすると、よく出てくる悩みがあります。 「大企業みたいなSOCやSIEMは無理だけど、ランサムウェアは怖い」 「NASで共有している図面や受発注データが止まったら、本当に仕事にならない」 「専任の情シスはいない。でも、できるところは自分たちで構築したい」 この記事で...</description>
+      <pubDate>Sun, 17 May 2026 07:44:58 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/masakai/items/d55a39ac35dca575b8ce</comments>
+    </item>
+    <item>
       <title>そーだ、空気を作ったら売れるかな！必需品だからうれるよね？</title>
       <link>https://anond.hatelabo.jp/20260514225440</link>
       <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;売ってる人もほぼいないし、ブルーオーシャンな気がする！ ただ、空気の作り方が分からない 原材料ってどこにあるんだろ 酸素とか窒素とか、 いい感じに混ぜ混ぜしないと！ たくさん作って、みんなに配るよ！ サブスク方式でもいいよ！ そうだ、ボンベに入れて家に設置でもいいかも 美味しい空気だと爆売れするかも！！ ...</description>
       <pubDate>Sun, 17 May 2026 22:45:54 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260514225440</comments>
+    </item>
+    <item>
+      <title>「招かれてないよ」斎藤知事「神戸まつり」パレード参加に反対派が抗議　「何のデモなん」戸惑う一般客も</title>
+      <link>https://www.j-cast.com/2026/05/17514782.html?p=all</link>
+      <description>&lt;img src="https://www.j-cast.com/images/origin/2026/05/news_20260517191203.jpg" /&gt;&lt;br/&gt;抗議の声も、知事はサムズアップで会場を後に 斎藤知事は、2027年に関西で開かれる生涯スポーツの祭典「ワールドマスターズゲームズ2027関西」をPRするため、パレードに参加。テニスラケットを持ち、白い帽子、赤シャツ、半ズボン姿に同祭典のタスキを付けて約750mの距離を練り歩いた。 知事はラケットを振って、さまざ...</description>
+      <pubDate>Sun, 17 May 2026 13:27:57 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.j-cast.com/2026/05/17514782.html?p=all</comments>
     </item>
     <item>
       <title>Claude Code を社内導入する時の最低限ガードレール5項目 — 機密情報を漏らさない設定パターン - Qiita</title>
@@ -69,39 +76,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/rocketnews24.com/2026/05/17/2760885/</comments>
     </item>
     <item>
-      <title>共産党、辺野古事故でおわび　高校生乗せたこと「重大な過ち」　</title>
-      <link>https://ryukyushimpo.jp/news/entry-5254412.html</link>
-      <description>&lt;img src="https://ryukyushimpo.jp/tachyon/2026/05/%E7%94%B0%E6%9D%91%E6%B0%8F.jpg?resize=1200%2C630&amp;amp;gravity&amp;amp;crop=0px%2C60px%2C1200px%2C630px" /&gt;&lt;br/&gt;共産党の田村智子委員長は17日、那覇市の琉球新報ホールで開いた演説会で、3月に名護市辺野古沖で起きた船舶転覆事故について「修学旅行の高校生を船に乗せたこと自体が重大な誤りで、（船を運航していた）ヘリ基地反対協議会の構成団体である日本共産党として心からおわびを申し上げる」と述べた。 その上で「事故原因...</description>
-      <pubDate>Sun, 17 May 2026 09:18:46 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ryukyushimpo.jp/news/entry-5254412.html</comments>
-    </item>
-    <item>
       <title>Claude Code を大規模コードベースで使うベストプラクティス - izanami</title>
       <link>https://izanami.dev/post/af045ef8-eff9-4317-b05a-abce17e14f55</link>
       <description>&lt;img src="https://izanami.dev/post/af045ef8-eff9-4317-b05a-abce17e14f55/opengraph-image-1umokf?5589478d64c13f8a" /&gt;&lt;br/&gt;Claude Code の精度はモデルよりハーネスの整備で決まる。CLAUDE .md はルートを薄く、ローカルな規約はサブディレクトリに書く。作業はリポジトリルートやなくサブディレクトリで始める Claude Code を大規模コードベースで使うベストプラクティス Claude Code の精度は、使うモデルよりハーネス（CLAUDE .md などの設...</description>
       <pubDate>Sat, 16 May 2026 14:02:39 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/izanami.dev/post/af045ef8-eff9-4317-b05a-abce17e14f55</comments>
-    </item>
-    <item>
-      <title>ウクライナの地上ロボット、ロシア兵が潜む集合住宅を300kgの爆薬で丸ごと爆破 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-      <link>https://forbesjapan.com/articles/detail/97571</link>
-      <description>&lt;img src="https://images.forbesjapan.com/media/article/97571/images/main_image_f84934856a4ee917d3a4c0e43dd5eb540947eb82.jpg" /&gt;&lt;br/&gt;(c) linkties Co., Ltd. Under license from Forbes.com LLC™ All rights reserved.</description>
-      <pubDate>Sun, 17 May 2026 04:27:13 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/forbesjapan.com/articles/detail/97571</comments>
-    </item>
-    <item>
-      <title>ウクライナがモスクワへ大規模攻撃、3人死亡　ロシア国営メディア「ここ1年あまりで最大」</title>
-      <link>https://www.cnn.co.jp/world/35247613.html</link>
-      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/05/17/7cc5b0421276bf4847e39446f3f14bb0/2026-05-17t060927z-1453956728-rc2tala4o5o5-rtrmadp-3-ukraine-crisis-russia-drones-moscow.jpg" /&gt;&lt;br/&gt;ウクライナ軍のドローン攻撃により炎上したロシアの民家＝17日、モスクワ州ナロフォミンスクの村/Moscow regional Governor Andrei Vorobyov/Reuters （CNN）  ロシア国営タス通信は17日、地元当局者や軍関係者の話として、ウクライナが夜間に500機を超えるドローン（無人機）でロシアを攻撃し、首都モスクワ近郊で少な...</description>
-      <pubDate>Sun, 17 May 2026 08:19:38 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/world/35247613.html</comments>
-    </item>
-    <item>
-      <title>カドカワの業績悪化はなろうのせいではないが、むしろカドカワの問題はもっと根深い｜あさひっち</title>
-      <link>https://note.com/asahikokura0805/n/n3300f03f7354</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/276617852/rectangle_large_type_2_77e56352f5a6268ab4556ac3cbfc168c.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;【追記】文章が長くなってしまったので、文章だけだと読むのが大変かなと思って補助のためにAIで作ったスライドを入れたのですが、圧倒的に不評だったので、スライドだけ有料部分に隠します。文章は全文無料で読めます 2026年5月、カドカワの2026年3月期決算が発表された。出版事業の営業利益が前年の+32億円から-10億円...</description>
-      <pubDate>Sun, 17 May 2026 06:47:27 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/asahikokura0805/n/n3300f03f7354</comments>
     </item>
   </channel>
 </rss>
