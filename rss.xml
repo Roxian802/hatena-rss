@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 20 May 2026 01:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 02:33:10 +0000</lastBuildDate>
     <item>
       <title>「おじさんは履かないで、キモいから」東京クールビズの“ハーフパンツ”に賛否…「性的対象化」「身体的境界性」専門家が紐解く不快の心理とは | 国内 | ABEMA TIMES | アベマタイムズ</title>
       <link>https://times.abema.tv/articles/-/10246541</link>
@@ -18,6 +18,13 @@
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--He-8GtAS--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%259B%259E%25E5%25B8%25B0%25E5%2588%2586%25E6%259E%2590%25E3%2581%25A3%25E3%2581%25A6%25E7%259F%25A5%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%258B%25EF%25BC%259F%25E2%2580%2595%25E5%25AE%258C%25E5%2585%25A8%25E3%2581%25AB%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%259F%25E4%25BA%25BA%25E3%2581%25B8%25E8%25B4%2588%25E3%2582%258B%25E7%25B5%25B6%25E6%259C%259B%25E3%2581%25AE%25E8%25B0%25B7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:redtea%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzIzM2I4MmRkNzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;本記事では偉そうに Level 分けをしていますが、順序に厳密な意味があるわけではなく、多角的な観点からの理解度を示しています。 記事の面白さやキャッチーさを優先してこのような形式をとっていることをご了承ください。 回帰分析への理解は、ダニングクルーガー効果の絶望の谷を味わい続けるのにもってこいです。さて...</description>
       <pubDate>Tue, 19 May 2026 09:04:18 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/green_tea/articles/0bce4d47ab0674</comments>
+    </item>
+    <item>
+      <title>あるソフトウェアエンジニアの1日（2028）</title>
+      <link>https://iwashi.co/2026/05/19/a-day-in-engineering-2028</link>
+      <description>&lt;img src="https://iwashi.co/assets/images/ogp/2026-05-19-a-day-in-engineering-2028_ogp.png" /&gt;&lt;br/&gt;午前8:00 「夜の仕事」を確認する 起床してベッドの中で最初に開くのは、Slackでもメールでもなく、自分専用のエージェントダッシュボードだ。 昨日の終業時に5つのタスクを走らせて帰った。それぞれに「夜のうちにこのゴールまで進めてくれ」と指示しておいた。 先週リリースした検索機能のp95レイテンシ悪化の原因経路...</description>
+      <pubDate>Tue, 19 May 2026 22:07:02 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/iwashi.co/2026/05/19/a-day-in-engineering-2028</comments>
     </item>
     <item>
       <title>財務省、障害福祉の費用抑制求める　10年で約２倍に拡大〈財政審〉｜福祉新聞</title>
@@ -41,11 +48,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/spotlight.fantia.jp/news/260519_guideline</comments>
     </item>
     <item>
+      <title>分割キーボードをやめた - pospomeのプログラミング日記</title>
+      <link>https://www.pospome.work/entry/2026/05/16/132746</link>
+      <description>&lt;img src="https://ogimage.blog.st-hatena.com/10328749687199202561/17179246901381125854/1778905666" /&gt;&lt;br/&gt;株式会社カミナシで VPoE を務めている pospome です。 (´・ω・`) ここ数年ほど分割キーボードを使っていたのですが、やめました。 ↓はウッキウキで分割キーボードを買ったときの記事です・・・。 www.pospome.work なぜやめたのか 1. 分割キーボードがない環境だとタイピング能力が落ちてしまう 2. 重くて持ち運びする...</description>
+      <pubDate>Sat, 16 May 2026 14:08:58 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.pospome.work/entry/2026/05/16/132746</comments>
+    </item>
+    <item>
       <title>sudoもrebootも効かないLinuxサーバをなんとか再起動する時のメモ - お腹.ヘッタ。</title>
       <link>https://takeio.hatenablog.com/entry/2026/05/19/223138</link>
       <description>&lt;img src="https://ogimage.blog.st-hatena.com/8454420450095874247/17179246901389748673/1779201035" /&gt;&lt;br/&gt;概要 色々ドライバを弄っていたところ、カーネルの共有ワークキューである events_unbound が長時間ブロックされ、そのワーク項目が RTNL を保持したまま離さない状況に陥りました。 具体的には後続のカーネル処理がワークキュー上で滞留し、D state のプロセスが連鎖的に累積しました。 大変残念なことに、D state は割...</description>
       <pubDate>Tue, 19 May 2026 14:17:24 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/takeio.hatenablog.com/entry/2026/05/19/223138</comments>
+    </item>
+    <item>
+      <title>高卒の母親が、娘を東大に入れようと教育ママとして頑張っていたら、学歴至上主義になった娘から「高卒のくせに」と見下されるようになってしまう話</title>
+      <link>https://togetter.com/li/2699047</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/353cd7f12c7a1336f9ef433efb05987b-1200x630.jpeg" /&gt;&lt;br/&gt;山田シロ彦　『理想郷女子図鑑』連載中 @46chan2000 『理想郷女子図鑑』の東大ママ編&#x1f469;‍&#x1f393;からの抜粋でした！ちょっぴり畜生な女子達が不思議な道具に翻弄される、世にも奇妙なマリッジオムニバスストーリーです&#x1f492; 単行本3巻は本日発売なので興味ありましたら是非！ ※東大ママ編の前半部分は2巻に収録されております！ amzn...</description>
+      <pubDate>Tue, 19 May 2026 16:51:07 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2699047</comments>
     </item>
     <item>
       <title>「自助努力がないと他国は助けてくれない」ウクライナ侵略で東大・小泉氏が講演　神戸</title>
@@ -62,6 +83,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14328109.html</comments>
     </item>
     <item>
+      <title>東京調布で野川が盛大に瀬切れしているのでサイクルトレインで見に行ってきた - I AM A DOG</title>
+      <link>https://moognyk.jp/entry/2026/05/19/080000</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/6ebe2d0fbb3822599309e28cf36ac882eb143fa0/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FO%2FOKP%2F20260518%2F20260518232907.jpg" /&gt;&lt;br/&gt;野川に水がない！ サイクルトレインで野川の瀬切れを見に行く 武蔵野公園、野川公園付近でも小さな瀬切れ 三鷹市大沢〜虎狛橋までは水量が安定 榎橋から下流は断続的に瀬切れ（流れ込みで復活） 京王線野川橋梁付近の瀬切れ 河床整備工事で伏流水を瀬替えしている？ 世田谷区に入り湧水量も増えて流量は安定？ 成城みつ...</description>
+      <pubDate>Mon, 18 May 2026 23:04:20 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/moognyk.jp/entry/2026/05/19/080000</comments>
+    </item>
+    <item>
       <title>全員が正しいのに何も決まらない会議の正体 | サイボウズ式</title>
       <link>https://cybozushiki.cybozu.co.jp/articles/m006319.html</link>
       <description>&lt;img src="https://cybozushiki.cybozu.co.jp/images/nwiizo3_eyecatch_v2_OGP.png" /&gt;&lt;br/&gt;話題の人気ブログ「おい、」シリーズの著者で、ソフトウェアエンジニアのnwiizoさんによる新連載「生産性を取り戻せ」。この連載では「仕事の生産性」をあらゆる角度からとらえ、チームで生産性を高めていくためのヒントを探っていきます。 第3回は「賢い人しかいないチームが、なぜミスを犯すのか？」を考えます。 はじ...</description>
@@ -69,11 +97,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/cybozushiki.cybozu.co.jp/articles/m006319.html</comments>
     </item>
     <item>
-      <title>東京調布で野川が盛大に瀬切れしているのでサイクルトレインで見に行ってきた - I AM A DOG</title>
-      <link>https://moognyk.jp/entry/2026/05/19/080000</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/6ebe2d0fbb3822599309e28cf36ac882eb143fa0/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2FO%2FOKP%2F20260518%2F20260518232907.jpg" /&gt;&lt;br/&gt;野川に水がない！ サイクルトレインで野川の瀬切れを見に行く 武蔵野公園、野川公園付近にも小さな瀬切れ 三鷹市大沢〜虎狛橋までは水量が安定 榎橋から下流は断続的に瀬切れ（流れ込みで復活） 京王線野川橋梁付近の瀬切れ 河床整備工事で伏流水を瀬替えしている？ 世田谷区に入り湧水量も増えて水量は安定？ 成城みつ...</description>
-      <pubDate>Mon, 18 May 2026 23:04:20 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/moognyk.jp/entry/2026/05/19/080000</comments>
+      <title>[5話]ヒトナー - 屋宜知宏 | 少年ジャンプ＋</title>
+      <link>https://shonenjumpplus.com/episode/9253191253895587181</link>
+      <description>&lt;img src="https://cdn-ak-img.shonenjumpplus.com/public/series-thumbnail/17107419589536330256-b9397cd973902bcf56b59386e32abb34?1778479244" /&gt;&lt;br/&gt;ヒトナー 屋宜知宏 &lt;隔週水曜更新&gt;ケモノが住む最果ての星に一人の地球人が訪れる。獣人たちは初めて目にする"ヒト"の姿に揺れ動く。異種族交流の中で変化するケモ社会・・・『アイアンナイト』、『レッドスプライト』の屋宜知宏が描くハートフル異種族観察物語!!</description>
+      <pubDate>Tue, 19 May 2026 15:00:31 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/shonenjumpplus.com/episode/9253191253895587181</comments>
     </item>
     <item>
       <title>【速報】自民修正案、AI創作の国旗は処罰対象外に</title>
@@ -81,20 +109,6 @@
       <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;自民党が議論している日本国旗を損壊する行為を罰する法案を巡り、修正された骨子案が19日判明した。損壊した場合に処罰対象となる国旗は布などで作られ掲げられる「有体物」とし「生成人工知能（AI）による創作物」は対象外とする。</description>
       <pubDate>Tue, 19 May 2026 11:46:19 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14327848.html</comments>
-    </item>
-    <item>
-      <title>男性漫画家だって対人関係の機微を描くのは上手いと思うけどなあ</title>
-      <link>https://anond.hatelabo.jp/20260519224236</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;人間関係の繊細さを描いた漫画を上げるとしたら、意外だと思うかもしれないが、ドラゴンボールのナメック星編だ。 ドラゴンボールなのだから勝負・戦闘だと思うだろうが、ナメック星編は人間の心理描写を見事に描いている。 まずナメック星編には３つの勢力が出てくる。 悟飯・クリリンの地球人勢と、フリーザ軍団と、ベ...</description>
-      <pubDate>Tue, 19 May 2026 13:44:29 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260519224236</comments>
-    </item>
-    <item>
-      <title>「読んでみな、飛ぶぞ」みたいに衝撃的に面白かった本があれば教えて！「徹夜で読んだ」「これから読むどんな本も超えられない」などオススメの本と理由が集まる</title>
-      <link>https://togetter.com/li/2698430</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/f72690a1bcf965caa6a7a182ff282d08-1200x630.jpeg" /&gt;&lt;br/&gt;ゆうまろ@読書猫 @yuumaro0501 読んでみな、飛ぶぞ 衝撃的に面白い本を教えていただいたので禁断のリストにまとめました&#x1fae1; 見にくいかもしれませんが よかったら、、 XとThreadsで募集して 約100人の方から120冊近くおすすめしてもらいました&#x1fae1; ありがとうございました！ こんなにたくさん、、 #読書好きと繋がりたい #お...</description>
-      <pubDate>Tue, 19 May 2026 07:30:03 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2698430</comments>
     </item>
   </channel>
 </rss>
