@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 22 May 2026 02:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 03:33:10 +0000</lastBuildDate>
     <item>
       <title>今のところ、日本政府のナフサ危機への対応は、そこまで的外れではないよ..</title>
       <link>https://anond.hatelabo.jp/20260521215039</link>
@@ -27,13 +27,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.keisuke69.net/entry/2026/05/22/073948</comments>
     </item>
     <item>
-      <title>辺野古沖転覆事故 文科省の調査結果「高校は極めて不適切」 | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/na-k10015128261000</link>
-      <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260522/K10015128261_2605220028_0522060049_01_02.jpg" /&gt;&lt;br/&gt;研修旅行中の京都の高校生が乗った船が、アメリカ軍普天間基地の移設工事が進む沖縄県名護市辺野古の沖合で転覆し、高校生と船長が死亡した事故で、文部科学省が高校の安全管理や教育活動を、「極めて不適切だ」とす…</description>
-      <pubDate>Thu, 21 May 2026 21:29:29 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015128261000</comments>
-    </item>
-    <item>
       <title>死亡した抗議船の船長、同志社国際高から謝礼6回受領　国交省「有償性」確認</title>
       <link>https://www.sankei.com/article/20260522-JTU5GFGJYFOZJL6JI7ELXDN3RI/</link>
       <description>&lt;img src="https://www.sankei.com/resizer/v2/7EMY5D5XINOAVDEK3QOCYRQPRI.jpg?auth=73cfc744249dac67399b63fc0f09b7ed3e5582db842dd865196119933be261d0&amp;amp;quality=50&amp;amp;focal=2011%2C1421&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;辺野古漁港に引き揚げられた、転覆した移設抗議船の「平和丸」＝3月16日午後、沖縄県名護市（大竹直樹撮影） 沖縄県名護市辺野古沖で船2隻が転覆して平和学習中だった同志社国際高（京都府）の女子生徒ら2人が死亡した事故で、国土交通省は22日午後にも、海上運送法に基づく事業登録を受けずに運送を行ったとして抗議船...</description>
@@ -41,11 +34,39 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260522-JTU5GFGJYFOZJL6JI7ELXDN3RI/</comments>
     </item>
     <item>
+      <title>辺野古沖転覆事故 文科省の調査結果「高校は極めて不適切」 | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015128261000</link>
+      <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260522/K10015128261_2605220028_0522060049_01_02.jpg" /&gt;&lt;br/&gt;研修旅行中の京都の高校生が乗った船が、アメリカ軍普天間基地の移設工事が進む沖縄県名護市辺野古の沖合で転覆し、高校生と船長が死亡した事故で、文部科学省が高校の安全管理や教育活動を、「極めて不適切だ」とす…</description>
+      <pubDate>Thu, 21 May 2026 21:29:29 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015128261000</comments>
+    </item>
+    <item>
+      <title>「URLを誰にも教えてない」が通じない理由 — CTログを30分監視してみた</title>
+      <link>https://zenn.dev/tkydev/articles/2026-05-21_ct_log</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--rEqX5MGV--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CURL%25E3%2582%2592%25E8%25AA%25B0%25E3%2581%25AB%25E3%2582%2582%25E6%2595%2599%25E3%2581%2588%25E3%2581%25A6%25E3%2581%25AA%25E3%2581%2584%25E3%2580%258D%25E3%2581%258C%25E9%2580%259A%25E3%2581%2598%25E3%2581%25AA%25E3%2581%2584%25E7%2590%2586%25E7%2594%25B1%2520%25E2%2580%2594%2520CT%25E3%2583%25AD%25E3%2582%25B0%25E3%2582%259230%25E5%2588%2586%25E7%259B%25A3%25E8%25A6%2596%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tokiya%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNhMzcwZThjZjUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;Webサイト/アプリを公開するとき、「URLを誰にも教えていないから大丈夫」と油断していませんか？ 結論から言うと、これは成り立ちません。 独自ドメインを取って HTTPS の証明書を発行すると、その時点でドメイン名は CT（Certificate Transparency）ログという公開ログに記録されます。 このログを監視しているbotは大...</description>
+      <pubDate>Thu, 21 May 2026 08:49:08 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/tkydev/articles/2026-05-21_ct_log</comments>
+    </item>
+    <item>
+      <title>同志社国際高の辺野古移設めぐる学習、文科相「教育基本法に違反」：朝日新聞</title>
+      <link>https://www.asahi.com/articles/ASV5P7DXHV5PPLZB00JM.html</link>
+      <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260522000698_comm.jpg" /&gt;&lt;br/&gt;沖縄県名護市辺野古沖で小型船2隻が転覆し、研修旅行の平和学習で訪れていた同志社国際高校（京都府）の生徒ら2人が死亡した事故を受け、松本洋平文部科学相は22日の記者会見で、辺野古への移設工事に関する同…</description>
+      <pubDate>Fri, 22 May 2026 00:17:14 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV5P7DXHV5PPLZB00JM.html</comments>
+    </item>
+    <item>
       <title>GoogleのModern Web Guidanceに学ぶ、モダンCSSのDos / Don'ts大全</title>
       <link>https://zenn.dev/ubie_dev/articles/modern-css-dos-donts</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--99dbMdAp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Google%25E3%2581%25AEModern%2520Web%2520Guidance%25E3%2581%25AB%25E5%25AD%25A6%25E3%2581%25B6%25E3%2580%2581%25E3%2583%25A2%25E3%2583%2580%25E3%2583%25B3CSS%25E3%2581%25AEDos%2520%252F%2520Don%2527ts%25E5%25A4%25A7%25E5%2585%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E9%25B9%25BF%25E9%2587%258E%2520%25E5%25A3%25AE%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VlOWMzMWRhODMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Ubie%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2hwRUMxbUtjVjZsX01lT2R6N1Nsejk1SXR4WUZoYjB2LTNOdzNjV3c9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;Googleがリリースした「Modern Web Guidance」スキルを使うと、AIエージェントが最新のWeb機能でコードを書けるようになります。 スキルが参照するガイドラインはMarkdownで書かれており、Googleが推奨するWeb開発のDos / Don'ts、つまり「やるべきこと・やってはいけないこと」がまとまっています。Googleお墨付きの、...</description>
       <pubDate>Thu, 21 May 2026 11:02:25 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/ubie_dev/articles/modern-css-dos-donts</comments>
+    </item>
+    <item>
+      <title>ライターが、作品に「朝食の目玉焼きを作る時フライパンに水を入れて蓋をして蒸す」という描写を入れたら、ディレクターから「目玉焼きはそんな作り方しません」と言われた話</title>
+      <link>https://togetter.com/li/2699879</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/786a7f5162b45626ac70b6d95b2c7418-1200x630.jpeg" /&gt;&lt;br/&gt;阿羅本 景@『今日もビールでがんばらない』第4巻発売 @aramotokei 知り合いのライターの人が、キャラの「朝食の目玉焼きを作る時フライパンに水を入れて蓋をして蒸す」という描写を入れたら、ディレクターに「目玉焼きはそんな作り方しません」っていわれて（そういう料理の風土からいらしたの！？）となってビクンビク...</description>
+      <pubDate>Fri, 22 May 2026 00:06:09 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2699879</comments>
     </item>
     <item>
       <title>あえて有線誘導、ヒズボラのドローンが攻勢　イスラエルは対策公募中：朝日新聞</title>
@@ -62,6 +83,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2699657</comments>
     </item>
     <item>
+      <title>伊藤忠、事務職を再定義　440万人余剰の「AI氷河期」に先手 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC113MM0R10C26A5000000/</link>
+      <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO2996015011052026000000-1.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=23a44aa0af1cedb49657a4a85d7cb785" /&gt;&lt;br/&gt;事務職で約440万人、大学・大学院卒の文系人材で約80万人の余剰が生じる可能性がある──。経済産業省が2026年3月に公表した「2040年の就業構造推計（改訂版）について」では、職種や学歴間でこうした労働需給のミスマッチが生じるリスクが示された。同推計によると、人工知能（AI）やロボットの利活用、リスキリングなど...</description>
+      <pubDate>Thu, 21 May 2026 18:17:54 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUC113MM0R10C26A5000000/</comments>
+    </item>
+    <item>
       <title>宮城喜久子氏の講演｜辺野古ボート転覆事故遺族メモ</title>
       <link>https://note.com/beloved_tomoka/n/nd1df9a5a5a5e</link>
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/278261003/rectangle_large_type_2_5b888ef58ee000bf67312f810fafa665.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;過去の資料を読んでいると、記事として書き残しておきたいことがたくさん出てくる。この講演を聞いた生徒、このプログラムに参加した生徒は、どんなことを思って感想を書いたのだろうかと、思いを馳せながら読んでいる。 これは学校の教育としておかしいんじゃないかと思う部分が多々ある中で、私が個人的に本当に心をえ...</description>
@@ -74,20 +102,6 @@
       <description>&lt;img src="https://og-image.cookpad.com/news/articles/64200/16x9?t=1779257494" /&gt;&lt;br/&gt;ついつい同じ味付けになりがちなスープも、じゃがいもを見直すだけで脱マンネリ！ 2月に行われたクックパッド主催のオンラインスクール「料理の学校」では、スープ作家・有賀薫さんが講師となってスープの作り方を参加者と一緒に学びました。今回は、基本となるスープの考え方と、講座で取り上げられた有賀さんのレシピ...</description>
       <pubDate>Thu, 21 May 2026 08:44:26 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.cookpad.com/articles/64200</comments>
-    </item>
-    <item>
-      <title>ユニクロのCMで流れるサザンの「ミス・ブランニュー・デイ」って量産型／没個性な女子を皮肉った歌詞と思ってたけど肯定的に解釈できるようになったの？</title>
-      <link>https://togetter.com/li/2699685</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/9690fc9685e7224853b0b5a598db1efa-1200x630.jpeg" /&gt;&lt;br/&gt;かとうけんそう @kenso1978 しかし最近ユニクロがCMで使ってる、サザンの「ミス・ブランニューデイ」は、まさに量産型、没個性ファッションをやってた女子に対する皮肉な歌詞だと思って聴いてたんだけど、それをユニクロがわざわざ使うというのは、なんか一周して肯定的な意味に解釈できるようになったのかな？ 2026-05-...</description>
-      <pubDate>Thu, 21 May 2026 15:05:19 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2699685</comments>
-    </item>
-    <item>
-      <title>【速報】ウクライナがロ司令部を攻撃、百人死傷か</title>
-      <link>https://www.47news.jp/14339058.html</link>
-      <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;【キーウ共同】ウクライナのゼレンスキー大統領は21日、同国の情報機関がロシア支配下のウクライナ南部ヘルソン州にあるロシア連邦保安局（FSB）司令部の施設を攻撃し、ロシア側の約100人が死傷したと主張した。</description>
-      <pubDate>Thu, 21 May 2026 14:46:21 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14339058.html</comments>
     </item>
   </channel>
 </rss>
