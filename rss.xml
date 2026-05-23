@@ -4,20 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 23 May 2026 11:33:09 +0000</lastBuildDate>
-    <item>
-      <title>日々の開発で使っているClaude Code Skills</title>
-      <link>https://zenn.dev/remitaid/articles/4f9dc787b6c191</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--UjpvpFmz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2597%25A5%25E3%2580%2585%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258BClaude%2520Code%2520Skills%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:inari111%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE2NDg4MWQyOGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:RemitAid%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVpUS3F4dzZrNWlWdFlkMWx1c2xROHViaWNPdEdFYTh6d2Rxd1VGOGR6LWxMTDhVcHY9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;こんにちは。ソフトウェアエンジニアの inari111 です。 弊社ではClaudeを全社で使っており、エンジニアはClaude Codeを用いて日々の開発を行っています。 本記事では、私が開発時に使っているClaude Code Skillsについて紹介します。 superpowers よく使っているのは brainstorming, subagent-driven-development, exec...</description>
-      <pubDate>Fri, 22 May 2026 22:28:06 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/remitaid/articles/4f9dc787b6c191</comments>
-    </item>
+    <lastBuildDate>Sat, 23 May 2026 12:33:09 +0000</lastBuildDate>
     <item>
       <title>タモリは面白いけど、ガダルカナル・タカは…？「タモリ倶楽部」に出演してわかったこと【平成しくじり男　第10回】 | 山下素童「平成しくじり男」</title>
       <link>https://yomitai.jp/series/shikujiriotoko/10_yamashita/</link>
       <description>&lt;img src="https://yomitai.jp/wp-content/uploads/2026/05/pixta_530607_M-e1779068056803.jpg" /&gt;&lt;br/&gt;タモリは面白いけど、ガダルカナル・タカは…？「タモリ倶楽部」に出演してわかったこと【平成しくじり男　第10回】 私小説『彼女が僕としたセックスは動画の中と完全に同じだった』で注目を集めたの山下素童のエッセイ連載。 前回、五反田のマッサージ店で想起した中高生時代の切ない思い出を語りました。 今回は、山下...</description>
       <pubDate>Sat, 23 May 2026 02:27:39 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/yomitai.jp/series/shikujiriotoko/10_yamashita/</comments>
+    </item>
+    <item>
+      <title>日々の開発で使っているClaude Code Skills</title>
+      <link>https://zenn.dev/remitaid/articles/4f9dc787b6c191</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--UjpvpFmz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2597%25A5%25E3%2580%2585%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258BClaude%2520Code%2520Skills%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:inari111%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE2NDg4MWQyOGYuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:RemitAid%2520Tech%2520Blog%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVpUS3F4dzZrNWlWdFlkMWx1c2xROHViaWNPdEdFYTh6d2Rxd1VGOGR6LWxMTDhVcHY9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;こんにちは。ソフトウェアエンジニアの inari111 です。 弊社ではClaudeを全社で使っており、エンジニアはClaude Codeを用いて日々の開発を行っています。 本記事では、私が開発時に使っているClaude Code Skillsについて紹介します。 superpowers よく使っているのは brainstorming, subagent-driven-development, exec...</description>
+      <pubDate>Fri, 22 May 2026 22:28:06 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/remitaid/articles/4f9dc787b6c191</comments>
     </item>
     <item>
       <title>世界の原油在庫、｢100日割れ｣目前　日本にも迫る節約要請の波 - 日本経済新聞</title>
@@ -41,18 +41,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.jiji.com/jc/article?k=2026052201010&amp;g=pol</comments>
     </item>
     <item>
-      <title>自分なりの意見を持つ - Konifar's ZATSU</title>
-      <link>https://konifar-zatsu.hatenadiary.jp/entry/2026/05/23/101439</link>
-      <description>&lt;img src="https://ogimage.blog.st-hatena.com/6653812171394033897/17179246901390893726/1779499406" /&gt;&lt;br/&gt;AIとかニンゲンとか関係なく、自分なりの意見を持つ癖をつけたほうがいいと思っているんだけれど、あまり考えがまとまっていないので雑に書き殴ってみる。 何事にも「自分はこうしたい」、「自分はこうすべきだと思う」、「自分ならこうする」といった自分の意見を持っておけという話。自分がオーナーの場合にはより強く...</description>
-      <pubDate>Sat, 23 May 2026 01:23:46 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/konifar-zatsu.hatenadiary.jp/entry/2026/05/23/101439</comments>
-    </item>
-    <item>
       <title>「いよいよゴミ出し以外の処理方法が見当たらない...」銀行入金だと手数料負けして損するし家に置いてても邪魔→「納税に使えば役所は拒否できないはず...」</title>
       <link>https://togetter.com/li/2700557</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/0e3bbd9a30cc82434e7db37f07d91af8-1200x630.jpeg" /&gt;&lt;br/&gt;トーマス＠ガジェマガ @gadgetKaeru いよいよ1円玉と5円玉にゴミ出し以外の処理方法が見当たらなくて頭を抱えてる。膨大な小銭がある。でも銀行入金だと手数料負けする。かといって無料範囲内の100枚だと一回500円で労力が割に合わない。家に置いてても邪魔。これもうマジでゴミで出すしかなくないか。それか国が責任持...</description>
       <pubDate>Sat, 23 May 2026 07:47:07 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2700557</comments>
+    </item>
+    <item>
+      <title>自分なりの意見を持つ - Konifar's ZATSU</title>
+      <link>https://konifar-zatsu.hatenadiary.jp/entry/2026/05/23/101439</link>
+      <description>&lt;img src="https://ogimage.blog.st-hatena.com/6653812171394033897/17179246901390893726/1779499406" /&gt;&lt;br/&gt;AIとかニンゲンとか関係なく、自分なりの意見を持つ癖をつけたほうがいいと思っているんだけれど、あまり考えがまとまっていないので雑に書き殴ってみる。 何事にも「自分はこうしたい」、「自分はこうすべきだと思う」、「自分ならこうする」といった自分の意見を持っておけという話。自分がオーナーの場合にはより強く...</description>
+      <pubDate>Sat, 23 May 2026 01:23:46 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/konifar-zatsu.hatenadiary.jp/entry/2026/05/23/101439</comments>
     </item>
     <item>
       <title>“壺おじ”を生んだ「ベネット・フォディ」とは何者か　個人開発インディーゲームの歴史を変えた重要人物の足跡を辿る</title>
@@ -62,11 +62,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/realsound.jp/tech/2026/05/post-2400750.html</comments>
     </item>
     <item>
-      <title>鈴木農相 “主食用米 需要を大幅に超過すれば価格は下落” | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/na-k10015128741000</link>
-      <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260522/K10015128741_2605221452_0522151319_01_02.jpg" /&gt;&lt;br/&gt;鈴木農林水産大臣は、ことしも去年並みの作付けが見込まれる主食用のコメの価格について、「需要を大幅に上回る在庫量になれば、当然、価格もそれに従うことになる」と述べ、順調に生産されれば下落するという見方を…</description>
-      <pubDate>Fri, 22 May 2026 16:20:00 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015128741000</comments>
+      <title>Why Japanese companies do so many different things</title>
+      <link>https://davidoks.blog/p/why-japanese-companies-do-so-many</link>
+      <description>&lt;img src="https://substackcdn.com/image/fetch/$s_!q5kh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff42a7b2-6c27-4773-a0b0-561081c55da1_1605x2000.jpeg" /&gt;&lt;br/&gt;Photos from Lars Tunbjörk’s “Office” seriesConsider Toto. If you spend much time in American public bathrooms, or rather if you’re simply a particularly attentive patron of American public bathrooms, you’ll probably have noticed Toto’s toilets at some point or another: they’re distinguished by a ...</description>
+      <pubDate>Fri, 22 May 2026 15:50:19 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/davidoks.blog/p/why-japanese-companies-do-so-many</comments>
     </item>
     <item>
       <title>SNSで話題「はっぴいえんど史観」はなぜ生まれた？改めて『風街ろまん』を聴く</title>
@@ -76,18 +76,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/gendai.media/articles/-/167301</comments>
     </item>
     <item>
-      <title>Why Japanese companies do so many different things</title>
-      <link>https://davidoks.blog/p/why-japanese-companies-do-so-many</link>
-      <description>&lt;img src="https://substackcdn.com/image/fetch/$s_!q5kh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fff42a7b2-6c27-4773-a0b0-561081c55da1_1605x2000.jpeg" /&gt;&lt;br/&gt;Photos from Lars Tunbjörk’s “Office” seriesConsider Toto. If you spend much time in American public bathrooms, or rather if you’re simply a particularly attentive patron of American public bathrooms, you’ll probably have noticed Toto’s toilets at some point or another: they’re distinguished by a ...</description>
-      <pubDate>Fri, 22 May 2026 15:50:19 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/davidoks.blog/p/why-japanese-companies-do-so-many</comments>
-    </item>
-    <item>
       <title>推しの地下アイドルに貢いで借金600万円を作った男性の顛末が壮絶だった「痛客を太客にして一線を越えてきたら切る典型的なパターン」</title>
       <link>https://togetter.com/li/2700432</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/dd8968906e30047dd8f4f2f99cdd891a-1200x630.jpeg" /&gt;&lt;br/&gt;事件について｜ぼーすか 彼女との出会いは 2017年の夏頃にFFになって、気付いたら何もかも好きになっていた。その頃はまだ恋愛感情ではなかったと思う。 実際の接触は彼女の高校の文化祭行ったりした時に会ったぐらいだった。 2… 2 users note（ノート） 2024年8月やり取り｜ぼーすか 8月26日15:46 自分 水曜の夜とか私...</description>
       <pubDate>Sat, 23 May 2026 03:03:24 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2700432</comments>
+    </item>
+    <item>
+      <title>鈴木農相 “主食用米 需要を大幅に超過すれば価格は下落” | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/na-k10015128741000</link>
+      <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260522/K10015128741_2605221452_0522151319_01_02.jpg" /&gt;&lt;br/&gt;鈴木農林水産大臣は、ことしも去年並みの作付けが見込まれる主食用のコメの価格について、「需要を大幅に上回る在庫量になれば、当然、価格もそれに従うことになる」と述べ、順調に生産されれば下落するという見方を…</description>
+      <pubDate>Fri, 22 May 2026 16:20:00 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015128741000</comments>
     </item>
     <item>
       <title>悲鳴は｢目詰まり｣危機認めぬ政権　｢平時の演出｣に蓄え溶かす時か：朝日新聞</title>
@@ -97,24 +97,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV5P2R11V5PULFA006M.html</comments>
     </item>
     <item>
-      <title>テレ朝、鈴木紗理奈事務所と「誠意をもってやりとり」明かす　あのちゃんが番組で「嫌い」名指し放送、「配慮が足りず」</title>
-      <link>https://www.j-cast.com/2026/05/22514970.html?p=all</link>
-      <description>&lt;img src="https://www.j-cast.com/images/origin/2026/05/news_20260522163335.jpg" /&gt;&lt;br/&gt;「嫌いで結構やけどそういうのおもんないし、あんたが損するで」 鈴木さんはストーリーズ機能で、「わたしは画面ではどんなにやり合ってても裏ではきちんと信頼関係があるというかっこいいバラエティーが好きや」としたうえで、自身が出演していない番組で、嫌いな芸能人として名前を挙げられたことを告白。 そのタレン...</description>
-      <pubDate>Fri, 22 May 2026 14:45:18 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.j-cast.com/2026/05/22514970.html?p=all</comments>
-    </item>
-    <item>
       <title>OSSサプライチェーン汚染の連鎖：今起きている異変 | LAC WATCH</title>
       <link>https://www.lac.co.jp/lacwatch/alert/20260522_004729.html</link>
       <description>&lt;img src="https://www.lac.co.jp/lacwatch/img/thumb_lacwatch_004729.jpg" /&gt;&lt;br/&gt;2026年3月以降、JavaScript向けのnpm、Python向けのPyPI、Ruby向けのRubyGemsといった主要なパッケージ管理システムやプログラム開発に利用されるパッケージ、サーバーの原型となるコンテナイメージにおいて、悪性パッケージの混入や正規パッケージの侵害が連続して確認されています。この侵害についてはラックが確認し...</description>
       <pubDate>Fri, 22 May 2026 11:22:07 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.lac.co.jp/lacwatch/alert/20260522_004729.html</comments>
-    </item>
-    <item>
-      <title>告白断った高校生に暴行か　男性3人を逮捕・書類送検　警視庁 | 毎日新聞</title>
-      <link>https://mainichi.jp/articles/20260522/k00/00m/040/332000c</link>
-      <pubDate>Fri, 22 May 2026 14:37:18 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260522/k00/00m/040/332000c</comments>
     </item>
     <item>
       <title>日本ってなんでミスド以外のドーナツ屋さんが流行らなかったんだろうか→様々な考察が集まる「たしかに瞬間風速的に流行るけど息が長くない」</title>
@@ -124,25 +111,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2700077</comments>
     </item>
     <item>
+      <title>テレ朝、鈴木紗理奈事務所と「誠意をもってやりとり」明かす　あのちゃんが番組で「嫌い」名指し放送、「配慮が足りず」</title>
+      <link>https://www.j-cast.com/2026/05/22514970.html?p=all</link>
+      <description>&lt;img src="https://www.j-cast.com/images/origin/2026/05/news_20260522163335.jpg" /&gt;&lt;br/&gt;「嫌いで結構やけどそういうのおもんないし、あんたが損するで」 鈴木さんはストーリーズ機能で、「わたしは画面ではどんなにやり合ってても裏ではきちんと信頼関係があるというかっこいいバラエティーが好きや」としたうえで、自身が出演していない番組で、嫌いな芸能人として名前を挙げられたことを告白。 そのタレン...</description>
+      <pubDate>Fri, 22 May 2026 14:45:18 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.j-cast.com/2026/05/22514970.html?p=all</comments>
+    </item>
+    <item>
       <title>中学の頃作文の中で『琥珀色』という単語を使ったらクラスメイトに「それはどんな色なんだ、説明しろ」と言われ説明したが、誰も“琥珀”自体を知らなかった話</title>
       <link>https://togetter.com/li/2700396</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/6cc758cac76fa1afb597e75dcebe19f3-1200x630.jpeg" /&gt;&lt;br/&gt;柳川価津夫（フリーランス） @katsuoyanagawa 中学の頃、作文の中で「琥珀色」という単語を使ったら、クラスメイトに「それはどんな色なんだ、説明しろ」といわれたことがある。琥珀のように透明感のある黄褐色と説明したが、琥珀自体を誰も知らなかったため、結局「分からない単語を使うな」ということになったのは今で...</description>
       <pubDate>Sat, 23 May 2026 02:04:34 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2700396</comments>
-    </item>
-    <item>
-      <title>サトウ食品、創業以来の「白玉粉」販売を終了　原料高騰と販売減少で - 日本経済新聞</title>
-      <link>https://www.nikkei.com/article/DGXZQOCC226EP0S6A520C2000000/</link>
-      <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3060662022052026000000-2.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;upscale=false&amp;amp;w=1200&amp;amp;s=7adc65c813b762a6a25b3b8903456aa4" /&gt;&lt;br/&gt;パックご飯大手のサトウ食品は22日、白玉粉の販売を6月30日に終了すると発表した。原料となるもち米の価格高騰に加え、販売量が減少していたため。白玉粉は1950年の創業以来の商品で、現在は外部に製造委託して販売していた。サトウ食品は現在パックご飯と包装餅の大手だが、創業時は白玉粉の製造・販売で事業を始めた。...</description>
-      <pubDate>Fri, 22 May 2026 10:58:03 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOCC226EP0S6A520C2000000/</comments>
-    </item>
-    <item>
-      <title>月額780円→0円！グーグル、月額2900円のAIプランで「YouTube Premium Lite」を無料に</title>
-      <link>https://ascii.jp/elem/000/004/403/4403860/</link>
-      <description>&lt;img src="https://ascii.jp/img/2026/05/21/4469740/xl/1afea8c89a8ea50f.png?20200122" /&gt;&lt;br/&gt;sponsored お得な情報満載のLINE友達登録やB2Bメンバーカードポイントも注目!! 静岡でパソコンに困ったら迷わずGO！自作PCパーツからローカル生成AI、駆け込み修理まで網羅するパソコン工房 静岡店の魅力 sponsored 今年のJavaイベントは“Agentic Dev”をテーマに実践的な学びの機会を Java開発者が“AI時代に生き残る”た...</description>
-      <pubDate>Thu, 21 May 2026 10:18:53 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/403/4403860/</comments>
     </item>
   </channel>
 </rss>
