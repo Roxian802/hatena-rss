@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 24 May 2026 19:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 20:33:09 +0000</lastBuildDate>
     <item>
       <title>ルーツレポ「おかん急逝」：ルツブロ</title>
       <link>https://ch.nicovideo.jp/roots/blomaga/ar2232426</link>
@@ -13,18 +13,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/ch.nicovideo.jp/roots/blomaga/ar2232426</comments>
     </item>
     <item>
-      <title>Windowsの標準スクリプト言語であるPowerShellの現状をあらためて紹介する (1/2)</title>
-      <link>https://ascii.jp/elem/000/004/404/4404554/</link>
-      <description>&lt;img src="https://ascii.jp/img/2026/05/23/4471161/xl/476f2e69edac31ed.png?20200122" /&gt;&lt;br/&gt;今回は、PowerShellの現状についてまとめてみることにした。なお、Windowsに標準添付されているWindows PowerShellとの違いは、下記の記事を参考にしてほしい（「PowerShellの今を見る　2つあるPowerShellはどっち使えばいい？」）。 単体で入手してインストールがオススメのPowerShell PowerShellの前身であるWindows P...</description>
-      <pubDate>Sun, 24 May 2026 06:08:13 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/404/4404554/</comments>
-    </item>
-    <item>
       <title>パソコンが「なんか変」と感じたら、Microsoftの無料セキュリティ(msertツール)を使おう</title>
       <link>https://zenn.dev/arumenoy/articles/2e1985c168ed97</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--rTPYnXkC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2591%25E3%2582%25BD%25E3%2582%25B3%25E3%2583%25B3%25E3%2581%258C%25E3%2580%258C%25E3%2581%25AA%25E3%2582%2593%25E3%2581%258B%25E5%25A4%2589%25E3%2580%258D%25E3%2581%25A8%25E6%2584%259F%25E3%2581%2598%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Microsoft%25E3%2581%25AE%25E7%2584%25A1%25E6%2596%2599%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%2528msert%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%2529%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%258A%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:PhD%2520Taka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNTdhODM5ZjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;マイクロソフト社が公開している無料のマルウェア検出＋修復「使い捨て」ツールをダウンロードして使う話です。 サイバー脅威は24時間勃発中 マイクロソフト社が公開している無料のマルウェア検出ツール「msert」をご存じでしょうか。現状、隠れキャラみたいな存在になっています。 パソコン、最近こんなことありません...</description>
       <pubDate>Mon, 18 May 2026 07:06:27 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/arumenoy/articles/2e1985c168ed97</comments>
+    </item>
+    <item>
+      <title>Windowsの標準スクリプト言語であるPowerShellの現状をあらためて紹介する (1/2)</title>
+      <link>https://ascii.jp/elem/000/004/404/4404554/</link>
+      <description>&lt;img src="https://ascii.jp/img/2026/05/23/4471161/xl/476f2e69edac31ed.png?20200122" /&gt;&lt;br/&gt;今回は、PowerShellの現状についてまとめてみることにした。なお、Windowsに標準添付されているWindows PowerShellとの違いは、下記の記事を参考にしてほしい（「PowerShellの今を見る　2つあるPowerShellはどっち使えばいい？」）。 単体で入手してインストールがオススメのPowerShell PowerShellの前身であるWindows P...</description>
+      <pubDate>Sun, 24 May 2026 06:08:13 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/404/4404554/</comments>
     </item>
     <item>
       <title>東京人「梅田より立川や町田のほうが栄えてる！」</title>
@@ -69,18 +69,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/forbesjapan.com/articles/detail/97939</comments>
     </item>
     <item>
-      <title>ナフサ不安はデマなのか？　政府が「足りている」と説明し続けても国民の不信感が消えない本当の理由 #エキスパートトピ（篠原修司） - エキスパート - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/expert/articles/5c3acabfb8c0d482308746ad6a7236c8adadaa23</link>
-      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/shinoharashuji/02630009/title-1779594394196.jpeg?exp=10800" /&gt;&lt;br/&gt;時事通信は5月23日、ナフサ供給不安を巡り、政府の「足りている」との説明を「デマ」「偽情報」だと批判する投稿がSNSで広がっていると報じました。 きっかけは専門家の「6月には確保できなくなる」とのコメントを、4月5日に高市早苗首相が「事実誤認」と否定したことです。当初は不足を主張する側への批判が目立ちまし...</description>
-      <pubDate>Sun, 24 May 2026 03:54:37 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/expert/articles/5c3acabfb8c0d482308746ad6a7236c8adadaa23</comments>
-    </item>
-    <item>
       <title>結婚初期の夫は答えや解決ありきの会話をしていたが、「夢物語があって、意味がないように見えるのも会話」と伝えたら、感覚や感想を共有する会話があることを知ってくれた</title>
       <link>https://togetter.com/li/2700938</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/c02c4ffd8d77b62e94cd691a0086d945-1200x630.jpeg" /&gt;&lt;br/&gt;夏彦 @sinatuhiko613 結婚初期の夫はこれ気味だった。海外の映像とか見て｢わー、ここ行きたい」って言うと｢ヨーロッパまでいくらかかると思ってんの」みたいな。｢具体的な計画ではなく、行けたら素敵だね〜っていう夢物語であって、意味がないように見えるかもだけどこれが会話だよ」と伝えたら、 x.com/v8515463990505…...</description>
       <pubDate>Sun, 24 May 2026 09:32:25 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2700938</comments>
+    </item>
+    <item>
+      <title>ナフサ不安はデマなのか？　政府が「足りている」と説明し続けても国民の不信感が消えない本当の理由 #エキスパートトピ（篠原修司） - エキスパート - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/expert/articles/5c3acabfb8c0d482308746ad6a7236c8adadaa23</link>
+      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/shinoharashuji/02630009/title-1779594394196.jpeg?exp=10800" /&gt;&lt;br/&gt;時事通信は5月23日、ナフサ供給不安を巡り、政府の「足りている」との説明を「デマ」「偽情報」だと批判する投稿がSNSで広がっていると報じました。 きっかけは専門家の「6月には確保できなくなる」とのコメントを、4月5日に高市早苗首相が「事実誤認」と否定したことです。当初は不足を主張する側への批判が目立ちまし...</description>
+      <pubDate>Sun, 24 May 2026 03:54:37 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/expert/articles/5c3acabfb8c0d482308746ad6a7236c8adadaa23</comments>
     </item>
     <item>
       <title>付き合う女性がみな性欲旺盛なんだが</title>
@@ -90,11 +90,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260524101619</comments>
     </item>
     <item>
-      <title>「仕事ない」「年金ない」日本で年を重ねた外国人労働者　直面する生活困窮 #日本社会と外国人（Yahoo!ニュース オリジナル 特集）</title>
-      <link>https://news.yahoo.co.jp/articles/eb60c34dd4683639fc0e5bc2a9ca345a863cdcb5</link>
-      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260524-00010000-ytokushu-000-1-view.jpg?exp=10800" /&gt;&lt;br/&gt;日本で長年暮らしている外国人の中には、年を取って仕事を失い、困窮する人がいる。外国人は生活保護の対象となっておらず、対象は定住者と特別永住者、難民などに限られるが、これについて厳格化しようという動きがある。セーフティーネットからこぼれ落ちやすい外国人高齢者をどのように支援するか。日本で年を重ねた...</description>
-      <pubDate>Sun, 24 May 2026 08:18:33 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/eb60c34dd4683639fc0e5bc2a9ca345a863cdcb5</comments>
+      <title>「よく思うんだけど何でアメリカ作品って浴槽に浸かりながら体洗うの？こう思ってるけど正しい？」→アメリカなどから回答</title>
+      <link>https://togetter.com/li/2700879</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/3cb883c2e5a96b7af1bfe9990cfac024-1200x630.jpeg" /&gt;&lt;br/&gt;雨粒マン @amatubuman よく思うんだけど何でアメリカ作品って浴槽に浸かりながら体洗うの？ 日本みたいに体洗う時は浴槽つからないのは世界的にレアなんだろうか…？ x.com/thxonewhoisall… 2026-05-23 14:46:20</description>
+      <pubDate>Sun, 24 May 2026 06:40:10 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2700879</comments>
     </item>
     <item>
       <title>予備試験最強戦術　「武蔵理論」｜アカシックレコード</title>
@@ -104,25 +104,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/wakarimasita/n/n6e8387a66172</comments>
     </item>
     <item>
-      <title>「よく思うんだけど何でアメリカ作品って浴槽に浸かりながら体洗うの？こう思ってるけど正しい？」→アメリカなどから回答</title>
-      <link>https://togetter.com/li/2700879</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/3cb883c2e5a96b7af1bfe9990cfac024-1200x630.jpeg" /&gt;&lt;br/&gt;雨粒マン @amatubuman よく思うんだけど何でアメリカ作品って浴槽に浸かりながら体洗うの？ 日本みたいに体洗う時は浴槽つからないのは世界的にレアなんだろうか…？ x.com/thxonewhoisall… 2026-05-23 14:46:20</description>
-      <pubDate>Sun, 24 May 2026 06:40:10 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2700879</comments>
-    </item>
-    <item>
-      <title>完全ローカルかつCPUで動く日本語対応の軽量TTSモデル「Supertonic 3」、元の写真に忠実な3Dモデルを生成するAIモデル「Pixal3D」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2026/05/24/5094.html</link>
-      <description>&lt;img src="https://www.techno-edge.net/imgs/ogp_f/31585.jpg" /&gt;&lt;br/&gt;この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第144回）は、元の写真にピクセル単位で忠実な3Dモデルを生成するAIモデル「Pixal3D」や、Nano Banana 2.0に匹敵という80億パラメータの画像生成AI「HiDream-O1-Image」を取り上げます。 また、スマホ上で動く軽量...</description>
-      <pubDate>Sun, 24 May 2026 00:00:04 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.techno-edge.net/article/2026/05/24/5094.html</comments>
-    </item>
-    <item>
       <title>家庭科の授業で「味噌汁に使う具材にどんなのがあるか」という質問に「卵」と答えたら、「味噌汁に卵はありませんよ」と教師に全否定されたので、反論したら学級会になった話</title>
       <link>https://togetter.com/li/2700906</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/174ed3e6fa6bc2c9d68cf15ed7b86a1d-1200x630.jpeg" /&gt;&lt;br/&gt;むづき @M2_RioRain 家庭科の授業で「味噌汁に使う具材にどんなのがあるか」という質問に卵って答えたら「味噌汁に卵はありませんよ」って唐突な全否定ぶっ込んだ教師に「自分の知らないものを無いもので扱っていいならこれから学ぶものは全部存在しないものになるけどいいんだな？」って返して学級会になったことがある...</description>
       <pubDate>Sun, 24 May 2026 07:45:23 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2700906</comments>
+    </item>
+    <item>
+      <title>「仕事ない」「年金ない」日本で年を重ねた外国人労働者　直面する生活困窮 #日本社会と外国人（Yahoo!ニュース オリジナル 特集）</title>
+      <link>https://news.yahoo.co.jp/articles/eb60c34dd4683639fc0e5bc2a9ca345a863cdcb5</link>
+      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260524-00010000-ytokushu-000-1-view.jpg?exp=10800" /&gt;&lt;br/&gt;日本で長年暮らしている外国人の中には、年を取って仕事を失い、困窮する人がいる。外国人は生活保護の対象となっておらず、対象は定住者と特別永住者、難民などに限られるが、これについて厳格化しようという動きがある。セーフティーネットからこぼれ落ちやすい外国人高齢者をどのように支援するか。日本で年を重ねた...</description>
+      <pubDate>Sun, 24 May 2026 08:18:33 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/eb60c34dd4683639fc0e5bc2a9ca345a863cdcb5</comments>
     </item>
     <item>
       <title>「沖縄県民は先住民族でない」　琉球王家末裔の尚衛氏、国連で進む「脱植民地化」動き憂慮</title>
