@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 25 May 2026 01:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 02:33:09 +0000</lastBuildDate>
     <item>
       <title>収録作合計でヒューゴー賞、ネビュラ賞ほか英米ＳＦ賞合計8冠、今年ベスト級のＳＦ短篇集──『陽の光が消えた町で』 - 基本読書</title>
       <link>https://huyukiitoichi.hatenadiary.jp/entry/2026/05/25/080000</link>
@@ -41,6 +41,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2700914</comments>
     </item>
     <item>
+      <title>女がアイマスやブルアカみたいな男向けコンテンツに「女視点がない〜」ってお気持ちしてるのは見るけれど、男があんスタとか刀剣乱舞とかの女向けのコンテンツで同じお気持ちしてるのを見ないの、要するに“そういうこと”なんじゃない？</title>
+      <link>https://posfie.com/@mandarakeeee/p/HILNo1H</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/86ffa88778e95d92af2088dfbb348049-1200x630.jpeg" /&gt;&lt;br/&gt;高倉百舌鳥 @m0__2u 女がアイマスやブルアカみたいな男向けコンテンツに「女視点がない〜」ってお気持ちしてるのは見るけれど、男があんスタとか刀剣乱舞とかの女向けのコンテンツで同じお気持ちしてるのを見ないの、要するに“そういうこと”なんじゃない？って俺は思っていますよ。 2026-05-22 17:45:45</description>
+      <pubDate>Sun, 24 May 2026 03:24:04 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@mandarakeeee/p/HILNo1H</comments>
+    </item>
+    <item>
       <title>パソコンが「なんか変」と感じたら、Microsoftの無料セキュリティ(msertツール)を使おう</title>
       <link>https://zenn.dev/arumenoy/articles/2e1985c168ed97</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--rTPYnXkC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2591%25E3%2582%25BD%25E3%2582%25B3%25E3%2583%25B3%25E3%2581%258C%25E3%2580%258C%25E3%2581%25AA%25E3%2582%2593%25E3%2581%258B%25E5%25A4%2589%25E3%2580%258D%25E3%2581%25A8%25E6%2584%259F%25E3%2581%2598%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581Microsoft%25E3%2581%25AE%25E7%2584%25A1%25E6%2596%2599%25E3%2582%25BB%25E3%2582%25AD%25E3%2583%25A5%25E3%2583%25AA%25E3%2583%2586%25E3%2582%25A3%2528msert%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%2529%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%258A%25E3%2581%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:PhD%2520Taka%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhhNTdhODM5ZjEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;マイクロソフト社が公開している無料のマルウェア検出＋修復「使い捨て」ツールをダウンロードして使う話です。 サイバー脅威は24時間勃発中 マイクロソフト社が公開している無料のマルウェア検出ツール「msert」をご存じでしょうか。現状、隠れキャラみたいな存在になっています。 パソコン、最近こんなことありません...</description>
@@ -55,11 +62,32 @@
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@kalofollow/p/Qu72Pq1</comments>
     </item>
     <item>
+      <title>Your Docker Image Is 1.2GB. Here Is How To Get It Under 80MB.</title>
+      <link>https://the-practical-developer.online/posts/docker-image-from-1gb-to-80mb/</link>
+      <description>&lt;img src="https://images.unsplash.com/photo-1605745341112-85968b19335b?w=1200&amp;amp;q=80" /&gt;&lt;br/&gt;Total: 94% reduction. Roughly 15× smaller. What this actually buys you Disk and registry costs are the obvious win, but they are usually not the biggest one. Faster cold starts on Kubernetes and serverless platforms. Pulling 78MB instead of 1.2GB on a node that does not have the layer cached is t...</description>
+      <pubDate>Sun, 24 May 2026 03:22:21 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/the-practical-developer.online/posts/docker-image-from-1gb-to-80mb/</comments>
+    </item>
+    <item>
       <title>Karui - 画像圧縮・画像変換・HEIC変換・PDF圧縮アプリ｜Mac / Windows対応</title>
       <link>https://karui.app/ja/</link>
       <description>&lt;img src="https://karui.app/assets/ogp.jpg" /&gt;&lt;br/&gt;撮った写真をブログに載せたい。友達に送りたい。 でもファイルが大きすぎてアップロードできない。 圧縮すると画質がガタ落ち。その繰り返し。 Karui（カルイ）は、その悩みを終わらせます。 次世代圧縮、HEIC・AVIF変換、PDF圧縮。 バッチ処理、リサイズ、クロップ。すべてこの一つで。 ネット接続は不要。あなたのパ...</description>
       <pubDate>Sat, 23 May 2026 11:09:34 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/karui.app/ja/</comments>
+    </item>
+    <item>
+      <title>「知事がこのネタに参戦！」 交通状態の悪さが話題の千葉県について、熊谷俊人知事がコメント 広い面積や成田闘争の影響など色々事情がある模様</title>
+      <link>https://togetter.com/li/2701115</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/7383bef6ab805713863fb4694cf305cf-1200x630.jpeg" /&gt;&lt;br/&gt;熊谷俊人（千葉県知事） @kumagai_chiba 千葉県の道路についてX上で話題となっているようですが、現在の県政が当該エリアを含め、県北西部の道路整備を強力に進める方針であることをお伝えしておきます。私自身も先の知事選でその旨を明記した公約を示し、新規事業化を進めています。 もちろん、既に密集した市街地の中...</description>
+      <pubDate>Sun, 24 May 2026 19:27:01 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2701115</comments>
+    </item>
+    <item>
+      <title>村田雄介の人種差別発言への海外の反応</title>
+      <link>https://anond.hatelabo.jp/20260524161336</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;イギリスの有名極右活動家の、移民は障がい者が多いというデマ移民排斥ポスト https://x.com/i/status/2058230848378261972 のリプ欄で漫画家の村田雄介が差別発言をぶちかましていた。 私は村田経由で暇空茜のポストが流れてきた時に即フォロー外していたが、その後続々極右アカウントをフォローしていたらしく、ついに...</description>
+      <pubDate>Sun, 24 May 2026 07:15:43 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260524161336</comments>
     </item>
     <item>
       <title>ルーツレポ「おかん急逝」：ルツブロ</title>
@@ -69,25 +97,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/ch.nicovideo.jp/roots/blomaga/ar2232426</comments>
     </item>
     <item>
-      <title>村田雄介の人種差別発言への海外の反応</title>
-      <link>https://anond.hatelabo.jp/20260524161336</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/images/og-image-1500.gif" /&gt;&lt;br/&gt;イギリスの有名極右活動家の、移民は障がい者が多いというデマ移民排斥ポストのリプ欄で漫画家の村田雄介が差別発言をぶちかましていた。 私は村田経由で暇空茜のポストが流れてきた時に即フォロー外していたが、その後続々極右アカウントをフォローしていたらしく、ついに海外の極右にもからみはじめたらしい。 有名人...</description>
-      <pubDate>Sun, 24 May 2026 07:15:43 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260524161336</comments>
-    </item>
-    <item>
       <title>生成AIの安全性入門 | 技術評論社</title>
       <link>https://gihyo.jp/book/2026/978-4-297-15702-9</link>
       <description>&lt;img src="https://gihyo.jp/assets/images/ogp/2026/9784297157029.jpg" /&gt;&lt;br/&gt;概要 生成AIの進展は社会や産業に大きな変革をもたらす一方、生成AIが生み出す有害なコンテンツや意図しない挙動といったリスクに関する課題が浮き彫りになっています。本書は、エンジニア、研究者を対象に、生成AIにおけるリスクとその対処法を体系的にまとめます。1章ではAI安全性を定義し、近年の動向を概説します。2...</description>
       <pubDate>Sun, 24 May 2026 12:06:40 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/gihyo.jp/book/2026/978-4-297-15702-9</comments>
-    </item>
-    <item>
-      <title>今の自分の実力を超えた役割を担う時に考えること - Konifar's ZATSU</title>
-      <link>https://konifar-zatsu.hatenadiary.jp/entry/2026/05/24/162048</link>
-      <description>&lt;img src="https://ogimage.blog.st-hatena.com/6653812171394033897/17179246901389303851/1779610015" /&gt;&lt;br/&gt;タスクのアサイン、プロジェクトのリード、チームのマネジメントなど、『今の自分の実力でできるかわからない役割』を任されることがある。いわゆるストレッチアサインメントである。程度の差はあれ、こういう任され方の方が多いんじゃなかろうか。 言うのは簡単だが、やってみるとたいていつらい。焦りや不安でしんどく...</description>
-      <pubDate>Sun, 24 May 2026 07:59:13 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/konifar-zatsu.hatenadiary.jp/entry/2026/05/24/162048</comments>
     </item>
     <item>
       <title>「もう何個目になるか忘れたけど、今日またWEBTOON部門を解散するよというお知らせが入ってきた。」日本ではWEBTOONがかなり苦戦しているらしい</title>
@@ -97,11 +111,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2701036</comments>
     </item>
     <item>
-      <title>読む政治：ナフサと消費税で「行動」望む世論　高市内閣支持率、50％まで下落 | 毎日新聞</title>
-      <link>https://mainichi.jp/articles/20260524/k00/00m/010/186000c</link>
-      <description>&lt;img src="https://cdn.mainichi.jp/vol1/2026/05/24/20260524k0000m010189000p/0c10.jpg?1" /&gt;&lt;br/&gt;毎日新聞は23、24の両日、全国世論調査を実施した。高市早苗内閣の支持率は前回調査（4月18、19日）の53％から3ポイント減の50％となり、3カ月連続で下落した。2025年10月の内閣発足以来の最低値を2カ月連続で更新したものの、不支持率は前回と同じ33％で、依然として支持率が不支持率を大きく上回っている。 内閣支持率...</description>
-      <pubDate>Sun, 24 May 2026 11:41:40 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260524/k00/00m/010/186000c</comments>
+      <title>今の自分の実力を超えた役割を担う時に考えること - Konifar's ZATSU</title>
+      <link>https://konifar-zatsu.hatenadiary.jp/entry/2026/05/24/162048</link>
+      <description>&lt;img src="https://ogimage.blog.st-hatena.com/6653812171394033897/17179246901389303851/1779610015" /&gt;&lt;br/&gt;タスクのアサイン、プロジェクトのリード、チームのマネジメントなど、『今の自分の実力でできるかわからない役割』を任されることがある。いわゆるストレッチアサインメントである。程度の差はあれ、こういう任され方の方が多いんじゃなかろうか。 言うのは簡単だが、やってみるとたいていつらい。焦りや不安でしんどく...</description>
+      <pubDate>Sun, 24 May 2026 07:59:13 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/konifar-zatsu.hatenadiary.jp/entry/2026/05/24/162048</comments>
     </item>
   </channel>
 </rss>
