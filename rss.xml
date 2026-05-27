@@ -4,13 +4,27 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 27 May 2026 22:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 23:33:09 +0000</lastBuildDate>
     <item>
-      <title>暴力は絶対悪ってゆうやつ</title>
-      <link>https://anond.hatelabo.jp/20260527172112</link>
-      <description>理由ってなに？なんか極論すぎて馬鹿なんやろなって思う。時と場合と程度があるやろ。 暴力は躾においても絶対悪だというヤツはこの時代のこの日本に産まれたからそんな意見言ってるんやろな。 他の国に、もしくは他の時代に産まれてたらそんなこと言ってないんと違うか？ダメだとゆうならそれなりの理由がないと今まで...</description>
-      <pubDate>Wed, 27 May 2026 08:26:53 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260527172112</comments>
+      <title>外国人「異常だ」日本人がトロフィーを掲げるとカメラ切り替え..アジア人が被害を受ける証拠が次々に出てきて炎上!【海外の反応】</title>
+      <link>https://nofootynolife.net/blog-entry-9062.html</link>
+      <description>&lt;img src="https://blog-imgs-184.fc2.com/n/o/f/nofootynolife/20260527200031c0d.jpg" /&gt;&lt;br/&gt;外国人「異常だ」日本人がトロフィーを掲げるとカメラ切り替え..アジア人が被害を受ける証拠が次々に出てきて炎上!【海外の反応】プレミアリーグ/イングランド 24日、英国ロンドンのサッカーの聖地ウェンブリー・スタジアムで行われたイングランド2部プレーオフ決勝。後半終盤、日本人選手の平河悠が送った鋭いパスが決...</description>
+      <pubDate>Wed, 27 May 2026 13:11:42 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/nofootynolife.net/blog-entry-9062.html</comments>
+    </item>
+    <item>
+      <title>「左手で触ったテーブルが冷たかった」その違和感をきっかけに検査して脳梗塞だと判明する経緯を描くレポマンガが早期発見に貢献しそうなレベルで有難い</title>
+      <link>https://togetter.com/li/2702249</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/418d6aeedaddc847419bf4f3539d16ee-1200x630.jpeg" /&gt;&lt;br/&gt;脳梗塞 (のうこうそく)とは | 済生会 脳梗塞の原因や症状、治療法について解説。脳梗塞は、脳の血管が動脈硬化によって狭くなって起こる脳血栓と、心原性脳塞栓症といって、心房細動などによって心臓の中にできた血栓が脳の血管に流れて詰まる脳塞栓の二つのタイプがあります。 174 社会福祉法人 恩賜財団 済生会</description>
+      <pubDate>Wed, 27 May 2026 17:12:36 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2702249</comments>
+    </item>
+    <item>
+      <title>「JWT を localStorage に置くな」はなぜ言われるのか、Cookie 回帰までの時系列整理</title>
+      <link>https://zenn.dev/khale/articles/web-session-jwt-cookie-history</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--PqF9Nn3v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CJWT%2520%25E3%2582%2592%2520localStorage%2520%25E3%2581%25AB%25E7%25BD%25AE%25E3%2581%258F%25E3%2581%25AA%25E3%2580%258D%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25A8%2580%25E3%2582%258F%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25E3%2580%2581Cookie%2520%25E5%259B%259E%25E5%25B8%25B0%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25AE%25E6%2599%2582%25E7%25B3%25BB%25E5%2588%2597%25E6%2595%25B4%25E7%2590%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:khale%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFjMGJhZTZjOTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに Webセキュリティの第一人者である徳丸浩氏が X で、JWT と Cookie セッションの関係についてこんな投稿をされていました。 これはウェブAPI呼び出しの歴史から考えると腑に落ちるのですが、CORSの機能にCookie付与があることからもわかるように、 (1) 昔はクロスオリジンのAPIをCookieによるセッション管理で呼...</description>
+      <pubDate>Wed, 27 May 2026 09:14:42 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/khale/articles/web-session-jwt-cookie-history</comments>
     </item>
     <item>
       <title>ドラゴンクエストからのお知らせ</title>
@@ -20,18 +34,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.youtube.com/watch?v=nRKyyK7S-Zw</comments>
     </item>
     <item>
+      <title>暴力は絶対悪ってゆうやつ</title>
+      <link>https://anond.hatelabo.jp/20260527172112</link>
+      <description>理由ってなに？なんか極論すぎて馬鹿なんやろなって思う。時と場合と程度があるやろ。 暴力は躾においても絶対悪だというヤツはこの時代のこの日本に産まれたからそんな意見言ってるんやろな。 他の国に、もしくは他の時代に産まれてたらそんなこと言ってないんと違うか？ダメだとゆうならそれなりの理由がないと今まで...</description>
+      <pubDate>Wed, 27 May 2026 08:26:53 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260527172112</comments>
+    </item>
+    <item>
       <title>2026年夏！はてなフォーラムサービス開始！ - orangestar2</title>
       <link>https://orangestar2.hatenadiary.com/entry/2026/05/27/161118</link>
       <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/d1e384a604337443509b12ed6e12ccbc896ee682/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fo%2Forangestar%2F20260527%2F20260527160207.jpg" /&gt;&lt;br/&gt;はてなの新サービス期待してます というか、はてなに、まだ、『インターネットサービスでBtoCのサービスをどんどん作っていくぞ！』という気概が残っていて本当にうれしいです 本当に１０００年続く会社になってほしい…… hatena.co.jp 自分、フォーラムサービスというのがよくわからなくて、昔の２ちゃんねるみたいなも...</description>
       <pubDate>Wed, 27 May 2026 07:19:30 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/orangestar2.hatenadiary.com/entry/2026/05/27/161118</comments>
-    </item>
-    <item>
-      <title>「JWT を localStorage に置くな」はなぜ言われるのか、Cookie 回帰までの時系列整理</title>
-      <link>https://zenn.dev/khale/articles/web-session-jwt-cookie-history</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--PqF9Nn3v--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CJWT%2520%25E3%2582%2592%2520localStorage%2520%25E3%2581%25AB%25E7%25BD%25AE%25E3%2581%258F%25E3%2581%25AA%25E3%2580%258D%25E3%2581%25AF%25E3%2581%25AA%25E3%2581%259C%25E8%25A8%2580%25E3%2582%258F%25E3%2582%258C%25E3%2582%258B%25E3%2581%25AE%25E3%2581%258B%25E3%2580%2581Cookie%2520%25E5%259B%259E%25E5%25B8%25B0%25E3%2581%25BE%25E3%2581%25A7%25E3%2581%25AE%25E6%2599%2582%25E7%25B3%25BB%25E5%2588%2597%25E6%2595%25B4%25E7%2590%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:khale%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzFjMGJhZTZjOTcuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに Webセキュリティの第一人者である徳丸浩氏が X で、JWT と Cookie セッションの関係についてこんな投稿をされていました。 これはウェブAPI呼び出しの歴史から考えると腑に落ちるのですが、CORSの機能にCookie付与があることからもわかるように、 (1) 昔はクロスオリジンのAPIをCookieによるセッション管理で呼...</description>
-      <pubDate>Wed, 27 May 2026 09:14:42 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/khale/articles/web-session-jwt-cookie-history</comments>
     </item>
     <item>
       <title>「愚痴を英語で書き、怒りを込めて音読する」高校生が編み出した画期的勉強法 - 高校生新聞：10代を応援するニュース＆コンテンツメディア</title>
@@ -47,32 +61,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2112189.html</comments>
     </item>
     <item>
-      <title>クレジットカードの決済後に店側で請求額変えられるのって怖くね？ - 関内関外日記</title>
-      <link>https://goldhead.hatenablog.com/entry/2026/05/27/124749</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/4ee0fa4f3e4d42a5257510e3b5f5f3040654e2c4/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgoldhead%2F20260527%2F20260527124734.png" /&gt;&lt;br/&gt;こないだ仕事でクライアントのロゴ入りのユニフォームをECサイトから発注した。一年に一度くらいそういう話がある。一年以内ならロゴ加工費のなにかが不要になる。それで毎年同じところに頼んでいる。 そこで、注文の行き違いがこちらにあった。一枚足りなかったのだ。そこで、すべての決済は終わっていたのだが、最終確...</description>
-      <pubDate>Wed, 27 May 2026 03:53:29 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/goldhead.hatenablog.com/entry/2026/05/27/124749</comments>
-    </item>
-    <item>
-      <title>【速報】文科省、大学の年内入試で面接を義務化</title>
-      <link>https://www.47news.jp/14369029.html</link>
-      <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;文部科学省は27日、2027年春入学者の大学入試の実施要項を公表した。「年内入試」と呼ばれる総合型選抜と学校推薦型選抜に面接を義務付けるのが柱。学力試験の成績を重視しすぎるケースがあり、見直しが課題だった。</description>
-      <pubDate>Wed, 27 May 2026 09:36:39 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14369029.html</comments>
-    </item>
-    <item>
-      <title>定食屋で阿部監督のニュースが流れたときに隣にいたジジィが「年収1億の親父が無職になっちまうんだぞバカ！黙って殴られとけ！」とめちゃくちゃな事を言っていたが考えさせられる</title>
-      <link>https://togetter.com/li/2702071</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/02a1218ef1e381cba68c8d29954f24c8-1200x630.jpeg" /&gt;&lt;br/&gt;定食屋で阿部監督のニュースが流れたときに隣にいたジジィが「年収1億の親父が無職になっちまうんだぞバカ！黙って殴られとけ！」とめちゃくちゃな事を言っていたが考えさせられる</description>
-      <pubDate>Wed, 27 May 2026 07:55:42 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2702071</comments>
-    </item>
-    <item>
-      <title>新日本プロレスリング株式会社の株式譲渡に寄せて｜株式会社ブシロード</title>
-      <link>https://bushiroad.co.jp/news/information/300</link>
-      <description>&lt;img src="https://bushiroad.co.jp/img/ogp.png" /&gt;&lt;br/&gt;いつも新日本プロレスリングを応援いただき、誠にありがとうございます。 本日、当社が保有する新日本プロレスリングの全株式を、テレビ朝日様、およびサイバーエージェント様に譲渡することを決定いたしました。ファンの皆様には突然の発表となり、驚かれた方も多いかと存じます。 2012年、新日本プロレスリングが次な...</description>
-      <pubDate>Wed, 27 May 2026 06:41:41 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/bushiroad.co.jp/news/information/300</comments>
+      <title>エンジニアに事業目線は要らない(給与が上がらなくていいなら)｜柳川慶太</title>
+      <link>https://note.com/gimupop/n/n058d5d187262</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/279434741/rectangle_large_type_2_d1226ce5204aadadf050df297cc60242.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;BASE株式会社執行役員の柳川です。金融事業の事業責任者をしています。エンジニア→PdM→事業責任者というキャリアを歩んできました。 最近AIの進化の話から飛び火して、「エンジニアが事業目線を持つべきか？」みたいな話を聞かれることがあります。まぁおそらく「コード書いてるだけではAIに負けるのでは？」的な文脈だ...</description>
+      <pubDate>Wed, 27 May 2026 05:43:55 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/gimupop/n/n058d5d187262</comments>
     </item>
   </channel>
 </rss>
