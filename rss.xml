@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 28 May 2026 20:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 21:33:11 +0000</lastBuildDate>
     <item>
       <title>重要だが緊急でない仕事が組織を停滞させる｜MRYY</title>
       <link>https://note.com/mryy/n/n78d9ac66059e</link>
@@ -18,6 +18,13 @@
       <description>&lt;img src="https://cdn.mainichi.jp/vol1/2026/05/28/20260528k0000m010137000p/0c10.jpg?1" /&gt;&lt;br/&gt;参院厚生労働委員会で立憲民主党・石橋通宏氏の週刊誌報道に関する質問に答弁する高市早苗首相＝国会内で2026年5月28日午前11時21分、平田明浩撮影 高市早苗首相は28日の参院厚生労働委員会で、自民党総裁選などで対立候補を中傷するショート動画を作成していたなどとする週刊文春の報道を巡り、「まるであったかのよう...</description>
       <pubDate>Thu, 28 May 2026 07:22:52 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260528/k00/00m/010/134000c</comments>
+    </item>
+    <item>
+      <title>Claude Codeですべての日常業務を爆速化しよう！</title>
+      <link>https://speakerdeck.com/minorun365/claude-codedesubetenori-chang-ye-wu-wobao-su-hua-siyou</link>
+      <description>&lt;img src="https://files.speakerdeck.com/presentations/66db596781864ce783302fad285da754/slide_0.jpg?39540793" /&gt;&lt;br/&gt;Qiita Conference 2026 https://qiita.com/official-campaigns/conference/2026</description>
+      <pubDate>Thu, 28 May 2026 12:26:24 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/minorun365/claude-codedesubetenori-chang-ye-wu-wobao-su-hua-siyou</comments>
     </item>
     <item>
       <title>『痩せぎす』ではなく『痩せすぎ』では？という誤字報告が届いているんだけど若い子はもうこういう言い回しをしないんですかね...？→「結構本を読んでるけど知らなかった」</title>
@@ -34,6 +41,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.jcp.or.jp/akahata/aik26/2026-05-28/2026052804_01_0.php</comments>
     </item>
     <item>
+      <title>ロシア軍の後方に「火星人」ドローンが来襲　前線への兵站を破壊 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
+      <link>https://forbesjapan.com/articles/detail/98175</link>
+      <description>&lt;img src="https://images.forbesjapan.com/media/article/98175/images/main_image_39febd96ef7becf52d2cfeb84c9317f1cb04fbda.jpg" /&gt;&lt;br/&gt;ロシアの軍事ブロガーたちには不満の種が山ほどある。前線では、主にウクライナ側のFPV（一人称視点）ドローン（無人機）優勢のために、ロシア軍が大きな損害を出しながらじわじわと後退している。はるか後方では、モスクワを含むロシア国内が一晩で1000機規模のドローン攻撃を受けた。モスクワ市内や郊外でも製油所が炎...</description>
+      <pubDate>Thu, 28 May 2026 03:06:43 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/forbesjapan.com/articles/detail/98175</comments>
+    </item>
+    <item>
       <title>「今日何食べた？」日本人ユーザーからの問いかけにたくさんの中国人が今日のごはん画像で返信「ようやく来てくれたか！」</title>
       <link>https://togetter.com/li/2702468</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/b0240ccb6f3a57ba94c5ae5a09b38efe-1200x630.jpeg" /&gt;&lt;br/&gt;「今日何食べた？」日本人ユーザーからの問いかけにたくさんの中国人が今日のごはん画像で返信「ようやく来てくれたか！」</description>
@@ -41,39 +55,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2702468</comments>
     </item>
     <item>
+      <title>インフラプログラマが Claude Code をどう使っていくか － AWS マルチアカウント管理</title>
+      <link>https://zenn.dev/sonicgarden/articles/ef6268318d256f</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--CLgbuEFX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%25E3%2581%258C%2520Claude%2520Code%2520%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%258F%25E3%2581%258B%2520%25EF%25BC%258D%2520AWS%2520%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2582%25A2%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2588%25E7%25AE%25A1%25E7%2590%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:dkan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ3ZjRiNGZjZmIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25AC%25E3%2583%25BC%25E3%2583%2587%25E3%2583%25B3%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IwNzI5ODQ1NDUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;この記事は Claude on SonicGarden の記事です。ソニックガーデンのプログラマが、Claude Codeの活用について書いています。#claude_on_sonicgarden はじめに Claude Code の活用事例というと、コードを書く場面が真っ先に思い浮かぶのではないかと思いますが、インフラプログラマである自分にとっても、欠かすことがで...</description>
+      <pubDate>Thu, 28 May 2026 03:50:01 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/sonicgarden/articles/ef6268318d256f</comments>
+    </item>
+    <item>
+      <title>「65万円使ってもA賞うさぎは出ませんでした」ちいかわのオンラインくじを777回引いたというアカウントの訴えが話題に→法律に引っかかる？規制が必要？</title>
+      <link>https://togetter.com/li/2702552</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/9f6e4cb3eb4b842eb82dbc1d3ef9ffe2-1200x630.jpeg" /&gt;&lt;br/&gt;ちいかわマーケット公式 @chiikawa_market &#x1f33c;#ちいかわくじ 発売&#x1f33c; 『Chiikawa Baby ぬいぐるみくじ』 1回1,200円(税込) ✅販売期間：5/26(火)11:00～6/1(月)23:59 ✅お届け予定：2026年10月下旬頃より順次 うまれたての ふにふにくじ&#x1f37c; 10連には 特典も&#x1f381; &#x1f53b;ご購入はこちら tinyurl.com/2ntnh8wd ⚠️#ちいかわマーケット ...</description>
+      <pubDate>Thu, 28 May 2026 13:11:46 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2702552</comments>
+    </item>
+    <item>
       <title>東京・昭島市に大型獣か 多摩川河川敷の公園に動物の糞（ABEMA TIMES） - Yahoo!ニュース</title>
       <link>https://news.yahoo.co.jp/articles/d0bada5c9210ce56020b6c844e5d357dac24a9fb</link>
       <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260528-10248730-abemav-000-2-view.jpg?exp=10800" /&gt;&lt;br/&gt;東京・昭島市のホームページが更新されました。 「大型獣らしき動物の糞を確認 令和8年5月24日（日曜日）午前6時頃に、多摩川緑地くじら運動公園ソフトボール場（ナンバー6のレフト側外野付近）に大型獣らしき動物の糞が1つあることを確認しました。 【映像】多摩川河川敷の公園に動物の糞を確認 市においては、獣の種類...</description>
       <pubDate>Thu, 28 May 2026 09:31:53 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/d0bada5c9210ce56020b6c844e5d357dac24a9fb</comments>
-    </item>
-    <item>
-      <title>サッカーは観戦スポーツとしては最悪だよね</title>
-      <link>https://anond.hatelabo.jp/20260528094910</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;野球が優れてるというかサッカーが酷すぎる 試合時間のほとんどは無意味な時間、それをいつ起こるかわからない(起こらないこともある)ハイライトの瞬間を待ち続ける虚無 試合そのものがあまりにつまらないから意味もなくずっと歌い続けたり、試合そっちのけで暴れたりしてるんでしょ スポーツとしてはボール1個あればど...</description>
-      <pubDate>Thu, 28 May 2026 00:58:03 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260528094910</comments>
-    </item>
-    <item>
-      <title>「なぜ通報した」被害者が責められる異常さ…巨人・阿部監督の涙の会見“長女の手紙”代読に感じた違和感 - 弁護士ドットコムニュース</title>
-      <link>https://www.bengo4.com/c_1009/n_20464/</link>
-      <description>&lt;img src="https://storage.bengo4.com/news/images/23260.png?1779932882" /&gt;&lt;br/&gt;プロ野球・読売ジャイアンツの阿部慎之助監督（47）が、高校生の長女（18）への暴行容疑で警視庁に逮捕・釈放され、球団事務所で記者会見を開いて辞任を表明した。 長女と次女のケンカを止めようとした際、長女から言い返されたことに腹を立て、襟元をつかんで投げ飛ばすなどの暴行を加えたことが確認されているという。...</description>
-      <pubDate>Thu, 28 May 2026 02:37:35 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.bengo4.com/c_1009/n_20464/</comments>
-    </item>
-    <item>
-      <title>ロシア軍戦死者　50万人近くに　ウクライナ側と大きな差　ドローン攻撃など影響</title>
-      <link>https://news.tv-asahi.co.jp/news_international/articles/000508179.html</link>
-      <description>&lt;img src="https://news.tv-asahi.co.jp/articles_img/000508179_1200.jpg" /&gt;&lt;br/&gt;1 ウクライナへの全面侵攻以降、ロシア軍の戦死者が50万人近くに上るとイギリスの情報機関が明らかにしました。 イギリスのGCHQ（政府通信本部）のキーストバトラー長官は27日の演説で、2022年2月の全面侵攻以来、「50万人近くのロシア兵が戦死している」と述べました。 また、プーチン大統領が「戦場で後退を余儀なくさ...</description>
-      <pubDate>Thu, 28 May 2026 02:07:49 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.tv-asahi.co.jp/news_international/articles/000508179.html</comments>
-    </item>
-    <item>
-      <title>アルコールって事故や犯罪絡むこと多いよね 認知能力に影響するもんだしな ..</title>
-      <link>https://anond.hatelabo.jp/20260526215633</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;アルコールって事故や犯罪絡むこと多いよね 認知能力に影響するもんだしな 改めて考えるとすごいよな コンビニとかでバンバン売ってるんだよな</description>
-      <pubDate>Tue, 26 May 2026 14:12:25 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260526215633</comments>
     </item>
   </channel>
 </rss>
