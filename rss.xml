@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 28 May 2026 23:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 00:33:10 +0000</lastBuildDate>
     <item>
       <title>クレジットカードのオーソリと請求金額のお話。 - メモ代わりのブログ</title>
       <link>https://murabit.hatenablog.com/entry/2026/05/28/214441</link>
@@ -13,11 +13,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/murabit.hatenablog.com/entry/2026/05/28/214441</comments>
     </item>
     <item>
-      <title>Claude Codeですべての日常業務を爆速化しよう！</title>
-      <link>https://speakerdeck.com/minorun365/claude-codedesubetenori-chang-ye-wu-wobao-su-hua-siyou</link>
-      <description>&lt;img src="https://files.speakerdeck.com/presentations/66db596781864ce783302fad285da754/slide_0.jpg?39540793" /&gt;&lt;br/&gt;Qiita Conference 2026 https://qiita.com/official-campaigns/conference/2026</description>
-      <pubDate>Thu, 28 May 2026 12:26:24 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/minorun365/claude-codedesubetenori-chang-ye-wu-wobao-su-hua-siyou</comments>
+      <title>Claude CodeとCodexを2ヶ月使い比べて分かった選び方 — settings.jsonを育てた側が速い</title>
+      <link>https://zenn.dev/playpark/articles/claude-code-vs-codex-comparison</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--eU0LyAsU--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%25A8Codex%25E3%2582%25922%25E3%2583%25B6%25E6%259C%2588%25E4%25BD%25BF%25E3%2581%2584%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%25A6%25E5%2588%2586%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E9%2581%25B8%25E3%2581%25B3%25E6%2596%25B9%2520%25E2%2580%2594%2520settings.json%25E3%2582%2592%25E8%2582%25B2%25E3%2581%25A6%25E3%2581%259F%25E5%2581%25B4%25E3%2581%258C%25E9%2580%259F%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:playpark%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2QyMjY2NmExMzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;「どっちが速いの？」という問いへの正直な答え AIコーディングツールを検討するとき、誰もが最初に聞く。「Claude CodeとCodex、実際どっちが速い？」 ベンチマークや機能表は世の中に溢れている。でも「同じプロジェクトに両方投入した体感」をレポートしている記事はあまり見かけない。自分はNext.js 16 + React 19の...</description>
+      <pubDate>Thu, 28 May 2026 06:06:36 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/playpark/articles/claude-code-vs-codex-comparison</comments>
     </item>
     <item>
       <title>椎名林檎の眩しさと、もう無かったことにできない危うさ【個人的なこと】｜&#x1f39e;️ 映画のこと、個人的なこと&#x1f4d3; / とんこつたろう</title>
@@ -25,6 +25,20 @@
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/280208167/rectangle_large_type_2_456ee3a7a8788179e91924211c306799.jpg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;福井まで駆け付けるくらいにはOTKです【撮影 : 黒猫堂】　私がツアーやフェスに足繁く通うファンであることは前提としつつも、椎名林檎への違和感は今日いきなり生まれたものではない。彼女の作品や振る舞いの周りには、少し前からどこかネオリベラル的な匂いが漂っていた。強くあれ。選ばれよ。美しく勝ち抜け。自己演...</description>
       <pubDate>Thu, 28 May 2026 12:10:58 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/tonkotsu_0707/n/n3042c6d5c769</comments>
+    </item>
+    <item>
+      <title>Codexを使い始めて長時間稼働させるまで</title>
+      <link>https://zenn.dev/genda_jp/articles/b7fe56ce2fc60f</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--DroIBVk_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Codex%25E3%2582%2592%25E4%25BD%25BF%25E3%2581%2584%25E5%25A7%258B%25E3%2582%2581%25E3%2581%25A6%25E9%2595%25B7%25E6%2599%2582%25E9%2596%2593%25E7%25A8%25BC%25E5%2583%258D%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E3%2581%25BE%25E3%2581%25A7%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:chika%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNiM2M1MjhkNjguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:GENDA%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSkU5eDRsT296OVNndVZiQ3NldEExenQyejhGM0NFbTFLX2hvYUNzczdnbUxBNHVGdUQ9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;こんにちは、データマネジメント部でデータエンジニアをしています。山城です。 Claude Codeがリリースされて早くも一年ちょっとが経ちました。恥ずかしながら今まで碌に使っていなかったので、ここ二か月ほどCodexをメインに使いながら設定を行っています。 公式からリリースされた機能についてまとめた記事などは色々...</description>
+      <pubDate>Thu, 28 May 2026 19:14:39 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/genda_jp/articles/b7fe56ce2fc60f</comments>
+    </item>
+    <item>
+      <title>Claude Codeですべての日常業務を爆速化しよう！</title>
+      <link>https://speakerdeck.com/minorun365/claude-codedesubetenori-chang-ye-wu-wobao-su-hua-siyou</link>
+      <description>&lt;img src="https://files.speakerdeck.com/presentations/66db596781864ce783302fad285da754/slide_0.jpg?39540793" /&gt;&lt;br/&gt;Qiita Conference 2026 https://qiita.com/official-campaigns/conference/2026</description>
+      <pubDate>Thu, 28 May 2026 12:26:24 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/minorun365/claude-codedesubetenori-chang-ye-wu-wobao-su-hua-siyou</comments>
     </item>
     <item>
       <title>[1話]世界を繋ぎ尽くすインターネット巫女 - コガッツオ/木野イチカ | 少年ジャンプ＋</title>
@@ -48,25 +62,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/mryy/n/n78d9ac66059e</comments>
     </item>
     <item>
+      <title>中公新書『継体天皇』河内春人：5世紀の皇位継承の在り方｜maru</title>
+      <link>https://note.com/great_journey_/n/n635e8290a7cb</link>
+      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/d6c68a3316126902cfa94be2ae1664af4add6c0b.png" /&gt;&lt;br/&gt;先日、中公新書から『継体天皇』が出版された。刊行が発表された時から期待していた新刊だったので発売日当日に書店に行って紙の書籍を購入する。個人的に中公新書は最も信頼がおける新書で、内容もやはり非常に勉強になるものであった。議論の詳細さもさることながら非常に多岐にわたる継体研究を限られた誌面にまとめ...</description>
+      <pubDate>Thu, 28 May 2026 13:25:03 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/great_journey_/n/n635e8290a7cb</comments>
+    </item>
+    <item>
       <title>OpenClawブームのその後とHermes Agent</title>
       <link>https://blog.lai.so/hermes-agent/</link>
       <description>&lt;img src="https://storage.ghost.io/c/56/fe/56fe3d7d-496d-4589-b45d-1a480143aeda/content/images/2025/03/my-github-icon-2024-2.png" /&gt;&lt;br/&gt;以前OpenClawの何が特別なのか？で、セルフホストできる「自分専用のパーソナルアシスタント」としてOpenClawを取り上げました。Mac miniなどの手元のマシンに住まわせて、TelegramやDiscordから話しかけると雑務をこなしてくれる、常駐型のエージェントです。指示がなくても定期的に自分から動くHEARTBEAT、会話やメモ...</description>
       <pubDate>Thu, 28 May 2026 10:27:32 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/blog.lai.so/hermes-agent/</comments>
-    </item>
-    <item>
-      <title>高市首相、中傷動画報道に「印象づけは心外」「名誉に関わる」 | 毎日新聞</title>
-      <link>https://mainichi.jp/articles/20260528/k00/00m/010/134000c</link>
-      <description>&lt;img src="https://cdn.mainichi.jp/vol1/2026/05/28/20260528k0000m010137000p/0c10.jpg?1" /&gt;&lt;br/&gt;参院厚生労働委員会で立憲民主党・石橋通宏氏の週刊誌報道に関する質問に答弁する高市早苗首相＝国会内で2026年5月28日午前11時21分、平田明浩撮影 高市早苗首相は28日の参院厚生労働委員会で、自民党総裁選などで対立候補を中傷するショート動画を作成していたなどとする週刊文春の報道を巡り、「まるであったかのよう...</description>
-      <pubDate>Thu, 28 May 2026 07:22:52 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260528/k00/00m/010/134000c</comments>
-    </item>
-    <item>
-      <title>『痩せぎす』ではなく『痩せすぎ』では？という誤字報告が届いているんだけど若い子はもうこういう言い回しをしないんですかね...？→「結構本を読んでるけど知らなかった」</title>
-      <link>https://togetter.com/li/2702486</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/f2b0bda4e265333be70c0e3f54a0aa58-1200x630.jpeg" /&gt;&lt;br/&gt;『痩せぎす』ではなく『痩せすぎ』では？という誤字報告が届いているんだけど若い子はもうこういう言い回しをしないんですかね...？→「結構本を読んでるけど知らなかった」</description>
-      <pubDate>Thu, 28 May 2026 08:21:38 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2702486</comments>
     </item>
     <item>
       <title>最近は日本人でも知らない人が多いが歴史ある庭園や寺院などでこの石を見かけたらそれ以上進んではいけない...→意味を知っていないと分かりにくいかも</title>
@@ -76,11 +83,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2702551</comments>
     </item>
     <item>
-      <title>ロシア軍の後方に「火星人」ドローンが来襲　前線への兵站を破壊 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-      <link>https://forbesjapan.com/articles/detail/98175</link>
-      <description>&lt;img src="https://images.forbesjapan.com/media/article/98175/images/main_image_39febd96ef7becf52d2cfeb84c9317f1cb04fbda.jpg" /&gt;&lt;br/&gt;ロシアの軍事ブロガーたちには不満の種が山ほどある。前線では、主にウクライナ側のFPV（一人称視点）ドローン（無人機）優勢のために、ロシア軍が大きな損害を出しながらじわじわと後退している。はるか後方では、モスクワを含むロシア国内が一晩で1000機規模のドローン攻撃を受けた。モスクワ市内や郊外でも製油所が炎...</description>
-      <pubDate>Thu, 28 May 2026 03:06:43 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/forbesjapan.com/articles/detail/98175</comments>
+      <title>高市首相、中傷動画報道に「印象づけは心外」「名誉に関わる」 | 毎日新聞</title>
+      <link>https://mainichi.jp/articles/20260528/k00/00m/010/134000c</link>
+      <description>&lt;img src="https://cdn.mainichi.jp/vol1/2026/05/28/20260528k0000m010137000p/0c10.jpg?1" /&gt;&lt;br/&gt;参院厚生労働委員会で立憲民主党・石橋通宏氏の週刊誌報道に関する質問に答弁する高市早苗首相＝国会内で2026年5月28日午前11時21分、平田明浩撮影 高市早苗首相は28日の参院厚生労働委員会で、自民党総裁選などで対立候補を中傷するショート動画を作成していたなどとする週刊文春の報道を巡り、「まるであったかのよう...</description>
+      <pubDate>Thu, 28 May 2026 07:22:52 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260528/k00/00m/010/134000c</comments>
     </item>
     <item>
       <title>「65万円使ってもA賞うさぎは出ませんでした」ちいかわのオンラインくじを777回引いたというアカウントの訴えが話題に→法律に引っかかる？規制が必要？</title>
@@ -90,18 +97,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2702552</comments>
     </item>
     <item>
-      <title>インフラプログラマが Claude Code をどう使っていくか － AWS マルチアカウント管理</title>
-      <link>https://zenn.dev/sonicgarden/articles/ef6268318d256f</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--CLgbuEFX--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2595%25E3%2583%25A9%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%25E3%2581%258C%2520Claude%2520Code%2520%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2581%258F%25E3%2581%258B%2520%25EF%25BC%258D%2520AWS%2520%25E3%2583%259E%25E3%2583%25AB%25E3%2583%2581%25E3%2582%25A2%25E3%2582%25AB%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2588%25E7%25AE%25A1%25E7%2590%2586%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:dkan%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ3ZjRiNGZjZmIuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25AC%25E3%2583%25BC%25E3%2583%2587%25E3%2583%25B3%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IwNzI5ODQ1NDUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;この記事は Claude on SonicGarden の記事です。ソニックガーデンのプログラマが、Claude Codeの活用について書いています。#claude_on_sonicgarden はじめに Claude Code の活用事例というと、コードを書く場面が真っ先に思い浮かぶのではないかと思いますが、インフラプログラマである自分にとっても、欠かすことがで...</description>
-      <pubDate>Thu, 28 May 2026 03:50:01 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/sonicgarden/articles/ef6268318d256f</comments>
-    </item>
-    <item>
-      <title>「今日何食べた？」日本人ユーザーからの問いかけにたくさんの中国人が今日のごはん画像で返信「ようやく来てくれたか！」</title>
-      <link>https://togetter.com/li/2702468</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/b0240ccb6f3a57ba94c5ae5a09b38efe-1200x630.jpeg" /&gt;&lt;br/&gt;「今日何食べた？」日本人ユーザーからの問いかけにたくさんの中国人が今日のごはん画像で返信「ようやく来てくれたか！」</description>
-      <pubDate>Thu, 28 May 2026 08:19:52 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2702468</comments>
+      <title>『痩せぎす』ではなく『痩せすぎ』では？という誤字報告が届いているんだけど若い子はもうこういう言い回しをしないんですかね...？→「結構本を読んでるけど知らなかった」</title>
+      <link>https://togetter.com/li/2702486</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/f2b0bda4e265333be70c0e3f54a0aa58-1200x630.jpeg" /&gt;&lt;br/&gt;『痩せぎす』ではなく『痩せすぎ』では？という誤字報告が届いているんだけど若い子はもうこういう言い回しをしないんですかね...？→「結構本を読んでるけど知らなかった」</description>
+      <pubDate>Thu, 28 May 2026 08:21:38 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2702486</comments>
     </item>
   </channel>
 </rss>
