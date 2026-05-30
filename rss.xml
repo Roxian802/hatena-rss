@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 30 May 2026 02:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 03:33:09 +0000</lastBuildDate>
     <item>
       <title>まさか農業高校の卒業生まで奪うとは…年収2500万超のTSMC社員が大量移入した｢熊本の畜産地帯｣に起きた狂乱</title>
       <link>https://president.jp/articles/-/113697</link>
@@ -27,6 +27,20 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/hyperion124/n/n1b1e88cf19b4</comments>
     </item>
     <item>
+      <title>Claude Code Dynamic Workflows 入門：公式情報から整理する仕組みと注意点</title>
+      <link>https://zenn.dev/arufian/articles/c1389f2941de90</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--_ldttnEx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520Dynamic%2520Workflows%2520%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%259A%25E5%2585%25AC%25E5%25BC%258F%25E6%2583%2585%25E5%25A0%25B1%25E3%2581%258B%25E3%2582%2589%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2581%25A8%25E6%25B3%25A8%25E6%2584%258F%25E7%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25A2%25E3%2583%25B3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg0YzkxNjUwZjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT" /&gt;&lt;br/&gt;はじめに 2026年5月28日、AnthropicはClaude Codeに Dynamic Workflows を導入しました。公式ブログでは、Claudeがオーケストレーションスクリプトを動的に書き、1つのセッション内で数十から数百のサブエージェントを並列実行し、結果をユーザーに返す前に検証すると説明されています。 出典：Introducing dynamic work...</description>
+      <pubDate>Fri, 29 May 2026 14:55:13 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/arufian/articles/c1389f2941de90</comments>
+    </item>
+    <item>
+      <title>アプリで『ONE PIECE』公式旗艦店の入店予約をしていたが、入店チェックで「あなたの予約データが確認できない」という理由で入店を拒否され、強制退店させられた話</title>
+      <link>https://togetter.com/li/2703078</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/eab06ceeaa74544b967960575661740a-1200x630.jpeg" /&gt;&lt;br/&gt;りゅん @LYunt44su 長くなってしまいますが、もしよければ読んでください 実はキャンセルで空いてた枠の予約が取れたので、5月20日に新宿のONE PIECE BASE SHOPに行ったんですが、入店チェックにおいて「あなたの予約データが確認できない」という理由で入店を拒否され、一切中に入ることもできないままセキュリティスタ...</description>
+      <pubDate>Fri, 29 May 2026 20:21:41 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2703078</comments>
+    </item>
+    <item>
       <title>【速報】ろうそく消し忘れ依頼人宅全焼、弁護士懲戒</title>
       <link>https://www.47news.jp/14382654.html</link>
       <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;福岡県弁護士会は29日、刑事事件で勾留中の依頼人から頼まれて自宅を訪れた際、ろうそくの火を消し忘れ全焼させたなどとして、末広清二弁護士（61）を業務停止2カ月の懲戒処分とした。</description>
@@ -41,13 +55,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV5Y45S2V5YUTFK018M.html</comments>
     </item>
     <item>
-      <title>漫画家の友達から相談受けたけどこいつら一生売れねえんだろうなって思った｜漫画編集者K</title>
-      <link>https://note.com/manga_k/n/n75d2d11d8322</link>
-      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/1bdf0ffab0bc606d77a84a00301b2db7f832f08d.png" /&gt;&lt;br/&gt;BL漫画家A子A子「新連載のプロット送ってるけど返信が2週間来ない。キレていいか？」 いいわけね～だろ 大大大大大前提、返信遅い担当が100%悪いよ でも、たとえ担当が100%悪いからって新連載に繋がるかどうかってまったく関係ないんだよな 返信が遅れてしまい大変申し訳御座いませんでした……！それはそれとして次はない...</description>
-      <pubDate>Fri, 29 May 2026 10:18:55 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/manga_k/n/n75d2d11d8322</comments>
-    </item>
-    <item>
       <title>縮小止まらず死にゆく「死海」、救う手立ても定まらず</title>
       <link>https://www.cnn.co.jp/world/35248231.html</link>
       <description>&lt;img src="https://www.cnn.co.jp/storage/2026/05/29/fc15044404e74d615e77c589d0216190/salt-formations.jpg" /&gt;&lt;br/&gt;死海では水位が低下し塩分濃度が高まった結果、結晶化した塩で彫刻がつくりだされている/Laura Paddison/CNN via CNN Newsource 死海（CNN） 死海はイスラエルとヨルダン、パレスチナ自治区の境界にまたがる塩湖。湖面の海抜はマイナス約430メートルと、地球上で最も低い。含まれる塩分は世界屈指の濃度で、通常の海水に...</description>
@@ -55,18 +62,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/world/35248231.html</comments>
     </item>
     <item>
-      <title>辺野古事故利用の共産党攻撃は成り立たない/分断あおり害悪しかない/今必要なのは遺族に寄り添い、原因の解明と再発防止 | しんぶん赤旗｜日本共産党</title>
-      <link>https://www.jcp.or.jp/akahata/aik26/2026-05-29/2026052906_01_0.php</link>
-      <description>&lt;img src="https://www.jcp.or.jp/akahata/web_img/akahata-kakusan.jpg" /&gt;&lt;br/&gt;沖縄県名護市辺野古沖で起こった船舶２隻（「不屈」「平和丸」）の転覆事故を巡り、いま何よりも求められているのは、事故原因の解明と再発防止、事故の責任を負う関係団体による遺族への直接の謝罪と補償を進めることです。 しかし、事故を起こした船を管理・運航していたヘリ基地反対協議会に対する事実に基づかない攻...</description>
-      <pubDate>Fri, 29 May 2026 02:10:02 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.jcp.or.jp/akahata/aik26/2026-05-29/2026052906_01_0.php</comments>
-    </item>
-    <item>
-      <title>国会前で約1万人がデモ、反戦訴える　「総理は憲法守れ」コール | 毎日新聞</title>
-      <link>https://mainichi.jp/articles/20260529/k00/00m/040/307000c</link>
-      <description>&lt;img src="https://cdn.mainichi.jp/vol1/2026/05/29/20260529k0000m040316000p/0c10.jpg?1" /&gt;&lt;br/&gt;高市政権が目指す改憲などの動きに抗議の声を上げるデモの参加者たち＝国会前で2026年5月29日午後7時51分、後藤由耶撮影 反戦や改憲反対を訴えるデモが29日、東京・永田町の国会議事堂前であった。約1万人（主催者発表）が参加し、プラカードやペンライトなどを手に「戦争反対」などと訴えた。 デモは、市民グループ「WE...</description>
-      <pubDate>Fri, 29 May 2026 13:20:12 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260529/k00/00m/040/307000c</comments>
+      <title>漫画家の友達から相談受けたけどこいつら一生売れねえんだろうなって思った｜漫画編集者K</title>
+      <link>https://note.com/manga_k/n/n75d2d11d8322</link>
+      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/1bdf0ffab0bc606d77a84a00301b2db7f832f08d.png" /&gt;&lt;br/&gt;BL漫画家A子A子「新連載のプロット送ってるけど返信が2週間来ない。キレていいか？」 いいわけね～だろ 大大大大大前提、返信遅い担当が100%悪いよ でも、たとえ担当が100%悪いからって新連載に繋がるかどうかってまったく関係ないんだよな 返信が遅れてしまい大変申し訳御座いませんでした……！それはそれとして次はない...</description>
+      <pubDate>Fri, 29 May 2026 10:18:55 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/manga_k/n/n75d2d11d8322</comments>
     </item>
   </channel>
 </rss>
