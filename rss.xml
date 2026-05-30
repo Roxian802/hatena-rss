@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 30 May 2026 05:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 06:33:09 +0000</lastBuildDate>
     <item>
       <title>まさか農業高校の卒業生まで奪うとは…年収2500万超のTSMC社員が大量移入した｢熊本の畜産地帯｣に起きた狂乱</title>
       <link>https://president.jp/articles/-/113697</link>
@@ -41,13 +41,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/hyperion124/n/n1b1e88cf19b4</comments>
     </item>
     <item>
-      <title>Claude Code Dynamic Workflows 入門：公式情報から整理する仕組みと注意点</title>
-      <link>https://zenn.dev/arufian/articles/c1389f2941de90</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--_ldttnEx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520Dynamic%2520Workflows%2520%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%259A%25E5%2585%25AC%25E5%25BC%258F%25E6%2583%2585%25E5%25A0%25B1%25E3%2581%258B%25E3%2582%2589%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2581%25A8%25E6%25B3%25A8%25E6%2584%258F%25E7%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25A2%25E3%2583%25B3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg0YzkxNjUwZjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT" /&gt;&lt;br/&gt;はじめに 2026年5月28日、AnthropicはClaude Codeに Dynamic Workflows を導入しました。公式ブログでは、Claudeがオーケストレーションスクリプトを動的に書き、1つのセッション内で数十から数百のサブエージェントを並列実行し、結果をユーザーに返す前に検証すると説明されています。 出典：Introducing dynamic work...</description>
-      <pubDate>Fri, 29 May 2026 14:55:13 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/arufian/articles/c1389f2941de90</comments>
-    </item>
-    <item>
       <title>AI時代の私の技術インプットとアウトプット術</title>
       <link>https://speakerdeck.com/tonkotsuboy_com/aishi-dai-nosi-noji-shu-inpututotoautopututoshu</link>
       <description>&lt;img src="https://files.speakerdeck.com/presentations/eeebf8d3a57e4b998521087ebfb8f7e9/slide_0.jpg?39538461" /&gt;&lt;br/&gt;Qiita Conference 2026（キータ カンファレンス 2026）で発表した資料です。 2025年、Claude Codeの登場により開発現場は大きく変わりました。日夜新しいAI技術が生まれては消え、Xのタイムラインを見れば椅子から転げ落ちた人で溢れかえっています。進化の早いこの時代の…</description>
@@ -55,11 +48,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/tonkotsuboy_com/aishi-dai-nosi-noji-shu-inpututotoautopututoshu</comments>
     </item>
     <item>
-      <title>〈辺野古ボート事故〉反基地団体と船長が国交省の聴取を拒否！　謝罪もなく…　「反対協」代表は「駄目なんですか？」 | デイリー新潮</title>
-      <link>https://www.dailyshincho.jp/article/2026/05300500/</link>
-      <description>&lt;img src="https://www.dailyshincho.com/wp-content/uploads/2026/05/1458954_1.jpg" /&gt;&lt;br/&gt;「週刊新潮」の発売前日に速報が届く！ メールマガジン登録 デイリー新潮とは？ 広告掲載について お問い合わせ 著作権・リンクについて ご購入について 免責事項 プライバシーポリシー データポリシー 運営：株式会社新潮社 Copyright © SHINCHOSHA All Rights Reserved. すべての画像・データについて無断転用・無断転...</description>
-      <pubDate>Fri, 29 May 2026 22:52:42 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.dailyshincho.jp/article/2026/05300500/</comments>
+      <title>Claude Code Dynamic Workflows 入門：公式情報から整理する仕組みと注意点</title>
+      <link>https://zenn.dev/arufian/articles/c1389f2941de90</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--_ldttnEx--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%2520Dynamic%2520Workflows%2520%25E5%2585%25A5%25E9%2596%2580%25EF%25BC%259A%25E5%2585%25AC%25E5%25BC%258F%25E6%2583%2585%25E5%25A0%25B1%25E3%2581%258B%25E3%2582%2589%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2581%25A8%25E6%25B3%25A8%25E6%2584%258F%25E7%2582%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%25A2%25E3%2583%25AB%25E3%2583%2595%25E3%2582%25A3%25E3%2582%25A2%25E3%2583%25B3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzg0YzkxNjUwZjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT" /&gt;&lt;br/&gt;はじめに 2026年5月28日、AnthropicはClaude Codeに Dynamic Workflows を導入しました。公式ブログでは、Claudeがオーケストレーションスクリプトを動的に書き、1つのセッション内で数十から数百のサブエージェントを並列実行し、結果をユーザーに返す前に検証すると説明されています。 出典：Introducing dynamic work...</description>
+      <pubDate>Fri, 29 May 2026 14:55:13 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/arufian/articles/c1389f2941de90</comments>
     </item>
     <item>
       <title>ベトナム人実習生をファミレスに連れて行ったら、席に着いたままビデオ通話でベトナムの家族と通話を始めた…文化の違いを実感する体験談に様々な意見</title>
@@ -69,11 +62,32 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2703148</comments>
     </item>
     <item>
+      <title>〈辺野古ボート事故〉反基地団体と船長が国交省の聴取を拒否！　謝罪もなく…　「反対協」代表は「駄目なんですか？」 | デイリー新潮</title>
+      <link>https://www.dailyshincho.jp/article/2026/05300500/</link>
+      <description>&lt;img src="https://www.dailyshincho.com/wp-content/uploads/2026/05/1458954_1.jpg" /&gt;&lt;br/&gt;「週刊新潮」の発売前日に速報が届く！ メールマガジン登録 デイリー新潮とは？ 広告掲載について お問い合わせ 著作権・リンクについて ご購入について 免責事項 プライバシーポリシー データポリシー 運営：株式会社新潮社 Copyright © SHINCHOSHA All Rights Reserved. すべての画像・データについて無断転用・無断転...</description>
+      <pubDate>Fri, 29 May 2026 22:52:42 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.dailyshincho.jp/article/2026/05300500/</comments>
+    </item>
+    <item>
+      <title>スマートグラス、盗撮防止は難題　「撮影中」サインの業界統一欠かせず - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC227HW0S6A520C2000000/</link>
+      <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3078036026052026000000-1.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=9b5a6107feafb3590d1f08cc1016f551" /&gt;&lt;br/&gt;【この記事でわかること】・どう悪用されるリスクがあるのか・盗撮対策として実装された機能は・開発企業に対しどう対応を促すか</description>
+      <pubDate>Fri, 29 May 2026 20:40:51 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUC227HW0S6A520C2000000/</comments>
+    </item>
+    <item>
       <title>アプリで『ONE PIECE』公式旗艦店の入店予約をしていたが、入店チェックで「あなたの予約データが確認できない」という理由で入店を拒否され、強制退店させられた話</title>
       <link>https://togetter.com/li/2703078</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/eab06ceeaa74544b967960575661740a-1200x630.jpeg" /&gt;&lt;br/&gt;りゅん @LYunt44su 長くなってしまいますが、もしよければ読んでください 実はキャンセルで空いてた枠の予約が取れたので、5月20日に新宿のONE PIECE BASE SHOPに行ったんですが、入店チェックにおいて「あなたの予約データが確認できない」という理由で入店を拒否され、一切中に入ることもできないままセキュリティスタ...</description>
       <pubDate>Fri, 29 May 2026 20:21:41 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2703078</comments>
+    </item>
+    <item>
+      <title>タクシー内で財布を拾ったが、中に耳鼻科の診察券が入っていたのでそこに電話をかけ、こちらの電話番号を伝え、運転手に預けておくのでタクシー会社に連絡してもらうようお願い→後味の悪い結末に</title>
+      <link>https://togetter.com/li/2703132</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/62121ea0155ec8b6af574b0a8dad3237-1200x630.jpeg" /&gt;&lt;br/&gt;放送作家 細田哲也 @hosodatetsuya おととい。タクシーの後部座席で、革の長財布を拾った。 中に耳鼻科の診察券が入っていたので、そこに電話をかけて。繋いでもらおうと、こちらの電話番号を伝えたあたりで「自分、余計なことしてるよな…」と思い始め。 運転手さんに預けておくので、タクシー会社に連絡してもらうよう...</description>
+      <pubDate>Fri, 29 May 2026 23:29:26 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2703132</comments>
     </item>
     <item>
       <title>高市首相の取材対応に指摘相次ぐ　木原官房長官「多忙」と弁明：朝日新聞</title>
