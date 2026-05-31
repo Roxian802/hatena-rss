@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 31 May 2026 17:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 18:33:11 +0000</lastBuildDate>
     <item>
       <title>Zero Trust for AI agents | Claude</title>
       <link>https://claude.com/blog/zero-trust-for-ai-agents</link>
@@ -53,6 +53,13 @@
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;休職中の弟を自宅に引き取っている増田なんですけれども なんかもう耐えられないので、生命保険の受取人を弟に変えたら死ぬことにした 来週保険の人と契約内容の確認で会うから、その時に変更する 話し合いが出来ない人間と暮らすのがこんなに辛いと思わなかった やっぱり肉親だから見捨てることは出来ないし、増田の保...</description>
       <pubDate>Sun, 31 May 2026 11:41:03 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260531203114</comments>
+    </item>
+    <item>
+      <title>Wi-Fiが遅くなる問題、Windowsの「ある標準機能」をオフにしたら一発解決した（ライフハッカー・ジャパン） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/d56df223c66951380eed2c1fadf5fb75b82d8287</link>
+      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260531-00000005-biz_lifeh-000-1-view.jpg?exp=10800" /&gt;&lt;br/&gt;2週間ほど前から、特に仕事が立て込んでいるタイミングに限って、インターネットの速度が落ちる現象に悩まされていました。 1週間ほど調査を続けた結果、私のPCに搭載されている「配信の最適化」という機能がこのトラブルを引き起こしていることが分かりました。 今回は、なぜこの機能が問題だったのか、そしてどのよう...</description>
+      <pubDate>Sun, 31 May 2026 10:36:19 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/d56df223c66951380eed2c1fadf5fb75b82d8287</comments>
     </item>
     <item>
       <title>近所の工事現場で作業中に埋蔵文化財が出たらしく発掘担当が「ずっとここを掘りたかったんですよ！」と目を輝かせている一方で地権者の目は死んでいた</title>
@@ -111,18 +118,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/404/4404638/</comments>
     </item>
     <item>
-      <title>【桂浜水族館インフォメーション】館長休職のお知らせ</title>
-      <link>https://katurahama-aq.jp/info/news/2026/05/30/6249</link>
-      <description>&lt;img src="https://katurahama-aq.jp/info/wp-content/uploads/2026/05/b49e7de3b3a4708c4f48ccf7f5a21707-1024x536.jpg" /&gt;&lt;br/&gt;いつもなにかと騒がしくアバンギャルドな桂浜水族館―ハマスイ―。 今度はなんと、館長が胆嚢の病気を患い緊急入院！ 手術と治療のかいあって退院したものの、療養のため長期休職することとなりました。 しばらくは、館長不在の桂浜水族館。 つまり私たちは…… 自由ダーーーーッッッ!!!!!!!!!!! というわけで、マイナスをプ...</description>
-      <pubDate>Sat, 30 May 2026 05:48:51 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/katurahama-aq.jp/info/news/2026/05/30/6249</comments>
-    </item>
-    <item>
       <title>構成図を描くだけでAWSの月額コストが分かるツールを作って公開した</title>
       <link>https://zenn.dev/tyumugiko/articles/83b15adf3370fd</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--8cUDtMeK--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25A7%258B%25E6%2588%2590%25E5%259B%25B3%25E3%2582%2592%25E6%258F%258F%25E3%2581%258F%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7AWS%25E3%2581%25AE%25E6%259C%2588%25E9%25A1%258D%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2588%25E3%2581%258C%25E5%2588%2586%25E3%2581%258B%25E3%2582%258B%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E5%2585%25AC%25E9%2596%258B%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:tyumugiko%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2FjMmYwMmI0MzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiGT" /&gt;&lt;br/&gt;はじめに サーバーレスリソースを使ったAWSの構成を考えるのは、非常に楽しい作業です。 しかし、最もめんどくさいのは 「構成の月額料金を算出する」 作業ではないでしょうか。 私の職種はSIerですが、構成を考えると月額利用料の見積もりがセットで求められます。 月ごとのアクセス数やデータ量を、まだ想定が固まって...</description>
       <pubDate>Sun, 31 May 2026 00:42:44 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/tyumugiko/articles/83b15adf3370fd</comments>
+    </item>
+    <item>
+      <title>【桂浜水族館インフォメーション】館長休職のお知らせ</title>
+      <link>https://katurahama-aq.jp/info/news/2026/05/30/6249</link>
+      <description>&lt;img src="https://katurahama-aq.jp/info/wp-content/uploads/2026/05/b49e7de3b3a4708c4f48ccf7f5a21707-1024x536.jpg" /&gt;&lt;br/&gt;いつもなにかと騒がしくアバンギャルドな桂浜水族館―ハマスイ―。 今度はなんと、館長が胆嚢の病気を患い緊急入院！ 手術と治療のかいあって退院したものの、療養のため長期休職することとなりました。 しばらくは、館長不在の桂浜水族館。 つまり私たちは…… 自由ダーーーーッッッ!!!!!!!!!!! というわけで、マイナスをプ...</description>
+      <pubDate>Sat, 30 May 2026 05:48:51 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/katurahama-aq.jp/info/news/2026/05/30/6249</comments>
     </item>
     <item>
       <title>田んぼにヘリが不時着...「これ農家の人はキレていいだろ」という投稿に有識者が反応「実は俺らヘリパイロットはみんな緊急事態の時は田んぼに突っ込めと教育されている」</title>
@@ -132,13 +139,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2703655</comments>
     </item>
     <item>
-      <title>妊娠22週目から、何かあった時に車を運転できるように飲み会を控えて欲しいと夫にお願いしたが、「22週から禁酒してる夫なんてこの世にほとんど存在しない」と言われた</title>
-      <link>https://togetter.com/li/2703554</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/5417ddabbdd45ccc174a62a5038119b9-1200x630.jpeg" /&gt;&lt;br/&gt;野原うさぎ&#x1f430; （つわり苦しんでた人）21w ︎︎︎︎︎☺︎ @rururururur888 妊娠22週から早産扱いになるから、何かあった時に車運転できるように飲み会を控えて欲しいって夫にお願いするのは、わがままなの？「22週から禁酒してる夫なんてこの世にほとんど存在しない。日中仕事してる間に何かあればタクシー使うんだし、俺が酒飲んでて...</description>
-      <pubDate>Sun, 31 May 2026 03:05:08 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2703554</comments>
-    </item>
-    <item>
       <title>トランプ氏、辞退相次ぎ建国コンサート中止要求 「MAGA集会にすべき」</title>
       <link>https://www.afpbb.com/articles/-/3637485</link>
       <description>&lt;img src="https://afpbb.ismcdn.jp/mwimgs/2/d/1000x/img_2d9a1ffea42b1cf66d0e4a24994dc6ab69214.jpg" /&gt;&lt;br/&gt;この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【5月31日 AFP】ドナルド・トランプ米大統領は30日、米国の建国250年を祝う行事の一環として予定されるコンサートの出演予定アーティストが相次いで辞退を表明している...</description>
@@ -146,18 +146,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.afpbb.com/articles/-/3637485</comments>
     </item>
     <item>
-      <title>「JR再統合」を今こそ論じるべき理由、成功とされた国鉄分割民営化の“限界”</title>
-      <link>https://diamond.jp/articles/-/390846</link>
-      <description>&lt;img src="https://dol.ismcdn.jp/mwimgs/d/a/-/img_da1161831e8779c2557b3c6b70ed24e4303685.jpg" /&gt;&lt;br/&gt;JR利用で体感する 「見えない段差」 のぞみに乗車して、東京から広島まで行くと、新大阪を過ぎたあたりで、東京―新大阪間では姿を消したはずのワゴンサービスが、山陽区間に入ると現れる。同じ列車、同じ車両、同じ指定席なのに、サービスが突然変わる。乗客には見えない「会社の境界線」が、旅の体験を分断している。 ...</description>
-      <pubDate>Sat, 30 May 2026 20:05:15 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/diamond.jp/articles/-/390846</comments>
-    </item>
-    <item>
-      <title>「日本漫画の恐るべき強み」縦スクロール漫画・WEBTOONが日本で失速した背景―中国メディア</title>
-      <link>https://www.recordchina.co.jp/b977820-s25-c30-d0201.html</link>
-      <description>&lt;img src="https://assets.recordchina.co.jp/newRc/m1200/20260528/442b9e872c5a86cb22b20dd8c4ec0328.png" /&gt;&lt;br/&gt;27日、中国のポータルサイト・捜狐に、かつて日本漫画を淘汰すると言われた縦スクロール漫画・WEBTOONが日本で失速していると述べた記事が掲載された。写真はWEBTOON。 2026年5月27日、中国のポータルサイト・捜狐に、かつて日本漫画を淘汰（とうた）すると言われた縦スクロール漫画・WEBTOON（ウェブトゥーン）が日本で...</description>
-      <pubDate>Fri, 29 May 2026 12:49:54 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.recordchina.co.jp/b977820-s25-c30-d0201.html</comments>
+      <title>妊娠22週目から、何かあった時に車を運転できるように飲み会を控えて欲しいと夫にお願いしたが、「22週から禁酒してる夫なんてこの世にほとんど存在しない」と言われた</title>
+      <link>https://togetter.com/li/2703554</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/5417ddabbdd45ccc174a62a5038119b9-1200x630.jpeg" /&gt;&lt;br/&gt;野原うさぎ&#x1f430; （つわり苦しんでた人）21w ︎︎︎︎︎☺︎ @rururururur888 妊娠22週から早産扱いになるから、何かあった時に車運転できるように飲み会を控えて欲しいって夫にお願いするのは、わがままなの？「22週から禁酒してる夫なんてこの世にほとんど存在しない。日中仕事してる間に何かあればタクシー使うんだし、俺が酒飲んでて...</description>
+      <pubDate>Sun, 31 May 2026 03:05:08 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2703554</comments>
     </item>
   </channel>
 </rss>
