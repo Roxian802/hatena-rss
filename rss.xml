@@ -4,14 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 03 Jun 2026 00:33:09 +0000</lastBuildDate>
-    <item>
-      <title>1年間の育休に備えて「勝手に賢くなる」AI情報収集基盤を作った</title>
-      <link>https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--Fpzf6Frn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:1%25E5%25B9%25B4%25E9%2596%2593%25E3%2581%25AE%25E8%2582%25B2%25E4%25BC%2591%25E3%2581%25AB%25E5%2582%2599%25E3%2581%2588%25E3%2581%25A6%25E3%2580%258C%25E5%258B%259D%25E6%2589%258B%25E3%2581%25AB%25E8%25B3%25A2%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258B%25E3%2580%258DAI%25E6%2583%2585%25E5%25A0%25B1%25E5%258F%258E%25E9%259B%2586%25E5%259F%25BA%25E7%259B%25A4%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:sk%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2NDM1NDE3NmMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに こんにちは、TOKIUMでEMをしているskです。 もうすぐ1年間の育休に入ります&#x1f476;&#x1f37c; 新生活がとても楽しみな一方で、ひとつ気がかりなことがあります。 それは生成AI周りの技術トレンド、1年離れたら完全に浦島太郎になるのでは？ という点です。 この領域は1週間単位でも新しいツールや手法がどんどん出てきます。...</description>
-      <pubDate>Fri, 08 May 2026 07:12:06 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher</comments>
-    </item>
+    <lastBuildDate>Wed, 03 Jun 2026 01:33:09 +0000</lastBuildDate>
     <item>
       <title>ハトの磁気コンパスを発見か、なんと肝臓の免疫細胞の可能性</title>
       <link>https://natgeo.nikkeibp.co.jp/atcl/news/26/060200316/</link>
@@ -20,11 +13,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/natgeo.nikkeibp.co.jp/atcl/news/26/060200316/</comments>
     </item>
     <item>
+      <title>1年間の育休に備えて「勝手に賢くなる」AI情報収集基盤を作った</title>
+      <link>https://zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--Fpzf6Frn--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:1%25E5%25B9%25B4%25E9%2596%2593%25E3%2581%25AE%25E8%2582%25B2%25E4%25BC%2591%25E3%2581%25AB%25E5%2582%2599%25E3%2581%2588%25E3%2581%25A6%25E3%2580%258C%25E5%258B%259D%25E6%2589%258B%25E3%2581%25AB%25E8%25B3%25A2%25E3%2581%258F%25E3%2581%25AA%25E3%2582%258B%25E3%2580%258DAI%25E6%2583%2585%25E5%25A0%25B1%25E5%258F%258E%25E9%259B%2586%25E5%259F%25BA%25E7%259B%25A4%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:sk%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNTEwYjI5ZjEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TOKIUM%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2580%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2581%25E3%2583%25BC%25E3%2583%25A0%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2E2NDM1NDE3NmMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACAGSGT" /&gt;&lt;br/&gt;はじめに こんにちは、TOKIUMでEMをしているskです。 もうすぐ1年間の育休に入ります&#x1f476;&#x1f37c; 新生活がとても楽しみな一方で、ひとつ気がかりなことがあります。 それは生成AI周りの技術トレンド、1年離れたら完全に浦島太郎になるのでは？ という点です。 この領域は1週間単位でも新しいツールや手法がどんどん出てきます。...</description>
+      <pubDate>Fri, 08 May 2026 07:12:06 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/tokium_dev/articles/20260427_ai_tech_researcher</comments>
+    </item>
+    <item>
       <title>時間を取れていないと感じた時にやること - Konifar's ZATSU</title>
       <link>https://konifar-zatsu.hatenadiary.jp/entry/2026/06/02/213445</link>
       <description>&lt;img src="https://ogimage.blog.st-hatena.com/6653812171394033897/14945776032038047206/1780404291" /&gt;&lt;br/&gt;時間が全く取れないことはないはずのに、なぜか時間が過ぎ去っていて時間が取れていないことあるよな。俺はある。そういう時に自分がやるべきことを雑に書き殴ってみる。 やめてみる 勝手に自分がやらないといけないと考えてるだけで、たいてい今自分がやらなくていいことをいっぱいやってるよ。「これやめたら何がどの...</description>
       <pubDate>Tue, 02 Jun 2026 20:38:38 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/konifar-zatsu.hatenadiary.jp/entry/2026/06/02/213445</comments>
+    </item>
+    <item>
+      <title>大学に"清潔感のあるブサ男"がいっぱいいるんだが、彼らの会話聞くとみんな恋人いない様子だから、女子の｢男子は清潔感あるだけで及第点｣って言葉聞く度に｢"彼ら"は本当に眼中にもないんだな｣って思う</title>
+      <link>https://posfie.com/@kalofollow/p/sl2P4PR</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/8b05cdb9e764f432741860b0e5409916-1200x630.jpeg" /&gt;&lt;br/&gt;2な @return_tuna 大学に"清潔感のあるブサ男"がいっぱいいるんだが、彼らの会話聞くとみんな恋人いない様子だから、女子の｢男子は清潔感あるだけで及第点｣って言葉聞く度に｢"彼ら"は本当に眼中にもないんだな｣って思う 2026-06-01 10:49:26 2な @return_tuna 横の席にそういう集団がいるんだが、｢昨日の早慶戦で興奮し...</description>
+      <pubDate>Tue, 02 Jun 2026 04:02:02 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@kalofollow/p/sl2P4PR</comments>
     </item>
     <item>
       <title>NHK『3か月でマスターするギター』7月放送開始　6月9日深夜には先行ミニ番組も - amass</title>
@@ -41,6 +48,27 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.publickey1.jp/blog/26/unixwindowscoreutils_for_window.html</comments>
     </item>
     <item>
+      <title>別居中の妻、第三者の精子を「夫のもの」と偽装し出産…夫が不妊治療を行った病院提訴「確認が不十分」</title>
+      <link>https://www.yomiuri.co.jp/national/20260602-GYT1T00303/</link>
+      <description>&lt;img src="https://www.yomiuri.co.jp/media/2026/06/20260602-GYT1I00306-1.jpg?type=ogp" /&gt;&lt;br/&gt;【読売新聞】　別居中の妻が第三者の精子を夫のものだと偽って体外受精し、妊娠・出産したのは、不妊治療を行った病院の確認が不十分だったためだとして、夫である京都市の男性が、病院を運営する同市の医療法人に慰謝料など１１００万円の損害賠償を</description>
+      <pubDate>Tue, 02 Jun 2026 21:54:20 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/national/20260602-GYT1T00303/</comments>
+    </item>
+    <item>
+      <title>「AIを使え」から「あまり使うな」へ、米企業が半年で生成AIの利用制限に動き始めた理由 【生成AI事件簿】トークン消費の急増でROIを問い直す経営層、日本企業の社員がいま備えるべき3つのこと | JBpress (ジェイビープレス)</title>
+      <link>https://jbpress.ismedia.jp/articles/-/95142</link>
+      <description>&lt;img src="https://jbpress.ismcdn.jp/mwimgs/3/2/1200mw/img_3218adbfe6ec535259574135fc5a01721908283.png" /&gt;&lt;br/&gt;「米国企業はAIを配給制にし始めた」。そんな衝撃的な言葉を見出しに掲げた記事が、米ウォールストリートジャーナル紙（WSJ）に掲載された。マイクロソフト、メタ、ウーバー、セールスフォース、ドアダッシュといった主要企業のCTOやCOOが、わずか数カ月前まで社員に「とにかくAIを使え」と号令していた立場から一転、利...</description>
+      <pubDate>Tue, 02 Jun 2026 06:31:28 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/jbpress.ismedia.jp/articles/-/95142</comments>
+    </item>
+    <item>
+      <title>「戦争国家」の実相/南西諸島で大量戦傷死想定/自衛隊病院の病床大幅増へ/民間医療の動員も | しんぶん赤旗｜日本共産党</title>
+      <link>https://www.jcp.or.jp/akahata/aik26/2026-06-02/2026060201_01_0.php</link>
+      <description>&lt;img src="https://www.jcp.or.jp/akahata/aik26/2026-06-02/img_1.jpg" /&gt;&lt;br/&gt;防衛省は南西諸島での激しい戦闘を想定し、自衛隊那覇病院（那覇市）で有事には病床を４倍に増やすなど、全国の主要な自衛隊病院で病床を大幅に増やす計画であることがわかりました。計画は、実際に多数の自衛官が死傷することを前提にした戦争準備が着実に進んでいることを示しています。 同省は２０２６年度予算に自衛...</description>
+      <pubDate>Tue, 02 Jun 2026 09:21:51 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.jcp.or.jp/akahata/aik26/2026-06-02/2026060201_01_0.php</comments>
+    </item>
+    <item>
       <title>中東情勢受けた価格転嫁適正か 約1000人のGメンが調査へ | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/na-k10015137391000</link>
       <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260601/K10015137391_2606011704_0601173916_01_02.jpg" /&gt;&lt;br/&gt;中小・小規模事業者の賃上げに向けて、政府は中東情勢を受けた原材料価格の上昇などが取引価格に適正に反映されているかを調べるため、およそ1000人の「Gメン」が徹底した調査を行う方針を確認しました。 …</description>
@@ -55,18 +83,10 @@
       <comments>https://b.hatena.ne.jp/entry/s/shonenjumpplus.com/episode/9253191254199645478</comments>
     </item>
     <item>
-      <title>相良中学校におけるインターネット詐欺被害について - 牧之原市ホームページ</title>
-      <link>https://www.city.makinohara.shizuoka.jp/soshiki/31/61903.html</link>
-      <description>令和８年５月29日午後２時頃、牧之原市立相良中学校において、インターネット詐欺被害が発生しました。 被害の発生状況や経緯については以下のとおりです。 なお、本件について現在、市及び警察で対応中であり、被害総額や保険による補償の可否などの詳細が判明次第、改めて情報を公表する予定ですが、決して保護者の負...</description>
-      <pubDate>Tue, 02 Jun 2026 07:50:05 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.city.makinohara.shizuoka.jp/soshiki/31/61903.html</comments>
-    </item>
-    <item>
-      <title>「貴様、誰のおかげでムショ行き免れてると思ってんだ」を、仮定法で表しなさい。 - Hoarding Examples (英語例文等集積所)</title>
-      <link>https://hoarding-examples.hatenablog.jp/entry/2026/06/02/%E3%80%8C%E8%B2%B4%E6%A7%98%E3%80%81%E8%AA%B0%E3%81%AE%E3%81%8A%E3%81%8B%E3%81%92%E3%81%A7%E3%83%A0%E3%82%B7%E3%83%A7%E8%A1%8C%E3%81%8D%E5%85%8D%E3%82%8C%E3%81%A6%E3%82%8B%E3%81%A8%E6%80%9D</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/90bbc3cd3fa7d3548270ca15719d2cb41d398bbb/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fdefault_entry_og_image%2F17377%2F1547465699788463" /&gt;&lt;br/&gt;■目次■ 【本編】 【追記: はてブ】 ブコメへの返信: こっちも読んでね ちなみにトランプのFワード連発にネタニヤフがどう答えたかというと…… 【さらに追記: 並んだ並んだあかしろきいろ】 【本編】 まさかこんな実例がニュースで流れてくるとは思っていなかったし、ましてやそれが米大統領の発言ということは、10年くら...</description>
-      <pubDate>Tue, 02 Jun 2026 07:56:58 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/hoarding-examples.hatenablog.jp/entry/2026/06/02/%E3%80%8C%E8%B2%B4%E6%A7%98%E3%80%81%E8%AA%B0%E3%81%AE%E3%81%8A%E3%81%8B%E3%81%92%E3%81%A7%E3%83%A0%E3%82%B7%E3%83%A7%E8%A1%8C%E3%81%8D%E5%85%8D%E3%82%8C%E3%81%A6%E3%82%8B%E3%81%A8%E6%80%9D</comments>
+      <title>「世の中から日の丸が消えてしまう。イタリアの旗ばかりになってしまう」国民・玉木代表が自民の国旗損壊罪案を批判「よく自民党の手続き通ったな。内閣法制局通らない」（ABEMA TIMES） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/82f1ca024862c6f2ffe1e12930d46ee09e57ae6a</link>
+      <pubDate>Tue, 02 Jun 2026 09:13:28 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/82f1ca024862c6f2ffe1e12930d46ee09e57ae6a</comments>
     </item>
     <item>
       <title>仕事場でカッターの刃を動かせなくて困っている人がいたので直してあげたら「謝ってほしい」と言われ...理由を聞いたら「バカにされたみたいですごく腹が立った」らしい</title>
