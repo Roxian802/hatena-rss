@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 08 Jun 2026 14:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 15:33:10 +0000</lastBuildDate>
     <item>
       <title>ネガティブ動画を総裁選1500本、衆院選1万本　福岡拠点に作成、IT会社代表【一問一答】</title>
       <link>https://www.nishinippon.co.jp/item/1501258/</link>
@@ -27,18 +27,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.denfaminicogamer.jp/kikakuthetower/260608n</comments>
     </item>
     <item>
-      <title>寝不足になるほど面白い　ローカルAIと音声合成をつないだら、キャラが普通にしゃべり始めた (1/5)</title>
-      <link>https://ascii.jp/elem/000/004/408/4408692/</link>
-      <description>&lt;img src="https://ascii.jp/img/2026/06/08/4479639/xl/2be188e4f588a1bf.png?20200122" /&gt;&lt;br/&gt;日本語に特化して開発されているTTSモデル（Text-to-Speech、テキストから音声）の「Irodori-TTS v3」が話題になっています。最近、様々なTTSが登場しているのですが、アナウンサー的な話し方のTTSが多いなか、このモデルは、より幅広い感情表現ができ、演技までできるうえに、生成速度が速いという特徴があります。今回...</description>
-      <pubDate>Mon, 08 Jun 2026 00:46:00 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/408/4408692/</comments>
-    </item>
-    <item>
       <title>高市首相、新たな中傷動画報道も否定　「面識」とは「名刺交換し…」：朝日新聞</title>
       <link>https://www.asahi.com/articles/ASV683DZ3V68ULFA02MM.html</link>
       <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260608003872_comm.jpg" /&gt;&lt;br/&gt;高市早苗首相は8日、2025年の自民党総裁選で高市氏の陣営から相談され、対立候補に批判的な動画を作ってSNSで大量発信したとする男性の証言を共同通信が報じたことについて、「私自身も私の事務所も、他の…</description>
       <pubDate>Mon, 08 Jun 2026 10:56:31 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV683DZ3V68ULFA02MM.html</comments>
+    </item>
+    <item>
+      <title>寝不足になるほど面白い　ローカルAIと音声合成をつないだら、キャラが普通にしゃべり始めた (1/5)</title>
+      <link>https://ascii.jp/elem/000/004/408/4408692/</link>
+      <description>&lt;img src="https://ascii.jp/img/2026/06/08/4479639/xl/2be188e4f588a1bf.png?20200122" /&gt;&lt;br/&gt;日本語に特化して開発されているTTSモデル（Text-to-Speech、テキストから音声）の「Irodori-TTS v3」が話題になっています。最近、様々なTTSが登場しているのですが、アナウンサー的な話し方のTTSが多いなか、このモデルは、より幅広い感情表現ができ、演技までできるうえに、生成速度が速いという特徴があります。今回...</description>
+      <pubDate>Mon, 08 Jun 2026 00:46:00 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/408/4408692/</comments>
     </item>
     <item>
       <title>AIがAIを育てる恐怖のループ。Anthropic自ら「いったんAI開発停止」と業界に提案</title>
@@ -47,11 +47,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2115373.html</comments>
     </item>
     <item>
-      <title>中国人の薄っぺらさ（前）：ストレス解消トイの流行｜上海在住のえいちゃん</title>
-      <link>https://note.com/eichan_sh/n/nf6168038b58f</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/283213684/rectangle_large_type_2_e9c15e69373c23e77f3dc27bb1ec0d41.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;最近、中国ではナターシャ（娜塔莎）と呼ばれる赤ちゃん型のストレス解消トイが爆発的に流行しています。 その結果、中国の国営放送（CCTV）で報道されるなど、大きな社会問題となっています。 こうした社会現象の一方で、筆者は中国で彼らと接していると、ふと、ある種の「薄っぺらさ」を覚えてしまう瞬間があります。 ...</description>
-      <pubDate>Sun, 07 Jun 2026 03:43:00 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/eichan_sh/n/nf6168038b58f</comments>
+      <title>パスキー神話崩壊　Google Password Managerの同期機能を狙う新攻撃手法</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/08/news056.html</link>
+      <description>&lt;img src="https://image.itmedia.co.jp/ait/articles/2606/08/cover_news056.png" /&gt;&lt;br/&gt;セキュリティ企業のPhishUは2026年5月20日（現地時間）、「Google Password Manager」（以下、GPM）の同期機能を悪用し、利用者のパスキーおよび保存済みパスワード群にアクセスできる攻撃手法「Vaultjacking」を発表した。 Google Password Manager同期機能を悪用　パスキーにアクセスする新手法 PhishUによれば、この...</description>
+      <pubDate>Mon, 08 Jun 2026 05:39:53 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/atmarkit.itmedia.co.jp/ait/articles/2606/08/news056.html</comments>
     </item>
     <item>
       <title>仕事をするときに気をつけていること 2026 夏 | pyama.fun</title>
@@ -61,11 +61,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/pyama.fun/archives/6778</comments>
     </item>
     <item>
-      <title>122か国へ渡ったイモトアヤコさんのカバンには、１本３役で 普段使いも防災にもなる最強の棒が入っていた！ | TBSラジオ</title>
-      <link>https://www.tbsradio.jp/articles/108971/</link>
-      <description>&lt;img src="https://tbsradio.g.kuroco-img.app/v=1780757417/files/topics/108971_ext_03_0.jpeg?width=1200" /&gt;&lt;br/&gt;今週は「生活はカバンで踊る」と題して「カバン」にまつわる幅広い情報をお届けしています。生活の知３日、水曜日のゲストは、これまで世界120カ国以上を旅してきたタレントのイモトアヤコさんが登場！普段海外ロケに行く際に機内持ち込み用として使っている本気のバックパックと、そのほかの必需品</description>
-      <pubDate>Sun, 07 Jun 2026 05:50:19 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.tbsradio.jp/articles/108971/</comments>
+      <title>中国人の薄っぺらさ（前）：ストレス解消トイの流行｜上海在住のえいちゃん</title>
+      <link>https://note.com/eichan_sh/n/nf6168038b58f</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/283213684/rectangle_large_type_2_e9c15e69373c23e77f3dc27bb1ec0d41.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;最近、中国ではナターシャ（娜塔莎）と呼ばれる赤ちゃん型のストレス解消トイが爆発的に流行しています。 その結果、中国の国営放送（CCTV）で報道されるなど、大きな社会問題となっています。 こうした社会現象の一方で、筆者は中国で彼らと接していると、ふと、ある種の「薄っぺらさ」を覚えてしまう瞬間があります。 ...</description>
+      <pubDate>Sun, 07 Jun 2026 03:43:00 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/eichan_sh/n/nf6168038b58f</comments>
     </item>
     <item>
       <title>１日外出録ハンチョウ - 福本伸行/萩原天晴/上原求/新井和也 / 第１７７話　迷途 | コミックDAYS</title>
@@ -75,6 +75,12 @@
       <comments>https://b.hatena.ne.jp/entry/s/comic-days.com/episode/12207421983694456298</comments>
     </item>
     <item>
+      <title>旭川17歳女子高生殺害　主導役の23歳被告に懲役27年求刑 | 毎日新聞</title>
+      <link>https://mainichi.jp/articles/20260606/k00/00m/040/043000c</link>
+      <pubDate>Mon, 08 Jun 2026 02:56:36 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260606/k00/00m/040/043000c</comments>
+    </item>
+    <item>
       <title>「ナフサ危機」や「中傷動画疑惑」を頑として認めない高市首相のスタンス「一度でも非を認めて弱みを見せたら政治生命が断たれると考えている」とベテラン議員指摘</title>
       <link>https://www.news-postseven.com/archives/20260608_2113802.html</link>
       <description>&lt;img src="https://www.news-postseven.com/uploads/2026/06/04/post_2617_jiji_takaichi_sanae_eyc.jpg" /&gt;&lt;br/&gt;“謝ったら死ぬ病”――失敗や失言があっても頑なにそれを認めず、言い逃れを重ねるさまを皮肉ってSNSなどで使われるスラングだが、まさに高市早苗・首相に当てはまる言葉になってしまっていないか。ナフサ不足や高市事務所による中傷動画問題などに対し、一貫して「認めない」姿勢を続ける理由とは。【前後編の前編】 絶対...</description>
@@ -82,10 +88,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.news-postseven.com/archives/20260608_2113802.html</comments>
     </item>
     <item>
-      <title>旭川17歳女子高生殺害　主導役の23歳被告に懲役27年求刑 | 毎日新聞</title>
-      <link>https://mainichi.jp/articles/20260606/k00/00m/040/043000c</link>
-      <pubDate>Mon, 08 Jun 2026 02:56:36 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260606/k00/00m/040/043000c</comments>
+      <title>122か国へ渡ったイモトアヤコさんのカバンには、１本３役で 普段使いも防災にもなる最強の棒が入っていた！ | TBSラジオ</title>
+      <link>https://www.tbsradio.jp/articles/108971/</link>
+      <description>&lt;img src="https://tbsradio.g.kuroco-img.app/v=1780757417/files/topics/108971_ext_03_0.jpeg?width=1200" /&gt;&lt;br/&gt;今週は「生活はカバンで踊る」と題して「カバン」にまつわる幅広い情報をお届けしています。生活の知３日、水曜日のゲストは、これまで世界120カ国以上を旅してきたタレントのイモトアヤコさんが登場！普段海外ロケに行く際に機内持ち込み用として使っている本気のバックパックと、そのほかの必需品</description>
+      <pubDate>Sun, 07 Jun 2026 05:50:19 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.tbsradio.jp/articles/108971/</comments>
     </item>
     <item>
       <title>嫁が天下一品に一緒に行きたがらない理由は残ったスープにご飯をどぼんして食べるから…スープどぼんは一般的な食べ方だが嫌な人は生理的に無理なのも事実</title>
@@ -109,9 +116,9 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260608-X4ERHIS5XJKVVELM2E6SISPHNA/</comments>
     </item>
     <item>
-      <title>オタクで集まって政治的デモを行う前に見て欲しい記事｜なつ</title>
+      <title>オタクで集まって政治的デモを行う前に見て欲しい記事（追記）｜なつ</title>
       <link>https://note.com/kurodonut/n/nb1adee7455e2</link>
-      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/fa4c7c2c44621e492e2ebc9136b5489c29163747.png" /&gt;&lt;br/&gt;追記:このような拙文が想像以上に伸びてしまい、いろいろなご意見いただいております。それについてもすべては返信できないものの、記事に追記するかたちでまとめていけたらと思います。 まえがきあなたが政治に不満があり、何か変えたいという気持ちを持つことは素晴らしいことです。 同時に、あなたには好きなアニメや...</description>
+      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/b930ca8db70ce05e2d02fa257b24454b6eca7cea.png" /&gt;&lt;br/&gt;はじめにたった半日で賛否どちらの反応もいただけたこと嬉しく思います。 深夜に勢いで書いたただの愚痴があまりに広まってしまったため、これは自分の言葉の重みがまるで変ってくると思い、記事を書き直しました。 なお、修正前の全文はこの記事の下に残してあります。 かなり強い主張をしてますが、今後の為に残す必要...</description>
       <pubDate>Mon, 08 Jun 2026 03:39:44 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/kurodonut/n/nb1adee7455e2</comments>
     </item>
@@ -121,20 +128,6 @@
       <description>&lt;img src="https://blog.asial.org/wp-content/uploads/2026/06/eyecatch.png" /&gt;&lt;br/&gt;こんにちは、広瀬です。 今年のゴールデンウィークに、ジムで使う筋トレ記録アプリを一人で作りました。スタックは Expo (React Native) + Supabase、開発の相棒はターミナルで動く AI コーディングエージェント Claude Code と、claude.ai 上で UI モックを生成・調整できる Claude Design の二つ。計画・設計・実装・...</description>
       <pubDate>Mon, 08 Jun 2026 02:04:57 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/blog.asial.co.jp/6808/</comments>
-    </item>
-    <item>
-      <title>あくびの理由は「酸素不足ではない」、脊椎動物4億年の進化が語る真実 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-      <link>https://forbesjapan.com/articles/detail/98221</link>
-      <description>&lt;img src="https://images.forbesjapan.com/media/article/98221/images/main_image_48d6fdb5a10a2b5de6ed73366a3fe23a6d981891.jpg" /&gt;&lt;br/&gt;この文を読んでいる読者の皆さんは、今から30秒経つあいだに、あくびをする可能性がかなりある。というのも、多くの人にとっては「あくびについて考える」こと自体が、十分にあくびを誘発するきっかけになるからだ。 あくびという、大口を開け、目に涙を浮かべる反射的行動を、人は特に疑問に思うこともなく、数えきれな...</description>
-      <pubDate>Sat, 06 Jun 2026 08:07:33 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/forbesjapan.com/articles/detail/98221</comments>
-    </item>
-    <item>
-      <title>東大卒の多くがノブレスオブリージュを発揮して官僚になってくれた時代があったが、大衆のバッシングで「じゃあ、お金が儲かる方がいいよね」となったのでは？→様々な意見</title>
-      <link>https://togetter.com/li/2706762</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/0a6a51be5ee887f0e7928fc57e9da22d-1200x630.jpeg" /&gt;&lt;br/&gt;石田静夫@明日への道標 @fwhh18999 東大卒の多くがノブレスオブリージュを発揮して金銭的には大して恵まれない官僚になってくれてた時代もあったんだけど、大衆が集団リンチでボコボコにしたもんだから「じゃあ、お金が儲かる方がいいよね」になっちゃったんだよな。 ノブレスオブリージュに応える民度が無いとどうにも...</description>
-      <pubDate>Mon, 08 Jun 2026 00:52:55 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2706762</comments>
     </item>
     <item>
       <title>ディズニーが騒がれている件で外国人よりもオリエンタルランドが叩かれているのはかなり日本人らしいと思う→「日本人は”我慢”の基準を変えてくるやつを鬼ほど嫌う」</title>
