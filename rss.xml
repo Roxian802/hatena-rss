@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Tue, 09 Jun 2026 00:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 01:33:10 +0000</lastBuildDate>
     <item>
       <title>海外では一発アウト…なぜ日本人はDVの阿部監督をかばうのか､弁護士指摘｢暴力容認は覚せい剤容認に匹敵｣</title>
       <link>https://president.jp/articles/-/114238</link>
@@ -20,11 +20,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@OOEDO4/p/iEVPrAL</comments>
     </item>
     <item>
-      <title>なぜ「神奈川」は地元民のアイデンティティの置き場にならないのか｜Mr.IQ</title>
-      <link>https://note.com/mainichihardy/n/na1718f8110e3</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/281838689/rectangle_large_type_2_2a8d328495273fe9259460ce9e1ac644.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;例えばこの「神奈川各地で海開き」の記事も典型だ。ここで取り上げているのは藤沢、鎌倉、逗子、葉山とすべて湘南周辺なのだから「湘南各地で海開き」と言った方が筋が通った感じがする。なんとも不自然な言い回しである。 あるいは2年前の衆院選の記事では「県関係の国会議員」をひとまとめにしてその情勢を分析してい...</description>
-      <pubDate>Mon, 08 Jun 2026 11:32:50 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/mainichihardy/n/na1718f8110e3</comments>
+      <title>中国人の薄っぺらさ（中）：人生の途中で立ち尽くす若者たち｜上海在住のえいちゃん</title>
+      <link>https://note.com/eichan_sh/n/n519337a5ac56</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/283624393/rectangle_large_type_2_361e5c98856d5cbaa19b1652e8b29c7e.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;今回の記事は前回の記事の続きとなります。 当初は前後編とする予定でしたが、ボリュームが大きくなりすぎましたので、前中後編の三本立てとなります。 今回は、私が中国で日頃から感じる独特な「薄っぺらさ」。これが今の中国の若者たちを襲っているアイデンティティの危機に繋がっているのではないかという考察です。 ...</description>
+      <pubDate>Mon, 08 Jun 2026 11:17:04 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/eichan_sh/n/n519337a5ac56</comments>
+    </item>
+    <item>
+      <title>AI駆動開発を2コマンドで組織標準に ── Claude Code × Codexで設計からテストまで - ZOZO TECH BLOG</title>
+      <link>https://techblog.zozo.com/entry/ai-development-two-commands</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/4863f2385bec41f9a189a2772fb15be60e96e9e1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fv%2Fvasilyjp%2F20260603%2F20260603182411.png" /&gt;&lt;br/&gt;はじめに こんにちは。基幹システム本部 基幹開発部 商品管理ブロックの田中秀明です。 Claude CodeやCodexの利用が広がるほど、各人の使い方、プロンプト、レビュー観点、AIへ任せる範囲がばらつき始めました。AIを高度に使いこなせる人は開発の進め方そのものを変えられる一方で、これから使い始める人にとっては「ど...</description>
+      <pubDate>Mon, 08 Jun 2026 02:56:20 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/techblog.zozo.com/entry/ai-development-two-commands</comments>
     </item>
     <item>
       <title>「ラーメンを食べて駅まで走ったら、突然意識を失って倒れた」これは怪奇現象ではなく『小麦依存性運動誘発アナフィラキシー』の発症…この存在は知っておいたほうがいい</title>
@@ -34,6 +41,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2707120</comments>
     </item>
     <item>
+      <title>なぜ「神奈川」は地元民のアイデンティティの置き場にならないのか｜Mr.IQ</title>
+      <link>https://note.com/mainichihardy/n/na1718f8110e3</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/281838689/rectangle_large_type_2_2a8d328495273fe9259460ce9e1ac644.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;例えばこの「神奈川各地で海開き」の記事も典型だ。ここで取り上げているのは藤沢、鎌倉、逗子、葉山とすべて湘南周辺なのだから「湘南各地で海開き」と言った方が筋が通った感じがする。なんとも不自然な言い回しである。 あるいは2年前の衆院選の記事では「県関係の国会議員」をひとまとめにしてその情勢を分析してい...</description>
+      <pubDate>Mon, 08 Jun 2026 11:32:50 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/mainichihardy/n/na1718f8110e3</comments>
+    </item>
+    <item>
       <title>毎シーズンアニメ40本観ている俺がガチで選定した『死ぬまでに観るべきTVアニメ』20選</title>
       <link>https://anond.hatelabo.jp/20260608180323</link>
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;・STEINS;GATE ・魔法少女まどか☆マギカ ・PSYCHO-PASS サイコパス ・天元突破グレンラガン ・四畳半神話大系 ・serial experiments lain ・新世紀エヴァンゲリオン ・スペース☆ダンディ ・SHIROBAKO ・化物語 ・Sonny Boy ・ワンダーエッグ・プライオリティ ・ID：INVADED ・モブサイコ100 ・イエスタデイをうたって ・...</description>
@@ -41,18 +55,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260608180323</comments>
     </item>
     <item>
-      <title>レイト・ショー - こだまはつみ / レイト・ショー | OUR FEEL（アワフィール）</title>
-      <link>https://ourfeel.jp/episode/12207421983746356169</link>
-      <description>&lt;img src="https://cdn-img.ourfeel.jp/public/series-thumbnail/12207421983746355578-4a872d48343c7e193715664919481a11?1779265248" /&gt;&lt;br/&gt;レイト・ショー こだまはつみ 娘たちを送り届けるまでの慌ただしい朝の時間。朝食を食べているのは小学生の次女だけで、中学生の長女がいない。呼びかけるとそこには涙を流す長女の姿が――。娘の不登校をきっかけに、母として、そして1人の人間としての自分と向き合うこととなった紗代。日々を踠き、溺れながらも進む彼女...</description>
-      <pubDate>Thu, 04 Jun 2026 06:33:37 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ourfeel.jp/episode/12207421983746356169</comments>
-    </item>
-    <item>
       <title>嵐ラストライブ配信はなぜ落ちなかった？大規模同時配信の仕組みをネットワークエンジニアが解説 | ponflog</title>
       <link>https://ponflog.com/arashi-live-streaming-network/</link>
       <description>&lt;img src="https://ponflog.com/wp-content/uploads/2026/06/arashi-eyecatch.png" /&gt;&lt;br/&gt;2026年5月31日、嵐のラストライブ「ARASHI LIVE TOUR 2026『We are ARASHI』」東京ドーム最終公演が生配信され、約3時間・全33曲を最後まで届けきりました。配信中は世界トレンド1位を独占するほどの注目を集め、ネット上では「大規模なサーバーダウンが起きなかったのは凄い」という声が広がっています。 事前には「5月...</description>
       <pubDate>Mon, 08 Jun 2026 13:59:06 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/ponflog.com/arashi-live-streaming-network/</comments>
+    </item>
+    <item>
+      <title>レイト・ショー - こだまはつみ / レイト・ショー | OUR FEEL（アワフィール）</title>
+      <link>https://ourfeel.jp/episode/12207421983746356169</link>
+      <description>&lt;img src="https://cdn-img.ourfeel.jp/public/series-thumbnail/12207421983746355578-4a872d48343c7e193715664919481a11?1779265248" /&gt;&lt;br/&gt;レイト・ショー こだまはつみ 娘たちを送り届けるまでの慌ただしい朝の時間。朝食を食べているのは小学生の次女だけで、中学生の長女がいない。呼びかけるとそこには涙を流す長女の姿が――。娘の不登校をきっかけに、母として、そして1人の人間としての自分と向き合うこととなった紗代。日々を踠き、溺れながらも進む彼女...</description>
+      <pubDate>Thu, 04 Jun 2026 06:33:37 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/ourfeel.jp/episode/12207421983746356169</comments>
     </item>
     <item>
       <title>切手の裏に隠された「来るな」のシグナル　北朝鮮帰国事業で日本の家族に伝えた実状 - 内外タイムス</title>
@@ -74,27 +88,6 @@
       <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;高市早苗首相は8日、自民党総裁選の中傷動画作成疑惑に関し「他の候補者を誹謗したり、中傷したりは私の流儀ではないので決してやっていない」と述べた。官邸で記者団の質問に答えた。</description>
       <pubDate>Mon, 08 Jun 2026 10:20:59 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14436752.html</comments>
-    </item>
-    <item>
-      <title>高市首相、新たな中傷動画報道も否定　「面識」とは「名刺交換し…」：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASV683DZ3V68ULFA02MM.html</link>
-      <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260608003872_comm.jpg" /&gt;&lt;br/&gt;高市早苗首相は8日、2025年の自民党総裁選で高市氏の陣営から相談され、対立候補に批判的な動画を作ってSNSで大量発信したとする男性の証言を共同通信が報じたことについて、「私自身も私の事務所も、他の…</description>
-      <pubDate>Mon, 08 Jun 2026 10:56:31 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV683DZ3V68ULFA02MM.html</comments>
-    </item>
-    <item>
-      <title>高市氏側から相談で「ネガティブな発信を提案」　共同通信が証言報道：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASV682QYLV68UTIL00XM.html</link>
-      <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260608003381_comm.jpg" /&gt;&lt;br/&gt;共同通信は7日、2025年の自民党総裁選で、高市早苗氏の陣営から相談され、対立候補に批判的な動画を作り、SNSで大量発信したとする男性の証言を報じた。　男性は会社役員の松井健氏。これまでも、週刊文春…</description>
-      <pubDate>Mon, 08 Jun 2026 10:34:32 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV682QYLV68UTIL00XM.html</comments>
-    </item>
-    <item>
-      <title>「ほぼ全九州」電力契約情報、漏洩の恐れ　九電送配、最大1千万件超：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASV6832MLV68ULFA00ZM.html</link>
-      <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260608003654_comm.jpg" /&gt;&lt;br/&gt;九州電力子会社の九州電力送配電（福岡市）は8日、九州のほぼすべての電力利用者にあたる最大1090万件の個人情報が漏洩（ろうえい）した恐れがあると発表した。個人や法人の名前や住所、電話番号などの情報が…</description>
-      <pubDate>Mon, 08 Jun 2026 12:22:44 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV6832MLV68ULFA00ZM.html</comments>
     </item>
   </channel>
 </rss>
