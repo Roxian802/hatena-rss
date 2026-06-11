@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 10 Jun 2026 23:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 00:33:09 +0000</lastBuildDate>
+    <item>
+      <title>入試問題解析 — 大学入試数学の過去問・解説・基礎問題</title>
+      <link>https://nyushi-kakomon.com/</link>
+      <description>大学入試数学の過去問・解説・基礎問題を探せるサイト 東大・京大・旧帝大などの大学入試数学を、年度・大学・単元・キーワードから探せます。 解説付き問題、基礎問題、出題傾向、公式集を組み合わせて復習できます。 検索</description>
+      <pubDate>Wed, 10 Jun 2026 15:39:30 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/nyushi-kakomon.com/</comments>
+    </item>
     <item>
       <title>限りある私たちは… - むぴー | 少年ジャンプ＋</title>
       <link>https://shonenjumpplus.com/episode/9253191254350319499</link>
@@ -27,13 +34,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260610124239</comments>
     </item>
     <item>
-      <title>日本が先送りせず解くべき課題</title>
-      <link>https://fladdict.github.io/japan-todo/</link>
-      <description>人口・家族・世代 5件 少子化、高齢化、介護、世代間公平など、日本社会の基礎条件に関わる課題。 高齢化と長寿社会 緊5・深5 少子化・子育て負担 緊5・深5 介護の担い手不足 緊4・深4 世代間公平と人口減少 緊3・深4 世帯の単身化と家族の多様化 緊3・深3 人的資本・働き方・教育 4件 賃金、生産性、教育、学び直し、健...</description>
-      <pubDate>Wed, 10 Jun 2026 03:57:04 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/fladdict.github.io/japan-todo/</comments>
-    </item>
-    <item>
       <title>Claude Fable 5 のプロンプティング</title>
       <link>https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5</link>
       <description>&lt;img src="https://platform.claude.com/docs/og?locale=ja&amp;amp;path=build-with-claude/prompt-engineering/prompting-claude-fable-5" /&gt;&lt;br/&gt;Claude Fable 5 と Claude Mythos 5 における動作の違いとプロンプティングパターンについて、エフォート、指示への追従、長時間実行、メモリ、スキャフォールディングの変更点を解説します。 このガイドでは、Claude Fable 5 と Claude Mythos 5 に固有のプロンプティングおよびスキャフォールディングのパターンについ...</description>
@@ -41,25 +41,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5</comments>
     </item>
     <item>
-      <title>【速報】河野洋平･元衆議院議長が今月8日に死去　89歳 | TBS NEWS DIG</title>
-      <link>https://newsdig.tbs.co.jp/articles/-/2723567</link>
-      <description>&lt;img src="https://newsdig.ismcdn.jp/mwimgs/a/5/1200w/img_a573ddffee1f04c558d349b25ebd6922319092.jpg" /&gt;&lt;br/&gt;自民党の総裁や外務大臣などを務めた河野洋平・元衆院議長が今月8日に亡くなったことが関係者への取材でわかりました。89歳でした。河野氏は1937年生まれ。父親の河野一郎・元農林大臣の跡を継ぎ、1967年の衆院選…</description>
-      <pubDate>Wed, 10 Jun 2026 09:42:01 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/newsdig.tbs.co.jp/articles/-/2723567</comments>
-    </item>
-    <item>
-      <title>黒人俳優が演じるジェームズ・ボンド、「観客が受け入れない」　イドリス・エルバが見解</title>
-      <link>https://www.cnn.co.jp/showbiz/35248705.html</link>
-      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/06/10/a30052fe38da29996134277ddc6a2a87/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXE2ZXd4Y24wMDAwM2I2cm9jdmZvYmMw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcTZlbTh2MjAwMXoyN3FqZXllZmVjOXI_.jpg" /&gt;&lt;br/&gt;次のジェームズ・ボンド役の候補として名前が挙がるイドリス・エルバ/Andrew Kelly/Reuters via CNN Newsource （CNN） 人気スパイ映画シリーズ「007」の主人公ジェームズ・ボンド役の候補としてかねて噂（うわさ）されている英国の俳優、イドリス・エルバは、「黒人男性、アフリカ系男性」がボンドを演じるのは観客が受...</description>
-      <pubDate>Wed, 10 Jun 2026 03:49:58 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/showbiz/35248705.html</comments>
-    </item>
-    <item>
-      <title>オープンソースプロジェクト「context-mode」がGitHubトレンド1位に：AIプログラミングのコストを98%削減、Token不安の解消に期待 — BigGo ファイナンス</title>
-      <link>https://finance.biggo.jp/news/MUh9q54BrAZSr0oS5ID7</link>
-      <description>&lt;img src="https://img.biggo.com/C8G4MCmwBtG3Y3VlFEZfH5yEWOHNWYZ2weyTq_LWDe0/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA2L01VaDlxNTRCckFaU3Iwb1M1SUQ3XzE3ODA5OTQzODFfZGVmYXVsdC5qcGc.jpg" /&gt;&lt;br/&gt;オープンソースプロジェクト「context-mode」がGitHubトレンド1位に：AIプログラミングのコストを98%削減、Token不安の解消に期待 オープンソースのMCPプラグイン「context-mode」がGitHubのトレンド1位を獲得した。AIプログラミングにおけるTokenコストの高騰とモデルの「記憶喪失」という二大課題に切り込むツールだ。...</description>
-      <pubDate>Wed, 10 Jun 2026 03:54:07 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/finance.biggo.jp/news/MUh9q54BrAZSr0oS5ID7</comments>
+      <title>日本が先送りせず解くべき課題</title>
+      <link>https://fladdict.github.io/japan-todo/</link>
+      <description>人口・家族・世代 5件 少子化、高齢化、介護、世代間公平など、日本社会の基礎条件に関わる課題。 高齢化と長寿社会 緊5・深5 少子化・子育て負担 緊5・深5 介護の担い手不足 緊4・深4 世代間公平と人口減少 緊3・深4 世帯の単身化と家族の多様化 緊3・深3 人的資本・働き方・教育 4件 賃金、生産性、教育、学び直し、健...</description>
+      <pubDate>Wed, 10 Jun 2026 03:57:04 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/fladdict.github.io/japan-todo/</comments>
     </item>
     <item>
       <title>「日本企業のダメな部分を煮詰めた作品」技術流出の話題から、日本の失われた30年と悪しき企業風土を読み解く例として『島耕作』に注目集まる</title>
@@ -69,11 +55,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2707763</comments>
     </item>
     <item>
-      <title>論理的思考は一つの能力じゃない - あたまの中を循環する</title>
-      <link>https://ichi06ka.hatenablog.com/entry/20260610/1781080200</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/2d8a29e778aa21a2d1a8309c3aaf937e36eda2ba/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fi%2Fichi06ka%2F20260508%2F20260508194634.jpg" /&gt;&lt;br/&gt;第3話を読んで気づいた違和感 ミステリー・数学・哲学に共通する「前提依存型の論理」 もう一つの筋肉——前提を疑う メタ認知が強いのに、発想型は弱い 仮説を3つ並べて、決着をつけずに置く 仮説A：メタ認知は「内側を観察する操作」、発想型は「外から持ってくる操作」 仮説B：育成環境が「前提を固めて積む」訓練に偏...</description>
-      <pubDate>Wed, 10 Jun 2026 08:30:40 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ichi06ka.hatenablog.com/entry/20260610/1781080200</comments>
+      <title>オープンソースプロジェクト「context-mode」がGitHubトレンド1位に：AIプログラミングのコストを98%削減、Token不安の解消に期待 — BigGo ファイナンス</title>
+      <link>https://finance.biggo.jp/news/MUh9q54BrAZSr0oS5ID7</link>
+      <description>&lt;img src="https://img.biggo.com/C8G4MCmwBtG3Y3VlFEZfH5yEWOHNWYZ2weyTq_LWDe0/fit/1720/0/sm/1/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA2L01VaDlxNTRCckFaU3Iwb1M1SUQ3XzE3ODA5OTQzODFfZGVmYXVsdC5qcGc.jpg" /&gt;&lt;br/&gt;オープンソースプロジェクト「context-mode」がGitHubトレンド1位に：AIプログラミングのコストを98%削減、Token不安の解消に期待 オープンソースのMCPプラグイン「context-mode」がGitHubのトレンド1位を獲得した。AIプログラミングにおけるTokenコストの高騰とモデルの「記憶喪失」という二大課題に切り込むツールだ。...</description>
+      <pubDate>Wed, 10 Jun 2026 03:54:07 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/finance.biggo.jp/news/MUh9q54BrAZSr0oS5ID7</comments>
     </item>
   </channel>
 </rss>
