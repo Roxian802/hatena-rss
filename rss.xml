@@ -4,13 +4,34 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 14 Jun 2026 06:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 07:33:10 +0000</lastBuildDate>
+    <item>
+      <title>はてなブックマークは「Togetterブックマーク」に名前を変えるべき</title>
+      <link>https://anond.hatelabo.jp/20260614112126</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;はてブ見てたら、Togetterばっかりでびっくりする。 初めて見た人は、Togetterがはてなブックマークの関連サイトかと思うだろう。 それくらいTogetter率が高い。 いっそのこと、Togetterブックマークという名前にしてはどうか。 それなら実情に合ってるし、納得できると思う。</description>
+      <pubDate>Sun, 14 Jun 2026 02:38:37 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260614112126</comments>
+    </item>
     <item>
       <title>なぜ人間は終末に惹きつけられるのか？──『世界の破滅を信じた人たちのとんでもない世界史』 - 基本読書</title>
       <link>https://huyukiitoichi.hatenadiary.jp/entry/2026/06/14/080000</link>
       <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/1ef6b01f8774f4ab64f7623bdfd75554b1bba4db/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51dop3SCICL._SL500_.jpg" /&gt;&lt;br/&gt;世界の破滅を信じた人たちのとんでもない世界史 作者:トム・フィリップス河出書房新社Amazon僕はこんな名前（冬木糸一）で活動しているだけあって、「終末」が好きだ。終末に至った世界の情景が好きだし、終末に至った世界で生きる人間たちの物語も好きだ。しかしなぜこんなに終末に惹きつけられるんだろう？ いろいろな...</description>
       <pubDate>Sun, 14 Jun 2026 00:24:57 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/huyukiitoichi.hatenadiary.jp/entry/2026/06/14/080000</comments>
+    </item>
+    <item>
+      <title>Claude Fable 5に作ってもらった日本語プログラミング入門教材「言語の庭」が凄い</title>
+      <link>https://zenn.dev/nextbeat/articles/2026-06-cs-edu-site-fable5</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--mWH5cFjz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Fable%25205%25E3%2581%25AB%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%25A6%25E3%2582%2582%25E3%2582%2589%25E3%2581%25A3%25E3%2581%259F%25E6%2597%25A5%25E6%259C%25AC%25E8%25AA%259E%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E5%2585%25A5%25E9%2596%2580%25E6%2595%2599%25E6%259D%2590%25E3%2580%258C%25E8%25A8%2580%25E8%25AA%259E%25E3%2581%25AE%25E5%25BA%25AD%25E3%2580%258D%25E3%2581%258C%25E5%2587%2584%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:kmizu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q3MzM5NTFkZmMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:nextbeat%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUdObXl4YlNka1h3ZXdRZENWdDRvbHk0OUkyNkgyNi1IS2k0R2phNGdJdno9czk2LWM=%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;はじめに こんにちは！株式会社ネクストビートでテクノロジー・エバンジェリストなる肩書きでお仕事をしている水島です。大学院の頃はPEG（Parsing Expression Grammar）の研究をしていて、構文解析やプログラミング言語処理系が専門です。 先日、Anthropicの新モデルClaude Fable 5にほぼ丸投げで「プログラミング教育...</description>
+      <pubDate>Fri, 12 Jun 2026 02:50:20 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/nextbeat/articles/2026-06-cs-edu-site-fable5</comments>
+    </item>
+    <item>
+      <title>ぱっぷすの売買春規制の検討会での資料に複数の誤情報｜国際人権 セックスワーク</title>
+      <link>https://note.com/kokusai_jinken/n/nc161cf8be7db</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/272834301/rectangle_large_type_2_5e879b468c14825609d089f9d2ee451a.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;法務省の売買春に係る規制の在り方検討会の第２回会議（令和８年４月７日）のヒアリング出席者資料に、以下のＮＰＯ法人ぱっぷす資料(PDF)があります。 https://www.moj.go.jp/content/001461070.pdf 以下の第２回会議のヒアリング出席者名簿(PDF)のぱっぷす(PAPS)側には、金尻カズナ 「ＮＰＯ法人ぱっぷす」理事長、内...</description>
+      <pubDate>Sat, 13 Jun 2026 08:44:30 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/kokusai_jinken/n/nc161cf8be7db</comments>
     </item>
     <item>
       <title>ホロライブ所属アキ・ローゼンタール、3Dライブは「自腹」と告白　「0円の給料明細を何度見たことか」 - YouTubeニュース | ユーチュラ</title>
@@ -41,6 +62,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/cybozushiki.cybozu.co.jp/articles/m006330.html</comments>
     </item>
     <item>
+      <title>電車で眠そうな幼児を抱えている女性がいたので席を譲ろうとアイコンタクトしたら「今更なんでいいですよ」と吐き捨てられ、さらに小声で「気づいてたくせに」と言われた話</title>
+      <link>https://togetter.com/li/2709049</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/8ca22d9414afdd964bc638943dbead18-1200x630.jpeg" /&gt;&lt;br/&gt;haruyosh @haruyosh 混雑してきた車内で斜め前に幼児連れの女性がいて、眠くなった幼児を女性が抱えたのでPCを閉じてアイコンタクトしたら「今更なんでいいですよ」と吐き捨てられて、さらに小声で「気づいてたくせに」と続いたものだから目を倍くらい見開いてしまった 2026-06-12 22:20:36 haruyosh @haruyosh コナミBE...</description>
+      <pubDate>Sun, 14 Jun 2026 00:44:47 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2709049</comments>
+    </item>
+    <item>
       <title>ドカ食いダイスキ！ もちづきさん・第22話 | ヤングアニマルWeb</title>
       <link>https://younganimal.com/episodes/64a76e1cf222e</link>
       <description>&lt;img src="https://cdn-public.comici.jp/episode/520328/37e785335e53b175.webp" /&gt;&lt;br/&gt;ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号第6091713号)です。ABJマークの詳細、ABJマークを掲示しているサービスの一覧はこちら。 https://aebs.or.jp/</description>
@@ -48,11 +76,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/younganimal.com/episodes/64a76e1cf222e</comments>
     </item>
     <item>
-      <title>私は女性に求める理想がクッッッッソ高いです。具体的には・感情のコントロールができる・愛嬌がある・日本語が通じるの3点を求めます→令和の竹取物語</title>
-      <link>https://posfie.com/@mumimushunyu/p/gyWCCwf</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/15ff9ebb7bcd51e6dd14f7463029bca1-1200x630.jpeg" /&gt;&lt;br/&gt;Toa @Toa_pre_se 私は女性に求める理想がクッッッッソ高いです。 具体的には ・感情のコントロールができる ・愛嬌がある ・日本語が通じる の3点を求めます。 2026-06-12 10:57:58 Toa @Toa_pre_se たまにプロフや投稿が“ホンモノ”って感じの方から「たくさんいるけどお前と釣り合ってないだけ」といった旨のお言葉をい...</description>
-      <pubDate>Sat, 13 Jun 2026 06:34:54 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@mumimushunyu/p/gyWCCwf</comments>
+      <title>デバッガーがプログラマーにバグ報告をするとき伝え方で反応が全く変わることがあったが何がダメだったんだ？「言っていることは同じ？」「このケースだと明らかに違う」</title>
+      <link>https://togetter.com/li/2708806</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/ed0531a830f457d23251573ef5042656-1200x630.jpeg" /&gt;&lt;br/&gt;清遊あみ/NetGamers @NetGamers デバッガーだった頃の話。 バグを見つけた！報告しなきゃ。 A.◯◯で◻︎◻︎すると再現率100%で△△が発生します。ご確認をお願いします。 →なんか知らんがプログラマさん機嫌悪くなる。 B.◯◯で◻︎◻︎すると再現率100%で△△が発生します。こちらは仕様にない挙動かと存じますが問題ございませんでしょう...</description>
+      <pubDate>Sat, 13 Jun 2026 08:24:01 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2708806</comments>
     </item>
   </channel>
 </rss>
