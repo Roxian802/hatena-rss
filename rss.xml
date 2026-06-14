@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 14 Jun 2026 08:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 09:33:09 +0000</lastBuildDate>
     <item>
       <title>はてなブックマークは「Togetterブックマーク」に名前を変えるべき</title>
       <link>https://anond.hatelabo.jp/20260614112126</link>
@@ -55,6 +55,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/gigazine.net/news/20260613-politicians-35-techniques/</comments>
     </item>
     <item>
+      <title>「国がリスクを知らなかったはずない」被害事業者は怒り…閉幕から8カ月も解決見えない総額10億円超の“未払い問題” | 女性自身</title>
+      <link>https://jisin.jp/domestic/2586906/</link>
+      <description>&lt;img src="https://img.jisin.jp/uploads/2026/06/yoshimura_chiji_fb_jiji-1.jpg" /&gt;&lt;br/&gt;「大阪・関西万博」の閉幕から、8カ月。現在もなお、解決の糸口が見えないのが“万博・未払い問題”だ。 6月10日、「万博工事未払い被害者の会」のメンバーは国会を訪れ、未払いの解決を求める3万3569人分のオンライン署名を国土交通省と経済産業省に提出した。被害を訴える事業者は30社を超え、総額は10億円以上にのぼる...</description>
+      <pubDate>Sat, 13 Jun 2026 05:35:30 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/jisin.jp/domestic/2586906/</comments>
+    </item>
+    <item>
       <title>Claude Codeに人生を管理させて3ヶ月、一番効いたのは自動化じゃなかった - Qiita</title>
       <link>https://qiita.com/ktdatascience/items/3c8949b62ce1dfe7a024</link>
       <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzOTM3NDk2JTJGZDAxZmQwNDA0YmY2ODY3NmFhZTI5ZjNhM2Y5YTUzZGZlMjQ4YmIyYSUyRmxhcmdlLnBuZyUzRjE3NDU5MDYwMzY_aXhsaWI9cmItNC4xLjEmYXI9MSUzQTEmZml0PWNyb3AmbWFzaz1lbGxpcHNlJmJnPUZGRkZGRiZmbT1wbmczMiZzPWYyZjBmZTU5NjFkZjdiNDgwY2NkYzUyOTc2MzQ1Yzk1%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D01799e75ac5f8111fd0473b7a1186a7e?ixlib=rb-4.1.1&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MSVBQiVFNCVCQSVCQSVFNyU5NCU5RiVFMyU4MiU5MiVFNyVBRSVBMSVFNyU5MCU4NiVFMyU4MSU5NSVFMyU4MSU5QiVFMyU4MSVBNjMlRTMlODMlQjYlRTYlOUMlODglRTMlODAlODElRTQlQjglODAlRTclOTUlQUElRTUlOEElQjklRTMlODElODQlRTMlODElOUYlRTMlODElQUUlRTMlODElQUYlRTglODclQUElRTUlOEIlOTUlRTUlOEMlOTYlRTMlODElOTglRTMlODIlODMlRTMlODElQUElRTMlODElOEIlRTMlODElQTMlRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz05MWM1YThkMjY3ZDJjYjUzYjU3Y2M5MzhmYmU0MWRlZQ&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBrdGRhdGFzY2llbmNlJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9MDVjZGI1NWNkNzdkZDU2NmFjZmQwYTA5MGQyYzMxMGE&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=77cb869157a1d875a893eaa3b13c00a8" /&gt;&lt;br/&gt;*この記事のまとめ Claude Code × GitHubで「自分の取扱説明書」を作り、AIに丸ごと渡す運用を3ヶ月続けた スキルやMCPで自動化もした。でも一番効いたのは、自動化ではなく「自分を言語化する強制力」だった メモアプリ1つで始められる。エンジニアでなくてもOK 対象読者 AIへの相談がなんとなく浅い、と感じている人 ...</description>
@@ -62,11 +69,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/qiita.com/ktdatascience/items/3c8949b62ce1dfe7a024</comments>
     </item>
     <item>
-      <title>「国がリスクを知らなかったはずない」被害事業者は怒り…閉幕から8カ月も解決見えない総額10億円超の“未払い問題” | 女性自身</title>
-      <link>https://jisin.jp/domestic/2586906/</link>
-      <description>&lt;img src="https://img.jisin.jp/uploads/2026/06/yoshimura_chiji_fb_jiji-1.jpg" /&gt;&lt;br/&gt;「大阪・関西万博」の閉幕から、8カ月。現在もなお、解決の糸口が見えないのが“万博・未払い問題”だ。 6月10日、「万博工事未払い被害者の会」のメンバーは国会を訪れ、未払いの解決を求める3万3569人分のオンライン署名を国土交通省と経済産業省に提出した。被害を訴える事業者は30社を超え、総額は10億円以上にのぼる...</description>
-      <pubDate>Sat, 13 Jun 2026 05:35:30 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/jisin.jp/domestic/2586906/</comments>
+      <title>Obsidian Web Clipperで保存するときにURLごとにタグを自動で付ける | DevelopersIO</title>
+      <link>https://dev.classmethod.jp/articles/obsidian-web-clipper-url-tags/</link>
+      <description>&lt;img src="https://images.ctfassets.net/ct0aopd36mqt/271wVAxeN1rlKRsu2HX3i2/47104a220a7c282e824443292b7ac5bb/eyecatch_obsidian_1200x630.jpg" /&gt;&lt;br/&gt;どうも！オペ部の西村祐二です！ Obsidian Web ClipperでWebページを保存するとき、あとから探しやすいようにタグを付けています。 たとえば、YouTubeのページなら YouTube、GitHubのリポジトリなら GitHub、Zennの記事なら Zenn のように、クリップ元に応じてタグを自動で切り替えたいケースがあります。 以前は、こう...</description>
+      <pubDate>Sat, 13 Jun 2026 10:23:08 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/dev.classmethod.jp/articles/obsidian-web-clipper-url-tags/</comments>
     </item>
     <item>
       <title>電車で眠そうな幼児を抱えている女性がいたので席を譲ろうとアイコンタクトしたら「今更なんでいいですよ」と吐き捨てられ、さらに小声で「気づいてたくせに」と言われた話</title>
@@ -81,13 +88,6 @@
       <description>&lt;img src="https://cybozushiki.cybozu.co.jp/images/nwiizo4_eyecatch2_OGP.png" /&gt;&lt;br/&gt;話題の人気ブログ「おい、」シリーズの著者で、ソフトウェアエンジニアのnwiizoさんによる新連載「生産性を取り戻せ」。この連載では「仕事の生産性」をあらゆる角度からとらえ、チームで生産性を高めていくためのヒントを探っていきます。 第4回は「組織において“善意”が毒になるとき」について考えます。 はじめに あ...</description>
       <pubDate>Tue, 09 Jun 2026 01:55:01 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/cybozushiki.cybozu.co.jp/articles/m006330.html</comments>
-    </item>
-    <item>
-      <title>ドカ食いダイスキ！ もちづきさん・第22話 | ヤングアニマルWeb</title>
-      <link>https://younganimal.com/episodes/64a76e1cf222e</link>
-      <description>&lt;img src="https://cdn-public.comici.jp/episode/520328/37e785335e53b175.webp" /&gt;&lt;br/&gt;ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号第6091713号)です。ABJマークの詳細、ABJマークを掲示しているサービスの一覧はこちら。 https://aebs.or.jp/</description>
-      <pubDate>Sat, 13 Jun 2026 15:08:43 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/younganimal.com/episodes/64a76e1cf222e</comments>
     </item>
   </channel>
 </rss>
