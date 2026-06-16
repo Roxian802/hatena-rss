@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Tue, 16 Jun 2026 17:33:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 18:33:09 +0000</lastBuildDate>
     <item>
       <title>japanese-tech-writing/SKILL</title>
       <link>https://gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d</link>
       <description>&lt;img src="https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png" /&gt;&lt;br/&gt;SKILL.md name japanese-tech-writing description 日本語の技術文書・書籍原稿の文章規範。整形（一文一行、引用ブロック、脚注、コラム記法）、段落と論証の構成（パラグラフライティング）、論証の厳密さ（ツッコミどころの除去）、読み手の負荷の管理、視点と語り、演出の抑制、LLM っぽい空句の禁止、冗長の排除を...</description>
       <pubDate>Tue, 16 Jun 2026 07:40:11 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d</comments>
+    </item>
+    <item>
+      <title>マイナンバーカードと運転免許証の一体化「マイナ免許証」の普及率は約4%。2枚持ちが多い｜自動車交通トピックス｜JAF Mate Online</title>
+      <link>https://jafmate.jp/car/traffic_topics_20260615_1199301.html</link>
+      <description>&lt;img src="https://jafmate.jp/car/__icsFiles/afieldfile/2026/06/11/traffic_topiics_202606_4_1_1.jpg" /&gt;&lt;br/&gt;マイナ免許証の普及率は約4%。便利でも「2枚持ち」が多い理由とは オンライン講習などのメリットがある一方、券面に免許情報が出ない点を不安視する声も マイナンバーカードと運転免許証を一体化した「マイナ免許証」の運用が2025年3月24日に始まってから約1年。更新時講習をオンラインで受けられることや、住所変更手続...</description>
+      <pubDate>Mon, 15 Jun 2026 11:30:47 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/jafmate.jp/car/traffic_topics_20260615_1199301.html</comments>
     </item>
     <item>
       <title>悔シコ係長 / 悔シコ係長 - 四谷啓太郎 | webアクション</title>
@@ -20,11 +27,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/comic-action.com/episode/12207421983825422788</comments>
     </item>
     <item>
-      <title>マイナンバーカードと運転免許証の一体化「マイナ免許証」の普及率は約4%。2枚持ちが多い｜自動車交通トピックス｜JAF Mate Online</title>
-      <link>https://jafmate.jp/car/traffic_topics_20260615_1199301.html</link>
-      <description>&lt;img src="https://jafmate.jp/car/__icsFiles/afieldfile/2026/06/11/traffic_topiics_202606_4_1_1.jpg" /&gt;&lt;br/&gt;マイナ免許証の普及率は約4%。便利でも「2枚持ち」が多い理由とは オンライン講習などのメリットがある一方、券面に免許情報が出ない点を不安視する声も マイナンバーカードと運転免許証を一体化した「マイナ免許証」の運用が2025年3月24日に始まってから約1年。更新時講習をオンラインで受けられることや、住所変更手続...</description>
-      <pubDate>Mon, 15 Jun 2026 11:30:47 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/jafmate.jp/car/traffic_topics_20260615_1199301.html</comments>
+      <title>カーネギーメロン大学の有名講義『Intro to Database Systems』を全てのプログラマに見てほしい</title>
+      <link>https://zenn.dev/kaseken/articles/3913ba30af4d46</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--4JfH7TGo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25AE%25E3%2583%25BC%25E3%2583%25A1%25E3%2583%25AD%25E3%2583%25B3%25E5%25A4%25A7%25E5%25AD%25A6%25E3%2581%25AE%25E6%259C%2589%25E5%2590%258D%25E8%25AC%259B%25E7%25BE%25A9%25E3%2580%258EIntro%2520to%2520Database%2520Systems%25E3%2580%258F%25E3%2582%2592%25E5%2585%25A8%25E3%2581%25A6%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%25E3%2581%25AB%25E8%25A6%258B%25E3%2581%25A6%25E3%2581%25BB%25E3%2581%2597%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kaseken%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk1MmUyNTgwNDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;データベース (DB) について、どのように勉強していますか？ MySQLやPostgreSQL等の具体的なデータベース管理システム (DBMS) の仕様、効率的なSQLの書き方、あるいはスキーマ設計のベストプラクティス等の「DBの使い方」を教える技術書は、たくさん見かけます。そういった本を読んだことのある方は多いでしょう。 一方...</description>
+      <pubDate>Tue, 16 Jun 2026 01:27:38 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/kaseken/articles/3913ba30af4d46</comments>
     </item>
     <item>
       <title>週刊文春「高市早苗首相に関する記事について」 “重要なお知らせ”サイトに掲載　内容伝え「次号にて取材経緯を説明」（オリコン） - Yahoo!ニュース</title>
@@ -62,18 +69,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.sponichi.co.jp/society/news/2026/06/16/kiji/20260616s00042000184000c.html</comments>
     </item>
     <item>
-      <title>職場にいる「こじらせた人」とどう仕事をしていけばよいのか</title>
-      <link>https://agend.jp/media/kojirase/</link>
-      <description>&lt;img src="https://agend.jp/media/wp-content/uploads/2026/06/nakayama-03-ogp.jpg" /&gt;&lt;br/&gt;仕事に前向きではあるけれど、ちょっと扱いに困る「こじらせた」感じのする、あの人——— 今回のAgendは、楽天大学・学長の仲山さんにそんな「こじらせ社員」についてお聞きしてみました。 仲山さんのお話から見えてきたのは、相手を変えることではなく、自分が投げかける問いを変えていくというアプローチ。 同僚に対して...</description>
-      <pubDate>Tue, 16 Jun 2026 00:30:53 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/agend.jp/media/kojirase/</comments>
-    </item>
-    <item>
       <title>【解説】 アメリカとイランの暫定合意、ネタニヤフ氏にとって政治的悪夢に - BBCニュース</title>
       <link>https://www.bbc.com/japanese/articles/c1kyjxn8mnko</link>
       <description>&lt;img src="https://ichef.bbci.co.uk/news/1024/branded_japanese/1bf4/live/a0647af0-68f2-11f1-8e1d-bbbb1017d210.jpg" /&gt;&lt;br/&gt;アメリカは15日、イランとの戦争を終結させるため、停戦延長を含む暫定的な合意に署名したと発表した。この暫定合意は、イスラエルのベンヤミン・ネタニヤフ首相にとって政治的悪夢と言える。ネタニヤフ氏は、その政治キャリアを支えてきた三つの柱を打ち砕かれ、新たな安全保障上のジレンマから抜け出せなくなるからだ...</description>
       <pubDate>Tue, 16 Jun 2026 06:31:35 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.bbc.com/japanese/articles/c1kyjxn8mnko</comments>
+    </item>
+    <item>
+      <title>職場にいる「こじらせた人」とどう仕事をしていけばよいのか</title>
+      <link>https://agend.jp/media/kojirase/</link>
+      <description>&lt;img src="https://agend.jp/media/wp-content/uploads/2026/06/nakayama-03-ogp.jpg" /&gt;&lt;br/&gt;仕事に前向きではあるけれど、ちょっと扱いに困る「こじらせた」感じのする、あの人——— 今回のAgendは、楽天大学・学長の仲山さんにそんな「こじらせ社員」についてお聞きしてみました。 仲山さんのお話から見えてきたのは、相手を変えることではなく、自分が投げかける問いを変えていくというアプローチ。 同僚に対して...</description>
+      <pubDate>Tue, 16 Jun 2026 00:30:53 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/agend.jp/media/kojirase/</comments>
     </item>
     <item>
       <title>「ヨドバシカメラ 池袋店」、6月30日オープン</title>
@@ -82,18 +89,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.watch.impress.co.jp/docs/news/2117529.html</comments>
     </item>
     <item>
-      <title>サッカー部員が心底嫌いだったが、日本代表の11人を除いて全員才能が無かったって思うとちょっと許せる</title>
-      <link>https://anond.hatelabo.jp/20260616122825</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;それを考えると実力主義の世界って良いね 頑張れ日本代表（笑）</description>
-      <pubDate>Tue, 16 Jun 2026 05:43:37 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260616122825</comments>
-    </item>
-    <item>
       <title>ふと手に取った絵本の内容が不快極まりなく、他の人の感想が知りたくて調べると絶賛するレビューばかりで、自分と同じように感じている人は皆無だった</title>
       <link>https://togetter.com/li/2709940</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/b60650da8d30ba2e03b86465cd85b9a8-1200x630.jpeg" /&gt;&lt;br/&gt;noe @2nnoe ふと手に取った絵本の内容が不快極まりなく、創作とはいえ誠実さのない嘘ばかりの言葉たちを許せなかった　他の人の感想が知りたくて調べると大人にも子どもにも人気で否が存在しないほど絶賛するレビューが多く私と同じように感じている人は皆無だった　孤立している自分の感性を守りたいと強く思った 2026-...</description>
       <pubDate>Tue, 16 Jun 2026 05:53:11 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2709940</comments>
+    </item>
+    <item>
+      <title>サッカー部員が心底嫌いだったが、日本代表の11人を除いて全員才能が無かったって思うとちょっと許せる</title>
+      <link>https://anond.hatelabo.jp/20260616122825</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;それを考えると実力主義の世界って良いね 頑張れ日本代表（笑）</description>
+      <pubDate>Tue, 16 Jun 2026 05:43:37 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260616122825</comments>
     </item>
     <item>
       <title>みっちゃんの婚活／よみきり</title>
