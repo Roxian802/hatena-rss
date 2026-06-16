@@ -4,13 +4,13 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Tue, 16 Jun 2026 22:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 23:33:09 +0000</lastBuildDate>
     <item>
-      <title>japanese-tech-writing/SKILL</title>
-      <link>https://gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d</link>
-      <description>&lt;img src="https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png" /&gt;&lt;br/&gt;SKILL.md name japanese-tech-writing description 日本語の技術文書・書籍原稿の文章規範。整形（一文一行、引用ブロック、脚注、コラム記法）、段落と論証の構成（パラグラフライティング）、論証の厳密さ（ツッコミどころの除去）、読み手の負荷の管理、視点と語り、演出の抑制、LLM っぽい空句の禁止、冗長の排除を...</description>
-      <pubDate>Tue, 16 Jun 2026 07:40:11 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d</comments>
+      <title>素人が「エアコン洗浄セット」（5980円）で内部を水洗いしてみたら、もう業者を呼ばなくていい気がしてきた</title>
+      <link>https://rocketnews24.com/2026/06/16/2772089/</link>
+      <description>&lt;img src="https://rocketnews24.com/wp-content/uploads/sites/2/2026/06/IMG_3560.jpg?crop=0px%2C119px%2C1500px%2C788px&amp;amp;resize=1200%2C630" /&gt;&lt;br/&gt;» 素人が「エアコン洗浄セット」（5980円）で内部を水洗いしてみたら、もう業者を呼ばなくていい気がしてきた 特集 昨年11月、業者にエアコンのクリーニングをお願いしたところ、リビングと寝室の2台で約3万円かかった。必要な出費だとは思うが、毎回となるとさすがに財布が痛い。 そこで楽天で見つけた税込5980円の『エ...</description>
+      <pubDate>Tue, 16 Jun 2026 17:44:47 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/rocketnews24.com/2026/06/16/2772089/</comments>
     </item>
     <item>
       <title>カーネギーメロン大学の有名講義『Intro to Database Systems』を全てのプログラマに見てほしい</title>
@@ -18,6 +18,13 @@
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--4JfH7TGo--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2582%25AB%25E3%2583%25BC%25E3%2583%258D%25E3%2582%25AE%25E3%2583%25BC%25E3%2583%25A1%25E3%2583%25AD%25E3%2583%25B3%25E5%25A4%25A7%25E5%25AD%25A6%25E3%2581%25AE%25E6%259C%2589%25E5%2590%258D%25E8%25AC%259B%25E7%25BE%25A9%25E3%2580%258EIntro%2520to%2520Database%2520Systems%25E3%2580%258F%25E3%2582%2592%25E5%2585%25A8%25E3%2581%25A6%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259E%25E3%2581%25AB%25E8%25A6%258B%25E3%2581%25A6%25E3%2581%25BB%25E3%2581%2597%25E3%2581%2584%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kaseken%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzk1MmUyNTgwNDAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;データベース (DB) について、どのように勉強していますか？ MySQLやPostgreSQL等の具体的なデータベース管理システム (DBMS) の仕様、効率的なSQLの書き方、あるいはスキーマ設計のベストプラクティス等の「DBの使い方」を教える技術書は、たくさん見かけます。そういった本を読んだことのある方は多いでしょう。 一方...</description>
       <pubDate>Tue, 16 Jun 2026 01:27:38 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/kaseken/articles/3913ba30af4d46</comments>
+    </item>
+    <item>
+      <title>japanese-tech-writing/SKILL</title>
+      <link>https://gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d</link>
+      <description>&lt;img src="https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png" /&gt;&lt;br/&gt;SKILL.md name japanese-tech-writing description 日本語の技術文書・書籍原稿の文章規範。整形（一文一行、引用ブロック、脚注、コラム記法）、段落と論証の構成（パラグラフライティング）、論証の厳密さ（ツッコミどころの除去）、読み手の負荷の管理、視点と語り、演出の抑制、LLM っぽい空句の禁止、冗長の排除を...</description>
+      <pubDate>Tue, 16 Jun 2026 07:40:11 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d</comments>
     </item>
     <item>
       <title>2026年6月現在の Claude Code 開発フロー</title>
@@ -29,7 +36,7 @@
     <item>
       <title>週刊文春「高市早苗首相に関する記事について」 “重要なお知らせ”サイトに掲載　内容伝え「次号にて取材経緯を説明」（オリコン） - Yahoo!ニュース</title>
       <link>https://news.yahoo.co.jp/articles/663f95f8ea088d9050afc209cc17302fbc49ea3e</link>
-      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260616-00000491-oric-000-6-view.jpg?exp=10800" /&gt;&lt;br/&gt;週刊文春 電子版の公式サイトが16日に更新され、「高市早苗首相に関する記事について」とする “重要なお知らせ”が掲載された。 【写真】太田光、高市首相陣営の“疑惑”に言及 それによると「4月29日から公開している高市早苗首相に関する記事について、一部の動画に時系列上の問題点が確認されたため、関連動画の公開を一...</description>
+      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260616-00000491-oric-000-12-view.jpg?exp=10800" /&gt;&lt;br/&gt;週刊文春 電子版の公式サイトが16日に更新され、「高市早苗首相に関する記事について」とする “重要なお知らせ”が掲載された。 【写真】太田光、高市首相陣営の“疑惑”に言及 それによると「4月29日から公開している高市早苗首相に関する記事について、一部の動画に時系列上の問題点が確認されたため、関連動画の公開を一...</description>
       <pubDate>Tue, 16 Jun 2026 12:08:26 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/663f95f8ea088d9050afc209cc17302fbc49ea3e</comments>
     </item>
@@ -48,18 +55,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260616-O4JMCORJS5MYFASPM72YT5JJMU/</comments>
     </item>
     <item>
+      <title>みっちゃんの婚活／よみきり・みっちゃんの婚活 | 花とゆめ＋</title>
+      <link>https://hanayume.com/episodes/05385c7707da2</link>
+      <description>&lt;img src="https://cdn-public.comici.jp/episode/514504/ab221fe888a2161c.webp" /&gt;&lt;br/&gt;ABJマークは、この電子書店・電子書籍配信サービスが、著作権者からコンテンツ使用許諾を得た正規版配信サービスであることを示す登録商標(登録番号第6091713号)です。ABJマークの詳細、ABJマークを掲示しているサービスの一覧はこちら。 https://aebs.or.jp/</description>
+      <pubDate>Tue, 16 Jun 2026 06:42:14 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/hanayume.com/episodes/05385c7707da2</comments>
+    </item>
+    <item>
+      <title>スペースX、プログラミングAI開発の米新興Cursor買収　9.6兆円 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOGN16BC70W6A610C2000000/</link>
+      <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3177543016062026000000-1.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=874ec92f0bfc66cb32aa063814c2ea07" /&gt;&lt;br/&gt;【ニューヨーク=川上梓】米スペースXは16日、プログラミング用の人工知能（AI）サービスを開発する米新興Cursor（カーソル）を600億ドル（約9兆6000億円）で買収すると発表した。プログラミング向けのAI開発を強化する狙いがある。スペースXは12日にナスダック市場に上場した。初日終値の時価総額は2兆ドル規模で史上最...</description>
+      <pubDate>Tue, 16 Jun 2026 13:08:00 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOGN16BC70W6A610C2000000/</comments>
+    </item>
+    <item>
       <title>最近これ凄く良い曲だなぁと思ってたらエロゲの主題歌だったらしい リトル..</title>
       <link>https://anond.hatelabo.jp/20260616181658</link>
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;最近これ凄く良い曲だなぁと思ってたらエロゲの主題歌だったらしい リトルマイスターって曲タイでどっかで聴いた事があるようなないような、でも素敵な楽曲で流れた瞬間好きになったけど 実はこれエロゲの主題歌で魔界天使ジブリールって作品のオープニングなんだって いい曲だと思ったらエロゲ主題歌だったなんてある事...</description>
       <pubDate>Tue, 16 Jun 2026 09:17:48 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260616181658</comments>
-    </item>
-    <item>
-      <title>DAZNを「ダズン」と呼んでる奴がいて草</title>
-      <link>https://anond.hatelabo.jp/20260616162345</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;「ダゾーン」だよ、間違えんなよな笑 なあ、俺！ ダゾーンってなんなんだよ… ゾーンに入る「in the zone」を略した言葉らしい… なんかダサくないか… まあダズンも変だけどさ…</description>
-      <pubDate>Tue, 16 Jun 2026 07:24:50 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260616162345</comments>
     </item>
     <item>
       <title>【参政党の本質】反ワク、古代文字、マッドフラッド、電磁波除去シール…参政党にはなぜ「強烈な個性」が集まるのか 【著者に聞く】『参政党と大陰謀論時代』の黒猫ドラネコ氏が語る、疑似科学と陰謀論が政治に流れ込む仕組み | JBpress (ジェイビープレス)</title>
@@ -69,32 +83,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/jbpress.ismedia.jp/articles/-/95414</comments>
     </item>
     <item>
-      <title>マイナンバーカードと運転免許証の一体化「マイナ免許証」の普及率は約4%。2枚持ちが多い｜自動車交通トピックス｜JAF Mate Online</title>
-      <link>https://jafmate.jp/car/traffic_topics_20260615_1199301.html</link>
-      <description>&lt;img src="https://jafmate.jp/car/__icsFiles/afieldfile/2026/06/11/traffic_topiics_202606_4_1_1.jpg" /&gt;&lt;br/&gt;マイナ免許証の普及率は約4%。便利でも「2枚持ち」が多い理由とは オンライン講習などのメリットがある一方、券面に免許情報が出ない点を不安視する声も マイナンバーカードと運転免許証を一体化した「マイナ免許証」の運用が2025年3月24日に始まってから約1年。更新時講習をオンラインで受けられることや、住所変更手続...</description>
-      <pubDate>Mon, 15 Jun 2026 11:30:47 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/jafmate.jp/car/traffic_topics_20260615_1199301.html</comments>
-    </item>
-    <item>
-      <title>【解説】 アメリカとイランの暫定合意、ネタニヤフ氏にとって政治的悪夢に - BBCニュース</title>
-      <link>https://www.bbc.com/japanese/articles/c1kyjxn8mnko</link>
-      <description>&lt;img src="https://ichef.bbci.co.uk/news/1024/branded_japanese/1bf4/live/a0647af0-68f2-11f1-8e1d-bbbb1017d210.jpg" /&gt;&lt;br/&gt;アメリカは15日、イランとの戦争を終結させるため、停戦延長を含む暫定的な合意に署名したと発表した。この暫定合意は、イスラエルのベンヤミン・ネタニヤフ首相にとって政治的悪夢と言える。ネタニヤフ氏は、その政治キャリアを支えてきた三つの柱を打ち砕かれ、新たな安全保障上のジレンマから抜け出せなくなるからだ...</description>
-      <pubDate>Tue, 16 Jun 2026 06:31:35 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.bbc.com/japanese/articles/c1kyjxn8mnko</comments>
-    </item>
-    <item>
-      <title>国際信州学院大　入学試験に出題ミス発覚し謝罪　「大正8年度国際信州学院大学一般選抜で判明」 - スポニチ Sponichi Annex 社会</title>
-      <link>https://www.sponichi.co.jp/society/news/2026/06/16/kiji/20260616s00042000184000c.html</link>
-      <description>&lt;img src="https://www.sponichi.co.jp/society/news/2026/06/16/jpeg/20260616s10042000209000p_view.webp" /&gt;&lt;br/&gt;国際信州学院大　入学試験に出題ミス発覚し謝罪　「大正8年度国際信州学院大学一般選抜で判明」</description>
-      <pubDate>Tue, 16 Jun 2026 05:55:12 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.sponichi.co.jp/society/news/2026/06/16/kiji/20260616s00042000184000c.html</comments>
-    </item>
-    <item>
-      <title>悔シコ係長 / 悔シコ係長 - 四谷啓太郎 | webアクション</title>
-      <link>https://comic-action.com/episode/12207421983825422788</link>
-      <description>&lt;img src="https://cdn-img.comic-action.com/public/series-thumbnail/12207421983805565500-bf8c4628803ce12797fa3acdfd65baa4?1780557528" /&gt;&lt;br/&gt;悔シコ係長 四谷啓太郎 高田は、寝取られモノのＡＶが大好きな中年男。彼は、もし実際に愛する妻が寝取られたら、自分は興奮できるのか…という疑問を抱いていた。そんなある日、帰宅すると妻の様子が明らかに怪しくて……？</description>
-      <pubDate>Tue, 16 Jun 2026 03:54:42 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/comic-action.com/episode/12207421983825422788</comments>
+      <title>DAZNを「ダズン」と呼んでる奴がいて草</title>
+      <link>https://anond.hatelabo.jp/20260616162345</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;「ダゾーン」だよ、間違えんなよな笑 なあ、俺！ ダゾーンってなんなんだよ… ゾーンに入る「in the zone」を略した言葉らしい… なんかダサくないか… まあダズンも変だけどさ…</description>
+      <pubDate>Tue, 16 Jun 2026 07:24:50 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260616162345</comments>
     </item>
   </channel>
 </rss>
