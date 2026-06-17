@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 17 Jun 2026 14:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 15:33:09 +0000</lastBuildDate>
     <item>
       <title>「痩せ＝モテる」は本当か。データで読み解く、過度なダイエット信仰と女性の成婚率 - 【公式】IBJ結婚みらい研究所</title>
       <link>https://www.ibjapan.jp/mirai-lab/seikon-hakusho/738/</link>
@@ -20,11 +20,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/7eedf16d28d66286cf21621ff762e6e6f09d1af7</comments>
     </item>
     <item>
-      <title>【独自】辺野古沖転覆の死亡船長が過去に性暴力　被害女性が証言　「運動離れて」求めに応じず　沖縄</title>
-      <link>https://ryukyushimpo.jp/national/entry-5316751.html</link>
-      <description>&lt;img src="https://ryukyushimpo.jp/tachyon/2026/02/t-1-8.jpg?resize=1200%2C630&amp;amp;gravity&amp;amp;crop=0px%2C35px%2C1200px%2C630px" /&gt;&lt;br/&gt;沖縄県名護市辺野古沖で小型船2隻が転覆し、同志社国際高校（京都府）の女子生徒と船長の2人が亡くなった事故から3カ月が経過した。2隻の船長が所属するヘリ基地反対協議会の責任が追及され、沖縄の平和運動や平和学習の在り方まで問題視される事態に発展している。死亡した「不屈」の船長が県外に在住していた時から知...</description>
-      <pubDate>Wed, 17 Jun 2026 01:19:20 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ryukyushimpo.jp/national/entry-5316751.html</comments>
+      <title>ローカルLLMをいつ使うべきか？</title>
+      <link>https://zenn.dev/sompojapan_dx/articles/74624afa03040c</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--IhsxxsCW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2582%2592%25E3%2581%2584%25E3%2581%25A4%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:magatarou%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM4MDY0MmJiMDcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SOMPO%2520Digital%2520Lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0ZmR0eTR3X0QzaHd6VEQ3T0JkMklXRWNyZTZRZWlxd1BLeWpvd2I1MkxWPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;TL;DR 「ローカルLLM＝コストが安い」はほとんどの場合で誤りです。2026年時点での損益分岐点はかなり高く、GPUを遊ばせると単価はAPIより高くつきます。 それでもローカルLLMが勝つ領域はあります。ガバナンス・タスク特化での精度・レイテンシ の3軸です。 実例として、RAGチャットボットの軽量な判定ステップを Gemma...</description>
+      <pubDate>Tue, 16 Jun 2026 10:17:25 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/sompojapan_dx/articles/74624afa03040c</comments>
     </item>
     <item>
       <title>【速報】"違法な逮捕・勾留で自白迫られ…精神的な苦痛を受け摂食障害に　体重が20キロになって餓死"　障害者施設で働いていた当時16歳の女性の母親が国と兵庫県に損害賠償求め提訴　「ほかの利用者に噛みつこうとした利用者止め」暴行容疑で逮捕も不起訴（関西テレビ） - Yahoo!ニュース</title>
@@ -34,11 +34,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/ac6037e76faa10467a376c1f8b6c025416a95304</comments>
     </item>
     <item>
-      <title>ローカルLLMをいつ使うべきか？</title>
-      <link>https://zenn.dev/sompojapan_dx/articles/74624afa03040c</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--IhsxxsCW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2582%2592%25E3%2581%2584%25E3%2581%25A4%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:magatarou%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM4MDY0MmJiMDcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SOMPO%2520Digital%2520Lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0ZmR0eTR3X0QzaHd6VEQ3T0JkMklXRWNyZTZRZWlxd1BLeWpvd2I1MkxWPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;TL;DR 「ローカルLLM＝コストが安い」はほとんどの場合で誤りです。2026年時点での損益分岐点はかなり高く、GPUを遊ばせると単価はAPIより高くつきます。 それでもローカルLLMが勝つ領域はあります。ガバナンス・タスク特化での精度・レイテンシ の3軸です。 実例として、RAGチャットボットの軽量な判定ステップを Gemma...</description>
-      <pubDate>Tue, 16 Jun 2026 10:17:25 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/sompojapan_dx/articles/74624afa03040c</comments>
+      <title>高身長でも婚活で有利と限らず　172センチ以上で横ばい、160以下も高収入なら4倍に</title>
+      <link>https://www.sankei.com/article/20260617-T43P5REHIBFMLKX6QW6JXC7KRA/</link>
+      <description>&lt;img src="https://www.sankei.com/resizer/v2/IHT6Q3ZOZJGOVBNULCAJNUGWTA.jpg?auth=2264bb44aff2ed9bb1728e8a8a73e74b58ed13becd6befbe38f9d75aab0fbee4&amp;amp;quality=50&amp;amp;focal=810%2C489&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;高身長男性は「婚活」で有利だとは限らない――。そんな調査結果が発表された。成婚者の身長データを分析したところ、成婚率（成婚しやすさ）は身長172センチ以上でほぼ横ばいとなり、背が高いほど有利というわけではないことが明らかになった。また、低身長の男性でも経済的な安定性次第で女性に評価される実態も浮き彫り...</description>
+      <pubDate>Wed, 17 Jun 2026 05:30:53 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260617-T43P5REHIBFMLKX6QW6JXC7KRA/</comments>
+    </item>
+    <item>
+      <title>【独自】辺野古沖転覆の死亡船長が過去に性暴力　被害女性が証言　「運動離れて」求めに応じず　沖縄</title>
+      <link>https://ryukyushimpo.jp/national/entry-5316751.html</link>
+      <description>&lt;img src="https://ryukyushimpo.jp/tachyon/2026/02/t-1-8.jpg?resize=1200%2C630&amp;amp;gravity&amp;amp;crop=0px%2C35px%2C1200px%2C630px" /&gt;&lt;br/&gt;沖縄県名護市辺野古沖で小型船2隻が転覆し、同志社国際高校（京都府）の女子生徒と船長の2人が亡くなった事故から3カ月が経過した。2隻の船長が所属するヘリ基地反対協議会の責任が追及され、沖縄の平和運動や平和学習の在り方まで問題視される事態に発展している。死亡した「不屈」の船長が県外に在住していた時から知...</description>
+      <pubDate>Wed, 17 Jun 2026 01:19:20 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/ryukyushimpo.jp/national/entry-5316751.html</comments>
     </item>
     <item>
       <title>プーチン氏批判の風刺画で知られるロシア人アーティスト、亡命先のポーランドで射殺される</title>
@@ -48,32 +55,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/world/35249013.html</comments>
     </item>
     <item>
-      <title>高身長でも婚活で有利と限らず　172センチ以上で横ばい、160以下も高収入なら4倍に</title>
-      <link>https://www.sankei.com/article/20260617-T43P5REHIBFMLKX6QW6JXC7KRA/</link>
-      <description>&lt;img src="https://www.sankei.com/resizer/v2/IHT6Q3ZOZJGOVBNULCAJNUGWTA.jpg?auth=2264bb44aff2ed9bb1728e8a8a73e74b58ed13becd6befbe38f9d75aab0fbee4&amp;amp;quality=50&amp;amp;focal=810%2C489&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;高身長男性は「婚活」で有利だとは限らない――。そんな調査結果が発表された。成婚者の身長データを分析したところ、成婚率（成婚しやすさ）は身長172センチ以上でほぼ横ばいとなり、背が高いほど有利というわけではないことが明らかになった。また、低身長の男性でも経済的な安定性次第で女性に評価される実態も浮き彫り...</description>
-      <pubDate>Wed, 17 Jun 2026 05:30:53 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260617-T43P5REHIBFMLKX6QW6JXC7KRA/</comments>
-    </item>
-    <item>
       <title>自分のPCで「とりあえず動く」ではなく「一番賢く使える」ローカルLLMを教えてくれる「whichllm」、実測ベンチでランク付け（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
       <link>https://www.techno-edge.net/article/2026/06/17/5192.html</link>
       <description>&lt;img src="https://www.techno-edge.net/imgs/ogp_f/32330.png" /&gt;&lt;br/&gt;1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、自分のパソコンでどのローカルLLMが快適にかつ賢く動くのか、その答えをコマンド一つで教えてくれるCLIツール「whichllm」の最新...</description>
       <pubDate>Wed, 17 Jun 2026 00:17:31 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.techno-edge.net/article/2026/06/17/5192.html</comments>
-    </item>
-    <item>
-      <title>芥川賞作家も貧困を訴える厳しい現実…吉本ばななの赤裸々エッセーが波紋、柳美里も「時々、家の電気が止められる…」の衝撃｜日刊ゲンダイDIGITAL</title>
-      <link>https://www.nikkan-gendai.com/articles/view/geino/389011</link>
-      <description>&lt;img src="https://jmqvqzo7.user.webaccel.jp/img/article/000/389/011/3efbbf90dfdfdbb2d46571ce6f26f26520260614174159869.jpg" /&gt;&lt;br/&gt;芥川賞作家も貧困を訴える厳しい現実…吉本ばななの赤裸々エッセーが波紋、柳美里も「時々、家の電気が止められる…」の衝撃 小説家の吉本ばなな（61）がクリエーター用プラットフォーム「note」で有料公開したエッセーが、大きな注目を集めた。母親に支配され続け、生活が立ちゆかなくなった姉との生活が赤裸々に記されて...</description>
-      <pubDate>Tue, 16 Jun 2026 11:36:23 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.nikkan-gendai.com/articles/view/geino/389011</comments>
-    </item>
-    <item>
-      <title>小泉防衛大臣「大臣として黙っていられない。隊員と家族が傷ついている」　立憲議員の「豊かな子は自衛隊とかならない」発言を改めて批判｜FNNプライムオンライン</title>
-      <link>https://www.fnn.jp/articles/-/1060691</link>
-      <description>&lt;img src="https://fnn.ismcdn.jp/mwimgs/1/9/600/img_19a748dbcf2771cd8a934fa42fc93b48311712.jpg" /&gt;&lt;br/&gt;小泉防衛大臣「大臣として黙っていられない。隊員と家族が傷ついている」　立憲議員の「豊かな子は自衛隊とかならない」発言を改めて批判 小泉防衛大臣は16日の閣議後会見で、立憲民主党の古賀千景議員による「豊かな子どもたちは自衛隊とかなりませんよ」といった発言について問われ、「大臣として黙っているわけにはい...</description>
-      <pubDate>Tue, 16 Jun 2026 05:47:48 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.fnn.jp/articles/-/1060691</comments>
     </item>
     <item>
       <title>店員に「ショッパーは必要ですか？」と聞かれ「大丈夫です」と答えた。品を入れる袋が無かったので「あ、袋ください」と言ったら店員は「ショッパー代5円いただきます」と答えた</title>
@@ -83,11 +69,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2710257</comments>
     </item>
     <item>
-      <title>5万スターのClaude Code Tips集、本質は2つだけ</title>
-      <link>https://zenn.dev/acntechjp/articles/5409d8e2ad0767</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--0fgbnPtr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:5%25E4%25B8%2587%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AEClaude%2520Code%2520Tips%25E9%259B%2586%25E3%2580%2581%25E6%259C%25AC%25E8%25B3%25AA%25E3%2581%25AF2%25E3%2581%25A4%25E3%2581%25A0%25E3%2581%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ShintaroAmaike%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVmNWYzMmE0MWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;このリポジトリは何か shanraisshan/claude-code-best-practice は、GitHub Trending 1位を獲得し、現在5万スター近くまで伸びている Claude Code のベストプラクティス集です。 中身を一言でいうと、設定ファイルを配るテンプレート集ではなく、「Claude Code をうまく使うための知識」をリンク付きで整理したリファレ...</description>
-      <pubDate>Tue, 16 Jun 2026 03:58:29 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/acntechjp/articles/5409d8e2ad0767</comments>
+      <title>芥川賞作家も貧困を訴える厳しい現実…吉本ばななの赤裸々エッセーが波紋、柳美里も「時々、家の電気が止められる…」の衝撃｜日刊ゲンダイDIGITAL</title>
+      <link>https://www.nikkan-gendai.com/articles/view/geino/389011</link>
+      <description>&lt;img src="https://jmqvqzo7.user.webaccel.jp/img/article/000/389/011/3efbbf90dfdfdbb2d46571ce6f26f26520260614174159869.jpg" /&gt;&lt;br/&gt;芥川賞作家も貧困を訴える厳しい現実…吉本ばななの赤裸々エッセーが波紋、柳美里も「時々、家の電気が止められる…」の衝撃 小説家の吉本ばなな（61）がクリエーター用プラットフォーム「note」で有料公開したエッセーが、大きな注目を集めた。母親に支配され続け、生活が立ちゆかなくなった姉との生活が赤裸々に記されて...</description>
+      <pubDate>Tue, 16 Jun 2026 11:36:23 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nikkan-gendai.com/articles/view/geino/389011</comments>
+    </item>
+    <item>
+      <title>福岡市給食「牛乳なしの日」が不評　代わりの緑茶、飲み残し量20倍の学校も</title>
+      <link>https://www.nishinippon.co.jp/item/1504730/</link>
+      <description>&lt;img src="https://www.nishinippon.co.jp/uploads/image/1909232/sns_IP260615JAA000031000.jpg" /&gt;&lt;br/&gt;福岡市給食「牛乳なしの日」が不評　代わりの緑茶、飲み残し量20倍の学校も2026/6/17 6:00 (2026/6/17 18:58 更新) [有料会員限定記事]</description>
+      <pubDate>Tue, 16 Jun 2026 23:51:45 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nishinippon.co.jp/item/1504730/</comments>
     </item>
     <item>
       <title>【速報】防衛省「看過できるものではない」 “名大祭”の自衛隊出展の前日中止に見解 | TBS NEWS DIG</title>
@@ -97,25 +90,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/newsdig.tbs.co.jp/articles/-/2736386</comments>
     </item>
     <item>
-      <title>素人が「エアコン洗浄セット」（5980円）で内部を水洗いしてみたら、もう業者を呼ばなくていい気がしてきた</title>
-      <link>https://rocketnews24.com/2026/06/16/2772089/</link>
-      <description>&lt;img src="https://rocketnews24.com/wp-content/uploads/sites/2/2026/06/IMG_3560.jpg?crop=0px%2C119px%2C1500px%2C788px&amp;amp;resize=1200%2C630" /&gt;&lt;br/&gt;» 素人が「エアコン洗浄セット」（5980円）で内部を水洗いしてみたら、もう業者を呼ばなくていい気がしてきた 特集 昨年11月、業者にエアコンのクリーニングをお願いしたところ、リビングと寝室の2台で約3万円かかった。必要な出費だとは思うが、毎回となるとさすがに財布が痛い。 そこで楽天で見つけた税込5980円の『エ...</description>
-      <pubDate>Tue, 16 Jun 2026 17:44:47 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/rocketnews24.com/2026/06/16/2772089/</comments>
+      <title>5万スターのClaude Code Tips集、本質は2つだけ</title>
+      <link>https://zenn.dev/acntechjp/articles/5409d8e2ad0767</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--0fgbnPtr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:5%25E4%25B8%2587%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AEClaude%2520Code%2520Tips%25E9%259B%2586%25E3%2580%2581%25E6%259C%25AC%25E8%25B3%25AA%25E3%2581%25AF2%25E3%2581%25A4%25E3%2581%25A0%25E3%2581%2591%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ShintaroAmaike%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVmNWYzMmE0MWIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;このリポジトリは何か shanraisshan/claude-code-best-practice は、GitHub Trending 1位を獲得し、現在5万スター近くまで伸びている Claude Code のベストプラクティス集です。 中身を一言でいうと、設定ファイルを配るテンプレート集ではなく、「Claude Code をうまく使うための知識」をリンク付きで整理したリファレ...</description>
+      <pubDate>Tue, 16 Jun 2026 03:58:29 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/acntechjp/articles/5409d8e2ad0767</comments>
     </item>
     <item>
-      <title>夜中、急に旦那が「最近息子をあまり可愛いと思えなくなってしまった」と吐露…旦那は全く育児をやっていないわけではないのだが、「ママがいい」という息子にどうすれば？</title>
-      <link>https://togetter.com/li/2710164</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/8cb6b06e96a6e2fb5c7dccf39439e374-1200x630.jpeg" /&gt;&lt;br/&gt;みい&#x1f9f8;&#x1f36f;6.16&#x1f996;3y @miipooh31_gohan ちょっと真剣な悩み。どうしたら良いかな？ 昨日の夜中、急に旦那が「最近息子をあまり可愛いと思えなくなってしまった」と。 「もちろん、可愛いのは前提としてあるし嫌いになったわけじゃない。でも、前ほど可愛いとか息子大好き！という気持ちになれない」と。 理由としては、 202...</description>
-      <pubDate>Tue, 16 Jun 2026 23:06:25 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2710164</comments>
-    </item>
-    <item>
-      <title>毎年恒例の早川書房の夏のKindle本セールが来たので、ＳＦとコミックとノンフィクションを中心におすすめを紹介する！ - 基本読書</title>
-      <link>https://huyukiitoichi.hatenadiary.jp/entry/2026/06/17/080000</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/84558bebb734aa9a96cba89615289816af3520df/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F41rZ54Ss7xL._SL500_.jpg" /&gt;&lt;br/&gt;毎年夏に恒例となっている早川書房の電子書籍最大50％割引のセールがきているので、今回も「前回から今回にかけて、新しくセール対象になった作品」を中心に紹介していこうかと。この夏のセールが作品点数的には年間を通して最大になるので、気になるものがあるなら次回を待つよりも今回おさえておくことがオススメされ...</description>
-      <pubDate>Tue, 16 Jun 2026 23:17:07 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/huyukiitoichi.hatenadiary.jp/entry/2026/06/17/080000</comments>
+      <title>小泉防衛大臣「大臣として黙っていられない。隊員と家族が傷ついている」　立憲議員の「豊かな子は自衛隊とかならない」発言を改めて批判｜FNNプライムオンライン</title>
+      <link>https://www.fnn.jp/articles/-/1060691</link>
+      <description>&lt;img src="https://fnn.ismcdn.jp/mwimgs/1/9/600/img_19a748dbcf2771cd8a934fa42fc93b48311712.jpg" /&gt;&lt;br/&gt;小泉防衛大臣「大臣として黙っていられない。隊員と家族が傷ついている」　立憲議員の「豊かな子は自衛隊とかならない」発言を改めて批判 小泉防衛大臣は16日の閣議後会見で、立憲民主党の古賀千景議員による「豊かな子どもたちは自衛隊とかなりませんよ」といった発言について問われ、「大臣として黙っているわけにはい...</description>
+      <pubDate>Tue, 16 Jun 2026 05:47:48 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.fnn.jp/articles/-/1060691</comments>
     </item>
     <item>
       <title>「ロケ弁」を食べ歩く　「ロケ弁」で売り出している弁当は全部うまいんじゃないか説</title>
@@ -125,11 +111,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/dailyportalz.jp/kiji/rokeben-tabearuku</comments>
     </item>
     <item>
-      <title>「異例なほど強い表現がきた」名大の学祭で予定されていた自衛隊の出展が直前で中止に、防衛省が長文で「重く受け止めています」と異例の反応</title>
-      <link>https://togetter.com/li/2710247</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/175f76c76f89c2fb464b001b5af679fa-1200x630.jpeg" /&gt;&lt;br/&gt;防衛省・自衛隊 @ModJapan_jp 【名古屋大学の学園祭「名大祭」において、13日に予定されていた自衛隊の出展が直前に中止となったことについて】 自衛隊は、日本の防衛のみならず、地震や豪雨災害などにおいて、人命救助や行方不明者の捜索、給水・入浴支援など、様々な災害派遣活動を行っています。 今回予定されていた...</description>
-      <pubDate>Wed, 17 Jun 2026 04:03:12 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2710247</comments>
+      <title>性被害の示談金を横領　容疑で元弁護士の男を逮捕　過去には「草津を最終処分場に」発言</title>
+      <link>https://www.sankei.com/article/20260617-ETU3ZTBQNFI3TMRKVQV26YNZAQ/</link>
+      <description>&lt;img src="https://www.sankei.com/resizer/v2/AYP4ROBC4JKHXDTCVAXLKKEB7A.jpg?auth=8407f5857ff71668759dadf4a06ce30f7e55bd86f9c8dfa701c9530ce4ffedad&amp;amp;quality=50&amp;amp;focal=562%2C411&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;警視庁外観＝東京都千代田区性被害の示談金を依頼者に渡さなかったとして、警視庁捜査2課は業務上横領の疑いで、元弁護士の岸本学容疑者（52）＝神奈川県海老名市＝を逮捕した。捜査関係者への取材で17日、分かった。 捜査関係者によると、岸本容疑者は令和5年3月上旬ごろ、弁護士として依頼を受けた女性から、性被害の...</description>
+      <pubDate>Wed, 17 Jun 2026 04:13:59 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260617-ETU3ZTBQNFI3TMRKVQV26YNZAQ/</comments>
     </item>
   </channel>
 </rss>
