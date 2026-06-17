@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 17 Jun 2026 18:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 19:33:09 +0000</lastBuildDate>
     <item>
       <title>「痩せ＝モテる」は本当か。データで読み解く、過度なダイエット信仰と女性の成婚率 - 【公式】IBJ結婚みらい研究所</title>
       <link>https://www.ibjapan.jp/mirai-lab/seikon-hakusho/738/</link>
@@ -27,18 +27,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/dev.classmethod.jp/articles/open-knowledge-format-okf-v01-guide/</comments>
     </item>
     <item>
-      <title>【北中米Ｗ杯】日本人サポーターのゴミ拾い　中国メディアが疑念「見せかけの行為」（東スポWEB） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/7eedf16d28d66286cf21621ff762e6e6f09d1af7</link>
-      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260617-00392279-tospoweb-000-1-view.jpg?exp=10800" /&gt;&lt;br/&gt;北中米W杯で日本人サポーターの試合後の清掃活動が脚光を浴びる中、一部の海外メディアからは懐疑的な見方もあるようだ。 【写真】世界に誇る日本サポーターのゴミ拾い 森保ジャパンが2―2で引き分けたオランダ戦（14日＝日本時間15日、米国・ダラス）後に、一部のサポーターが自主的に観客席のごみ拾いを行った。これが...</description>
-      <pubDate>Wed, 17 Jun 2026 09:02:15 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/7eedf16d28d66286cf21621ff762e6e6f09d1af7</comments>
-    </item>
-    <item>
       <title>ローカルLLMをいつ使うべきか？</title>
       <link>https://zenn.dev/sompojapan_dx/articles/74624afa03040c</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--IhsxxsCW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2582%2592%25E3%2581%2584%25E3%2581%25A4%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:magatarou%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM4MDY0MmJiMDcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SOMPO%2520Digital%2520Lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0ZmR0eTR3X0QzaHd6VEQ3T0JkMklXRWNyZTZRZWlxd1BLeWpvd2I1MkxWPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;TL;DR 「ローカルLLM＝コストが安い」はほとんどの場合で誤りです。2026年時点での損益分岐点はかなり高く、GPUを遊ばせると単価はAPIより高くつきます。 それでもローカルLLMが勝つ領域はあります。ガバナンス・タスク特化での精度・レイテンシ の3軸です。 実例として、RAGチャットボットの軽量な判定ステップを Gemma...</description>
       <pubDate>Tue, 16 Jun 2026 10:17:25 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/sompojapan_dx/articles/74624afa03040c</comments>
+    </item>
+    <item>
+      <title>【北中米Ｗ杯】日本人サポーターのゴミ拾い　中国メディアが疑念「見せかけの行為」（東スポWEB） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/7eedf16d28d66286cf21621ff762e6e6f09d1af7</link>
+      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260617-00392279-tospoweb-000-1-view.jpg?exp=10800" /&gt;&lt;br/&gt;北中米W杯で日本人サポーターの試合後の清掃活動が脚光を浴びる中、一部の海外メディアからは懐疑的な見方もあるようだ。 【写真】世界に誇る日本サポーターのゴミ拾い 森保ジャパンが2―2で引き分けたオランダ戦（14日＝日本時間15日、米国・ダラス）後に、一部のサポーターが自主的に観客席のごみ拾いを行った。これが...</description>
+      <pubDate>Wed, 17 Jun 2026 09:02:15 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/7eedf16d28d66286cf21621ff762e6e6f09d1af7</comments>
     </item>
     <item>
       <title>【速報】"違法な逮捕・勾留で自白迫られ…精神的な苦痛を受け摂食障害に　体重が20キロになって餓死"　障害者施設で働いていた当時16歳の女性の母親が国と兵庫県に損害賠償求め提訴　「ほかの利用者に噛みつこうとした利用者止め」暴行容疑で逮捕も不起訴（関西テレビ） - Yahoo!ニュース</title>
@@ -76,20 +76,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.bengo4.com/c_18/n_20544/</comments>
     </item>
     <item>
-      <title>福岡市給食「牛乳なしの日」が不評　代わりの緑茶、飲み残し量20倍の学校も</title>
-      <link>https://www.nishinippon.co.jp/item/1504730/</link>
-      <description>&lt;img src="https://www.nishinippon.co.jp/uploads/image/1909232/sns_IP260615JAA000031000.jpg" /&gt;&lt;br/&gt;福岡市給食「牛乳なしの日」が不評　代わりの緑茶、飲み残し量20倍の学校も2026/6/17 6:00 (2026/6/17 18:58 更新) [有料会員限定記事]</description>
-      <pubDate>Tue, 16 Jun 2026 23:51:45 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.nishinippon.co.jp/item/1504730/</comments>
-    </item>
-    <item>
-      <title>自分のPCで「とりあえず動く」ではなく「一番賢く使える」ローカルLLMを教えてくれる「whichllm」、実測ベンチでランク付け（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2026/06/17/5192.html</link>
-      <description>&lt;img src="https://www.techno-edge.net/imgs/ogp_f/32330.png" /&gt;&lt;br/&gt;1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、自分のパソコンでどのローカルLLMが快適にかつ賢く動くのか、その答えをコマンド一つで教えてくれるCLIツール「whichllm」の最新...</description>
-      <pubDate>Wed, 17 Jun 2026 00:17:31 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.techno-edge.net/article/2026/06/17/5192.html</comments>
-    </item>
-    <item>
       <title>店員に「ショッパーは必要ですか？」と聞かれ「大丈夫です」と答えた。品を入れる袋が無かったので「あ、袋ください」と言ったら店員は「ショッパー代5円いただきます」と答えた</title>
       <link>https://togetter.com/li/2710257</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/134ea00a8edbba91c3ee25254317d5e5-1200x630.jpeg" /&gt;&lt;br/&gt;ムナカタ @munakata301 店員さんに「ショッパーは必要ですか？」と聞かれて 僕は「大丈夫です」と答えた 買った品を入れる袋がなかったので 「あ、袋ください」と言った 店員さんは「ショッパー代５円いただきます」 と答えた 袋のことか... 2026-06-16 14:39:56 ショッパーとは？紙袋・レジ袋との違いと、広告効果を高...</description>
@@ -97,18 +83,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2710257</comments>
     </item>
     <item>
-      <title>芥川賞作家も貧困を訴える厳しい現実…吉本ばななの赤裸々エッセーが波紋、柳美里も「時々、家の電気が止められる…」の衝撃｜日刊ゲンダイDIGITAL</title>
-      <link>https://www.nikkan-gendai.com/articles/view/geino/389011</link>
-      <description>&lt;img src="https://jmqvqzo7.user.webaccel.jp/img/article/000/389/011/3efbbf90dfdfdbb2d46571ce6f26f26520260614174159869.jpg" /&gt;&lt;br/&gt;芥川賞作家も貧困を訴える厳しい現実…吉本ばななの赤裸々エッセーが波紋、柳美里も「時々、家の電気が止められる…」の衝撃 小説家の吉本ばなな（61）がクリエーター用プラットフォーム「note」で有料公開したエッセーが、大きな注目を集めた。母親に支配され続け、生活が立ちゆかなくなった姉との生活が赤裸々に記されて...</description>
-      <pubDate>Tue, 16 Jun 2026 11:36:23 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.nikkan-gendai.com/articles/view/geino/389011</comments>
+      <title>福岡市給食「牛乳なしの日」が不評　代わりの緑茶、飲み残し量20倍の学校も</title>
+      <link>https://www.nishinippon.co.jp/item/1504730/</link>
+      <description>&lt;img src="https://www.nishinippon.co.jp/uploads/image/1909232/sns_IP260615JAA000031000.jpg" /&gt;&lt;br/&gt;福岡市給食「牛乳なしの日」が不評　代わりの緑茶、飲み残し量20倍の学校も2026/6/17 6:00 (2026/6/17 18:58 更新) [有料会員限定記事]</description>
+      <pubDate>Tue, 16 Jun 2026 23:51:45 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nishinippon.co.jp/item/1504730/</comments>
     </item>
     <item>
-      <title>プーチン氏批判の風刺画で知られるロシア人アーティスト、亡命先のポーランドで射殺される</title>
-      <link>https://www.cnn.co.jp/world/35249013.html</link>
-      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/06/17/7f3a4b73af9aba82a09a2c74064f858c/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXFnbWd6bHAwMDBtM2I2cjJhbm01dXJx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcWdscDY3YjAwMHkyZHBhNXMxdTczZWk_.jpg" /&gt;&lt;br/&gt;プーチン氏を批判する風刺画で知られるロシア人アーティストが、ポーランドで射殺された/Stefano Mazzola/Getty Images via CNN Newsource （CNN） ロシアのプーチン大統領を痛烈に風刺した作品で知られるロシア人アーティストがポーランドで射殺された。検察当局が16日に発表した。また、この事件に関連してベラルーシ...</description>
-      <pubDate>Wed, 17 Jun 2026 02:15:14 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/world/35249013.html</comments>
+      <title>自宅に大量の薬を保管、容疑でグリ下の「薬屋さん」逮捕　生活保護受け2年間で2万錠処方</title>
+      <link>https://www.sankei.com/article/20260617-FG6CGR6NHNNIFF5OKJ23YJZEEU/</link>
+      <description>&lt;img src="https://www.sankei.com/resizer/v2/4VP5WYUGNFJELLORZIBAKNJ5BU.jpg?auth=5838c96ff167373149d906b40c0dbbe3b83e9cce95f65b4ba0d1d5d049631f1e&amp;amp;quality=50&amp;amp;focal=533%2C350&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;他人に渡す目的で自宅に向精神薬など約5000錠の医薬品を保管したとして、大阪府警少年課は17日、医薬品医療機器法違反容疑で大阪府東大阪市島之内の無職、今川祐希容疑者（40）を再逮捕した。「納得できない。薬を売ったりあげたりする目的で家に置いていたわけではない」と容疑を否認している。 同課によると、容疑者は...</description>
+      <pubDate>Wed, 17 Jun 2026 05:35:27 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260617-FG6CGR6NHNNIFF5OKJ23YJZEEU/</comments>
+    </item>
+    <item>
+      <title>自分のPCで「とりあえず動く」ではなく「一番賢く使える」ローカルLLMを教えてくれる「whichllm」、実測ベンチでランク付け（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
+      <link>https://www.techno-edge.net/article/2026/06/17/5192.html</link>
+      <description>&lt;img src="https://www.techno-edge.net/imgs/ogp_f/32330.png" /&gt;&lt;br/&gt;1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、自分のパソコンでどのローカルLLMが快適にかつ賢く動くのか、その答えをコマンド一つで教えてくれるCLIツール「whichllm」の最新...</description>
+      <pubDate>Wed, 17 Jun 2026 00:17:31 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.techno-edge.net/article/2026/06/17/5192.html</comments>
     </item>
   </channel>
 </rss>
