@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Tue, 16 Jun 2026 23:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:33:18 +0000</lastBuildDate>
     <item>
       <title>素人が「エアコン洗浄セット」（5980円）で内部を水洗いしてみたら、もう業者を呼ばなくていい気がしてきた</title>
       <link>https://rocketnews24.com/2026/06/16/2772089/</link>
       <description>&lt;img src="https://rocketnews24.com/wp-content/uploads/sites/2/2026/06/IMG_3560.jpg?crop=0px%2C119px%2C1500px%2C788px&amp;amp;resize=1200%2C630" /&gt;&lt;br/&gt;» 素人が「エアコン洗浄セット」（5980円）で内部を水洗いしてみたら、もう業者を呼ばなくていい気がしてきた 特集 昨年11月、業者にエアコンのクリーニングをお願いしたところ、リビングと寝室の2台で約3万円かかった。必要な出費だとは思うが、毎回となるとさすがに財布が痛い。 そこで楽天で見つけた税込5980円の『エ...</description>
       <pubDate>Tue, 16 Jun 2026 17:44:47 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/rocketnews24.com/2026/06/16/2772089/</comments>
+    </item>
+    <item>
+      <title>「さすがDAZNとは格が違う」GMOの決済サービスで、月額0円の配送オプションがなぜか毎月11,000円引かれていた…ダークパターンどころか、その後の対応を含めて不信感が募る</title>
+      <link>https://togetter.com/li/2710107</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/f957feb40d6183050ceaad9fc651539b-1200x630.jpeg" /&gt;&lt;br/&gt;なひたふ(内藤竜治)/技術士(電気電子) @nahitafu 特殊電子回路㈱代表。技術士(電気電子)。STC Advanced。R8中小企業診断士受験予定。第６回事業再構築補助金。2003年度未踏ソフトのスパクリ。MITOUJTAG(みとうジェイタグ)というJTAGバウンダリスキャンソフトを開発。高速ADC×FPGA。 nahitafu.cocolog-nifty.com なひたふ...</description>
+      <pubDate>Tue, 16 Jun 2026 17:44:09 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2710107</comments>
     </item>
     <item>
       <title>カーネギーメロン大学の有名講義『Intro to Database Systems』を全てのプログラマに見てほしい</title>
@@ -20,13 +27,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/kaseken/articles/3913ba30af4d46</comments>
     </item>
     <item>
-      <title>japanese-tech-writing/SKILL</title>
-      <link>https://gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d</link>
-      <description>&lt;img src="https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png" /&gt;&lt;br/&gt;SKILL.md name japanese-tech-writing description 日本語の技術文書・書籍原稿の文章規範。整形（一文一行、引用ブロック、脚注、コラム記法）、段落と論証の構成（パラグラフライティング）、論証の厳密さ（ツッコミどころの除去）、読み手の負荷の管理、視点と語り、演出の抑制、LLM っぽい空句の禁止、冗長の排除を...</description>
-      <pubDate>Tue, 16 Jun 2026 07:40:11 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d</comments>
-    </item>
-    <item>
       <title>2026年6月現在の Claude Code 開発フロー</title>
       <link>https://zenn.dev/arm_techblog/articles/7712cde19988c8</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--Bz5wmCt0--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:2026%25E5%25B9%25B46%25E6%259C%2588%25E7%258F%25BE%25E5%259C%25A8%25E3%2581%25AE%2520Claude%2520Code%2520%25E9%2596%258B%25E7%2599%25BA%25E3%2583%2595%25E3%2583%25AD%25E3%2583%25BC%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:umetsu%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U0NzFmZDg5NDEuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:ARM%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2djX0llQnk4MWdXeVdpYk1BQUZBa1hVSmF2SVRIdnZ0cVFEWmNENXc9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;こんにちは。フィッツプラスでフロントエンドエンジニアをしている梅津です。 2025年後半から Claude Code を使い始めて、少しずつ設定を育ててきました。気がつけば普段の開発フローがだいぶ固まってきたので、2026年6月時点の構成を紹介します。 紹介する内容は以下の通りです。 前提: 使っているツール 普段の開発フ...</description>
@@ -34,11 +34,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/arm_techblog/articles/7712cde19988c8</comments>
     </item>
     <item>
-      <title>週刊文春「高市早苗首相に関する記事について」 “重要なお知らせ”サイトに掲載　内容伝え「次号にて取材経緯を説明」（オリコン） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/663f95f8ea088d9050afc209cc17302fbc49ea3e</link>
-      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260616-00000491-oric-000-12-view.jpg?exp=10800" /&gt;&lt;br/&gt;週刊文春 電子版の公式サイトが16日に更新され、「高市早苗首相に関する記事について」とする “重要なお知らせ”が掲載された。 【写真】太田光、高市首相陣営の“疑惑”に言及 それによると「4月29日から公開している高市早苗首相に関する記事について、一部の動画に時系列上の問題点が確認されたため、関連動画の公開を一...</description>
-      <pubDate>Tue, 16 Jun 2026 12:08:26 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/663f95f8ea088d9050afc209cc17302fbc49ea3e</comments>
+      <title>japanese-tech-writing/SKILL</title>
+      <link>https://gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d</link>
+      <description>&lt;img src="https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png" /&gt;&lt;br/&gt;SKILL.md name japanese-tech-writing description 日本語の技術文書・書籍原稿の文章規範。整形（一文一行、引用ブロック、脚注、コラム記法）、段落と論証の構成（パラグラフライティング）、論証の厳密さ（ツッコミどころの除去）、読み手の負荷の管理、視点と語り、演出の抑制、LLM っぽい空句の禁止、冗長の排除を...</description>
+      <pubDate>Tue, 16 Jun 2026 07:40:11 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/gist.github.com/k16shikano/fd287c3133457c4fd8f5601d34aa817d</comments>
     </item>
     <item>
       <title>テレビ離れ加速、20代は7割・30代は6割がほぼ見ず NHK調査：朝日新聞</title>
@@ -46,6 +46,13 @@
       <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260616003842_comm.jpg" /&gt;&lt;br/&gt;テレビをほぼ見ない人の割合は16～19歳と20代で7割、30代では6割近く――。NHK放送文化研究所は16日、最新の国民生活時間調査の結果を発表した。多くの世代で「テレビ離れ」が急加速している実情が…</description>
       <pubDate>Tue, 16 Jun 2026 10:42:55 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV6J2H3PV6JUCVL010M.html</comments>
+    </item>
+    <item>
+      <title>週刊文春「高市早苗首相に関する記事について」 “重要なお知らせ”サイトに掲載　内容伝え「次号にて取材経緯を説明」（オリコン） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/663f95f8ea088d9050afc209cc17302fbc49ea3e</link>
+      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260616-00000491-oric-000-12-view.jpg?exp=10800" /&gt;&lt;br/&gt;週刊文春 電子版の公式サイトが16日に更新され、「高市早苗首相に関する記事について」とする “重要なお知らせ”が掲載された。 【写真】太田光、高市首相陣営の“疑惑”に言及 それによると「4月29日から公開している高市早苗首相に関する記事について、一部の動画に時系列上の問題点が確認されたため、関連動画の公開を一...</description>
+      <pubDate>Tue, 16 Jun 2026 12:08:26 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/663f95f8ea088d9050afc209cc17302fbc49ea3e</comments>
     </item>
     <item>
       <title>＜独自＞引率教員と船長、生徒の安否確認せず　防犯カメラ映像入手　辺野古転覆3カ月</title>
@@ -62,6 +69,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/hanayume.com/episodes/05385c7707da2</comments>
     </item>
     <item>
+      <title>エンジニアリング戦略の作り方 / Crafting Engineering Strategy</title>
+      <link>https://speakerdeck.com/iwashi86/crafting-engineering-strategy</link>
+      <description>&lt;img src="https://files.speakerdeck.com/presentations/ad8148688b9b4123bbce4e50f3c67796/slide_0.jpg?39725218" /&gt;&lt;br/&gt;https://forkwell.connpass.com/event/395423 の登壇資料です。</description>
+      <pubDate>Tue, 16 Jun 2026 12:09:51 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/iwashi86/crafting-engineering-strategy</comments>
+    </item>
+    <item>
       <title>スペースX、プログラミングAI開発の米新興Cursor買収　9.6兆円 - 日本経済新聞</title>
       <link>https://www.nikkei.com/article/DGXZQOGN16BC70W6A610C2000000/</link>
       <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3177543016062026000000-1.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=874ec92f0bfc66cb32aa063814c2ea07" /&gt;&lt;br/&gt;【ニューヨーク=川上梓】米スペースXは16日、プログラミング用の人工知能（AI）サービスを開発する米新興Cursor（カーソル）を600億ドル（約9兆6000億円）で買収すると発表した。プログラミング向けのAI開発を強化する狙いがある。スペースXは12日にナスダック市場に上場した。初日終値の時価総額は2兆ドル規模で史上最...</description>
@@ -74,20 +88,6 @@
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;最近これ凄く良い曲だなぁと思ってたらエロゲの主題歌だったらしい リトルマイスターって曲タイでどっかで聴いた事があるようなないような、でも素敵な楽曲で流れた瞬間好きになったけど 実はこれエロゲの主題歌で魔界天使ジブリールって作品のオープニングなんだって いい曲だと思ったらエロゲ主題歌だったなんてある事...</description>
       <pubDate>Tue, 16 Jun 2026 09:17:48 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260616181658</comments>
-    </item>
-    <item>
-      <title>【参政党の本質】反ワク、古代文字、マッドフラッド、電磁波除去シール…参政党にはなぜ「強烈な個性」が集まるのか 【著者に聞く】『参政党と大陰謀論時代』の黒猫ドラネコ氏が語る、疑似科学と陰謀論が政治に流れ込む仕組み | JBpress (ジェイビープレス)</title>
-      <link>https://jbpress.ismedia.jp/articles/-/95414</link>
-      <description>&lt;img src="https://jbpress.ismcdn.jp/mwimgs/f/b/1200mw/img_fba44a33a46fd1c7ade77f5735bfed491230048.jpg" /&gt;&lt;br/&gt;2025年の参院選と2026年の衆院選で躍進し、衆参両院の合計で現在30議席を持つ参政党だが、一方でいろいろと批判も絶えない。参政党所属の議員たちはどんなことを語ってきたのか。『参政党と大陰謀論時代』（文春新書）を上梓した黒猫ドラネコ氏に聞いた。（聞き手：長野光、ビデオジャーナリスト） ──黒猫ドラネコさんは...</description>
-      <pubDate>Tue, 16 Jun 2026 04:02:58 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/jbpress.ismedia.jp/articles/-/95414</comments>
-    </item>
-    <item>
-      <title>DAZNを「ダズン」と呼んでる奴がいて草</title>
-      <link>https://anond.hatelabo.jp/20260616162345</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;「ダゾーン」だよ、間違えんなよな笑 なあ、俺！ ダゾーンってなんなんだよ… ゾーンに入る「in the zone」を略した言葉らしい… なんかダサくないか… まあダズンも変だけどさ…</description>
-      <pubDate>Tue, 16 Jun 2026 07:24:50 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260616162345</comments>
     </item>
   </channel>
 </rss>
