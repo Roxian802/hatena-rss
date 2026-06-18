@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 18 Jun 2026 02:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 03:33:11 +0000</lastBuildDate>
     <item>
       <title>【独自】吉田晴美前衆院議員が新たな政治団体の結成視野「野党の大きなかたまり作りを主導したい」 | TBS NEWS DIG</title>
       <link>https://newsdig.tbs.co.jp/articles/-/2739212</link>
@@ -20,6 +20,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUC106HJ0Q6A610C2000000/</comments>
     </item>
     <item>
+      <title>名古屋大学</title>
+      <link>https://www.nagoya-u.ac.jp/info/normal/20260617.html</link>
+      <description>名大祭における本学の対応については、6月15日付で本学ホームページに掲載したとおりですが、本日、名古屋大学は、防衛省自衛隊愛知地方協力本部に対し、この度ご迷惑をおかけし混乱を招いたことについて、直接お詫びいたしました。 名大祭実行委員会をはじめ学生には、もとより何ら非はありません。 今回の混乱を招いた...</description>
+      <pubDate>Wed, 17 Jun 2026 11:23:55 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nagoya-u.ac.jp/info/normal/20260617.html</comments>
+    </item>
+    <item>
       <title>【完全ローカル】AIに記憶を持たせる5ステップ — Ollama×RAGでつくる長期記憶チャットボット - Qiita</title>
       <link>https://qiita.com/hatsukaze/items/192403c9ff6a433fe0b6</link>
       <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNTE3MzMyJTJGZWRiY2M1NzBkOGNiMjRiYzI5NGYxYzdlNGM2NTNhNTNiNDI3NmRkOCUyRnhfbGFyZ2UucG5nJTNGMTY4OTkwOTU1NT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9Y2I1NzYxYzNhMTJiZTRjOGFmNzJiNjI1Njc5MThmZWU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcd5201c890e96bdbaecf6fd0c9aa6f6d?ixlib=rb-4.1.1&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JUFFJThDJUU1JTg1JUE4JUUzJTgzJUFEJUUzJTgzJUJDJUUzJTgyJUFCJUUzJTgzJUFCJUUzJTgwJTkxQUklRTMlODElQUIlRTglQTglOTglRTYlODYlQjYlRTMlODIlOTIlRTYlOEMlODElRTMlODElOUYlRTMlODElOUIlRTMlODIlOEI1JUUzJTgyJUI5JUUzJTgzJTg2JUUzJTgzJTgzJUUzJTgzJTk3JTIwJUUyJTgwJTk0JTIwT2xsYW1hJUMzJTk3UkFHJUUzJTgxJUE3JUUzJTgxJUE0JUUzJTgxJThGJUUzJTgyJThCJUU5JTk1JUI3JUU2JTlDJTlGJUU4JUE4JTk4JUU2JTg2JUI2JUUzJTgzJTgxJUUzJTgzJUEzJUUzJTgzJTgzJUUzJTgzJTg4JUUzJTgzJTlDJUUzJTgzJTgzJUUzJTgzJTg4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDYwMzc4YTc3NmU1MTE5MWJlMDNiNDMxN2UwMTg0YTY&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBoYXRzdWthemUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hNGU4YjliMzI0M2I0NDY0ZTViMzgwYzI5NjU5OWY4OQ&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=cdb89ef0184c9489e158e3529c5fc282" /&gt;&lt;br/&gt;はじめに こんにちは。開発部の雨です。 今回は、ローカル環境で動く「長期記憶付きチャットボット」をゼロから実装する方法を紹介します。 最初はシンプルに「全会話履歴をそのままLLMに渡す」素朴な実装からスタートし、その問題点を実際に確認しながら、RAG（Retrieval-Augmented Generation）とChromaDBを使って段階...</description>
@@ -29,7 +36,7 @@
     <item>
       <title>「育てられる」は思い上がりで「育ててほしかった」は甘えだよね。 - Everything you've ever Dreamed</title>
       <link>https://delete-all.hatenablog.com/entry/2026/06/18/000000</link>
-      <description>&lt;img src="https://ogimage.blog.st-hatena.com/12921228815713059486/14945776032043538145/1781708403" /&gt;&lt;br/&gt;僕は給食会社の営業部長だ。給食業界は、敷居が低いせいか、少し変わった経歴の人がやってくることがある。僕自身も他の業界から漂着して、脱出の機会を逃して働き続けている人間だが、給与水準が高いわけでもなく、地味で変な（ジミヘン）給食業界に「君はなぜここへ来てしまったのだ？」という人が結構多いのだ。たと...</description>
+      <description>&lt;img src="https://ogimage.blog.st-hatena.com/12921228815713059486/14945776032043538145/1781744993" /&gt;&lt;br/&gt;僕は給食会社の営業部長だ。給食業界は、敷居が低いせいか、少し変わった経歴の人がやってくることがある。僕自身も他の業界から漂着して、脱出の機会を逃して働き続けている人間だが、給与水準が高いわけでもなく、地味で変な（ジミヘン）給食業界に「君はなぜここへ来てしまったのだ？」という人が結構多いのだ。たと...</description>
       <pubDate>Wed, 17 Jun 2026 15:52:20 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/delete-all.hatenablog.com/entry/2026/06/18/000000</comments>
     </item>
@@ -53,13 +60,6 @@
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--hgIkGMiv--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BC%259A%25E7%25A4%25BE%25E5%2593%25A1%25E3%2581%25AE%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AECodex%25E8%25B3%2587%25E6%2596%2599%25E4%25BD%259C%25E6%2588%2590%25E8%25A1%2593%25EF%25BC%259ASkill%25E3%2581%25A7%25E7%25B5%25B1%25E4%25B8%2580%25E6%2584%259F%25E3%2581%25AE%25E3%2581%2582%25E3%2582%258B%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25BC%25E3%2583%25B3%25E8%25B3%2587%25E6%2596%2599%25E3%2582%2592%25E4%25BD%259C%25E3%2582%258B%25E5%25AE%259F%25E8%25B7%25B5%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:jiawei.feng%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2U2ZDA4MDY5ODcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/g_south_west%2Ch_34%2Cl_default:og-publication-pro-mark-xcosax%2Cw_34%2Cx_217%2Cy_158/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:Accenture%2520Japan%2520%2528%25E6%259C%2589%25E5%25BF%2597%2529%2Cx_255%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQ4NTI2NmFmYzIuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;はじめに 最近、業務資料の作成にも生成AIを活用する機会が増えてきました。 ただし、AIにいきなり「プレゼン資料を作って」と依頼しても、実務でそのまま使える資料になるとは限りません。 特に会社員が作る資料では、以下のような点が重要になります。 スライド全体のトーンが揃っていること メッセージが分かりやすい...</description>
       <pubDate>Wed, 17 Jun 2026 10:56:43 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/acntechjp/articles/c2bff25e230539</comments>
-    </item>
-    <item>
-      <title>Googleが公開したAIエージェント向け知識共有フォーマット『OKF』を触ってみた | DevelopersIO</title>
-      <link>https://dev.classmethod.jp/articles/open-knowledge-format-okf-v01-guide/</link>
-      <description>&lt;img src="https://images.ctfassets.net/ct0aopd36mqt/271wVAxeN1rlKRsu2HX3i2/47104a220a7c282e824443292b7ac5bb/eyecatch_obsidian_1200x630.jpg" /&gt;&lt;br/&gt;こんにちは、せーのです。 社内ドキュメントを AI エージェントに渡したい、という相談をよく受けます。Wiki もある、Notion もある、共有ドライブもある、という状態で「どう構造化すればいいの？」と悩んでいる方、多いと思います。 2026年6月12日、Google Cloud が Open Knowledge Format（OKF） v0.1 を GitHub で公...</description>
-      <pubDate>Tue, 16 Jun 2026 07:34:10 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/dev.classmethod.jp/articles/open-knowledge-format-okf-v01-guide/</comments>
     </item>
   </channel>
 </rss>
