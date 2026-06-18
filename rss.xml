@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 18 Jun 2026 01:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:33:09 +0000</lastBuildDate>
     <item>
       <title>【独自】吉田晴美前衆院議員が新たな政治団体の結成視野「野党の大きなかたまり作りを主導したい」 | TBS NEWS DIG</title>
       <link>https://newsdig.tbs.co.jp/articles/-/2739212</link>
@@ -13,11 +13,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/newsdig.tbs.co.jp/articles/-/2739212</comments>
     </item>
     <item>
-      <title>ピーター・ティールの秘密結社「ダイアログ」の全貌、大規模情報流出で判明</title>
-      <link>https://www.sbbit.jp/article/cont1/185793</link>
-      <description>&lt;img src="https://img.sbbit.jp/article/image/185793/OGP_bit202606171100548006.jpg" /&gt;&lt;br/&gt;米テック界の有力投資家ピーター・ティール氏とオーレン・ホフマン氏が共同創設した完全招待制のプライベート・フォーラム「ダイアログ（Dialog）」の内部機密データが、ハクティビストによる攻撃により大規模流出した。閉鎖的なエリート・ネットワークの参加者リストや、組織内で議論されていた「第三次世界大戦」や「...</description>
-      <pubDate>Wed, 17 Jun 2026 03:03:31 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.sbbit.jp/article/cont1/185793</comments>
+      <title>日本製鉄「こんなに古いのか」　半分が不良品からのUSスチール再生 - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUC106HJ0Q6A610C2000000/</link>
+      <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3175690016062026000000-1.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=af0ddffb9aaeef37546605d8327801ab" /&gt;&lt;br/&gt;日本製鉄が米政府との苦難の交渉の末に米鉄鋼大手USスチールを買収してから18日で1年が経過した。ようやく悲願を実らせた日鉄を待っていたのは90年近く前の製鉄設備がまだ稼働し、半分近くが不良品という製鉄所の立て直しだった。この1年の現場の奮闘を追った。「こんなに古い設備がまだ稼働しているのか」。2025年9月、...</description>
+      <pubDate>Wed, 17 Jun 2026 22:52:33 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUC106HJ0Q6A610C2000000/</comments>
+    </item>
+    <item>
+      <title>【完全ローカル】AIに記憶を持たせる5ステップ — Ollama×RAGでつくる長期記憶チャットボット - Qiita</title>
+      <link>https://qiita.com/hatsukaze/items/192403c9ff6a433fe0b6</link>
+      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYzNTE3MzMyJTJGZWRiY2M1NzBkOGNiMjRiYzI5NGYxYzdlNGM2NTNhNTNiNDI3NmRkOCUyRnhfbGFyZ2UucG5nJTNGMTY4OTkwOTU1NT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9Y2I1NzYxYzNhMTJiZTRjOGFmNzJiNjI1Njc5MThmZWU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dcd5201c890e96bdbaecf6fd0c9aa6f6d?ixlib=rb-4.1.1&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwJUU1JUFFJThDJUU1JTg1JUE4JUUzJTgzJUFEJUUzJTgzJUJDJUUzJTgyJUFCJUUzJTgzJUFCJUUzJTgwJTkxQUklRTMlODElQUIlRTglQTglOTglRTYlODYlQjYlRTMlODIlOTIlRTYlOEMlODElRTMlODElOUYlRTMlODElOUIlRTMlODIlOEI1JUUzJTgyJUI5JUUzJTgzJTg2JUUzJTgzJTgzJUUzJTgzJTk3JTIwJUUyJTgwJTk0JTIwT2xsYW1hJUMzJTk3UkFHJUUzJTgxJUE3JUUzJTgxJUE0JUUzJTgxJThGJUUzJTgyJThCJUU5JTk1JUI3JUU2JTlDJTlGJUU4JUE4JTk4JUU2JTg2JUI2JUUzJTgzJTgxJUUzJTgzJUEzJUUzJTgzJTgzJUUzJTgzJTg4JUUzJTgzJTlDJUUzJTgzJTgzJUUzJTgzJTg4JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZDYwMzc4YTc3NmU1MTE5MWJlMDNiNDMxN2UwMTg0YTY&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBoYXRzdWthemUmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1hNGU4YjliMzI0M2I0NDY0ZTViMzgwYzI5NjU5OWY4OQ&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=cdb89ef0184c9489e158e3529c5fc282" /&gt;&lt;br/&gt;はじめに こんにちは。開発部の雨です。 今回は、ローカル環境で動く「長期記憶付きチャットボット」をゼロから実装する方法を紹介します。 最初はシンプルに「全会話履歴をそのままLLMに渡す」素朴な実装からスタートし、その問題点を実際に確認しながら、RAG（Retrieval-Augmented Generation）とChromaDBを使って段階...</description>
+      <pubDate>Wed, 17 Jun 2026 08:20:59 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/hatsukaze/items/192403c9ff6a433fe0b6</comments>
+    </item>
+    <item>
+      <title>「育てられる」は思い上がりで「育ててほしかった」は甘えだよね。 - Everything you've ever Dreamed</title>
+      <link>https://delete-all.hatenablog.com/entry/2026/06/18/000000</link>
+      <description>&lt;img src="https://ogimage.blog.st-hatena.com/12921228815713059486/14945776032043538145/1781708403" /&gt;&lt;br/&gt;僕は給食会社の営業部長だ。給食業界は、敷居が低いせいか、少し変わった経歴の人がやってくることがある。僕自身も他の業界から漂着して、脱出の機会を逃して働き続けている人間だが、給与水準が高いわけでもなく、地味で変な（ジミヘン）給食業界に「君はなぜここへ来てしまったのだ？」という人が結構多いのだ。たと...</description>
+      <pubDate>Wed, 17 Jun 2026 15:52:20 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/delete-all.hatenablog.com/entry/2026/06/18/000000</comments>
     </item>
     <item>
       <title>令和にサクラ大戦を遊んでしまった｜ジスロマック</title>
@@ -25,6 +39,13 @@
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/285753564/rectangle_large_type_2_2f4d43a95d48b0882ab79c0292bcb24d.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;最近、『サクラ大戦』を遊んでいました。 ほとんどの人が「今さら！？」と思っているかもしれないけど……だってやりたかったんだもん！　サクラ大戦やりたくなっちゃったんだもん！！　2026年だけどさぁ！！　いまサクラ大戦やりたくなっちゃったんだよ！！ しかも、私は「できる限りオリジナル版で遊びたい」という謎の...</description>
       <pubDate>Wed, 17 Jun 2026 05:08:43 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/yomooog/n/nbc74e7ccc2d9</comments>
+    </item>
+    <item>
+      <title>ピーター・ティールの秘密結社「ダイアログ」の全貌、大規模情報流出で判明</title>
+      <link>https://www.sbbit.jp/article/cont1/185793</link>
+      <description>&lt;img src="https://img.sbbit.jp/article/image/185793/OGP_bit202606171100548006.jpg" /&gt;&lt;br/&gt;米テック界の有力投資家ピーター・ティール氏とオーレン・ホフマン氏が共同創設した完全招待制のプライベート・フォーラム「ダイアログ（Dialog）」の内部機密データが、ハクティビストによる攻撃により大規模流出した。閉鎖的なエリート・ネットワークの参加者リストや、組織内で議論されていた「第三次世界大戦」や「...</description>
+      <pubDate>Wed, 17 Jun 2026 03:03:31 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.sbbit.jp/article/cont1/185793</comments>
     </item>
     <item>
       <title>会社員のためのCodex資料作成術：Skillで統一感のあるプレゼン資料を作る実践ガイド</title>
