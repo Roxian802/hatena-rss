@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 17 Jun 2026 23:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:33:09 +0000</lastBuildDate>
     <item>
       <title>ピーター・ティールの秘密結社「ダイアログ」の全貌、大規模情報流出で判明</title>
       <link>https://www.sbbit.jp/article/cont1/185793</link>
@@ -53,20 +53,6 @@
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--IhsxxsCW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25ABLLM%25E3%2582%2592%25E3%2581%2584%25E3%2581%25A4%25E4%25BD%25BF%25E3%2581%2586%25E3%2581%25B9%25E3%2581%258D%25E3%2581%258B%25EF%25BC%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:magatarou%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM4MDY0MmJiMDcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SOMPO%2520Digital%2520Lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0ZmR0eTR3X0QzaHd6VEQ3T0JkMklXRWNyZTZRZWlxd1BLeWpvd2I1MkxWPXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;TL;DR 「ローカルLLM＝コストが安い」はほとんどの場合で誤りです。2026年時点での損益分岐点はかなり高く、GPUを遊ばせると単価はAPIより高くつきます。 それでもローカルLLMが勝つ領域はあります。ガバナンス・タスク特化での精度・レイテンシ の3軸です。 実例として、RAGチャットボットの軽量な判定ステップを Gemma...</description>
       <pubDate>Tue, 16 Jun 2026 10:17:25 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/sompojapan_dx/articles/74624afa03040c</comments>
-    </item>
-    <item>
-      <title>IBJ 成婚白書 - 成婚データ・婚活統計を分析 【公式】IBJ結婚みらい研究所</title>
-      <link>https://www.ibjapan.jp/mirai-lab/category/seikon-hakusho/</link>
-      <description>&lt;img src="https://www.ibjapan.jp/mirai-lab/wp-content/uploads/2026/03/ogp.png" /&gt;&lt;br/&gt;本窓口はメディア関係者様専用です。 恐れ入りますが、取材・報道目的以外の お問い合わせには対応致しかねます。</description>
-      <pubDate>Wed, 17 Jun 2026 10:28:25 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.ibjapan.jp/mirai-lab/category/seikon-hakusho/</comments>
-    </item>
-    <item>
-      <title>【北中米Ｗ杯】日本人サポーターのゴミ拾い　中国メディアが疑念「見せかけの行為」（東スポWEB） - Yahoo!ニュース</title>
-      <link>https://news.yahoo.co.jp/articles/7eedf16d28d66286cf21621ff762e6e6f09d1af7</link>
-      <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260617-00392279-tospoweb-000-1-view.jpg?exp=10800" /&gt;&lt;br/&gt;北中米W杯で日本人サポーターの試合後の清掃活動が脚光を浴びる中、一部の海外メディアからは懐疑的な見方もあるようだ。 【写真】世界に誇る日本サポーターのゴミ拾い 森保ジャパンが2―2で引き分けたオランダ戦（14日＝日本時間15日、米国・ダラス）後に、一部のサポーターが自主的に観客席のごみ拾いを行った。これが...</description>
-      <pubDate>Wed, 17 Jun 2026 09:02:15 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/7eedf16d28d66286cf21621ff762e6e6f09d1af7</comments>
     </item>
   </channel>
 </rss>
