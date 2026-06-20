@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 20 Jun 2026 08:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 09:33:09 +0000</lastBuildDate>
+    <item>
+      <title>【AI駆動開発】AIに「図を描いて」と頼むと“それっぽいけど使えない図”が出てくる問題を、draw.io生成スキルで倒した - Qiita</title>
+      <link>https://qiita.com/enomoso_pm/items/68d1a29728e5ee339779</link>
+      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnFpaXRhLWltYWdlLXN0b3JlLnMzLmFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkYwJTJGNDE5NzQyOCUyRnByb2ZpbGUtaW1hZ2VzJTJGMTc2MTc1ODE5Mz9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9NzE3YWRkZWFiMTZjNWMzYTgxMzU1OTM5NjYwNDg0NGU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3D4ec77b39af33aa7e840bf906b087cb5b?ixlib=rb-4.1.1&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgwJTkwQUklRTklQTclODYlRTUlOEIlOTUlRTklOTYlOEIlRTclOTklQkElRTMlODAlOTFBSSVFMyU4MSVBQiVFMyU4MCU4QyVFNSU5QiVCMyVFMyU4MiU5MiVFNiU4RiU4RiVFMyU4MSU4NCVFMyU4MSVBNiVFMyU4MCU4RCVFMyU4MSVBOCVFOSVBMCVCQyVFMyU4MiU4MCVFMyU4MSVBOCVFMiU4MCU5QyVFMyU4MSU5RCVFMyU4MiU4QyVFMyU4MSVBMyVFMyU4MSVCRCVFMyU4MSU4NCVFMyU4MSU5MSVFMyU4MSVBOSVFNCVCRCVCRiVFMyU4MSU4OCVFMyU4MSVBQSVFMyU4MSU4NCVFNSU5QiVCMyVFMiU4MCU5RCVFMyU4MSU4QyVFNSU4NyVCQSVFMyU4MSVBNiVFMyU4MSU4RiVFMyU4MiU4QiVFNSU5NSU4RiVFOSVBMSU4QyVFMyU4MiU5MiVFMyU4MCU4MWRyYXcuaW8lRTclOTQlOUYlRTYlODglOTAlRTIlODAlQTYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1lZDEyMDY4NTU5YTM3NzYzNjEyNmEzMzk4NDRjYjFmZA&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBlbm9tb3NvX3BtJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9MzYmdHh0LXBhZD0wJnM9N2YzYjgxMTVhOGE4MjVkMjMzMGY3NzA5YTdkNTFkNTc&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=5d5ae79157c38f6c5ba8cd5e15df5f49" /&gt;&lt;br/&gt;はじめに 受託開発やSESの現場にいると、とにかく「図」を作る場面が多いんですよね。 業務フロー図、システム構成図、ER図、シーケンス図、画面遷移図、体制図、CI/CDパイプライン……。設計書のページをめくるたびに図、図、図。しかもこれ、お客様に出す資料だったりするので、雑には作れません。 「じゃあAIに描かせれ...</description>
+      <pubDate>Fri, 19 Jun 2026 22:41:58 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/enomoso_pm/items/68d1a29728e5ee339779</comments>
+    </item>
     <item>
       <title>ベビエアに関するはてブへの返答 - ヨッピーのブログ</title>
       <link>https://yoppymodel.hatenablog.com/entry/2026/06/20/081445</link>
@@ -41,13 +48,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@golden_haniwa/p/zMMwVqK</comments>
     </item>
     <item>
-      <title>Nスぺ出演の会社役員が逮捕、チェック体制問う声も　NHK「逮捕されたことは遺憾」、見逃しサービス配信停止</title>
-      <link>https://www.j-cast.com/2026/06/19515769.html?p=all</link>
-      <description>&lt;img src="https://www.j-cast.com/images/origin/2026/06/news_20260619194331.jpg" /&gt;&lt;br/&gt;中国の富裕層の日本移住を支援していた会社役員の男（39）が警視庁に入管難民法違反の疑いで逮捕されたが、この男はNHKスペシャルの番組に出演していたとX上で指摘が相次いでいる。 指摘には、結果的にNHKは男の宣伝に手を貸していなかったか、チェック体制はどうなっていたのか、といった声が多い。NHKの広報局は、「放...</description>
-      <pubDate>Fri, 19 Jun 2026 14:58:19 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.j-cast.com/2026/06/19515769.html?p=all</comments>
-    </item>
-    <item>
       <title>ジャパネットがツインバード（燕市）にＴＯＢ、10月下旬めど　完全子会社化目指す | 新潟日報</title>
       <link>https://www.niigata-nippo.co.jp/articles/-/852352</link>
       <description>&lt;img src="https://niigata-nippo.ismcdn.jp/mwimgs/c/5/1200m/img_c592b290f4df7e0e3d0b60de964d3e1f137530.jpg?rd=202606181840" /&gt;&lt;br/&gt;通販大手の「ジャパネットたかた」を傘下に持つジャパネットホールディングス（長崎県）は１９日、家電製造のツインバード（燕市）の完全子会社化を目指し、１０月下旬をめどに株式公開買い付け（ＴＯＢ）を実施すると発表した。ツインバードの取締役会の賛同が前提で「敵対的な買収を意図するものではない」とした。ツ...</description>
@@ -55,18 +55,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.niigata-nippo.co.jp/articles/-/852352</comments>
     </item>
     <item>
+      <title>Nスぺ出演の会社役員が逮捕、チェック体制問う声も　NHK「逮捕されたことは遺憾」、見逃しサービス配信停止</title>
+      <link>https://www.j-cast.com/2026/06/19515769.html?p=all</link>
+      <description>&lt;img src="https://www.j-cast.com/images/origin/2026/06/news_20260619194331.jpg" /&gt;&lt;br/&gt;中国の富裕層の日本移住を支援していた会社役員の男（39）が警視庁に入管難民法違反の疑いで逮捕されたが、この男はNHKスペシャルの番組に出演していたとX上で指摘が相次いでいる。 指摘には、結果的にNHKは男の宣伝に手を貸していなかったか、チェック体制はどうなっていたのか、といった声が多い。NHKの広報局は、「放...</description>
+      <pubDate>Fri, 19 Jun 2026 14:58:19 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.j-cast.com/2026/06/19515769.html?p=all</comments>
+    </item>
+    <item>
+      <title>「HARIOのガラスのせいろ蒸し器を買って、公式にあるレシピを片っ端から作ったら、これが全部んまい」竹だとカビが怖いけどガラスいいな→ご飯釜や丼など、皆さんの推すHARIOガラス製品は他にも</title>
+      <link>https://togetter.com/li/2707967</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/62acd96af5a277b48add5c239bbf84f7-1200x630.jpeg" /&gt;&lt;br/&gt;「HARIOのガラスのせいろ蒸し器を買って、公式にあるレシピを片っ端から作ったら、これが全部んまい」竹だとカビが怖いけどガラスいいな→ご飯釜や丼など、皆さんの推すHARIOガラス製品は他にも</description>
+      <pubDate>Sat, 20 Jun 2026 02:55:14 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2707967</comments>
+    </item>
+    <item>
       <title>有罪主張はしないが…「犯人でない証拠はない」大津地検、無罪主張もせず　日野町事件再審</title>
       <link>https://www.sankei.com/article/20260619-HFXWK5437JMOBPWW4MJXC5OZC4/</link>
       <description>&lt;img src="https://www.sankei.com/resizer/v2/4WOADIGTDBK6JPMGLQE3ENVPEU.jpg?auth=d3139c02d9b57ac5a04f1da8699891bcc25f8e554e0902b25bf92f184ff1c90f&amp;amp;quality=50&amp;amp;focal=558%2C484&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;滋賀県日野町で昭和59年、酒店経営の女性が殺害され手提げ金庫が奪われた日野町事件で、強盗殺人罪で無期懲役が確定し、服役中に75歳で病死した阪原弘（ひろむ）さんの再審公判に向けた協議が19日に開かれ、検察側が有罪立証をしない方針を示した。 同日、大津地検の萩原良典次席検事が報道陣の取材に応じ、犯人性につい...</description>
       <pubDate>Fri, 19 Jun 2026 19:26:00 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260619-HFXWK5437JMOBPWW4MJXC5OZC4/</comments>
-    </item>
-    <item>
-      <title>【分析】モスクワでの大規模爆発、プーチン氏の防護シェルターさえ破壊する勢い</title>
-      <link>https://www.cnn.co.jp/world/35249183.html</link>
-      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/06/19/eab3a005e18369fefe515f1163688116/2026-06-18t100031z-1196535788-rc26wlaenocs-rtrmadp-3-ukraine-crisis-attack-moscow.jpg" /&gt;&lt;br/&gt;ウクライナによるドローン攻撃を受け、製油所から炎を伴う激しい煙が立ち上った＝18日、モスクワ/Reuters （CNN） 被害の知らせは間違いなく、外界から最も隔絶された地下壕（ごう）の中にも届いたはずだ。 ロシアのプーチン大統領はこれまで、悪化の一途をたどるウクライナ侵攻の現実から自らを隔離していると非難され...</description>
-      <pubDate>Fri, 19 Jun 2026 12:09:41 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/world/35249183.html</comments>
     </item>
   </channel>
 </rss>
