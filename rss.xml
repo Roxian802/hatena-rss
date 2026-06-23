@@ -4,20 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Tue, 23 Jun 2026 10:33:09 +0000</lastBuildDate>
-    <item>
-      <title>ゼロから作るな。パクれ。｜すてぃお</title>
-      <link>https://note.com/suthio/n/nb8b4f0ef655c</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/287902432/rectangle_large_type_2_6680a3b55284f9716c27a2126cc000ac.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;僕は何度も事業の立ち上げに失敗してきました。 そのほとんどが、同じ原因で、「存在しない市場」に挑んでしまったからです。 誰も困っていない課題を、勝手に課題だと思い込んで作ったり、 困っている人はいたけれど、お金を払ってまで解決したいほどの課題ではなかったり、 本当に困っている人はいたけれど、その人数...</description>
-      <pubDate>Mon, 22 Jun 2026 23:51:35 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/suthio/n/nb8b4f0ef655c</comments>
-    </item>
+    <lastBuildDate>Tue, 23 Jun 2026 11:33:09 +0000</lastBuildDate>
     <item>
       <title>「結婚を諦めた男性」へのススメ</title>
       <link>https://anond.hatelabo.jp/20260623114415</link>
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;家庭を持つ事を諦めた男性のnoteが話題だ 「家庭を持つ」ことを諦めるということ https://note.com/lonely_monkey_/n/n915122c80f1a このような家庭を持ったり結婚したり恋愛したりといったことを諦めた男性に対して、ネガティブな反応、諦めさせまいとする反応は多い、しかし俺は応援したい。 だいたい、これが女性だっ...</description>
       <pubDate>Tue, 23 Jun 2026 02:48:01 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260623114415</comments>
+    </item>
+    <item>
+      <title>ゼロから作るな。パクれ。｜すてぃお</title>
+      <link>https://note.com/suthio/n/nb8b4f0ef655c</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/287902432/rectangle_large_type_2_6680a3b55284f9716c27a2126cc000ac.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;僕は何度も事業の立ち上げに失敗してきました。 そのほとんどが、同じ原因で、「存在しない市場」に挑んでしまったからです。 誰も困っていない課題を、勝手に課題だと思い込んで作ったり、 困っている人はいたけれど、お金を払ってまで解決したいほどの課題ではなかったり、 本当に困っている人はいたけれど、その人数...</description>
+      <pubDate>Mon, 22 Jun 2026 23:51:35 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/suthio/n/nb8b4f0ef655c</comments>
     </item>
     <item>
       <title>「歌のうまさ」の評価軸｜Taku</title>
@@ -27,6 +27,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/takutakahashi/n/n088590be98de</comments>
     </item>
     <item>
+      <title>WBSという至高ツールで、このAI時代をサバイブする</title>
+      <link>https://zenn.dev/piguolabo/articles/99b5b30a028f80</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--GrGv_lNt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WBS%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E8%2587%25B3%25E9%25AB%2598%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2593%25E3%2581%25AEAI%25E6%2599%2582%25E4%25BB%25A3%25E3%2582%2592%25E3%2582%25B5%25E3%2583%2590%25E3%2582%25A4%25E3%2583%2596%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Pigu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRmM2RjYjNmOTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;なぜ私はWBSを「至高」と呼ぶのか たいていのプロジェクトは、不確実性が高い。やるべき作業の全体像が見えないまま、それでもゴールまでの道筋を引かなければならない。 WBSの本質は、ここにある。いま認識している作業を一覧にし、その一つひとつに「もっと分解できないか」と目を向けさせてくれる。 価値があるのは、...</description>
+      <pubDate>Mon, 22 Jun 2026 04:16:12 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/piguolabo/articles/99b5b30a028f80</comments>
+    </item>
+    <item>
       <title>『ネットの有名な誹謗中傷者の正体を暴くために誹謗中傷者を徹底的に煽って訴えられてみた』第1回｜マツダ鉄心</title>
       <link>https://note.com/tessin_matsuda/n/n0ca7b44dd743</link>
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/287770002/rectangle_large_type_2_49ec3dc61762828f8f33422fa568ff19.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;無敵の誹謗中傷者を捕まえろ！ 自業自得というか、誹謗中傷している相手の正体を調べるために自業自得になってみた。 こう書くと何ともややこしそうに見えるが実際に超絶ややこしい話になっている。少々長くなるが僕の話を聞いてくれ。 ククリーナ どういうことかを順に説明をしていくと、ネットの世界に有名な誹謗中傷...</description>
@@ -34,11 +41,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/tessin_matsuda/n/n0ca7b44dd743</comments>
     </item>
     <item>
-      <title>WBSという至高ツールで、このAI時代をサバイブする</title>
-      <link>https://zenn.dev/piguolabo/articles/99b5b30a028f80</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--GrGv_lNt--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WBS%25E3%2581%25A8%25E3%2581%2584%25E3%2581%2586%25E8%2587%25B3%25E9%25AB%2598%25E3%2583%2584%25E3%2583%25BC%25E3%2583%25AB%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2593%25E3%2581%25AEAI%25E6%2599%2582%25E4%25BB%25A3%25E3%2582%2592%25E3%2582%25B5%25E3%2583%2590%25E3%2582%25A4%25E3%2583%2596%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Pigu%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzRmM2RjYjNmOTguanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;なぜ私はWBSを「至高」と呼ぶのか たいていのプロジェクトは、不確実性が高い。やるべき作業の全体像が見えないまま、それでもゴールまでの道筋を引かなければならない。 WBSの本質は、ここにある。いま認識している作業を一覧にし、その一つひとつに「もっと分解できないか」と目を向けさせてくれる。 価値があるのは、...</description>
-      <pubDate>Mon, 22 Jun 2026 04:16:12 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/piguolabo/articles/99b5b30a028f80</comments>
+      <title>プーチン最大の誤算…クリミア「不沈の要塞」が巨大な牢獄に　ガソリン価格は闇市場で2倍に「ロシア将校は家族と財産を本土へ」の地獄絵図 | 集英社オンライン | ニュースを本気で噛み砕け</title>
+      <link>https://shueisha.online/articles/-/257913</link>
+      <description>&lt;img src="https://shuon.ismcdn.jp/mwimgs/9/8/1200xm/img_9858e19f79056aa3e9e12b25ce0a948a828283.jpg" /&gt;&lt;br/&gt;プーチンにとってクリミアは「不沈の足場」であるはずだった今、クリミア半島で起きていることを一言で表すなら、「プーチンの要塞」が「プーチンの牢獄」へと姿を変えつつある、ということだ。 2014年にプーチンがこの半島を併合したとき、彼の頭の中にあった絵図ははっきりしていた。黒海の制海権を握り、ウクライナの...</description>
+      <pubDate>Mon, 22 Jun 2026 23:02:38 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/shueisha.online/articles/-/257913</comments>
     </item>
     <item>
       <title>都内某所の交差点で遭遇した「児童の飛び出し」のドラレコ映像が、どれだけドライバーが注意しても限界があり、車の「自動ブレーキ」の必要性を強く実感する内容だった</title>
@@ -62,25 +69,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/xin9le/articles/1340941f739745</comments>
     </item>
     <item>
-      <title>日本共産党福岡県委員会に対する未払残業代請求訴訟の認諾による終結について - 神谷貴行のブログ</title>
-      <link>https://kamiyatakayuki.hatenadiary.jp/entry/2026/06/22/175125</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/f3e102f88ed3aeca2c536e5c86b0f3df2a878bd7/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fk%2Fkamiyakenkyujo%2F20260622%2F20260622142149.jpg" /&gt;&lt;br/&gt;（この記事は私の不当な除籍・解雇事件の問題の一部についてです。全体像を簡単に知りたい方はこちらを先にお読みください。） 以下は本日発表したプレスリリースです。 福岡地裁の残業代裁判は終結しますが、東京地裁の共産党不当解雇裁判はまだまだ続きますので、引き続きご支援よろしくお願いします。 福岡地裁前にて...</description>
-      <pubDate>Mon, 22 Jun 2026 10:59:33 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/kamiyatakayuki.hatenadiary.jp/entry/2026/06/22/175125</comments>
-    </item>
-    <item>
       <title>Japanese visual symbols</title>
       <link>https://arun.is/blog/japan-symbols/</link>
       <description>&lt;img src="https://arun.is/_astro/social.bcNmzcHo.jpg" /&gt;&lt;br/&gt;In modern life, we are surrounded by symbols that guide our everyday movements. When I’m driving, the red octagonal sign on the street reminds me to stop even before I read the word on the sign. And similarly, other street signs signal their meaning through their shape and their color far more th...</description>
       <pubDate>Mon, 22 Jun 2026 05:26:23 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/arun.is/blog/japan-symbols/</comments>
-    </item>
-    <item>
-      <title>Valveの新小型ゲーミングPC「Steam Machine」なんと海外でいきなり販売開始。細かい仕様や価格が明らかに - AUTOMATON</title>
-      <link>https://automaton-media.com/articles/newsjp/20260623-451070/</link>
-      <description>&lt;img src="https://automaton-media.com/wp-content/uploads/2026/06/20260623-451070-header.jpg" /&gt;&lt;br/&gt;Valveは6月23日、ゲーミングPC「Steam Machine」を本日より海外で販売開始したと発表した。なお、日本では正規ディストリビューターのKOMODOから販売される見込みで、そちらの予定は現時点で未発表である。 海外でのラインナップと価格は以下のとおり。 本日より数日間にわたって予約受付がおこなわれ、確認メールが届き...</description>
-      <pubDate>Mon, 22 Jun 2026 17:15:58 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/automaton-media.com/articles/newsjp/20260623-451070/</comments>
     </item>
   </channel>
 </rss>
