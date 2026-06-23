@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 22 Jun 2026 23:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 00:33:10 +0000</lastBuildDate>
+    <item>
+      <title>『ネットの有名な誹謗中傷者の正体を暴くために誹謗中傷者を徹底的に煽って訴えられてみた』第1回｜マツダ鉄心</title>
+      <link>https://note.com/tessin_matsuda/n/n0ca7b44dd743</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/287770002/rectangle_large_type_2_49ec3dc61762828f8f33422fa568ff19.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;無敵の誹謗中傷者を捕まえろ！ 自業自得というか、誹謗中傷している相手の正体を調べるために自業自得になってみた。 こう書くと何ともややこしそうに見えるが実際に超絶ややこしい話になっている。少々長くなるが僕の話を聞いてくれ。 ククリーナ どういうことかを順に説明をしていくと、ネットの世界に有名な誹謗中傷...</description>
+      <pubDate>Mon, 22 Jun 2026 15:03:01 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/tessin_matsuda/n/n0ca7b44dd743</comments>
+    </item>
     <item>
       <title>「家庭を持つ」ことを諦めるということ｜孤独猿</title>
       <link>https://note.com/lonely_monkey_/n/n915122c80f1a</link>
@@ -27,11 +34,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/blog.tinect.jp/?p=91223</comments>
     </item>
     <item>
-      <title>「AI臭い文章を生成させない」ルール集。LLMに“質の高い技術文書”を書かせるスキルを技術書出版社代表が公開（生成AIクローズアップ） | テクノエッジ TechnoEdge</title>
-      <link>https://www.techno-edge.net/article/2026/06/22/5209.html</link>
-      <description>&lt;img src="https://www.techno-edge.net/imgs/ogp_f/32439.png" /&gt;&lt;br/&gt;1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、LLM（大規模言語モデル）に日本語の技術文書を書かせたり推敲させたりするためのAI向けの日本語文章規範スキル「japanese-tech-wr...</description>
-      <pubDate>Mon, 22 Jun 2026 01:05:24 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.techno-edge.net/article/2026/06/22/5209.html</comments>
+      <title>AIのモデル崩壊と多様性 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ</title>
+      <link>https://joisino.hatenablog.com/entry/collapse</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/1045736c12803a4302162aed08b1a2d84dc21461/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjoisino%2F20260622%2F20260622084009.png" /&gt;&lt;br/&gt;モデル崩壊 (model collapse) とは、AI が出力したテキストや画像がインターネットにアップロードされ、それらが AI の訓練データに混入し、そのデータで訓練された AI が出力したものがアップロードされる、というサイクルを繰り返すことで AI の性能が崩壊することです。最も有名な研究は Nature に採択された AI mode...</description>
+      <pubDate>Mon, 22 Jun 2026 10:28:44 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/joisino.hatenablog.com/entry/collapse</comments>
     </item>
   </channel>
 </rss>
