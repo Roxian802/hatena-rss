@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 24 Jun 2026 01:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 02:33:12 +0000</lastBuildDate>
     <item>
       <title>◉ゲーム機を買い与えなかった母親が、息子たちから奪ったもの｜喜多野土竜</title>
       <link>https://note.com/mogura2001/n/n09162cc8d95e</link>
@@ -20,18 +20,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.lifehacker.jp/article/2606-notebooklm-finally-has-an-open-source-rival-and-im-hooked/</comments>
     </item>
     <item>
+      <title>標準CSSは美しくなった、もはやTailwindは不要</title>
+      <link>https://zenn.dev/higakijin/articles/06276828c81546</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--qoDx4LMm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25A8%2599%25E6%25BA%2596CSS%25E3%2581%25AF%25E7%25BE%258E%25E3%2581%2597%25E3%2581%258F%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E3%2580%2581%25E3%2582%2582%25E3%2581%25AF%25E3%2582%2584Tailwind%25E3%2581%25AF%25E4%25B8%258D%25E8%25A6%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%258F%25E3%2583%25AB%25E3%2582%25AF%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQwYzY4NmM3ZTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;最近、標準のCSSがかなり進化していることに気づきました。 他のエンジニアと会話しても知らない人が多そうなのでシェアしておきます。 数年ほど前からCSSは標準でネスト構文をかけるようになりました。これはとてつもない進化です。 多くのプロジェクトでは、sassやscssなどを導入して、CSSを拡張したり、あるいはBoots...</description>
+      <pubDate>Tue, 23 Jun 2026 01:38:33 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/higakijin/articles/06276828c81546</comments>
+    </item>
+    <item>
       <title>ポテトチップスの白黒袋、絵師の間で流行　余白に好きな絵描くブーム「新しいキャンバス発見」</title>
       <link>https://www.oricon.co.jp/news/2463274/full/</link>
       <description>&lt;img src="https://contents.oricon.co.jp/upimg/news/2464000/2463274/20260623_190001_p_o_36483142.jpg" /&gt;&lt;br/&gt;漫画家・一葵さやかが23日、自身のXを更新し、アニメ『名探偵プリキュア！』（たんプリ）の登場キャラ・キュアアンサーとポチタンを描いたお菓子のパッケージを投稿した。今、絵描き好きの間で、ポテトチップスなどの白黒パッケージの余白に絵を描くことが流行となっている。 【写真】良い表情!かっぱえびせんの袋に描い...</description>
       <pubDate>Tue, 23 Jun 2026 12:42:17 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.oricon.co.jp/news/2463274/full/</comments>
-    </item>
-    <item>
-      <title>「ていねいな暮らしという規範」に従う以外に道はない - シロクマの屑籠</title>
-      <link>https://p-shirokuma.hatenadiary.com/entry/20260623/1782215376</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/f7675cad2e068781cd1363e68335f34bffe7e73f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.blog.st-hatena.com%2Fimages%2Ftheme%2Fog-image-1500.png" /&gt;&lt;br/&gt;「おれら」って、なんだか雑に生きてきたんですよね。 anmin7.hatenadiary.jp 上記リンク先の文章を読んで、そういえば、「おれら」って雑に生きてきたなって思い出した。ちなみに上記リンク先は、「男は暮らしに興味がないのか」というはてな匿名ダイアリーの短文を受けてのものだったりする。 ここでいう「おれら」と...</description>
-      <pubDate>Tue, 23 Jun 2026 11:57:58 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/p-shirokuma.hatenadiary.com/entry/20260623/1782215376</comments>
     </item>
     <item>
       <title>第98回　青年部門　入選「嗜癖者のマリヤ」万屋タタラ（23歳・東京都）</title>
@@ -41,25 +41,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/shincomi.shogakukan.co.jp/viewer/98/04/301.html</comments>
     </item>
     <item>
+      <title>「ていねいな暮らしという規範」に従う以外に道はない - シロクマの屑籠</title>
+      <link>https://p-shirokuma.hatenadiary.com/entry/20260623/1782215376</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/f7675cad2e068781cd1363e68335f34bffe7e73f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.blog.st-hatena.com%2Fimages%2Ftheme%2Fog-image-1500.png" /&gt;&lt;br/&gt;「おれら」って、なんだか雑に生きてきたんですよね。 anmin7.hatenadiary.jp 上記リンク先の文章を読んで、そういえば、「おれら」って雑に生きてきたなって思い出した。ちなみに上記リンク先は、「男は暮らしに興味がないのか」というはてな匿名ダイアリーの短文を受けてのものだったりする。 ここでいう「おれら」と...</description>
+      <pubDate>Tue, 23 Jun 2026 11:57:58 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/p-shirokuma.hatenadiary.com/entry/20260623/1782215376</comments>
+    </item>
+    <item>
       <title>「SK-IIって滋賀に工場あるんだ」とマップを調べたら、トラック運転手たちの悲痛なクチコミが多数…製品だけでなく、物流現場への対応もブランド価値を左右しうる話</title>
       <link>https://togetter.com/li/2712738</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/b11689199cf393edc8a82daba172e6a1-1200x630.jpeg" /&gt;&lt;br/&gt;下の下☺︎ @ge_no_ge_ch SK-Ⅱって滋賀に工場あるんだ〜と思って調べたらトラックの運転手さん？たちの悲痛な口コミがたくさんあった。誰かの犠牲の上に成り立ってる会社なんだな。お疲れさまです…。 pic.x.com/ROk3ffRNEH x.com/uuuunjm/status… 2026-06-22 09:20:38 Uuuun @Uuuunjm SK-IIがインフルエンサーを京都滋賀旅...</description>
       <pubDate>Tue, 23 Jun 2026 12:29:13 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2712738</comments>
-    </item>
-    <item>
-      <title>おれたちはどう暮らせばいいのか - てのひらを、かえして</title>
-      <link>https://anmin7.hatenadiary.jp/entry/2026/06/23/120603</link>
-      <description>&lt;img src="https://ogimage.blog.st-hatena.com/8454420450099452663/14945776032045190070/1782186095" /&gt;&lt;br/&gt;まず「そば打ち、スパイスカレー、自転車」なんて言っているブクマカは完全に的外れだから無視するとして、ここに書かれている増田の情報から推測するとFireって一定額の資産を作ってそこの運用益とか利息で生活していくってことだから、資産を食いつぶしてしまったらそこで人生が終わりと考えるととにかく目減りは抑え...</description>
-      <pubDate>Tue, 23 Jun 2026 03:20:48 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anmin7.hatenadiary.jp/entry/2026/06/23/120603</comments>
-    </item>
-    <item>
-      <title>「なぜ夫だったのか」「私は相手を殺さない」、山上被告に対峙した妻・昭恵さんの胸中…安倍氏銃撃４年</title>
-      <link>https://www.yomiuri.co.jp/national/20260622-GYT1T00301/</link>
-      <description>&lt;img src="https://www.yomiuri.co.jp/media/2026/06/20260622-GYT1I00306-1.jpg?type=ogp" /&gt;&lt;br/&gt;【読売新聞】　２０２２年７月に奈良市で演説中に銃撃されて死亡した安倍晋三・元首相（当時６７歳）の妻・昭恵さん（６４）が事件から４年となるのを前に、読売新聞の取材に応じた。昨年１２月、殺人罪などに問われた山上徹也被告（４５）の公判に出</description>
-      <pubDate>Mon, 22 Jun 2026 22:30:18 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/national/20260622-GYT1T00301/</comments>
     </item>
   </channel>
 </rss>
