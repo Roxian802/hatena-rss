@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 24 Jun 2026 07:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 08:33:09 +0000</lastBuildDate>
     <item>
       <title>◉ゲーム機を買い与えなかった母親が、息子たちから奪ったもの｜喜多野土竜</title>
       <link>https://note.com/mogura2001/n/n09162cc8d95e</link>
@@ -41,6 +41,12 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV6M0P22V6MUPQJ00KM.html</comments>
     </item>
     <item>
+      <title>「電話鳴り止まない」AI予約サービス「オートリザーブ」に飲食店困惑　“勝手に”公式マーク表示も　専門家「AIうまく機能していない」（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/8b5fcfb78326d3cd85abfa70d0f3cc39355d320f</link>
+      <pubDate>Wed, 24 Jun 2026 03:09:35 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/8b5fcfb78326d3cd85abfa70d0f3cc39355d320f</comments>
+    </item>
+    <item>
       <title>「おもしろ」にこだわってる人間の攻撃性は異常</title>
       <link>https://anond.hatelabo.jp/20260623220909</link>
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;つまんねえんだよ！って突然キレ出すの、なに？ 今、おもしろい話をしなくちゃならない場面だった…？ 「おもしろくない」が怒りの理由になっていいのは、マンガとかゲームまでだろう… 芸人でもない生身の人間をコンテンツ扱いして、つまらないつまらないつまらないキェーーーー！って暴れるのは、幼稚を通り越してもはや...</description>
@@ -62,13 +68,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2712846</comments>
     </item>
     <item>
-      <title>NotebookLMの限界を突破する代替ツール「Open Notebook」が自由すぎた | ライフハッカー・ジャパン</title>
-      <link>https://www.lifehacker.jp/article/2606-notebooklm-finally-has-an-open-source-rival-and-im-hooked/</link>
-      <description>&lt;img src="https://media.loom-app.com/loom/2026/06/22/fae03123-27ef-4344-ab22-bdef6c3ad914/original.jpg?w=1200&amp;amp;h=630&amp;amp;f=jpg" /&gt;&lt;br/&gt;Open Notebookが、NotebookLM自体よりもさらに興味深い理由は、その背後にあるコンセプトです。自分が用意した資料だけを厳密な情報源として機能するLLM（大規模言語モデル）は、想像以上に強力なアイデアでした。 NotebookLMは最初、Googleの研究者グループがRAG（検索拡張生成）の可能性を探るための実験としてスター...</description>
-      <pubDate>Tue, 23 Jun 2026 13:38:29 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.lifehacker.jp/article/2606-notebooklm-finally-has-an-open-source-rival-and-im-hooked/</comments>
-    </item>
-    <item>
       <title>標準CSSは美しくなった、もはやTailwindは不要</title>
       <link>https://zenn.dev/higakijin/articles/06276828c81546</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--qoDx4LMm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%25A8%2599%25E6%25BA%2596CSS%25E3%2581%25AF%25E7%25BE%258E%25E3%2581%2597%25E3%2581%258F%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%259F%25E3%2580%2581%25E3%2582%2582%25E3%2581%25AF%25E3%2582%2584Tailwind%25E3%2581%25AF%25E4%25B8%258D%25E8%25A6%2581%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2583%258F%25E3%2583%25AB%25E3%2582%25AF%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQwYzY4NmM3ZTkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;最近、標準のCSSがかなり進化していることに気づきました。 他のエンジニアと会話しても知らない人が多そうなのでシェアしておきます。 数年ほど前からCSSは標準でネスト構文をかけるようになりました。これはとてつもない進化です。 多くのプロジェクトでは、sassやscssなどを導入して、CSSを拡張したり、あるいはBoots...</description>
@@ -76,17 +75,17 @@
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/higakijin/articles/06276828c81546</comments>
     </item>
     <item>
+      <title>NotebookLMの限界を突破する代替ツール「Open Notebook」が自由すぎた | ライフハッカー・ジャパン</title>
+      <link>https://www.lifehacker.jp/article/2606-notebooklm-finally-has-an-open-source-rival-and-im-hooked/</link>
+      <description>&lt;img src="https://media.loom-app.com/loom/2026/06/22/fae03123-27ef-4344-ab22-bdef6c3ad914/original.jpg?w=1200&amp;amp;h=630&amp;amp;f=jpg" /&gt;&lt;br/&gt;Open Notebookが、NotebookLM自体よりもさらに興味深い理由は、その背後にあるコンセプトです。自分が用意した資料だけを厳密な情報源として機能するLLM（大規模言語モデル）は、想像以上に強力なアイデアでした。 NotebookLMは最初、Googleの研究者グループがRAG（検索拡張生成）の可能性を探るための実験としてスター...</description>
+      <pubDate>Tue, 23 Jun 2026 13:38:29 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.lifehacker.jp/article/2606-notebooklm-finally-has-an-open-source-rival-and-im-hooked/</comments>
+    </item>
+    <item>
       <title>【特集】 BitLockerで突然のデータ消失？悲劇を防ぐためにやっておくべきこと</title>
       <link>https://pc.watch.impress.co.jp/docs/topic/feature/2118915.html</link>
       <pubDate>Tue, 23 Jun 2026 22:24:38 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/topic/feature/2118915.html</comments>
-    </item>
-    <item>
-      <title>第98回　青年部門　入選「嗜癖者のマリヤ」万屋タタラ（23歳・東京都）</title>
-      <link>https://shincomi.shogakukan.co.jp/viewer/98/04/301.html</link>
-      <description>&lt;img src="https://shincomi.shogakukan.co.jp/viewer/98/04/301/1.jpg" /&gt;&lt;br/&gt;第98回　青年部門　入選「嗜癖者のマリヤ」万屋タタラ（23歳・東京都）</description>
-      <pubDate>Tue, 23 Jun 2026 11:39:41 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/shincomi.shogakukan.co.jp/viewer/98/04/301.html</comments>
     </item>
   </channel>
 </rss>
