@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 25 Jun 2026 07:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:33:09 +0000</lastBuildDate>
     <item>
       <title>教育基本法改正20年 かつての与党協議の議事録を入手 | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/na-k10015158881000</link>
@@ -41,18 +41,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.tokai-tv.com/tokainews/feature/article_20260624_46921</comments>
     </item>
     <item>
-      <title>ChatGPTの心臓部『Transformer』って何がすごいの？　#マンガでわかるAIの仕組み 第1話</title>
-      <link>https://codezine.jp/article/detail/24575</link>
-      <description>&lt;img src="https://codezine.jp/static/images/article/24575/ogp1200x630_manga_ai.png" /&gt;&lt;br/&gt;「AIの仕組みは知っておきたい」「けど分厚い技術書を読む時間はない……」そんなあなたに贈る『マンガでわかるAIの仕組み』Web連載がスタート！</description>
-      <pubDate>Wed, 24 Jun 2026 07:06:35 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/codezine.jp/article/detail/24575</comments>
-    </item>
-    <item>
       <title>【分析】トランプ氏のイランでの政治的失態、大きさが鮮明に</title>
       <link>https://www.cnn.co.jp/usa/35249376.html</link>
       <description>&lt;img src="https://www.cnn.co.jp/storage/2026/06/24/630effb5ba09ed74b16eb3f276c8bb92/gettyimages-2282262467.jpg" /&gt;&lt;br/&gt;（CNN） トランプ米政権がイランと覚書に署名してから初めて実施された主要世論調査には、トランプ大統領にとって朗報に見える点がある。米国民の圧倒的多数が、イランにさらなる譲歩を求めるよりも戦争を終わらせるべきだという考えに同意しているのだ。 しかし、それは国民が実際に合意に満足しているからではない。戦...</description>
       <pubDate>Wed, 24 Jun 2026 09:39:34 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35249376.html</comments>
+    </item>
+    <item>
+      <title>ChatGPTの心臓部『Transformer』って何がすごいの？　#マンガでわかるAIの仕組み 第1話</title>
+      <link>https://codezine.jp/article/detail/24575</link>
+      <description>&lt;img src="https://codezine.jp/static/images/article/24575/ogp1200x630_manga_ai.png" /&gt;&lt;br/&gt;「AIの仕組みは知っておきたい」「けど分厚い技術書を読む時間はない……」そんなあなたに贈る『マンガでわかるAIの仕組み』Web連載がスタート！</description>
+      <pubDate>Wed, 24 Jun 2026 07:06:35 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/codezine.jp/article/detail/24575</comments>
     </item>
     <item>
       <title>【地震速報】青森県で震度6強 津波被害の心配なし | NHKニュース</title>
@@ -69,18 +69,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2713262</comments>
     </item>
     <item>
+      <title>「名古屋ほど適した場所ない」　広沢市長、副首都法案提出めぐり - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOFD246OH0U6A620C2000000/</link>
+      <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3214978024062026000000-1.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;fp-y=0.44&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=190cf6c8c2a27722dd879cb9be9d34e2" /&gt;&lt;br/&gt;名古屋市の広沢一郎市長は24日、副首都法案の国会への提出を巡り、「名古屋ほど（副首都に）適した場所はない。頑張って取りに行きたい」と話した。市庁舎内で記者団の取材に答えた。同日、日本維新の会が国会内で党役員会を開き「副首都構想」の関連法案の修正案を了承した。法案は自民党とともに国会に提出した。広沢...</description>
+      <pubDate>Wed, 24 Jun 2026 12:12:29 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOFD246OH0U6A620C2000000/</comments>
+    </item>
+    <item>
       <title>「AIがSQLを書いてくれる」で終わらせない − 分析基盤の育て方</title>
       <link>https://zenn.dev/tribeau/articles/c961141dd4c9c8</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--myI-M82o--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CAI%25E3%2581%258CSQL%25E3%2582%2592%25E6%259B%25B8%25E3%2581%2584%25E3%2581%25A6%25E3%2581%258F%25E3%2582%258C%25E3%2582%258B%25E3%2580%258D%25E3%2581%25A7%25E7%25B5%2582%25E3%2582%258F%25E3%2582%2589%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%2520%25E2%2588%2592%2520%25E5%2588%2586%25E6%259E%2590%25E5%259F%25BA%25E7%259B%25A4%25E3%2581%25AE%25E8%2582%25B2%25E3%2581%25A6%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:obiyuta%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M2MmIxMmJjY2YuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TRIBEAU%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjODU3NzQ2MWMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;トリビューでCTOをしている小尾（@obiyuta）です。 弊社ではAIを前提とした全社業務の再構築に取り組んでおり、前回はその中で取り組んでいる社内MCPを載せる共通基盤（認証・認可・ログ）をご紹介しました。 今回は具体的な活用事例として、非エンジニアが自分で本番データを分析できるような分析基盤と、作って終わら...</description>
       <pubDate>Wed, 24 Jun 2026 09:38:31 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/tribeau/articles/c961141dd4c9c8</comments>
-    </item>
-    <item>
-      <title>散々注意していたのに…するなと何度も言っていたのに…教育実習生が記念撮影した写真をSNSにあげる…「なんでいちいちSNSにアップするんだろ？」</title>
-      <link>https://togetter.com/li/2713266</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/e8e8a998a83422af4d955bfb6956d42d-1200x630.jpeg" /&gt;&lt;br/&gt;タクト先生＠正論で切る教育侍&#x1f5e1;️保護者にリアルと責任を！！ @ikuji_takuto 散々、注意してたのに… するなと、何度も言っていたのに… 教育実習生… 記念撮影した写真をSNSにあげる… 2026-06-24 18:36:00 ゆに&#x1f984;໒꒱· ﾟ @fam_mst 教育実習に行って、実習先の生徒と撮った写真とBeRealを非公開のインスタに投稿したものがThre...</description>
-      <pubDate>Wed, 24 Jun 2026 23:33:30 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2713266</comments>
     </item>
   </channel>
 </rss>
