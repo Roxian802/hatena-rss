@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 25 Jun 2026 05:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 06:33:09 +0000</lastBuildDate>
     <item>
       <title>教育基本法改正20年 かつての与党協議の議事録を入手 | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/na-k10015158881000</link>
@@ -41,6 +41,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260624210644</comments>
     </item>
     <item>
+      <title>“タイミー”に店長が自分の名前で応募 自身の給料とは別にバイト代約30万円を騙し取った疑いで書類送検「グレーだと思った」 | 東海テレビNEWS</title>
+      <link>https://www.tokai-tv.com/tokainews/feature/article_20260624_46921</link>
+      <description>&lt;img src="https://www.tokai-tv.com/tokainews/image/202606244692100.jpg" /&gt;&lt;br/&gt;“スキマバイト”のアプリを悪用したとして、飲食店店長の40代男性が書類送検されました。店長は自らの名前で応募し、アルバイト代を受け取っていました。 働く側にとっても人手不足の店側にとっても便利なスキマバイトアプリ。その国内大手「タイミー」を悪用したのは、まさかの飲食店の店長でした。 捜査関係者によりま...</description>
+      <pubDate>Wed, 24 Jun 2026 13:50:32 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.tokai-tv.com/tokainews/feature/article_20260624_46921</comments>
+    </item>
+    <item>
       <title>ChatGPTの心臓部『Transformer』って何がすごいの？　#マンガでわかるAIの仕組み 第1話</title>
       <link>https://codezine.jp/article/detail/24575</link>
       <description>&lt;img src="https://codezine.jp/static/images/article/24575/ogp1200x630_manga_ai.png" /&gt;&lt;br/&gt;「AIの仕組みは知っておきたい」「けど分厚い技術書を読む時間はない……」そんなあなたに贈る『マンガでわかるAIの仕組み』Web連載がスタート！</description>
@@ -53,13 +60,6 @@
       <description>&lt;img src="https://www.cnn.co.jp/storage/2026/06/24/630effb5ba09ed74b16eb3f276c8bb92/gettyimages-2282262467.jpg" /&gt;&lt;br/&gt;（CNN） トランプ米政権がイランと覚書に署名してから初めて実施された主要世論調査には、トランプ大統領にとって朗報に見える点がある。米国民の圧倒的多数が、イランにさらなる譲歩を求めるよりも戦争を終わらせるべきだという考えに同意しているのだ。 しかし、それは国民が実際に合意に満足しているからではない。戦...</description>
       <pubDate>Wed, 24 Jun 2026 09:39:34 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35249376.html</comments>
-    </item>
-    <item>
-      <title>“タイミー”に店長が自分の名前で応募 自身の給料とは別にバイト代約30万円を騙し取った疑いで書類送検「グレーだと思った」 | 東海テレビNEWS</title>
-      <link>https://www.tokai-tv.com/tokainews/feature/article_20260624_46921</link>
-      <description>&lt;img src="https://www.tokai-tv.com/tokainews/image/202606244692100.jpg" /&gt;&lt;br/&gt;“スキマバイト”のアプリを悪用したとして、飲食店店長の40代男性が書類送検されました。店長は自らの名前で応募し、アルバイト代を受け取っていました。 働く側にとっても人手不足の店側にとっても便利なスキマバイトアプリ。その国内大手「タイミー」を悪用したのは、まさかの飲食店の店長でした。 捜査関係者によりま...</description>
-      <pubDate>Wed, 24 Jun 2026 13:50:32 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.tokai-tv.com/tokainews/feature/article_20260624_46921</comments>
     </item>
     <item>
       <title>【地震速報】青森県で震度6強 津波被害の心配なし | NHKニュース</title>
@@ -76,11 +76,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2713262</comments>
     </item>
     <item>
-      <title>「コードレビューは人間がやるべき」 という、最後の幻想</title>
-      <link>https://newspicks.com/news/16930133/body/</link>
-      <description>&lt;img src="https://contents.newspicks.com/topics/23/posts/202/thumbnail?updatedAt=20260621230056" /&gt;&lt;br/&gt;観点が言葉になれば、砦は仕組みに変わる スピードが上がった現場で、何が詰まっているか 先日、登壇したパネルセッションで、会場に問いを投げました。「コードレビューがチームのボトルネックになっている方は、手を挙げてください」 と。正確な調査ではありません。ただ、会場の体感では、半分ほどの手が挙がりました...</description>
-      <pubDate>Wed, 24 Jun 2026 12:25:00 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/newspicks.com/news/16930133/body/</comments>
+      <title>「AIがSQLを書いてくれる」で終わらせない − 分析基盤の育て方</title>
+      <link>https://zenn.dev/tribeau/articles/c961141dd4c9c8</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--myI-M82o--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%258CAI%25E3%2581%258CSQL%25E3%2582%2592%25E6%259B%25B8%25E3%2581%2584%25E3%2581%25A6%25E3%2581%258F%25E3%2582%258C%25E3%2582%258B%25E3%2580%258D%25E3%2581%25A7%25E7%25B5%2582%25E3%2582%258F%25E3%2582%2589%25E3%2581%259B%25E3%2581%25AA%25E3%2581%2584%2520%25E2%2588%2592%2520%25E5%2588%2586%25E6%259E%2590%25E5%259F%25BA%25E7%259B%25A4%25E3%2581%25AE%25E8%2582%25B2%25E3%2581%25A6%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:obiyuta%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2M2MmIxMmJjY2YuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:TRIBEAU%2520Tech%2520Blog%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjODU3NzQ2MWMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;トリビューでCTOをしている小尾（@obiyuta）です。 弊社ではAIを前提とした全社業務の再構築に取り組んでおり、前回はその中で取り組んでいる社内MCPを載せる共通基盤（認証・認可・ログ）をご紹介しました。 今回は具体的な活用事例として、非エンジニアが自分で本番データを分析できるような分析基盤と、作って終わら...</description>
+      <pubDate>Wed, 24 Jun 2026 09:38:31 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/tribeau/articles/c961141dd4c9c8</comments>
     </item>
   </channel>
 </rss>
