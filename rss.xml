@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 01 Jul 2026 23:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 00:33:09 +0000</lastBuildDate>
     <item>
       <title>佐藤二朗　ハラスメント報道にコメント「大変残念。事実明らかに」　所属事務所「到底受け入れられない」 - スポニチ Sponichi Annex 芸能</title>
       <link>https://www.sponichi.co.jp/entertainment/news/2026/07/01/articles/20260701s00041000335000c.html</link>
       <description>&lt;img src="https://www.sponichi.co.jp/entertainment/news/2026/07/01/jpeg/20260701s10041000185000p_view.webp" /&gt;&lt;br/&gt;佐藤二朗　ハラスメント報道にコメント「大変残念。事実明らかに」　所属事務所「到底受け入れられない」</description>
       <pubDate>Wed, 01 Jul 2026 10:46:22 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.sponichi.co.jp/entertainment/news/2026/07/01/articles/20260701s00041000335000c.html</comments>
+    </item>
+    <item>
+      <title>頭が良くて合理的な人が、会社で「穴穂ってまた埋めろ」みたいな指示されると「なんでそんなバカなことを」と反発して話が進まないことがあるが、本当に会社で必要な頭の良さはこちらではないか</title>
+      <link>https://togetter.com/li/2715830</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/3b2e31ea813337a70a57c976a33827d4-1200x630.jpeg" /&gt;&lt;br/&gt;頭が良くて合理的な人が、会社で「穴穂ってまた埋めろ」みたいな指示されると「なんでそんなバカなことを」と反発して話が進まないことがあるが、本当に会社で必要な頭の良さはこちらではないか</description>
+      <pubDate>Wed, 01 Jul 2026 14:58:18 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2715830</comments>
     </item>
     <item>
       <title>PlayStation®コンソール向け新作ゲームのディスク生産を2028年1月に終了</title>
@@ -27,25 +34,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.kogakuin-applchem.jp/laboratory/foodchemistry/tempura</comments>
     </item>
     <item>
+      <title>10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由</title>
+      <link>https://zenn.dev/canly/articles/428767121d7dc2</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--t0xG5qKr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:10%2520%25E3%2581%258B%25E6%259C%2588%2520CLI%2520%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%258D%25E3%2581%259F%2520Claude%2520Code%2520%25E3%2582%2592%25E3%2580%2581Desktop%2520%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AB%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%2597%25E3%2581%259F%252012%2520%25E3%2581%25AE%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25B5%25E3%2581%258F%25E3%2581%25A0%25EF%25BC%2588fukuda%2520ryu%25EF%25BC%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEyMjRmMTIyZTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由 本記事は、カンリー社内で実施している AI 共有会で話した内容を記事化したものです(2026 年 6 月時点の macOS 版 Claude Desktop アプリの実機運用に基づく感想記事)。 はじめに 皆さんは Claude Code をどう起動して使っていますか？ タ...</description>
+      <pubDate>Wed, 01 Jul 2026 07:53:17 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/canly/articles/428767121d7dc2</comments>
+    </item>
+    <item>
       <title>他社クレジットカード継続利用の方法について - PayPayからのお知らせ</title>
       <link>https://paypay.ne.jp/notice/20260701/c-card_voucher/</link>
       <description>&lt;img src="https://image.paypay.ne.jp/page/notice/images/bnr_ogp_01.png" /&gt;&lt;br/&gt;PayPayアプリにおいて、「PayPayカード（「PayPayカード ゴールド」を含む）」以外のクレジットカード（以下、他社クレジットカード）を継続してご利用いただくために、2026年7月1日より「他社カード利用券」の提供を開始します（※）。PayPayアプリにて、他社クレジットカードで「他社カード利用券」を購入し、PayPay加...</description>
       <pubDate>Wed, 01 Jul 2026 11:14:53 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/paypay.ne.jp/notice/20260701/c-card_voucher/</comments>
-    </item>
-    <item>
-      <title>世界の6月の海面水温、過去最高を更新　「未踏の領域」へ突入する恐れ</title>
-      <link>https://www.cnn.co.jp/fringe/35249859.html</link>
-      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/07/01/e314e09c22f3f88cf383803a0d96e2a5/gettyimages-2282113559.jpg" /&gt;&lt;br/&gt;カリフォルニア州サンディエゴの太平洋岸のビーチ。世界の海洋はこの時期としては記録的な高温になっている＝6月20日/Kevin Carter/Getty Images （CNN） 地球の海水温が1年のこの時期としては前例のない水準に達している。新たなデータによると、6月は過去最高記録を更新しており、世界の気象や海洋生物に憂慮すべき影...</description>
-      <pubDate>Wed, 01 Jul 2026 06:33:47 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/fringe/35249859.html</comments>
-    </item>
-    <item>
-      <title>S&amp;P500やオルカンに投資してる人は、将来、「全世界版 失われた30年」なんか..</title>
-      <link>https://anond.hatelabo.jp/20260701150112</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;S&amp;P500やオルカンに投資してる人は、将来、「全世界版 失われた30年」なんかが到来しちゃうケースもちゃんと想定してる？ 「過去ずっと右肩上がりだったから」ってよく言われるけどさ、過去のことは参考にはなるが、将来も絶対だとは限らないでしょ。 これまでの成績の良いアクティブファンドが、将来も良いとは限らない...</description>
-      <pubDate>Wed, 01 Jul 2026 06:11:15 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260701150112</comments>
     </item>
   </channel>
 </rss>
