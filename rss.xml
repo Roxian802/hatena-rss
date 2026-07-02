@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 02 Jul 2026 06:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 07:33:09 +0000</lastBuildDate>
     <item>
       <title>ゆきゆきて、神軍</title>
       <link>https://www.youtube.com/watch?v=l-ksx0efY6U</link>
@@ -69,18 +69,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.soccer-king.jp/news/japan/national/20260701/2179582.html</comments>
     </item>
     <item>
+      <title>東京在住の人が新大阪駅に着いたが、大阪駅への乗り換え方がわからず、一駅なら歩こうかなとメッセージが来た→駅名に「新」がついているからといって、近いとは限らない</title>
+      <link>https://togetter.com/li/2715923</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/81beadb01be2c3cef6dc129a4b3a0e25-1200x630.jpeg" /&gt;&lt;br/&gt;ありかな @arikanat @hironobutnk 大阪駅までの乗り換えが分からずって…新幹線の改札出る時、大阪行く人はこちら、みたいな在来線への案内無かったっけ。それ見逃して、外に出ちゃったのかなあ？だいぶウッカリさんですねぇ。その辺にいる人に聞くってのもできなかったのか。 2026-07-02 06:53:30</description>
+      <pubDate>Wed, 01 Jul 2026 22:58:24 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2715923</comments>
+    </item>
+    <item>
       <title>トピック２「サクサク天ぷらの化学」 | 工学院大学 先進工学部 応用化学科 オリジナルページ</title>
       <link>https://www.kogakuin-applchem.jp/laboratory/foodchemistry/tempura</link>
       <description>1. はじめに 小麦粉のタンパク質は水と結合してグルテンと呼ばれる粘性と弾性を併せ持つ物質になり、小麦粉食品の食感に大きな影響を与える1)。 パンや麺を作る時には、できるだけグルテンが形成されるように製造法を工夫するのであるが、逆にグルテンが形成されないようにする食品もある。その代表例が天ぷらの衣である...</description>
       <pubDate>Wed, 17 Jul 2024 11:08:27 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.kogakuin-applchem.jp/laboratory/foodchemistry/tempura</comments>
-    </item>
-    <item>
-      <title>10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由</title>
-      <link>https://zenn.dev/canly/articles/428767121d7dc2</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--t0xG5qKr--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:10%2520%25E3%2581%258B%25E6%259C%2588%2520CLI%2520%25E3%2581%25A7%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%258D%25E3%2581%259F%2520Claude%2520Code%2520%25E3%2582%2592%25E3%2580%2581Desktop%2520%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AB%25E7%25A7%25BB%25E8%25A1%258C%25E3%2581%2597%25E3%2581%259F%252012%2520%25E3%2581%25AE%25E7%2590%2586%25E7%2594%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%25B5%25E3%2581%258F%25E3%2581%25A0%25EF%25BC%2588fukuda%2520ryu%25EF%25BC%2589%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzEyMjRmMTIyZTMuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由 本記事は、カンリー社内で実施している AI 共有会で話した内容を記事化したものです(2026 年 6 月時点の macOS 版 Claude Desktop アプリの実機運用に基づく感想記事)。 はじめに 皆さんは Claude Code をどう起動して使っていますか？ タ...</description>
-      <pubDate>Wed, 01 Jul 2026 07:53:17 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/canly/articles/428767121d7dc2</comments>
     </item>
   </channel>
 </rss>
