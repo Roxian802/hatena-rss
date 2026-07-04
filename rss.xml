@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 04 Jul 2026 00:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 01:33:16 +0000</lastBuildDate>
     <item>
       <title>週刊文春の佐藤二朗「ハラスメント」記事に何が書かれていたか～読まずに憶測で語り事実とは異なる“怒りの物語”だけが拡散するネット - rabbitbeatの日記</title>
       <link>https://rabbitbeat.hatenadiary.org/entry/2026/07/02/230307</link>
       <description>&lt;img src="https://ogimage.blog.st-hatena.com/17680117127123786454/14945776032049149520/1783067537" /&gt;&lt;br/&gt;無料で読めない記事を見出しだけで判断して憶測だけ拡散させて元記事にヘイトを向けさせる手法が、今のSNSで跋扈している気がする。 新聞社や通信社といったマスコミサイトや、週刊誌サイトは、有料サブスク登録をしないと、満足に記事内容を把握できなくなっている。 新聞や週刊誌が有料なのは大昔からだが、SMAP解散を...</description>
       <pubDate>Thu, 02 Jul 2026 14:32:28 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/rabbitbeat.hatenadiary.org/entry/2026/07/02/230307</comments>
+    </item>
+    <item>
+      <title>AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ</title>
+      <link>https://zenn.dev/rapls/articles/7a1bac83df8b21</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s---qUUl9XW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB8%25E5%2589%25B2%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2580%2581%25E5%258D%258A%25E5%25B9%25B4%25E9%2581%258B%25E7%2594%25A8%25E3%2581%25AE%25E7%25AD%2594%25E3%2581%2588%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2580%2582%25E5%258A%25B9%25E3%2581%2584%25E3%2581%259F3%25E3%2581%25A4%25E3%2581%25A8%25E3%2580%2581%25E8%2585%2590%25E3%2581%25A3%25E3%2581%259F3%25E3%2581%25A4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Rapls%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RlODIyZTEyOWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;半年前に「AIに8割書かせたコードを、保守できるようにやっていること」という記事を書きました。ありがたいことに、自分がいちばん読まれた記事になりました。 あれから半年、その方針のまま実際に運用してみて、答え合わせができました。先に言うと、保守性は「足す」では買えませんでした。コメントを足す、ドキュメ...</description>
+      <pubDate>Fri, 03 Jul 2026 04:26:46 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/rapls/articles/7a1bac83df8b21</comments>
     </item>
     <item>
       <title>誰でも知りたがってるくせにちょっと探しにくい『Return of the Obra Dinn』みたいなゲームのカタログを作りましょう！｜遊星歯車機関</title>
@@ -27,13 +34,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/politics/20260703-GYT1T00298/</comments>
     </item>
     <item>
-      <title>AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ</title>
-      <link>https://zenn.dev/rapls/articles/7a1bac83df8b21</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s---qUUl9XW--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB8%25E5%2589%25B2%25E6%259B%25B8%25E3%2581%258B%25E3%2581%259B%25E3%2581%259F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2580%2581%25E5%258D%258A%25E5%25B9%25B4%25E9%2581%258B%25E7%2594%25A8%25E3%2581%25AE%25E7%25AD%2594%25E3%2581%2588%25E5%2590%2588%25E3%2582%258F%25E3%2581%259B%25E3%2580%2582%25E5%258A%25B9%25E3%2581%2584%25E3%2581%259F3%25E3%2581%25A4%25E3%2581%25A8%25E3%2580%2581%25E8%2585%2590%25E3%2581%25A3%25E3%2581%259F3%25E3%2581%25A4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Rapls%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2RlODIyZTEyOWEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;半年前に「AIに8割書かせたコードを、保守できるようにやっていること」という記事を書きました。ありがたいことに、自分がいちばん読まれた記事になりました。 あれから半年、その方針のまま実際に運用してみて、答え合わせができました。先に言うと、保守性は「足す」では買えませんでした。コメントを足す、ドキュメ...</description>
-      <pubDate>Fri, 03 Jul 2026 04:26:46 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/rapls/articles/7a1bac83df8b21</comments>
-    </item>
-    <item>
       <title>【速報】25年度年金運用、41兆3千億円黒字</title>
       <link>https://www.47news.jp/14568355.html</link>
       <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;公的年金の積立金を運用している年金積立金管理運用独立行政法人（GPIF）は3日、2025年度の運用実績が41兆3995億円の黒字だったと発表した。</description>
@@ -46,20 +46,6 @@
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;日本語でぬから始まる言葉、盗っ人と柳宿しかない</description>
       <pubDate>Fri, 03 Jul 2026 10:43:10 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260703173931</comments>
-    </item>
-    <item>
-      <title>【スクープ！高市早苗首相に公選法違反疑惑】1枚2000円のサナエタオルを「地元有権者に無償配布」の疑い　事務所は「選挙区内の方に無償で配布するということは一切行っていません」と関与を否定</title>
-      <link>https://www.news-postseven.com/archives/20260703_2119053.html</link>
-      <description>&lt;img src="https://www.news-postseven.com/uploads/2026/07/03/post_2620_jiji_takaichi_sanae.jpg" /&gt;&lt;br/&gt;【スクープ！高市早苗首相に公選法違反疑惑】1枚2000円のサナエタオルを「地元有権者に無償配布」の疑い　事務所は「選挙区内の方に無償で配布するということは一切行っていません」と関与を否定 中傷動画をはじめ様々な問題が浮上しても強気の姿勢を貫いている高市早苗・首相。そんな高市首相の事務所が、関連グッズ“サ...</description>
-      <pubDate>Fri, 03 Jul 2026 08:53:34 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.news-postseven.com/archives/20260703_2119053.html</comments>
-    </item>
-    <item>
-      <title>【お詫び】清水茜先生によるXでのご投稿について｜月刊少年シリウス</title>
-      <link>https://shonen-sirius.com/news/260703.html</link>
-      <description>2026年7月1日から３日にかけて、弊社発刊『はたらく細胞』の著者である清水茜先生より、同作の連載期間（休載期間を含む）における医療監修体制、作画環境、当時の担当編集者の対応、および連載後の派生著作物におけるクレジット表記に関するご指摘がX上でなされました。 連載期間中、清水先生より環境改善に関するご要...</description>
-      <pubDate>Fri, 03 Jul 2026 09:01:55 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/shonen-sirius.com/news/260703.html</comments>
     </item>
   </channel>
 </rss>
