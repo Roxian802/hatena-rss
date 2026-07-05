@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 05 Jul 2026 19:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 20:33:09 +0000</lastBuildDate>
     <item>
       <title>「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話 - Qiita</title>
       <link>https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1</link>
       <description>以下、なぜこの結論になるのかを順に書きます。 そもそもVPC内は盗聴できるのか 最初に確認したかったのは、「物理的に同じLANにぶら下がっていて、他人のパケットが流れてくる」という昔のオフィスLANのイメージが、VPCにも当てはまるのか、でした。当てはまりません。 AWSのVPCは物理的な共有LANではなく、SDNの上に作...</description>
       <pubDate>Wed, 01 Jul 2026 04:15:32 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/qiita.com/ntaka329/items/de23144fdf7305a2e0c1</comments>
+    </item>
+    <item>
+      <title>「自民幹部に2750万円渡した」現職議員が証言　福岡県議会の正副議長の就任前　他会派への根回し名目で　幹部は受領を否定｜福岡TNCニュース</title>
+      <link>https://news.tnc.co.jp/news/articles/NID2026070531083</link>
+      <description>&lt;img src="https://news.tnc.co.jp/data/local/NID202607053108301.jpg" /&gt;&lt;br/&gt;海外視察問題に揺れる福岡県議会の議員2人が議長、副議長就任に際して、自民党県議団の幹部に計2750万円を現金で手渡したとTNCの取材に対して証言しました。 ◆吉松源昭県議 「『他会派との懇親ゴルフの費用を持ってくれという話があった」。原口先生（議員から）ですね」 このうち現職の吉松源昭県議は2020年６月から県...</description>
+      <pubDate>Sun, 05 Jul 2026 06:58:47 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.tnc.co.jp/news/articles/NID2026070531083</comments>
     </item>
     <item>
       <title>翻訳家「他社の編集者が誤訳を指摘してきた。ハラスメントだ、怖い」</title>
@@ -32,13 +39,6 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/fc24bd2afb59bbed0af891f7275089a6-1200x630.jpeg" /&gt;&lt;br/&gt;この投稿は、パートナー男性にAV視聴・女性との2人飲み・キャバクラなどの接待店・風俗利用を避けることを最低条件とし、それが「高望みか」と尋ねる内容。 反響として数百万回の閲覧と活発な議論が発生し、条件を「当然」と支持する声がある一方、特にAV禁止を「現実的でない」と指摘する意見も多い。 作者は追加で「隠...</description>
       <pubDate>Sun, 05 Jul 2026 01:46:24 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@buffalo99999/p/JZIJGNv</comments>
-    </item>
-    <item>
-      <title>「ワインで特級品を楽しもうと思うと何十万円とかかるが、素麺なら数千円で味わえる」身近な食品の最高級ランクを探して味わってみる楽しみ</title>
-      <link>https://togetter.com/li/2717107</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/753e5bdef8eed7927ece08fcd5476ea7-1200x630.jpeg" /&gt;&lt;br/&gt;アッピィ @appizou ワインでグラン・クリュを楽しもうと思えば何万円、何十万円とかかる。しかし、素麺なら揖保乃糸の「三神」は間違いなくそのレベルの逸品だ。飛行機でいえばファーストクラス。それでも数千円で味わえる。 私は最近、こうした「相対的な最高級品」を楽しむことが好きになった。素麺、納豆、紅茶、豆腐...</description>
-      <pubDate>Sun, 05 Jul 2026 03:28:37 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2717107</comments>
     </item>
   </channel>
 </rss>
