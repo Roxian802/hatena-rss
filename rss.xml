@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 05 Jul 2026 13:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 14:33:10 +0000</lastBuildDate>
     <item>
       <title>「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話 - Qiita</title>
       <link>https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1</link>
@@ -48,6 +48,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/yui/articles/740da24e9ee419</comments>
     </item>
     <item>
+      <title>借金250万は「人が死ぬ金額」と言われるが、個人で300万借金があるとほとんどの人がもう上がれない「知人が吊った時は200万の借金苦だと聞いた」</title>
+      <link>https://togetter.com/li/2717105</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/2737775c022220b8933f9080e2bdffe3-1200x630.jpeg" /&gt;&lt;br/&gt;借金250万は「人が死ぬ金額」と言われるが、個人で300万借金があるとほとんどの人がもう上がれない「知人が吊った時は200万の借金苦だと聞いた」</description>
+      <pubDate>Sun, 05 Jul 2026 02:44:23 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2717105</comments>
+    </item>
+    <item>
       <title>「なぜ愛子さまは天皇になれないのか」海外メディアが不思議がる“3つのポイント” 「日本中が彼女を慕っているが…」 | 文春オンライン</title>
       <link>https://bunshun.jp/articles/-/90019</link>
       <description>&lt;img src="https://bunshun.jp/mwimgs/c/c/1200wm/img_cc9cf88c7ee0d9255be62bb11153e6ad202742.jpg" /&gt;&lt;br/&gt;6月30日、政府は皇族数の確保に向けた皇室典範改正案を閣議決定した。宮内庁内では改正法案の細部などについて“寝耳に水”との声もあがったと報じられた。その直前に飛び出した自民党の中曽根弘文氏による、天皇皇后両陛下の長女・愛子さま（24）の皇位継承は「あり得ない」「結婚する人もいない」といった驚きの発言も物...</description>
@@ -62,32 +69,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.famitsu.com/article/202607/78894</comments>
     </item>
     <item>
-      <title>借金250万は「人が死ぬ金額」と言われるが、個人で300万借金があるとほとんどの人がもう上がれない「知人が吊った時は200万の借金苦だと聞いた」</title>
-      <link>https://togetter.com/li/2717105</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/2737775c022220b8933f9080e2bdffe3-1200x630.jpeg" /&gt;&lt;br/&gt;借金250万は「人が死ぬ金額」と言われるが、個人で300万借金があるとほとんどの人がもう上がれない「知人が吊った時は200万の借金苦だと聞いた」</description>
-      <pubDate>Sun, 05 Jul 2026 02:44:23 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2717105</comments>
-    </item>
-    <item>
-      <title>すっぴんでレジ打ちしてたら男性客から「もっと可愛くメイクした方がお客さんのテンション上がるよ」って言われたけど、たかがホムセンのレジ係にキャバクラの女の子たちみたいなこと求めないで貰っていいすか？</title>
-      <link>https://posfie.com/@kalofollow/p/XJCndVJ</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/6a8c5c75b2703aff854990a8eec45718-1200x630.jpeg" /&gt;&lt;br/&gt;うつむき @utumuki__ すっぴんでレジ打ちしてたら男性客から「もっと可愛くメイクした方がお客さんのテンション上がるよ」って言われたけど、たかがホムセンのレジ係にキャバクラの女の子たちみたいなこと求めないで貰っていいすか？ 2026-07-03 09:04:20</description>
-      <pubDate>Sat, 04 Jul 2026 11:33:31 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@kalofollow/p/XJCndVJ</comments>
-    </item>
-    <item>
       <title>もうプロンプトは書かなくていい…管理職も活躍できる「ループ・エンジニアリング」の時代がやって来た | Business Insider Japan</title>
       <link>https://www.businessinsider.jp/article/2607-what-are-loops-ai-engineering-tips/</link>
       <description>&lt;img src="https://media.loom-app.com/loom/2026/06/24/564c7899-c0e6-4083-8949-4765cff944d7/original.jpg?w=1200&amp;amp;h=630" /&gt;&lt;br/&gt;ループとは何か？ループとは、AIエージェントを自律的に反復させるシステムで、これを使えばユーザーはいちいちプロンプトを書く手間から解放される。代表例が「/goal（ゴール）」コマンドだ。これはアンソロピック（Anthropic）のClaude CodeやオープンAIのCodexといったAIツールに対し、段階を追ってその都度プロンプ...</description>
       <pubDate>Fri, 03 Jul 2026 03:57:00 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.businessinsider.jp/article/2607-what-are-loops-ai-engineering-tips/</comments>
-    </item>
-    <item>
-      <title>「なんでYouTubeがなかった時代の音楽にもMVがあるの？」そういえばMVって昔は何のためにあって、どうやって見ていたんだっけ？</title>
-      <link>https://togetter.com/li/2716769</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/84466cff547a286b6208cf37e5c4f0e4-1200x630.jpeg" /&gt;&lt;br/&gt;ザビ太 @xavita 「YouTubeが無かった時代のMVが存在してることが理解できない」という発想はYouTube以降の世代しか思いつかない疑問なので我々には思いつけない議題 x.com/suzuka_saga/st… 2026-07-03 16:15:33</description>
-      <pubDate>Sat, 04 Jul 2026 08:52:06 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2716769</comments>
     </item>
   </channel>
 </rss>
