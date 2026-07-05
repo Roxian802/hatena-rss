@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 05 Jul 2026 17:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 18:33:14 +0000</lastBuildDate>
     <item>
       <title>「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話 - Qiita</title>
       <link>https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1</link>
@@ -13,11 +13,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/qiita.com/ntaka329/items/de23144fdf7305a2e0c1</comments>
     </item>
     <item>
-      <title>AV禁止・風俗NGが「最低条件」…女性の恋愛基準は高望みか？Xで大議論</title>
-      <link>https://posfie.com/@buffalo99999/p/JZIJGNv</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/fc24bd2afb59bbed0af891f7275089a6-1200x630.jpeg" /&gt;&lt;br/&gt;この投稿は、パートナー男性にAV視聴・女性との2人飲み・キャバクラなどの接待店・風俗利用を避けることを最低条件とし、それが「高望みか」と尋ねる内容。 反響として数百万回の閲覧と活発な議論が発生し、条件を「当然」と支持する声がある一方、特にAV禁止を「現実的でない」と指摘する意見も多い。 作者は追加で「隠...</description>
-      <pubDate>Sun, 05 Jul 2026 01:46:24 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@buffalo99999/p/JZIJGNv</comments>
+      <title>翻訳家「他社の編集者が誤訳を指摘してきた。ハラスメントだ、怖い」</title>
+      <link>https://posfie.com/@A_Ppossoidal/p/ThTNeim</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/48b7ed604e1d82f720e71e8e44d98cfd-1200x630.jpeg" /&gt;&lt;br/&gt;鯨井久志 &#x1f433; Hisashi Kujirai @hanfpen 初めて訳書を出したとき、他社の編集者が頼んでもないのに原文と訳文を照合して、版元の編集者に送ってきたの、あれはいま思えば明らかに示威行為だしハラスメントですね。いまでもそんなことを他の人にもしているのだろうかしら。怖い世界だと思ったものです。 2026-07-04 20:15:17</description>
+      <pubDate>Sun, 05 Jul 2026 10:10:10 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@A_Ppossoidal/p/ThTNeim</comments>
     </item>
     <item>
       <title>大人でピアノ独学したけど楽しかった</title>
@@ -27,11 +27,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260705104006</comments>
     </item>
     <item>
-      <title>Fable 5をトークン破産させずに使い倒す — オーケストレーターに徹させる運用</title>
-      <link>https://zenn.dev/yui/articles/740da24e9ee419</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--RIKtd41h--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Fable%25205%25E3%2582%2592%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E7%25A0%25B4%25E7%2594%25A3%25E3%2581%2595%25E3%2581%259B%25E3%2581%259A%25E3%2581%25AB%25E4%25BD%25BF%25E3%2581%2584%25E5%2580%2592%25E3%2581%2599%2520%25E2%2580%2594%2520%25E3%2582%25AA%25E3%2583%25BC%25E3%2582%25B1%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AB%25E5%25BE%25B9%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E9%2581%258B%25E7%2594%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yui%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjMGIyNzFhZWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;はじめに Claude Fable 5、今までのモデルと比べても頭ひとつ飛び出るぐらい賢いですよね。 以前出た時にすぐメインモデルに設定して、実装からデバッグから雑務まで全部やらせた結果、トークンが凄い勢いで食われていくので対策しました。 Fable 5 の賢さは活かしつつトークンは食わせないようにオーケストレーターに徹...</description>
-      <pubDate>Sat, 04 Jul 2026 11:32:30 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/yui/articles/740da24e9ee419</comments>
+      <title>AV禁止・風俗NGが「最低条件」…女性の恋愛基準は高望みか？Xで大議論</title>
+      <link>https://posfie.com/@buffalo99999/p/JZIJGNv</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/fc24bd2afb59bbed0af891f7275089a6-1200x630.jpeg" /&gt;&lt;br/&gt;この投稿は、パートナー男性にAV視聴・女性との2人飲み・キャバクラなどの接待店・風俗利用を避けることを最低条件とし、それが「高望みか」と尋ねる内容。 反響として数百万回の閲覧と活発な議論が発生し、条件を「当然」と支持する声がある一方、特にAV禁止を「現実的でない」と指摘する意見も多い。 作者は追加で「隠...</description>
+      <pubDate>Sun, 05 Jul 2026 01:46:24 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@buffalo99999/p/JZIJGNv</comments>
+    </item>
+    <item>
+      <title>「ワインで特級品を楽しもうと思うと何十万円とかかるが、素麺なら数千円で味わえる」身近な食品の最高級ランクを探して味わってみる楽しみ</title>
+      <link>https://togetter.com/li/2717107</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/753e5bdef8eed7927ece08fcd5476ea7-1200x630.jpeg" /&gt;&lt;br/&gt;アッピィ @appizou ワインでグラン・クリュを楽しもうと思えば何万円、何十万円とかかる。しかし、素麺なら揖保乃糸の「三神」は間違いなくそのレベルの逸品だ。飛行機でいえばファーストクラス。それでも数千円で味わえる。 私は最近、こうした「相対的な最高級品」を楽しむことが好きになった。素麺、納豆、紅茶、豆腐...</description>
+      <pubDate>Sun, 05 Jul 2026 03:28:37 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2717107</comments>
     </item>
   </channel>
 </rss>
