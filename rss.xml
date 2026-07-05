@@ -4,13 +4,13 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 05 Jul 2026 21:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 22:33:10 +0000</lastBuildDate>
     <item>
-      <title>「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話 - Qiita</title>
-      <link>https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1</link>
-      <description>以下、なぜこの結論になるのかを順に書きます。 そもそもVPC内は盗聴できるのか 最初に確認したかったのは、「物理的に同じLANにぶら下がっていて、他人のパケットが流れてくる」という昔のオフィスLANのイメージが、VPCにも当てはまるのか、でした。当てはまりません。 AWSのVPCは物理的な共有LANではなく、SDNの上に作...</description>
-      <pubDate>Wed, 01 Jul 2026 04:15:32 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/ntaka329/items/de23144fdf7305a2e0c1</comments>
+      <title>翻訳家「他社の編集者が誤訳を指摘してきた。ハラスメントだ、怖い」</title>
+      <link>https://posfie.com/@A_Ppossoidal/p/ThTNeim</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/48b7ed604e1d82f720e71e8e44d98cfd-1200x630.jpeg" /&gt;&lt;br/&gt;鯨井久志 &#x1f433; Hisashi Kujirai @hanfpen 初めて訳書を出したとき、他社の編集者が頼んでもないのに原文と訳文を照合して、版元の編集者に送ってきたの、あれはいま思えば明らかに示威行為だしハラスメントですね。いまでもそんなことを他の人にもしているのだろうかしら。怖い世界だと思ったものです。 2026-07-04 20:15:17</description>
+      <pubDate>Sun, 05 Jul 2026 10:10:10 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@A_Ppossoidal/p/ThTNeim</comments>
     </item>
     <item>
       <title>「自民幹部に2750万円渡した」現職議員が証言　福岡県議会の正副議長の就任前　他会派への根回し名目で　幹部は受領を否定｜福岡TNCニュース</title>
@@ -20,11 +20,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.tnc.co.jp/news/articles/NID2026070531083</comments>
     </item>
     <item>
-      <title>翻訳家「他社の編集者が誤訳を指摘してきた。ハラスメントだ、怖い」</title>
-      <link>https://posfie.com/@A_Ppossoidal/p/ThTNeim</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/48b7ed604e1d82f720e71e8e44d98cfd-1200x630.jpeg" /&gt;&lt;br/&gt;鯨井久志 &#x1f433; Hisashi Kujirai @hanfpen 初めて訳書を出したとき、他社の編集者が頼んでもないのに原文と訳文を照合して、版元の編集者に送ってきたの、あれはいま思えば明らかに示威行為だしハラスメントですね。いまでもそんなことを他の人にもしているのだろうかしら。怖い世界だと思ったものです。 2026-07-04 20:15:17</description>
-      <pubDate>Sun, 05 Jul 2026 10:10:10 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@A_Ppossoidal/p/ThTNeim</comments>
+      <title>「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話 - Qiita</title>
+      <link>https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1</link>
+      <description>以下、なぜこの結論になるのかを順に書きます。 そもそもVPC内は盗聴できるのか 最初に確認したかったのは、「物理的に同じLANにぶら下がっていて、他人のパケットが流れてくる」という昔のオフィスLANのイメージが、VPCにも当てはまるのか、でした。当てはまりません。 AWSのVPCは物理的な共有LANではなく、SDNの上に作...</description>
+      <pubDate>Wed, 01 Jul 2026 04:15:32 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/ntaka329/items/de23144fdf7305a2e0c1</comments>
     </item>
     <item>
       <title>大人でピアノ独学したけど楽しかった</title>
@@ -32,13 +32,6 @@
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;習い事とは無縁だったけどピアノ弾けたらいいなと思って数年間練習して自分なりに楽しんで弾けるようになったので同じような人がいたら参考にしてもらえると嬉しい。 ☆心構え ・楽譜見ながら両手で目安のテンポ通り弾くだけなら大人からでも全然出来るので大丈夫。楽譜に書いてない細かい表現力とかは独学だと身につきに...</description>
       <pubDate>Sun, 05 Jul 2026 01:49:20 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260705104006</comments>
-    </item>
-    <item>
-      <title>AV禁止・風俗NGが「最低条件」…女性の恋愛基準は高望みか？Xで大議論</title>
-      <link>https://posfie.com/@buffalo99999/p/JZIJGNv</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/fc24bd2afb59bbed0af891f7275089a6-1200x630.jpeg" /&gt;&lt;br/&gt;この投稿は、パートナー男性にAV視聴・女性との2人飲み・キャバクラなどの接待店・風俗利用を避けることを最低条件とし、それが「高望みか」と尋ねる内容。 反響として数百万回の閲覧と活発な議論が発生し、条件を「当然」と支持する声がある一方、特にAV禁止を「現実的でない」と指摘する意見も多い。 作者は追加で「隠...</description>
-      <pubDate>Sun, 05 Jul 2026 01:46:24 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@buffalo99999/p/JZIJGNv</comments>
     </item>
   </channel>
 </rss>
