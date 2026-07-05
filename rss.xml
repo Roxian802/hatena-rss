@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 05 Jul 2026 12:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 13:33:10 +0000</lastBuildDate>
+    <item>
+      <title>「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話 - Qiita</title>
+      <link>https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1</link>
+      <description>以下、なぜこの結論になるのかを順に書きます。 そもそもVPC内は盗聴できるのか 最初に確認したかったのは、「物理的に同じLANにぶら下がっていて、他人のパケットが流れてくる」という昔のオフィスLANのイメージが、VPCにも当てはまるのか、でした。当てはまりません。 AWSのVPCは物理的な共有LANではなく、SDNの上に作...</description>
+      <pubDate>Wed, 01 Jul 2026 04:15:32 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/ntaka329/items/de23144fdf7305a2e0c1</comments>
+    </item>
     <item>
       <title>AV禁止・風俗NGが「最低条件」…女性の恋愛基準は高望みか？Xで大議論</title>
       <link>https://posfie.com/@buffalo99999/p/JZIJGNv</link>
@@ -34,13 +41,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2717051</comments>
     </item>
     <item>
-      <title>「なぜ愛子さまは天皇になれないのか」海外メディアが不思議がる“3つのポイント” 「日本中が彼女を慕っているが…」 | 文春オンライン</title>
-      <link>https://bunshun.jp/articles/-/90019</link>
-      <description>&lt;img src="https://bunshun.jp/mwimgs/c/c/1200wm/img_cc9cf88c7ee0d9255be62bb11153e6ad202742.jpg" /&gt;&lt;br/&gt;6月30日、政府は皇族数の確保に向けた皇室典範改正案を閣議決定した。宮内庁内では改正法案の細部などについて“寝耳に水”との声もあがったと報じられた。その直前に飛び出した自民党の中曽根弘文氏による、天皇皇后両陛下の長女・愛子さま（24）の皇位継承は「あり得ない」「結婚する人もいない」といった驚きの発言も物...</description>
-      <pubDate>Sat, 04 Jul 2026 08:29:11 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/bunshun.jp/articles/-/90019</comments>
-    </item>
-    <item>
       <title>Fable 5をトークン破産させずに使い倒す — オーケストレーターに徹させる運用</title>
       <link>https://zenn.dev/yui/articles/740da24e9ee419</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--RIKtd41h--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Fable%25205%25E3%2582%2592%25E3%2583%2588%25E3%2583%25BC%25E3%2582%25AF%25E3%2583%25B3%25E7%25A0%25B4%25E7%2594%25A3%25E3%2581%2595%25E3%2581%259B%25E3%2581%259A%25E3%2581%25AB%25E4%25BD%25BF%25E3%2581%2584%25E5%2580%2592%25E3%2581%2599%2520%25E2%2580%2594%2520%25E3%2582%25AA%25E3%2583%25BC%25E3%2582%25B1%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AC%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2581%25AB%25E5%25BE%25B9%25E3%2581%2595%25E3%2581%259B%25E3%2582%258B%25E9%2581%258B%25E7%2594%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:yui%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzVjMGIyNzFhZWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;はじめに Claude Fable 5、今までのモデルと比べても頭ひとつ飛び出るぐらい賢いですよね。 以前出た時にすぐメインモデルに設定して、実装からデバッグから雑務まで全部やらせた結果、トークンが凄い勢いで食われていくので対策しました。 Fable 5 の賢さは活かしつつトークンは食わせないようにオーケストレーターに徹...</description>
@@ -48,11 +48,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/yui/articles/740da24e9ee419</comments>
     </item>
     <item>
+      <title>「なぜ愛子さまは天皇になれないのか」海外メディアが不思議がる“3つのポイント” 「日本中が彼女を慕っているが…」 | 文春オンライン</title>
+      <link>https://bunshun.jp/articles/-/90019</link>
+      <description>&lt;img src="https://bunshun.jp/mwimgs/c/c/1200wm/img_cc9cf88c7ee0d9255be62bb11153e6ad202742.jpg" /&gt;&lt;br/&gt;6月30日、政府は皇族数の確保に向けた皇室典範改正案を閣議決定した。宮内庁内では改正法案の細部などについて“寝耳に水”との声もあがったと報じられた。その直前に飛び出した自民党の中曽根弘文氏による、天皇皇后両陛下の長女・愛子さま（24）の皇位継承は「あり得ない」「結婚する人もいない」といった驚きの発言も物...</description>
+      <pubDate>Sat, 04 Jul 2026 08:29:11 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/bunshun.jp/articles/-/90019</comments>
+    </item>
+    <item>
       <title>『パラッパラッパー』レジェンド×3インタビュー。採点システムの秘密やアフレコ秘話、幻のタイトル名など30年越しに明かされる衝撃の事実が続々！ | ゲーム・エンタメ最新情報のファミ通.com</title>
       <link>https://www.famitsu.com/article/202607/78894</link>
       <description>&lt;img src="https://cimg.kgl-systems.io/camion/files/78894/thumbnail_iQSZ.jpg?x=1280" /&gt;&lt;br/&gt;発売当初はそれほど大きな注目を集めることはなかった同作だが、ラップを柱とし、“音ゲー”というジャンルの先駆けとなったリズムアクションのシステム、独特の世界観、ロドニー・アラン・グリーンブラット氏がデザインした個性的でかわいらしいペーパーキャラクターなどで徐々に注目を集めるようになり、やがては世界的...</description>
       <pubDate>Sat, 04 Jul 2026 15:13:43 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.famitsu.com/article/202607/78894</comments>
+    </item>
+    <item>
+      <title>借金250万は「人が死ぬ金額」と言われるが、個人で300万借金があるとほとんどの人がもう上がれない「知人が吊った時は200万の借金苦だと聞いた」</title>
+      <link>https://togetter.com/li/2717105</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/2737775c022220b8933f9080e2bdffe3-1200x630.jpeg" /&gt;&lt;br/&gt;借金250万は「人が死ぬ金額」と言われるが、個人で300万借金があるとほとんどの人がもう上がれない「知人が吊った時は200万の借金苦だと聞いた」</description>
+      <pubDate>Sun, 05 Jul 2026 02:44:23 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2717105</comments>
     </item>
     <item>
       <title>すっぴんでレジ打ちしてたら男性客から「もっと可愛くメイクした方がお客さんのテンション上がるよ」って言われたけど、たかがホムセンのレジ係にキャバクラの女の子たちみたいなこと求めないで貰っていいすか？</title>
@@ -69,25 +83,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.businessinsider.jp/article/2607-what-are-loops-ai-engineering-tips/</comments>
     </item>
     <item>
-      <title>借金250万は「人が死ぬ金額」と言われるが、個人で300万借金があるとほとんどの人がもう上がれない「知人が吊った時は200万の借金苦だと聞いた」</title>
-      <link>https://togetter.com/li/2717105</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/2737775c022220b8933f9080e2bdffe3-1200x630.jpeg" /&gt;&lt;br/&gt;借金250万は「人が死ぬ金額」と言われるが、個人で300万借金があるとほとんどの人がもう上がれない「知人が吊った時は200万の借金苦だと聞いた」</description>
-      <pubDate>Sun, 05 Jul 2026 02:44:23 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2717105</comments>
-    </item>
-    <item>
       <title>「なんでYouTubeがなかった時代の音楽にもMVがあるの？」そういえばMVって昔は何のためにあって、どうやって見ていたんだっけ？</title>
       <link>https://togetter.com/li/2716769</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/84466cff547a286b6208cf37e5c4f0e4-1200x630.jpeg" /&gt;&lt;br/&gt;ザビ太 @xavita 「YouTubeが無かった時代のMVが存在してることが理解できない」という発想はYouTube以降の世代しか思いつかない疑問なので我々には思いつけない議題 x.com/suzuka_saga/st… 2026-07-03 16:15:33</description>
       <pubDate>Sat, 04 Jul 2026 08:52:06 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2716769</comments>
-    </item>
-    <item>
-      <title>「大学生の塾」盛況　難関大の講義が難しい…　単位落とす学生ら通う：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASV717S3FV71UTIL024M.html</link>
-      <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260702000886_comm.jpg" /&gt;&lt;br/&gt;「なぜそのような解法になるのだろう。何が分からないのかが、分からない」　東京都内の難関私立大学の理系学部に進んだ2年の女子学生（20）は、入学直後から数学や物理、化学の講義の難しさ、スピードに圧倒さ…</description>
-      <pubDate>Sat, 04 Jul 2026 21:24:43 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV717S3FV71UTIL024M.html</comments>
     </item>
   </channel>
 </rss>
