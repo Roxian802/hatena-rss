@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 06 Jul 2026 00:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 01:33:09 +0000</lastBuildDate>
     <item>
       <title>スタートアップをとりまく思想 - &#x1f434; (馬)</title>
       <link>https://blog.takaumada.com/entry/startup-thought-2026</link>
@@ -27,6 +27,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260705172220</comments>
     </item>
     <item>
+      <title>デンソー期間工を3年やって貯金が1460万円を達成した方の体験談がためになる「家賃や水道光熱費が無料」「身体的には楽ではない」</title>
+      <link>https://togetter.com/li/2717310</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/325f828f49e1d9422fe71da3dbf39bc3-1200x630.jpeg" /&gt;&lt;br/&gt;デンソー期間工を3年やって貯金が1460万円を達成した方の体験談がためになる「家賃や水道光熱費が無料」「身体的には楽ではない」</description>
+      <pubDate>Sun, 05 Jul 2026 13:59:46 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2717310</comments>
+    </item>
+    <item>
       <title>翻訳家「他社の編集者が誤訳を指摘してきた。ハラスメントだ、怖い」</title>
       <link>https://posfie.com/@A_Ppossoidal/p/ThTNeim</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/48b7ed604e1d82f720e71e8e44d98cfd-1200x630.jpeg" /&gt;&lt;br/&gt;鯨井久志 &#x1f433; Hisashi Kujirai @hanfpen 初めて訳書を出したとき、他社の編集者が頼んでもないのに原文と訳文を照合して、版元の編集者に送ってきたの、あれはいま思えば明らかに示威行為だしハラスメントですね。いまでもそんなことを他の人にもしているのだろうかしら。怖い世界だと思ったものです。 2026-07-04 20:15:17</description>
@@ -39,13 +46,6 @@
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;婚カツの話になると必ず高望み云々の話が出てくるけど、なにをもって「高」なのかわからん 自分はこういう人と結婚する、という単なる条件であってそれ以上でもそれ以下でもないだろう 身長180センチ以上がいいんなら、機械的に身長180以下を弾いていって、マッチングするまでやるだけだ なんで条件を変えてまで結婚しな...</description>
       <pubDate>Sun, 05 Jul 2026 10:52:25 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260705193945</comments>
-    </item>
-    <item>
-      <title>「VPC内通信もTLSにすべき？」と聞かれて ── そもそもAWS内で盗聴できるのか脅威モデルで確かめた話 - Qiita</title>
-      <link>https://qiita.com/ntaka329/items/de23144fdf7305a2e0c1</link>
-      <description>以下、なぜこの結論になるのかを順に書きます。 そもそもVPC内は盗聴できるのか 最初に確認したかったのは、「物理的に同じLANにぶら下がっていて、他人のパケットが流れてくる」という昔のオフィスLANのイメージが、VPCにも当てはまるのか、でした。当てはまりません。 AWSのVPCは物理的な共有LANではなく、SDNの上に作...</description>
-      <pubDate>Wed, 01 Jul 2026 04:15:32 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/ntaka329/items/de23144fdf7305a2e0c1</comments>
     </item>
   </channel>
 </rss>
