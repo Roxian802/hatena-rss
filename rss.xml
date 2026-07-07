@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Tue, 07 Jul 2026 03:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 04:33:09 +0000</lastBuildDate>
     <item>
       <title>ソフトウェアの見積もり - kawasima</title>
       <link>https://scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A?__readwiseLocation=</link>
       <description>&lt;img src="https://gyazo.com/9db61943d68ea02b4b100ef92ea0f111/max_size/2000" /&gt;&lt;br/&gt;ソフトウェアの工数見積もりは40年以上にわたって研究されてきた古いテーマで、入門書も実践書も数多い。だが現場で広く流布する「常識」の多くは、一次資料まで遡ると実証根拠が確認できない。確率分布が書ける前提で精度を磨いてきた見積もり研究は、確率分布が原理的に書けない領域から来る大幅超過には対応していな...</description>
       <pubDate>Mon, 06 Jul 2026 14:19:22 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/scrapbox.io/kawasima/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E8%A6%8B%E7%A9%8D%E3%82%82%E3%82%8A?__readwiseLocation=</comments>
+    </item>
+    <item>
+      <title>マネージャーで止まる人と、部長になれる人の差｜勅使川原晃司</title>
+      <link>https://note.com/kteshigawara/n/n25bec00c757c</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/291845802/rectangle_large_type_2_c0866cc6a5612f217df3650bf4966daf.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;マネージャーと部長は、管理職としての延長線上にありません。役割の次元が一つ変わります。 マネージャーとしてチームの売上をガンガン上げていても、そこから先に進めない人がいます。逆に、マネージャーとしての成果がそこまでなくても、部長に上がる人がいる。 求められるものが、そもそも違うからです。 マネージャ...</description>
+      <pubDate>Mon, 06 Jul 2026 08:39:03 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/kteshigawara/n/n25bec00c757c</comments>
     </item>
     <item>
       <title>16GB のノートPC でも、Claude Code + ローカル LLM は本気で使える — CodeRouter で Tool Call が安定するまで(2026年7月版)｜zephel01</title>
@@ -32,6 +39,13 @@
       <description>&lt;img src="https://shuon.ismcdn.jp/mwimgs/6/b/1200xm/img_6b7a42b2b0a02755932670b496470c112419386.jpg" /&gt;&lt;br/&gt;『時をかける少女』や『サマーウォーズ』などヒット作を手掛けてきた細田守監督の展覧会「細田守の原点/展」が、開催中だ。細田作品は、入道雲やクジラ、夏休みの記憶のような明るさをまといながら、別れやすれ違い、無力感のような痛みを描いてきた。展示されている中学時代の自主制作アニメや大学時代の実写映画、そし...</description>
       <pubDate>Mon, 06 Jul 2026 14:43:19 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/shueisha.online/articles/-/258007</comments>
+    </item>
+    <item>
+      <title>「レビューするくらいなら自分でやった方が早い」問題について｜柳川慶太</title>
+      <link>https://note.com/gimupop/n/nbf84fcd152fe</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/291203408/rectangle_large_type_2_72509f29e0f259c6684b172689fd2ce5.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;BASE株式会社で執行役員をしている柳川です。金融事業の事業責任者をしています。エンジニア→PdM→事業責任者というキャリアを歩んできました。 今日はレビューの話をします。レビューといってもいろいろありますが、成果物全般のレビューを念頭に置いています。ユーザーに送付するメールの文面の確認もそうだし、企画書...</description>
+      <pubDate>Mon, 06 Jul 2026 14:26:07 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/gimupop/n/nbf84fcd152fe</comments>
     </item>
   </channel>
 </rss>
