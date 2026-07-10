@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 10 Jul 2026 07:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 08:33:10 +0000</lastBuildDate>
+    <item>
+      <title>【速報】旧宮家と天皇陛下は36～38親等の隔たり</title>
+      <link>https://www.47news.jp/14602188.html</link>
+      <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;宮内庁の緒方次長は衆院議運委で、1947年に皇籍離脱した旧11宮家の男系男子と天皇陛下は「36親等から38親等の隔たりがある」と語った。</description>
+      <pubDate>Fri, 10 Jul 2026 04:20:31 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14602188.html</comments>
+    </item>
     <item>
       <title>おじさんはなぜ加害的でありながら自覚できないのか？佐藤二朗と橋本愛の事件から考える｜leon_devops</title>
       <link>https://note.com/tresagua0123/n/n254ef42fbce1</link>
@@ -25,6 +32,13 @@
       <description>&lt;img src="https://www.sponichi.co.jp/entertainment/news/2026/07/10/jpeg/20260710s10041000008000p_view.webp" /&gt;&lt;br/&gt;フジテレビ　来年1月期の月9変更　佐藤二朗、橋本愛のトラブル受け“恋愛ものNO”突然の指示に現場困惑</description>
       <pubDate>Fri, 10 Jul 2026 00:01:23 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.sponichi.co.jp/entertainment/news/2026/07/10/articles/20260709s00041000432000c.html</comments>
+    </item>
+    <item>
+      <title>結局ナフサってなんですか？　足りないとなんで困るの？代わりに使えるものはないの？専門家に聞く</title>
+      <link>https://dailyportalz.jp/kiji/kekkyoku-naphtha-nani</link>
+      <description>&lt;img src="https://dailyportalz.jp/application/files/thumbnails/width1280/4917/8322/6801/001.jpg" /&gt;&lt;br/&gt;1985年福岡生まれ。思い立ったが吉日で行動しています。地味なファッションと言われることが多いので、派手なメガネを買おうと思っています。（ライターwiki） 前の記事：全国道の駅グランプリ1位の「川場田園プラザ」で勝手にアフタヌーンティーを作る ＞ 個人サイト ＞note ナフサをよく聞く 以前と比べればナフサの存...</description>
+      <pubDate>Fri, 10 Jul 2026 02:02:42 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/dailyportalz.jp/kiji/kekkyoku-naphtha-nani</comments>
     </item>
     <item>
       <title>デザイナー以外でも、Claude Codeでデザインを作れるために取り組んだこと｜坪田 朋</title>
@@ -67,6 +81,13 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/0655524aea5aa7fb9a968951d5af7dce-1200x630.jpeg" /&gt;&lt;br/&gt;「デザインにおいて一票も入らない作品に価値はない」憧れの美大に入学したが、最初の授業で渡された一枚の赤いシールにきらきらキャンパスライフを打ち砕かれた… 美大に入ったら弱肉強食だった話</description>
       <pubDate>Thu, 09 Jul 2026 23:25:38 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2718883</comments>
+    </item>
+    <item>
+      <title>ドメイン駆動設計のよくある誤解</title>
+      <link>https://zenn.dev/shotaro_tsuji/articles/a8f2c4a846d552</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--H7kaXWN5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E9%25A7%2586%25E5%258B%2595%25E8%25A8%25AD%25E8%25A8%2588%25E3%2581%25AE%25E3%2582%2588%25E3%2581%258F%25E3%2581%2582%25E3%2582%258B%25E8%25AA%25A4%25E8%25A7%25A3%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Shotaro%2520Tsuji%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzlhNjVhNzMxMzEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;ドメイン駆動設計という用語が世間に広まってからかなりの年月が経過していますが、書籍を読んでもなかなか理解しにくい部分があると思います。私がソフトウェアエンジニアとして経験してきた中で、ドメイン駆動設計の難しいところについて私なりの説明をしたいと思います。最も重要なドメインとユビキタス言語の概念の...</description>
+      <pubDate>Thu, 09 Jul 2026 05:21:09 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/shotaro_tsuji/articles/a8f2c4a846d552</comments>
     </item>
     <item>
       <title>東京都 結婚支援に本腰、婚活アプリ「TOKYO縁結び」760組が真剣交際 265組が結婚　おととし9月運用開始【Nスタ解説】（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース</title>
