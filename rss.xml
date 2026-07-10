@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 10 Jul 2026 21:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 22:33:11 +0000</lastBuildDate>
     <item>
       <title>【独自】内閣広報官がSNS（X）で「虚偽情報」を発信か</title>
       <link>https://gendai.media/articles/-/169041</link>
@@ -27,18 +27,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14600846.html</comments>
     </item>
     <item>
-      <title>Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた</title>
-      <link>https://zenn.dev/9m/articles/d08dcc093e1bbf</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--s4_9GMo5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloudflare%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E7%258B%25AC%25E8%2587%25AA%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592Gmail%25E3%2581%258B%25E3%2582%2589%25E9%2580%2581%25E5%258F%2597%25E4%25BF%25A1%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:9m%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dHQ3VDelZlZU90aTBlSmRwc1VqWGFsdHB1Tlc3VmUyV0QtS1FGZkE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;TL;DR メールの受信は Cloudflare Email Routing メールの送信は Cloudflare Email Sending メールの閲覧・作成には普段使っているGmailを利用 CloudflareがSMTPをしゃべれるようになったので、Gmailのエイリアスに追加できるぞ！ 独自ドメインのメールアドレスにお金かけたくない問題 個人開発をやっているとポコポコ独...</description>
-      <pubDate>Fri, 10 Jul 2026 03:47:12 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/9m/articles/d08dcc093e1bbf</comments>
-    </item>
-    <item>
       <title>「ごめんなさい名古屋はマジで美味しい店ないです東京よりないです」と発言したリュウジ氏に名古屋の美味い店や名店などオススメの情報が寄せられる</title>
       <link>https://togetter.com/li/2719079</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/e34cf53a5d05436461841d36b3635227-1200x630.jpeg" /&gt;&lt;br/&gt;リュウジ@料理のおじさんバズレシピ @ore825 正直言うと 【大阪の仕事は飯が安くて旨いから忙しくても無理矢理ねじこんででも受けてる】 味もコスパもヤバい 大阪の凄さは｢立ち飲み屋｣ですらめちゃくちゃ旨いこと、東京にもあるけど飯が旨い立ち飲み屋は少ない 最近うめえと思った東京のお店、2店舗とも本店大阪だって言...</description>
       <pubDate>Fri, 10 Jul 2026 11:52:08 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2719079</comments>
+    </item>
+    <item>
+      <title>Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた</title>
+      <link>https://zenn.dev/9m/articles/d08dcc093e1bbf</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--s4_9GMo5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloudflare%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E7%258B%25AC%25E8%2587%25AA%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592Gmail%25E3%2581%258B%25E3%2582%2589%25E9%2580%2581%25E5%258F%2597%25E4%25BF%25A1%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:9m%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dHQ3VDelZlZU90aTBlSmRwc1VqWGFsdHB1Tlc3VmUyV0QtS1FGZkE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;TL;DR メールの受信は Cloudflare Email Routing メールの送信は Cloudflare Email Sending メールの閲覧・作成には普段使っているGmailを利用 CloudflareがSMTPをしゃべれるようになったので、Gmailのエイリアスに追加できるぞ！ 独自ドメインのメールアドレスにお金かけたくない問題 個人開発をやっているとポコポコ独...</description>
+      <pubDate>Fri, 10 Jul 2026 03:47:12 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/9m/articles/d08dcc093e1bbf</comments>
     </item>
     <item>
       <title>俺は佐藤二朗に同情しかない</title>
@@ -53,13 +53,6 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/35062f3e6385c25965ab29900e07f0f0-1200x630.jpeg" /&gt;&lt;br/&gt;専念寺/ネコ坊主 @yabumoto610 少し汚い話ですが、一度おしっこを入れたコップを、完全にきれいになるまで洗ったとします。 それでも、そのコップでお茶を飲むのには抵抗を感じる。 何も残っていないのに「汚い」と感じてしまう。この心理的な抵抗が「穢れ」の本質の一つです。 そして人間は、この感覚を人や職業、土地...</description>
       <pubDate>Fri, 10 Jul 2026 06:21:20 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2719016</comments>
-    </item>
-    <item>
-      <title>【速報】旧宮家と天皇陛下は36～38親等の隔たり</title>
-      <link>https://www.47news.jp/14602188.html</link>
-      <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;宮内庁の緒方次長は衆院議運委で、1947年に皇籍離脱した旧11宮家の男系男子と天皇陛下は「36親等から38親等の隔たりがある」と語った。</description>
-      <pubDate>Fri, 10 Jul 2026 04:20:31 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/14602188.html</comments>
     </item>
   </channel>
 </rss>
