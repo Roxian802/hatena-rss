@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 11 Jul 2026 01:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 02:33:09 +0000</lastBuildDate>
     <item>
       <title>わたしが女性天皇を歓迎しないこれだけの理由</title>
       <link>https://websekai.iwanami.co.jp/posts/9748</link>
       <description>&lt;img src="http://websekai.iwanami.co.jp/medias/ygsft/images/ogp/post_ogp_ID9748_20260709131040.jpg" /&gt;&lt;br/&gt;※『世界』2026年8月号収録の記事を特別公開します。 天皇制について発言を求められるたびに、わたしは断ってきた。論じれば論じるほど、賛否共に国民の関心が集まることを怖れたからだ。それより、関心が徐々に薄れていって、皇統が絶えると共にフェイドアウトしていってくれたらよいが、と感じていた。 その皇統の継続...</description>
       <pubDate>Fri, 10 Jul 2026 14:15:17 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/websekai.iwanami.co.jp/posts/9748</comments>
+    </item>
+    <item>
+      <title>Claude Code・Codex用に、超爆速で超安全なサンドボックスを作る方法 - Qiita</title>
+      <link>https://qiita.com/Koukyosyumei/items/3bd4696237ea64c38971</link>
+      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Ftech-festa-ogp-background-4b5015b2c518c7e6b9062a7c9f5f5e90.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYyOTU5OTUzJTJGMzZjNGVlMTEzMDI3MTMzZDMxYTQyMjM0YWZhODE4MTVhNTE3MjEwOSUyRnhfbGFyZ2UucG5nJTNGMTc4MjY4ODc2NT9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9MjI3Y2NlOTA5NzVjZWZkNzBkYzIwMzNhNjk4YjkyNDU%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Dc05cf9086368e891e15c78650c95009f?ixlib=rb-4.1.1&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9Q2xhdWRlJTIwQ29kZSVFMyU4MyVCQkNvZGV4JUU3JTk0JUE4JUUzJTgxJUFCJUUzJTgwJTgxJUU4JUI2JTg1JUU3JTg4JTg2JUU5JTgwJTlGJUUzJTgxJUE3JUU4JUI2JTg1JUU1JUFFJTg5JUU1JTg1JUE4JUUzJTgxJUFBJUUzJTgyJUI1JUUzJTgzJUIzJUUzJTgzJTg5JUUzJTgzJTlDJUUzJTgzJTgzJUUzJTgyJUFGJUUzJTgyJUI5JUUzJTgyJTkyJUU0JUJEJTlDJUUzJTgyJThCJUU2JTk2JUI5JUU2JUIzJTk1JnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjNGRkZGRkYmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9MTRhMzQxMGM4MjVlYmQ3ZTJkOTBmNjk3MDZlNmFiZGU&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBLb3VreW9zeXVtZWkmdHh0LWNvbG9yPSUyM0ZGRkZGRiZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yNmNjMDdlZDcyZWIyZDUwNjZhOTdiMjZkYzg0MWQ2OA&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=7f691b1d22c50a4691ce8ecdbe4d4489" /&gt;&lt;br/&gt;こんにちは！コロンビア大学の博士課程でAI・セキュリティの研究をしている Koukyosyumei です。 さて、読者のほとんどの方が Claude Code や Codex を使って開発をしていると思いますが、皆さんは「AIエージェントがシェルコマンドやネットワークアクセスを実行するときにどのように安全性を確認しているか」についてど...</description>
+      <pubDate>Fri, 10 Jul 2026 08:27:48 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/Koukyosyumei/items/3bd4696237ea64c38971</comments>
     </item>
     <item>
       <title>「めちゃくちゃな政治に抗議します」　国会前でデモ、2万7千人集う：朝日新聞</title>
@@ -39,13 +46,6 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/e34cf53a5d05436461841d36b3635227-1200x630.jpeg" /&gt;&lt;br/&gt;リュウジ@料理のおじさんバズレシピ @ore825 正直言うと 【大阪の仕事は飯が安くて旨いから忙しくても無理矢理ねじこんででも受けてる】 味もコスパもヤバい 大阪の凄さは｢立ち飲み屋｣ですらめちゃくちゃ旨いこと、東京にもあるけど飯が旨い立ち飲み屋は少ない 最近うめえと思った東京のお店、2店舗とも本店大阪だって言...</description>
       <pubDate>Fri, 10 Jul 2026 11:52:08 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2719079</comments>
-    </item>
-    <item>
-      <title>Cloudflareだけで独自ドメインメールをGmailから送受信できるようになってた</title>
-      <link>https://zenn.dev/9m/articles/d08dcc093e1bbf</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--s4_9GMo5--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Cloudflare%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E7%258B%25AC%25E8%2587%25AA%25E3%2583%2589%25E3%2583%25A1%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%25A1%25E3%2583%25BC%25E3%2583%25AB%25E3%2582%2592Gmail%25E3%2581%258B%25E3%2582%2589%25E9%2580%2581%25E5%258F%2597%25E4%25BF%25A1%25E3%2581%25A7%25E3%2581%258D%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E3%2581%25AA%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:9m%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2dHQ3VDelZlZU90aTBlSmRwc1VqWGFsdHB1Tlc3VmUyV0QtS1FGZkE9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;TL;DR メールの受信は Cloudflare Email Routing メールの送信は Cloudflare Email Sending メールの閲覧・作成には普段使っているGmailを利用 CloudflareがSMTPをしゃべれるようになったので、Gmailのエイリアスに追加できるぞ！ 独自ドメインのメールアドレスにお金かけたくない問題 個人開発をやっているとポコポコ独...</description>
-      <pubDate>Fri, 10 Jul 2026 03:47:12 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/9m/articles/d08dcc093e1bbf</comments>
     </item>
   </channel>
 </rss>
