@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 12 Jul 2026 22:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:33:14 +0000</lastBuildDate>
     <item>
       <title>日本共産党と中国共産党は仲が良いよ！それでマズいことになってるよ！ - 破壊屋ブログ</title>
       <link>https://hakaiya.hateblo.jp/entry/2026/07/12/121216</link>
@@ -20,6 +20,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/nikkan-spa.jp/2172263</comments>
     </item>
     <item>
+      <title>体育用マットの中で死亡した中１男子の父「戦い続ける」…事件から３３年、元生徒３人は賠償に応じず（読売新聞オンライン） - Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/articles/236d631a0241af720afe6f9007045952734be7ed</link>
+      <description>&lt;img src="https://s.yimg.jp/images/news-web/versions/20260710-31a257f/all/images/ogp_default.png" /&gt;&lt;br/&gt;山形県新庄市の市立旧明倫中学校で１９９３年、１年生の児玉有平君（当時１３歳）が体育用マットの中で死亡した事件を巡り、遺族が傷害や監禁致死容疑で逮捕・補導された元生徒３人を相手取り、確定した民事訴訟の損害賠償額約５７６０万円の支払いを求めた訴訟の判決が１５日、山形地裁で言い渡される。遺族側が元生徒...</description>
+      <pubDate>Sun, 12 Jul 2026 11:45:09 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/236d631a0241af720afe6f9007045952734be7ed</comments>
+    </item>
+    <item>
       <title>仏像から平安時代末期の古文書 大量に見つかる 源義仲の記述も | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/na-k10015174831000</link>
       <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260712/K10015174831_2607120932_0712114503_01_02.jpg" /&gt;&lt;br/&gt;大阪市の寺が所蔵する国の重要文化財「木造阿弥陀如来立像」の中から源平合戦の時期の混乱などをうかがい知れる平安時代末期の古文書が大量に見つかりました。専門家は、「この時期の古文書が新たに大量に見つかるの…</description>
@@ -32,13 +39,6 @@
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;最近になって、妻といる時間が苦しく思うことが増えた。私はまだ30代だけど、妻とは人生の半分以上を一緒に過ごしてきたので相応に理解しているつもりだった。 もちろん、相手のことが手に取るようにわかるわけではなく、積み上げた経験によって、どんな入力がきたらどんな出力を返すのか、相手の振る舞いを推測できる精...</description>
       <pubDate>Sun, 12 Jul 2026 00:06:24 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20240515235312</comments>
-    </item>
-    <item>
-      <title>AI時代の「会社のOS」をつくる 〜Open Knowledge Format（OKF）とRAGで組織知を配れる形にする〜</title>
-      <link>https://zenn.dev/yamitake/articles/okf-open-knowledge-format-corporate-os</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--xW8nmFcz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E6%2599%2582%25E4%25BB%25A3%25E3%2581%25AE%25E3%2580%258C%25E4%25BC%259A%25E7%25A4%25BE%25E3%2581%25AEOS%25E3%2580%258D%25E3%2582%2592%25E3%2581%25A4%25E3%2581%258F%25E3%2582%258B%2520%25E3%2580%259COpen%2520Knowledge%2520Format%25EF%25BC%2588OKF%25EF%25BC%2589%25E3%2581%25A8RAG%25E3%2581%25A7%25E7%25B5%2584%25E7%25B9%2594%25E7%259F%25A5%25E3%2582%2592%25E9%2585%258D%25E3%2582%258C%25E3%2582%258B%25E5%25BD%25A2...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:JJ%2520yamitake%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzE2MTEyMjRhNGQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;はじめに 前回、AIにGitHubリポジトリを認識させるなら「階層構造＋index.md」と「Obsidian形式」どっちが速くて安くて正確か という記事を書きました。結論はシンプルで、**「構造はディレクトリ、意味はタグ、両取りが最強」**でした。 この記事は、その続編です。「1つのリポジトリをAIに読ませる」という話を、**「...</description>
-      <pubDate>Tue, 07 Jul 2026 11:16:39 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/yamitake/articles/okf-open-knowledge-format-corporate-os</comments>
     </item>
   </channel>
 </rss>
