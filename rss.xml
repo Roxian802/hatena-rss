@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 16 Jul 2026 18:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 19:33:11 +0000</lastBuildDate>
     <item>
       <title>“ひきこもりリスク”の高い人は、オンラインゲームでも交流を好まない傾向。匿名でも“人付き合いはしんどい”可能性、日本人ゲーマーを対象に研究 - AUTOMATON</title>
       <link>https://automaton-media.com/articles/newsjp/20260716-455325/</link>
@@ -13,11 +13,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/automaton-media.com/articles/newsjp/20260716-455325/</comments>
     </item>
     <item>
-      <title>マチアプで知り合った男の標準語がキショすぎる助けてほしい</title>
-      <link>https://anond.hatelabo.jp/20260716143518</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;マチアプで非常に条件の良い男と知り合えた 顔はいい、職業は大手JTC、年収もいい、もう数回デートしてるけど趣味も合う 多分脈もありそう このままお付き合いできたらどんなに幸せだろうって思う けれど一点だけ 本当に一点だけ その男がキッっっっっっっショい標準語で話すから本当にどうしようか悩んでいる いやね？ ...</description>
-      <pubDate>Thu, 16 Jul 2026 05:41:43 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260716143518</comments>
+      <title>NCC「天皇制の終焉を求める」 皇室典範改正案の衆院通過で声明 2026年7月13日 - キリスト新聞社ホームページ</title>
+      <link>https://www.kirishin.com/2026/07/13/91764/</link>
+      <description>&lt;img src="https://www.kirishin.com/wp-content/uploads/2021/01/ncc.png" /&gt;&lt;br/&gt;日本キリスト教協議会（ＮＣＣ、吉髙叶議長・大嶋果織総幹事）は７月１３日、「戦争責任と戦後責任の告白に立ち、天皇制の終焉を求めます――皇室典範改正法の衆議院通過にあたって」と題する声明を発表した。 「皇室典範等の一部を改正する法律案」は１０日、衆議院本会議で与野党の賛成多数により可決され、参議院に送付...</description>
+      <pubDate>Thu, 16 Jul 2026 03:02:15 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.kirishin.com/2026/07/13/91764/</comments>
     </item>
     <item>
       <title>Claude Codeが化けた。今使っている3つのプラグイン+標準機能の活用法</title>
@@ -25,6 +25,13 @@
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--MZPKkxrA--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520Code%25E3%2581%258C%25E5%258C%2596%25E3%2581%2591%25E3%2581%259F%25E3%2580%2582%25E4%25BB%258A%25E4%25BD%25BF%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B3%25E3%2581%25A4%25E3%2581%25AE%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B0%25E3%2582%25A4%25E3%2583%25B3%252B%25E6%25A8%2599%25E6%25BA%2596%25E6%25A9%259F%25E8%2583%25BD%25E3%2581%25AE%25E6%25B4%25BB%25E7%2594%25A8%25E6%25B3%2595%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:ShoppingShark%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzY0YjYwNGE3MzguanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25BD%25E3%2583%258B%25E3%2583%2583%25E3%2582%25AF%25E3%2583%25A0%25E3%2583%25BC%25E3%2583%2596%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzExYzg4YTk2YzEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;はじめに 株式会社ソニックムーブでフロントエンドエンジニアとして働いているShoppingSharkです。 ソニックムーブに入社して業務でAIを使い始めて3ヶ月ほど経ちました。昨今はループエンジニアリングが話題ですが、個人ではまだそのレイヤーまで進めておらず、日々の業務はバイブコーディングで回しています。 この記事...</description>
       <pubDate>Thu, 16 Jul 2026 02:38:31 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/sonicmoov/articles/8712598f532b18</comments>
+    </item>
+    <item>
+      <title>マチアプで知り合った男の標準語がキショすぎる助けてほしい</title>
+      <link>https://anond.hatelabo.jp/20260716143518</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;マチアプで非常に条件の良い男と知り合えた 顔はいい、職業は大手JTC、年収もいい、もう数回デートしてるけど趣味も合う 多分脈もありそう このままお付き合いできたらどんなに幸せだろうって思う けれど一点だけ 本当に一点だけ その男がキッっっっっっっショい標準語で話すから本当にどうしようか悩んでいる いやね？ ...</description>
+      <pubDate>Thu, 16 Jul 2026 05:41:43 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260716143518</comments>
     </item>
     <item>
       <title>民泊、事実上禁止可と通知　トラブル相次ぎ、観光庁</title>
@@ -60,20 +67,6 @@
       <description>&lt;img src="https://dailyportalz.jp/application/files/thumbnails/width1280/8117/8409/8555/de4d9a164078075aae8877bfe067a925.png" /&gt;&lt;br/&gt;1990年沖縄生まれ。営業日のお昼休みに（ほぼ）毎日更新する「今日の休憩」というブログを運営しています。 前の記事：スマホを激重にする ＞ 個人サイト ＞今日の休憩 ＞ライターwiki</description>
       <pubDate>Thu, 16 Jul 2026 02:07:33 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/dailyportalz.jp/kiji/dekai-koe-de-aisatsu</comments>
-    </item>
-    <item>
-      <title>cognitive-rhythm-writing/SKILL.md</title>
-      <link>https://gist.github.com/k16shikano/eb2929f13ed19c97188393d297be8432</link>
-      <description>&lt;img src="https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png" /&gt;&lt;br/&gt;SKILL.md name cognitive-rhythm-writing description 説明的な文章に緩急を設計するための規範。緩急を装飾ではなく認知モードの切替（観察→逡巡→断定→再観察）と未回収の緊張の管理として扱い、文の拍、段落の密度波形、節の入り方、緩みと駄文の判別、執筆後の機械的な点検手順を定める。読み物として読ませたい章・...</description>
-      <pubDate>Wed, 15 Jul 2026 23:43:53 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/gist.github.com/k16shikano/eb2929f13ed19c97188393d297be8432</comments>
-    </item>
-    <item>
-      <title>「不法占拠、私の代でやめたい」市ケ谷の人気釣り堀、経営者が語る：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASV7F23ZLV7FOXIE00TM.html</link>
-      <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260713002103_comm.jpg" /&gt;&lt;br/&gt;不法占拠、もうやめたいです――。　国史跡に指定されている江戸城の外濠（そとぼり）跡で、70年ほど前から営業している釣り堀「市ケ谷フィッシュセンター」（東京都新宿区）。土地と水面の使用許可が64年前に…</description>
-      <pubDate>Thu, 16 Jul 2026 03:03:06 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV7F23ZLV7FOXIE00TM.html</comments>
     </item>
   </channel>
 </rss>
