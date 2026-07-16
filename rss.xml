@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 16 Jul 2026 00:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 01:33:09 +0000</lastBuildDate>
     <item>
       <title>AIで資料作成を終わらす、プロンプト＋パワポ420点｜うちた</title>
       <link>https://note.com/uchita_success/n/n5db702b25061</link>
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/293445017/rectangle_large_type_2_d4167fffb625a977a9f20a4e9ca09bb8.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;ベンチャー企業でAI活用推進リーダーしてるうちたです。 営業やバックオフィスをAIで自動化・質向上をして、ぬくぬく働きつつも成果を上げています。 この記事は、「AIでぬくぬく仕事する」を実現する、うちたの保管庫の玄関です。 うちた式パワポ変換 最新版　PDF/画像→パワポで編集（プロンプト） 資料リメイク　雑な...</description>
       <pubDate>Wed, 15 Jul 2026 14:15:30 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/uchita_success/n/n5db702b25061</comments>
+    </item>
+    <item>
+      <title>客に鰹節の事で突然ブチキレられて空手チョップされて意味わからんのだが</title>
+      <link>https://anond.hatelabo.jp/20260715200901</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;時期に関してはフェイクを入れるんだけど、 普段、オタ系寄りのコンカフェで働いてて(バイトだけど)、あとは色々コスプレしたり個人Vやったりとかオタ活しながら生きているんだけど その日、コンカフェで接客してたら、客の男の人から色々食べ物の蘊蓄とか話されてたんだ。 まぁ、「パスタは最初麺じゃなくてワンタンみ...</description>
+      <pubDate>Wed, 15 Jul 2026 11:12:32 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260715200901</comments>
     </item>
     <item>
       <title>デロイトが国に納品したスライド351枚、全部数えたらパターンは7つだけだった｜うちた</title>
@@ -20,11 +27,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/uchita_success/n/n030ad63765d3</comments>
     </item>
     <item>
+      <title>NVIDIAジェンスン・フアンCEOが来日。アキバGiGOでセガ愛を語り尽くす。鈴木裕氏＆セガ里見会長・内海社長＆入交元社長と振り返る“絆”。『バーチャファイター クロスロード』PC実機の披露も！ | ゲーム・エンタメ最新情報のファミ通.com</title>
+      <link>https://www.famitsu.com/article/202607/81406</link>
+      <description>&lt;img src="https://cimg.kgl-systems.io/camion/files/81406/thumbnail_OmTi.jpg?x=1280" /&gt;&lt;br/&gt;フアン氏がみずからマイクを握り、約20分にわたって熱く語った内容は“セガとNVIDIAの歴史”。 そもそも両社の関係が始まったのは1990年代に遡る。NVIDIAが創業間もない1993年、ジェンスン・フアン氏が当時アーケードゲームとしてリリースされた『バーチャファイター』の3Dポリゴン技術に魅了され、翌年セガを訪問。PC向け...</description>
+      <pubDate>Wed, 15 Jul 2026 12:25:33 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.famitsu.com/article/202607/81406</comments>
+    </item>
+    <item>
       <title>boketeアプリ サービス終了のお知らせ</title>
       <link>https://bokete-photo.blogspot.com/2026/07/arigato.html</link>
       <description>いつもboketeをご利用いただき、ありがとうございます。 2008年にWebサービスとして生まれ、2012年にアプリ化した「写真で一言 ボケて」は、2026年9月30日をもって、アプリのサービスを終了します。また、Web版も投稿機能を終了し、Flickrお題の殿堂入りボケ閲覧専用サイトになる予定です。 終了するもの boketeアプリ（...</description>
       <pubDate>Wed, 15 Jul 2026 10:16:04 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/bokete-photo.blogspot.com/2026/07/arigato.html</comments>
+    </item>
+    <item>
+      <title>ローカル LLM を構築した</title>
+      <link>https://zenn.dev/neet/articles/11bafab8645995</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--_ldBwQuz--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%2520LLM%2520%25E3%2582%2592%25E6%25A7%258B%25E7%25AF%2589%25E3%2581%2597%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Ry%25C5%258D%2520Igarashi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzViNmY4MzRlMDUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;AI 利用の開示：この記事を書くにあたっての調査やブレインストーミング、校正には AI を用いましたが、本文の執筆やコードの実装、および出典の確認はすべて人間が行いました。 AI は好きだが AI 企業は嫌いだ こんにちは。みなさんは AI を使いこなしていますか？　私は正直、あまり乗れていません。もちろん AI は非...</description>
+      <pubDate>Wed, 15 Jul 2026 04:15:17 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/neet/articles/11bafab8645995</comments>
     </item>
   </channel>
 </rss>
