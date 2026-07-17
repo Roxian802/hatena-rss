@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 17 Jul 2026 10:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 11:33:09 +0000</lastBuildDate>
     <item>
       <title>国旗損壊処罰法 参議院本会議で可決・成立 | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/na-k10015179001000</link>
       <description>&lt;img src="https://imgu.web.nhk/news/u/news/html/20260717/K10015179001_2607171050_0717105240_01_02.jpg" /&gt;&lt;br/&gt;日本の国旗を損壊する行為を罰する法律は、参議院本会議で採決が行われ、賛成多数で可決・成立しました。 日本の国旗を損壊する行為を罰する法律は、自民・維新両党と、国民民主党、参政党の4党が共同で提出し、…</description>
       <pubDate>Fri, 17 Jul 2026 01:54:39 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/na-k10015179001000</comments>
+    </item>
+    <item>
+      <title>ルーターに挿す約320円の広告ブロッカー、13万ドメインをRAM40KBで判定 - FabScene（ファブシーン）</title>
+      <link>https://fabscene.com/new/make/esp32-c3-dns-adblock-hash-in-flash/</link>
+      <description>自宅のネットワーク全体で広告をブロックするなら、Pi-holeを入れたRaspberry Piを常時動かすのが定番だ。もっと小さく安くと考えてESP32でやろうとすると、ブロック対象のドメインを覚えておくメモリーが足りず、PSRAMを積んだ高い方のチップが要る。M-Abozaid氏は、覚え方を変えることで、200円台のESP32-C3で同じこと...</description>
+      <pubDate>Fri, 17 Jul 2026 02:48:53 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/fabscene.com/new/make/esp32-c3-dns-adblock-hash-in-flash/</comments>
     </item>
     <item>
       <title>ロマンス詐欺被害に遭った71歳法学者が赤裸々告白「私は自分が賢い人間だと思っていました」　名誉教授が借金を重ね、たった4か月で925万円を入金する一部始終</title>
@@ -34,11 +41,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.nishinippon.co.jp/item/1516325/</comments>
     </item>
     <item>
+      <title>『攻殻機動隊』シリーズ構成・脚本の円城塔氏が明かす「2026年の今、原作を映像化する意味」｜@DIME アットダイム</title>
+      <link>https://dime.jp/genre/2134196/</link>
+      <description>&lt;img src="https://dime.jp/wp-content/uploads/2026/07/4-24-770x433.jpg" /&gt;&lt;br/&gt;脳とネットが直結した電脳社会、そしてサイボーグが街を駆ける未来――。30年以上も前に、現代の生成AIやネット社会の到来を予言していた『攻殻機動隊』が、2026年、ついに再始動する。最新アニメシリーズが掲げたテーマは、士郎正宗の原作コミックを意識した「原点回帰であり、原典回帰」。最先端のテクノロジーが、始ま...</description>
+      <pubDate>Wed, 15 Jul 2026 13:20:22 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/dime.jp/genre/2134196/</comments>
+    </item>
+    <item>
       <title>「怖くてリアルな話だ」複数の学校で人権について話すと、一定の割合で「必要な差別もある」といった意見が出てくる、土台の人権教育の重要性を実感する</title>
       <link>https://togetter.com/li/2721480</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/c16e6dd0ae26a1d81399d21178ee38be-1200x630.jpeg" /&gt;&lt;br/&gt;星野俊樹『とびこえる教室』 @tipacabla これまで複数の高校と大学でゲスト講師として話してきたが、生徒や学生から一定の割合で ・必要な差別もある。 ・多様性を拒否する多様性も保障されるべき。 ・マイノリティにいちいち配慮していたらキリがない。 ・マイノリティがその集団に何%いたら配慮すべきなのか。 という...</description>
       <pubDate>Fri, 17 Jul 2026 03:38:29 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2721480</comments>
+    </item>
+    <item>
+      <title>なぜAI臭さを消したいのか？｜laiso</title>
+      <link>https://sizu.me/laiso/posts/mcerekex7091</link>
+      <description>&lt;img src="https://static.sizu.me/api/og-image/2445628bdfdc?avatarUrl=https%3A%2F%2Fr2.sizu.me%2Fusers%2F111%2Favatar.png%3Fv%3D1706609408235&amp;amp;theme=user&amp;amp;username=laiso" /&gt;&lt;br/&gt;前に「AIの作文はなぜつまらないのか」という記事を書いた。AIの文章は分量のわりに情報量が少ないし、面白さを自動で評価する仕組みもないから、みたいな話だった。今回は逆に書き手としての話をしたい。 きっかけは cognitive-rhythm-writing というスキルがタイムラインに流れてきたことで、これは色々要素があるけど...</description>
+      <pubDate>Thu, 16 Jul 2026 22:33:19 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/sizu.me/laiso/posts/mcerekex7091</comments>
     </item>
     <item>
       <title>キオクシア株、一時ストップ安　上場来高値から半値以下に</title>
@@ -53,6 +74,13 @@
       <description>&lt;img src="https://jbpress.ismcdn.jp/mwimgs/8/4/1200mw/img_84c6baf76c1da01262ab7dc527acb6b98762449.jpg" /&gt;&lt;br/&gt;ギュイッ・ギュイッ・ギュイッ、地震です──。地震がやってくるとき、誰もがスマホからこの音を聞く。緊急地震速報の音は2007年10月に本格的に運用されるようになったというが、「ギュイッ」の作曲家はどんな狙いを持って、制作に挑んだのか。1秒に満たない“あの音”が一発で人の脳に「地震だ」と思わせる原理とは。生みの...</description>
       <pubDate>Thu, 16 Jul 2026 03:28:34 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/jbpress.ismedia.jp/articles/-/95949</comments>
+    </item>
+    <item>
+      <title>「女性だけにメールしています」と総務からメールがあり「椅子が血に染まっていた。処理済みだが、気がついてない可能性があるかも」との内容→かわいそうにと思ってたら、自分が血染めにした本人だった</title>
+      <link>https://togetter.com/li/2721417</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/5778d158926305fce9027de7356d2d3b-1200x630.jpeg" /&gt;&lt;br/&gt;トリスケッチ部 @torisketch6 「女性だけにメールしています」と総務からのメール。 そこには、「打ち合わせの椅子が血に染まっていました。こちらで処理済みですが、気がついてない可能性があるかもしれません（意訳）」といった内容。 （あーーかわいそうに...）と思った私が血染めにしていた本人でした...震 x.com/to...</description>
+      <pubDate>Thu, 16 Jul 2026 23:37:15 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2721417</comments>
     </item>
     <item>
       <title>自由を学んだ母校に、いま問いたいこと｜辺野古ボート転覆事故遺族メモ</title>
