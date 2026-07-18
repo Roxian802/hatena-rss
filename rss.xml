@@ -4,14 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 18 Jul 2026 01:33:10 +0000</lastBuildDate>
-    <item>
-      <title>国会図書館で「著作者本人です」と言ったら不思議な空気になった｜事務員G</title>
-      <link>https://note.com/zimuing/n/na865a26afb89</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/295144848/rectangle_large_type_2_94814991f95b8608fc13cbb832c36d1c.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;その日僕は国会図書館にいました。 日本中のありとあらゆる本、そのすべてが揃うと言っても過言じゃない、図書館界の頂点のような存在です。 普通の図書館なら棚に並べられている本を自分で探して見つけますが、さすがは国会図書館。一部の新聞や地図を除き、本は全く並べられていません。 そのかわり目当ての本を検索す...</description>
-      <pubDate>Fri, 17 Jul 2026 10:25:22 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/zimuing/n/na865a26afb89</comments>
-    </item>
+    <lastBuildDate>Sat, 18 Jul 2026 02:33:10 +0000</lastBuildDate>
     <item>
       <title>住民票の写しが必要なのに住民票のコピーを持って来られた時に言葉の難しさを痛感した→写しとコピーは違うし原本を持ってくることはできない「表現の違いがややこしい」</title>
       <link>https://togetter.com/li/2721628</link>
@@ -20,11 +13,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2721628</comments>
     </item>
     <item>
-      <title>｢青春18きっぷ離れ｣が止まらない…2年で販売数｢62万→24万枚｣に激減させたJRが選んだ"最悪の選択肢"</title>
-      <link>https://president.jp/articles/-/116074</link>
-      <description>&lt;img src="https://president.ismcdn.jp/mwimgs/0/5/1200wm/img_05d669e8a75e6e7f0ebb522ae99f34a41902991.jpg" /&gt;&lt;br/&gt;「青春18きっぷ」の販売枚数が、2024年度の約42万枚から2025年度は約24万枚へと大きく落ち込んだことが、今年度の幹事社を務めているJR九州への取材で判明した。経済ジャーナリストの櫛田泉さんは「JRグループがニーズだと認識しているものと、実際の利用者のニーズとの間に大きな乖離があったことの表れだ」という――。 ...</description>
-      <pubDate>Fri, 17 Jul 2026 05:24:38 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/president.jp/articles/-/116074</comments>
+      <title>国会図書館で「著作者本人です」と言ったら不思議な空気になった｜事務員G</title>
+      <link>https://note.com/zimuing/n/na865a26afb89</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/295144848/rectangle_large_type_2_94814991f95b8608fc13cbb832c36d1c.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;その日僕は国会図書館にいました。 日本中のありとあらゆる本、そのすべてが揃うと言っても過言じゃない、図書館界の頂点のような存在です。 普通の図書館なら棚に並べられている本を自分で探して見つけますが、さすがは国会図書館。一部の新聞や地図を除き、本は全く並べられていません。 そのかわり目当ての本を検索す...</description>
+      <pubDate>Fri, 17 Jul 2026 10:25:22 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/zimuing/n/na865a26afb89</comments>
     </item>
     <item>
       <title>世界一わかりみの深いasync/awaitによる非同期処理 | SIOS Tech Lab</title>
@@ -32,6 +25,13 @@
       <description>&lt;img src="https://tech-lab.sios.jp/wp-content/uploads/2026/07/001.png" /&gt;&lt;br/&gt;こんにちは、サイオステクノロジー武井です。今回はasync/awaitの動きをOSカーネルのレイヤーから追うことで理解を深めようとしてみます。 1. async/awaitはむずい async/await、なかなかにとっつきにくい概念だと思います。 「非同期処理には async を付ける」「await しないと結果が取れない」——ルールとしては覚えら...</description>
       <pubDate>Fri, 17 Jul 2026 11:28:14 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/tech-lab.sios.jp/archives/53462</comments>
+    </item>
+    <item>
+      <title>｢青春18きっぷ離れ｣が止まらない…2年で販売数｢62万→24万枚｣に激減させたJRが選んだ"最悪の選択肢"</title>
+      <link>https://president.jp/articles/-/116074</link>
+      <description>&lt;img src="https://president.ismcdn.jp/mwimgs/0/5/1200wm/img_05d669e8a75e6e7f0ebb522ae99f34a41902991.jpg" /&gt;&lt;br/&gt;「青春18きっぷ」の販売枚数が、2024年度の約42万枚から2025年度は約24万枚へと大きく落ち込んだことが、今年度の幹事社を務めているJR九州への取材で判明した。経済ジャーナリストの櫛田泉さんは「JRグループがニーズだと認識しているものと、実際の利用者のニーズとの間に大きな乖離があったことの表れだ」という――。 ...</description>
+      <pubDate>Fri, 17 Jul 2026 05:24:38 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/president.jp/articles/-/116074</comments>
     </item>
   </channel>
 </rss>
