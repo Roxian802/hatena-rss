@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 18 Jul 2026 20:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 21:33:09 +0000</lastBuildDate>
     <item>
       <title>日本テレビ「アメリカ横断ウルトラクイズ」公式サイト</title>
       <link>https://www.ntv.co.jp/ultraquiz/</link>
@@ -25,20 +25,6 @@
       <description>&lt;img src="https://ogp.azukiazusa.dev/blog/ogp/recent-ai-coding-development-process-centered-on-design.png" /&gt;&lt;br/&gt;AI コーディングエージェントの自律性が向上し、複数のエージェントを並行して動かすことが日常になったことで、開発の中で最も時間を使う工程が実装から設計へ移りつつあります。この記事では、設計セッション、Git worktree を使った並列実行、自律的な検証、AI によるコードレビューなど、最近の私が実践している開発...</description>
       <pubDate>Sat, 18 Jul 2026 04:23:35 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/azukiazusa.dev/blog/recent-ai-coding-development-process-centered-on-design/</comments>
-    </item>
-    <item>
-      <title>最近はAIで参考を作ってデザイナーに渡すが、デザイナーが「ここからどうデザインしろと？」となってしまい、結果的に相当細かく指示してあげないといけなくなる→デザイナー側の引っ掛かりポイントはどこにあるのか</title>
-      <link>https://togetter.com/li/2721800</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/b52709519322665f6b6283c6c48e500f-1200x630.jpeg" /&gt;&lt;br/&gt;横坂 拓也_Webディレクター｜群馬の制作会社emo planning LLC @taku_coco9 デザイン参考はPinterest使いますが 最近はAIで参考作ってデザイナーさんに渡す でもそうするとデザイナーは 「いやいや もこれ80点ラインですやん」 「ここからどうデザインしろと？」 となる だから相当に細かく指示してあげないと デザイナー...</description>
-      <pubDate>Sat, 18 Jul 2026 02:31:11 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2721800</comments>
-    </item>
-    <item>
-      <title>「この男を信じた私たちがバカだった」「引退するアイドル気取りか？」辞任したれいわ山本太郎代表が党内関係者に送った「ポエム風文書」のヤバさ | デイリー新潮</title>
-      <link>https://www.dailyshincho.jp/article/2026/07181040/</link>
-      <description>&lt;img src="https://www.dailyshincho.com/wp-content/uploads/2026/07/1477812_1.jpg" /&gt;&lt;br/&gt;「週刊新潮」の発売前日に速報が届く！ メールマガジン登録 デイリー新潮とは？ 広告掲載について お問い合わせ 著作権・リンクについて ご購入について 免責事項 プライバシーポリシー データポリシー 運営：株式会社新潮社 Copyright © SHINCHOSHA All Rights Reserved. すべての画像・データについて無断転用・無断転...</description>
-      <pubDate>Sat, 18 Jul 2026 02:58:11 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.dailyshincho.jp/article/2026/07181040/</comments>
     </item>
   </channel>
 </rss>
