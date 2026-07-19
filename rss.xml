@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 19 Jul 2026 08:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 09:33:09 +0000</lastBuildDate>
+    <item>
+      <title>開発が速く安くなった後の話　AI時代のソフトウェアエンジニアリング組織論 #devsumi</title>
+      <link>https://speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda</link>
+      <description>&lt;img src="https://files.speakerdeck.com/presentations/dc41814d4a8140c6a5ac30ce8a9c180d/slide_0.jpg?39992207" /&gt;&lt;br/&gt;2026/7/16に、Developers Summit 2026 Summerで発表した黒田の資料になります。</description>
+      <pubDate>Thu, 16 Jul 2026 08:30:17 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/recruitengineers/developerssummit2026summer_kuroda</comments>
+    </item>
     <item>
       <title>AWS“兆ドル”誤見積は「ちょっとした計算ミス」　ジョークのつもり？　で大炎上→日本のAWS社員「あり得ない」と批判→対応</title>
       <link>https://www.itmedia.co.jp/news/articles/2607/19/news010.html</link>
@@ -20,18 +27,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUB135ON0T10C26A7000000/</comments>
     </item>
     <item>
+      <title>合法ブロック崩し</title>
+      <link>https://gohou-block-breaker.itoyo.chatgpt.site/</link>
+      <description>ボールを落とさず、中央の赤い丸を守るブラウザゲーム。</description>
+      <pubDate>Sat, 18 Jul 2026 23:29:48 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/gohou-block-breaker.itoyo.chatgpt.site/</comments>
+    </item>
+    <item>
       <title>小島よしおが提案する子供に向けた「頼まれごとの断り方」が品があって大人にも参考になる…本当に優しい人なんだろうな</title>
       <link>https://togetter.com/li/2721920</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/30a43d9cd5273c4c19f772bcad4ccc52-1200x630.jpeg" /&gt;&lt;br/&gt;小島よしお @yoshiopiiya よしお、思うんだけど、断るときって真正面から「いやだ！」とは言いづらい。それに、「いや」っていう言葉だと、シールをあげるだけじゃなく相手のこともいやって言っているみたいに受け取られちゃいそう。そういうときは自分と相手の間に「クッション」みたいなものをはさんだら、ふんわり伝...</description>
       <pubDate>Sat, 18 Jul 2026 08:40:29 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2721920</comments>
-    </item>
-    <item>
-      <title>好きではないのに結婚しようとしている</title>
-      <link>https://anond.hatelabo.jp/20260718152425</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;5年付き合ったので、迫られる形で責任を取って結婚しようとしている 彼女の貴重な20代の時間を潰した自覚もあるし、もうドキドキはしないしずっとレスだが、自分にはもったいない程良い人だと思う　思い出も愛情もある ただ彼女の顔を見るたびに、もっと良い人がいたのではないか、という感情が生まれて、結婚の準備に手...</description>
-      <pubDate>Sat, 18 Jul 2026 06:29:35 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260718152425</comments>
     </item>
   </channel>
 </rss>
