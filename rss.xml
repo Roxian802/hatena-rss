@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 18 Jul 2026 23:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 00:33:09 +0000</lastBuildDate>
     <item>
       <title>日本テレビ「アメリカ横断ウルトラクイズ」公式サイト</title>
       <link>https://www.ntv.co.jp/ultraquiz/</link>
@@ -20,18 +20,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.gamespark.jp/article/2026/07/18/169451.html</comments>
     </item>
     <item>
-      <title>LG製ゲーミングモニターがWindows Updateを悪用し広告アプリを無断導入。McAfeeの広告表示も</title>
-      <link>https://gazlog.jp/entry/lg-gaming-ads-install/</link>
-      <description>&lt;img src="https://gazlog.jp/wp-content/uploads/2026/07/image-58.png" /&gt;&lt;br/&gt;LG製ゲーミングモニターをWindows PCに接続すると、ユーザーの同意なしに専用アプリやMcAfee Scam Detectorなどのポップアップ広告をインストールすることが明らかになりました。 LG製ゲーミングモニターがWindows Updateを悪用して無断導入。McAfeeの宣伝表示も 一般的にディスプレイはドライバーなど不要で、HDMIとPC...</description>
-      <pubDate>Sat, 18 Jul 2026 03:26:24 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/gazlog.jp/entry/lg-gaming-ads-install/</comments>
-    </item>
-    <item>
       <title>最近の AI コーディングで実践している、設計を中心とした開発の進め方</title>
       <link>https://azukiazusa.dev/blog/recent-ai-coding-development-process-centered-on-design/</link>
       <description>&lt;img src="https://ogp.azukiazusa.dev/blog/ogp/recent-ai-coding-development-process-centered-on-design.png" /&gt;&lt;br/&gt;AI コーディングエージェントの自律性が向上し、複数のエージェントを並行して動かすことが日常になったことで、開発の中で最も時間を使う工程が実装から設計へ移りつつあります。この記事では、設計セッション、Git worktree を使った並列実行、自律的な検証、AI によるコードレビューなど、最近の私が実践している開発...</description>
       <pubDate>Sat, 18 Jul 2026 04:23:35 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/azukiazusa.dev/blog/recent-ai-coding-development-process-centered-on-design/</comments>
+    </item>
+    <item>
+      <title>LG製ゲーミングモニターがWindows Updateを悪用し広告アプリを無断導入。McAfeeの広告表示も</title>
+      <link>https://gazlog.jp/entry/lg-gaming-ads-install/</link>
+      <description>&lt;img src="https://gazlog.jp/wp-content/uploads/2026/07/image-58.png" /&gt;&lt;br/&gt;LG製ゲーミングモニターをWindows PCに接続すると、ユーザーの同意なしに専用アプリやMcAfee Scam Detectorなどのポップアップ広告をインストールすることが明らかになりました。 LG製ゲーミングモニターがWindows Updateを悪用して無断導入。McAfeeの宣伝表示も 一般的にディスプレイはドライバーなど不要で、HDMIとPC...</description>
+      <pubDate>Sat, 18 Jul 2026 03:26:24 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/gazlog.jp/entry/lg-gaming-ads-install/</comments>
     </item>
   </channel>
 </rss>
