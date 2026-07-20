@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 20 Jul 2026 12:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:33:09 +0000</lastBuildDate>
+    <item>
+      <title>AIがBlenderを勝手に操作　3D制作のハードルが一気に下がった (1/4)</title>
+      <link>https://ascii.jp/elem/000/004/420/4420739/</link>
+      <description>&lt;img src="https://ascii.jp/img/2026/07/20/4502679/xl/f2ebef86fd430f94.jpg?20200122" /&gt;&lt;br/&gt;Anthropicの「Claude Fable 5」や、OpenAIの「GPT-5.6 Sol」を使用したCodexから、3D制作ツール「Blender」を操作する手法が注目を集めています。無料で使えることからBlenderは多くの人が利用していますが、初心者が使いこなすためのハードルはかなり高いという実情があります。しかし、AIエージェントと外部ソフトをつ...</description>
+      <pubDate>Mon, 20 Jul 2026 01:21:48 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/420/4420739/</comments>
+    </item>
     <item>
       <title>「自分の分身」をAIで作れ、アンソロピック社員が教えるClaude活用術5選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
       <link>https://forbesjapan.com/articles/detail/101067</link>
@@ -20,18 +27,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/articles/2607/17/news082.html</comments>
     </item>
     <item>
-      <title>『世界の歴史教科書を読み比べてみた』を読んで分かった、世界で一番公平な歴史教科書</title>
-      <link>https://dain.cocolog-nifty.com/myblog/2026/07/post-ca0dba.html</link>
-      <description>&lt;img src="https://dain.cocolog-nifty.com/myblog/images/sugohon.jpg" /&gt;&lt;br/&gt;「嘘は書かないが、不都合な事実は省略する」 という手法は、多くの国が自国の歴史を語る際に用いる典型的なアプローチだ。 あからさまな嘘だと客観的な批判を浴びるが、特定の事実を書かない（省略する）ことで、自国に都合の良い歴史＜物語＞を自然に作ることができる（マスメディアの「報道しない自由」と一緒）。 だ...</description>
-      <pubDate>Mon, 20 Jul 2026 01:08:38 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/dain.cocolog-nifty.com/myblog/2026/07/post-ca0dba.html</comments>
-    </item>
-    <item>
       <title>風呂の換気扇は24時間回し続けるべき？SNSで議論勃発　TOTOとLIXILに聞いた</title>
       <link>https://www.j-cast.com/2026/07/19516397.html?p=all</link>
       <description>&lt;img src="https://www.j-cast.com/images/origin/2026/07/news_20260716193909.jpg" /&gt;&lt;br/&gt;2026年6月下旬、浴室の換気扇の使い方に関するSNS投稿が注目を集め、換気扇を24時間連続で稼働させるべきかどうかや、運転時にドアを開けるべきどうかを巡って多くの意見が相次いだ。こうした議論を受け、浴室を販売するTOTOとLIXILに見解を尋ねた。 「24時間換気」の場合は 浴室の換気には、24時間換気と、通常の換気が...</description>
       <pubDate>Sun, 19 Jul 2026 14:59:37 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.j-cast.com/2026/07/19516397.html?p=all</comments>
+    </item>
+    <item>
+      <title>『世界の歴史教科書を読み比べてみた』を読んで分かった、世界で一番公平な歴史教科書</title>
+      <link>https://dain.cocolog-nifty.com/myblog/2026/07/post-ca0dba.html</link>
+      <description>&lt;img src="https://dain.cocolog-nifty.com/myblog/images/sugohon.jpg" /&gt;&lt;br/&gt;「嘘は書かないが、不都合な事実は省略する」 という手法は、多くの国が自国の歴史を語る際に用いる典型的なアプローチだ。 あからさまな嘘だと客観的な批判を浴びるが、特定の事実を書かない（省略する）ことで、自国に都合の良い歴史＜物語＞を自然に作ることができる（マスメディアの「報道しない自由」と一緒）。 だ...</description>
+      <pubDate>Mon, 20 Jul 2026 01:08:38 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/dain.cocolog-nifty.com/myblog/2026/07/post-ca0dba.html</comments>
     </item>
     <item>
       <title>衰退ポルノ</title>
@@ -46,19 +53,6 @@
       <description>&lt;img src="https://p2ptk.org/wp-content/uploads/2026/07/decentralization-banner.png" /&gt;&lt;br/&gt;以下の文章は、電子フロンティア財団の「Hate “The Algorithm?” RSS Is One of the Tools You’ve Been Looking For」という記事を翻訳したものである。 Electronic Frontier Foundation オンラインのソーシャルネットワーク――あるいはインターネット文化をめぐるあらゆる会話――を軽く覗くだけでも、たいてい1人か2人の怪...</description>
       <pubDate>Sun, 19 Jul 2026 19:43:13 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/p2ptk.org/digital-rights/5632</comments>
-    </item>
-    <item>
-      <title>【海外記事紹介】余ったMacをClaude Code専用の「何でもやらせるマシン」にする — SSH・tmux・LaunchAgentで権限フル解放のエージェント環境を構築</title>
-      <link>https://techfeed.io/entries/6a5be90b3d5307dbb0d5d745</link>
-      <pubDate>Sun, 19 Jul 2026 02:57:42 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/techfeed.io/entries/6a5be90b3d5307dbb0d5d745</comments>
-    </item>
-    <item>
-      <title>47歳にしてはじめてバーへ行ったのこと - 関内関外日記</title>
-      <link>https://goldhead.hatenablog.com/entry/2026/07/19/191945</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/a6a67b63931a395cf97f7b330d794da4066d6a02/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fg%2Fgoldhead%2F20260718%2F20260718224327.jpg" /&gt;&lt;br/&gt;彼女の人からレコードバーに誘われた。彼女の人の地元の駅の近くにある。小さな店らしい。以前、友人に誘われて行ったことがあるという。でかいスピーカーと大量のレコードがある。おもに60～80年代のロックが聴けるらしい。 おれはここまで生きてきて、酒は大量に飲んできたが、バーに行ったことはない。一緒に行く人も...</description>
-      <pubDate>Sun, 19 Jul 2026 10:22:40 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/goldhead.hatenablog.com/entry/2026/07/19/191945</comments>
     </item>
   </channel>
 </rss>
