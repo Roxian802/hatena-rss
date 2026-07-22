@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 22 Jul 2026 02:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 03:33:16 +0000</lastBuildDate>
+    <item>
+      <title>最近、なぜみんなuvを使っているんですか？ Pythonパッケージ管理の変遷と現在地 - Findy Media</title>
+      <link>https://findy-code.io/media/articles/chotto-wakaru-python</link>
+      <description>&lt;img src="https://storage.findy-code.io/storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI0Mjc2LCJwdXIiOiJibG9iX2lkIn19--025ae4c38a63b58d769d1435e435e4c7bafc7c33/ogp-chottowakaru-python.png" /&gt;&lt;br/&gt;Pythonのパッケージ管理や仮想環境の構築においては、長らく「多種多様なツールが存在するが、どれがベストプラクティスなのかわからない」という状況が続いてきました。しかし、近年登場したRust製のパッケージ管理ツールuvは、その有力な回答として多くのユーザーから支持され、今、急速に普及しています。 過去に登場...</description>
+      <pubDate>Mon, 20 Jul 2026 23:36:53 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/findy-code.io/media/articles/chotto-wakaru-python</comments>
+    </item>
     <item>
       <title>眠れてない、って隠さなきゃいけないことなのかな</title>
       <link>https://anond.hatelabo.jp/20260721200827</link>
@@ -13,11 +20,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260721200827</comments>
     </item>
     <item>
-      <title>「寝てないアピールする首相見たことない」　高市氏のX投稿波紋 | 毎日新聞</title>
-      <link>https://mainichi.jp/articles/20260721/k00/00m/010/239000c</link>
-      <description>&lt;img src="https://cdn.mainichi.jp/vol1/2026/07/21/20260721k0000m010030000p/0c10.jpg?1" /&gt;&lt;br/&gt;高市早苗首相は20日夜、自身のX（ツイッター）に、7月に入ってからの週末は経済財政運営の指針「骨太の方針」などの「分厚い資料を早朝から深夜まで読み続けた」などと記し、睡眠不足の状態で「書類の山と格闘」して過ごす多忙ぶりをアピールした。一方、与野党からは一国のトップリーダーの働き方や発信として適切なの...</description>
-      <pubDate>Tue, 21 Jul 2026 10:28:32 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260721/k00/00m/010/239000c</comments>
+      <title>円相場が一時163円台　39年7カ月ぶり安値更新、有事のドル買い - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUB308SH0Q6A630C2000000/</link>
+      <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3340026021072026000000-1.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=a904f41df2a84389240ee6b6e6aa0395" /&gt;&lt;br/&gt;【ニューヨーク=秋田咲】21日午前のニューヨーク外国為替市場で円相場が対ドルで下落し、一時1ドル=163円台をつけた。1986年12月以来39年7カ月ぶりの安値となった。米国とイラン間で攻撃の応酬が続くなど、中東情勢の緊迫を受けた「有事のドル買い」が優勢となった。円は7月初旬につけた安値（1ドル=162円84銭）からさら...</description>
+      <pubDate>Tue, 21 Jul 2026 15:31:25 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUB308SH0Q6A630C2000000/</comments>
     </item>
   </channel>
 </rss>
