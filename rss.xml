@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 25 Jul 2026 20:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 21:33:09 +0000</lastBuildDate>
     <item>
       <title>はてな11億円流出事件はなぜ起きたのか　報告書を読んでみた（山口健太） - エキスパート - Yahoo!ニュース</title>
       <link>https://news.yahoo.co.jp/expert/articles/88b665c4276a6dc50af7306101a442fda6caa5a8</link>
@@ -18,6 +18,13 @@
       <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/iwiz-yn/rpr/ryosukenishida/02675117/title-1784962878539.jpeg?exp=10800" /&gt;&lt;br/&gt;2026年7月24日イレギュラーで、深夜まで揉めに揉めた副首都法が参議院本会議で可決、成立した。投票総数244、賛成123、反対121。差はたった2票である。 NHK「「副首都」構想関連法が成立 自民・維新・みらいなど賛成」 https://news.web.nhk/newsweb/na/na-k10015185521000 参議院は記名投票を採っているため、本会議投...</description>
       <pubDate>Sat, 25 Jul 2026 09:53:45 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/expert/articles/18408b9f08b9271c964c2c94b946402334331934</comments>
+    </item>
+    <item>
+      <title>【Obsidian】既存のAIサブスクだけでメモを整理する環境を作った</title>
+      <link>https://zenn.dev/peishim/articles/a10faeabae7c09</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--npSR6-wg--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2580%2590Obsidian%25E3%2580%2591%25E6%2597%25A2%25E5%25AD%2598%25E3%2581%25AEAI%25E3%2582%25B5%25E3%2583%2596%25E3%2582%25B9%25E3%2582%25AF%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25A7%25E3%2583%25A1%25E3%2583%25A2%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%25E7%2592%25B0%25E5%25A2%2583%25E3%2582%2592%25E4%25BD%259C%25E3%2581%25A3%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:peishim%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdlNmIxNjYxMDkuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;はじめに 技術関係のメモをNotionからObsidianに移行し、すでに契約していたAIサブスク（ChatGPT / Claude）の利用範囲内で、AIがメモを整理してくれる環境を作りました。この記事では、自分とまったく同じ環境を再現するための詳細な手順ではなく、構成の考え方や、ObsidianとAIを組み合わせるうえで役立ったポイントを...</description>
+      <pubDate>Wed, 22 Jul 2026 04:25:27 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/peishim/articles/a10faeabae7c09</comments>
     </item>
     <item>
       <title>街のAIっぽい作品鑑賞会</title>
