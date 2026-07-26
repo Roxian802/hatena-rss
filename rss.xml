@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 26 Jul 2026 12:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 13:33:13 +0000</lastBuildDate>
     <item>
       <title>『みいちゃんと山田さん』のアニメ化がもたらす問題｜郡司 真子 Masako GUNJ I</title>
       <link>https://note.com/utss2020/n/n499023ec41fa</link>
@@ -18,6 +18,13 @@
       <description>&lt;img src="https://stat.profile.ameba.jp/profile_images/20160526/09/6b/Ov/p/o033602851464223812261.png" /&gt;&lt;br/&gt;人間は恒温動物なので冷やしても体温は下がりません。 汗をかき、汗が乾く時の気化熱で体温調整して37℃前後に保っています。 日本には四季があり、夏は暑く冬が寒いのは当然ですが、テレビでは気温に慣らすためにしきりにエアコンを使うように言いますが、気温に慣れるためにはエアコンを使わずに人間に備わった体温調整...</description>
       <pubDate>Sun, 26 Jul 2026 01:20:45 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/ameblo.jp/kaneshiro-honest-clinic/entry-12973732266.html</comments>
+    </item>
+    <item>
+      <title>Opus5が思考が浅いように感じる問題への対策</title>
+      <link>https://zenn.dev/u1/articles/claude5-rules-collapse-and-fix</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--SEL4lWhY--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Opus5%25E3%2581%258C%25E6%2580%259D%25E8%2580%2583%25E3%2581%258C%25E6%25B5%2585%25E3%2581%2584%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB%25E6%2584%259F%25E3%2581%2598%25E3%2582%258B%25E5%2595%258F%25E9%25A1%258C%25E3%2581%25B8%25E3%2581%25AE%25E5%25AF%25BE%25E7%25AD%2596%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Yuichi%2520Uemura%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzMwM2U1NDBiMzUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;Claude Code を Opus 5 に切り替えた直後から、応答の散文傾向が急に強まり、思考が浅くなる (構造化して考えられない) 変化が出ました。長年育ててきた rules (CLAUDE.md や常時ロードの指示ファイル群) は何も変えていないのに、です。調べていくと、モデルが悪いのでも rules が壊れたのでもなく、Claude 5 世代で Op...</description>
+      <pubDate>Sun, 26 Jul 2026 04:18:08 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/u1/articles/claude5-rules-collapse-and-fix</comments>
     </item>
     <item>
       <title>フジロックで「右も左も戦争は嫌いだ、いがみ合うより音楽で団結」と訴えたハイスタが叩かれる</title>
