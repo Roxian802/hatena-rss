@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 01 Aug 2026 09:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 10:33:09 +0000</lastBuildDate>
     <item>
       <title>ワクチンに関する誤情報を信じていてもワクチンを接種する意向のある人々の特徴を解析 | 東京大学</title>
       <link>https://www.u-tokyo.ac.jp/focus/ja/press/z0406_00012.html</link>
@@ -32,6 +32,13 @@
       <description>通勤や通学の途中で、「なんでだろう？」と気になっている場所はないだろうか？ 私の場合、日比谷駅の地下通路にある点字ブロックがそうだった。 目が見えなくなった今では「これはなんだろう？」が日常のほとんどなのだが、見えなくても「なぜだろう？」となってしまう場所……。 そのモヤモヤを解決したら、同時に「歴史...</description>
       <pubDate>Thu, 30 Jul 2026 23:43:10 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/rocketnews24.com/2026/07/31/2784211/</comments>
+    </item>
+    <item>
+      <title>ターミナル内で動くブラウザー「terminal-browser」が登場 ——エージェントからも操作可能、現在Apple Silicon Macのみ対応 | gihyo.jp</title>
+      <link>https://gihyo.jp/article/2026/07/terminal-browser</link>
+      <description>&lt;img src="https://gihyo.jp/assets/images/ICON/2026/2968_terminal-browser.png" /&gt;&lt;br/&gt;開発者のRob Pruzan氏は2026年7月30日、既存のターミナル内でChromiumベースのブラウザーを表示・操作できる「terminal-browser」をXで紹介した。WebサイトやローカルのHTMLファイルをコーディングエージェントの横に開けるほか、CLIを介してエージェントがページの内容を確認し、クリックや文字入力などを実行できる。G...</description>
+      <pubDate>Fri, 31 Jul 2026 11:03:57 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/gihyo.jp/article/2026/07/terminal-browser</comments>
     </item>
   </channel>
 </rss>
