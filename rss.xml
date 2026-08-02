@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 02 Aug 2026 00:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 01:33:09 +0000</lastBuildDate>
     <item>
       <title>宇宙データセンターは冷やすのが難しい？</title>
       <link>https://imoz.jp/scraps/202607_space_data_center_thermal.html</link>
       <description>宇宙データセンターの話題になると、「宇宙は冷たいから冷却は簡単だ」という意見と、「真空では熱が逃げないからデータセンターなど不可能だ」という意見の両方を見かけます。実は、どちらも正確ではありません。確かに真空中では外気への対流を利用できませんが、赤外線による熱放射で熱を捨てることはできます。発電...</description>
       <pubDate>Sat, 01 Aug 2026 08:27:52 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/imoz.jp/scraps/202607_space_data_center_thermal.html</comments>
+    </item>
+    <item>
+      <title>椅子取りゲームに勝ち続けた氷河期世代の俺から一言</title>
+      <link>https://anond.hatelabo.jp/20260801194409</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;俺みたいなことを書くと、必ず同じ脅しが返ってくる。 「そんなこと言ってると、お前が障害者になったときに困るぞ」 「お前の子供が負け組になったらどうするんだ」 全然響かない。一ミリもだ。理由を説明する。 その脅しが効くのは、「落ちたら誰かが助けてくれる世界」を信じてる奴だけなんだよ。落ちたときに拾って...</description>
+      <pubDate>Sat, 01 Aug 2026 10:47:21 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260801194409</comments>
     </item>
     <item>
       <title>出産した友達が家に招いてくれたと母に報告したら「必ずかわいいねって言ってくるんだよ」と念を押されたが、写真を見てもかわいいと思えなかったし…と伝えたら、こう言われた</title>
@@ -25,13 +32,6 @@
       <description>&lt;img src="https://stat.ameba.jp/user_images/20260801/15/miyamotokarin-official/16/f8/j/o1080060215808053830.jpg?cax=1280-720" /&gt;&lt;br/&gt;コードが書けないアイドルが、AIと一緒に10時間配信のシステムを全部作った話自分がシステムをしっかり理解するためにも、 どんなことをやったのか残しておく為にも ClaudeとChatGPTと一緒に （間違ってるところがあったらいけないのでね！） どんな風に制作して行ったのか ブログに書いて行くことにしました。 配信アー...</description>
       <pubDate>Sat, 01 Aug 2026 08:05:19 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/ameblo.jp/miyamotokarin-official/entry-12974432505.html</comments>
-    </item>
-    <item>
-      <title>宮本佳林『HANAKIN配信システムの技術構成』</title>
-      <link>https://ameblo.jp/miyamotokarin-official/entry-12974440752.html</link>
-      <description>&lt;img src="https://stat.ameba.jp/user_images/20260801/16/miyamotokarin-official/a4/3d/j/o1080061215808085286.jpg?cax=1280-720" /&gt;&lt;br/&gt;HANAKIN配信システムの技術構成2026年7月31日、5thシングル「HANAKIN／シャニカマー」の発売週に、10時間のYouTube生配信をやりました。企画は「みんなと協力して家にあるものでMV再現配信」。視聴者がCDを買ってハッシュタグで投稿するたびに、メイク・衣装・編集アプリが解禁されていく参加型の配信です。 配信アーカ...</description>
-      <pubDate>Sat, 01 Aug 2026 08:05:57 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ameblo.jp/miyamotokarin-official/entry-12974440752.html</comments>
     </item>
   </channel>
 </rss>
