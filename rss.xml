@@ -4,7 +4,21 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 02 Aug 2026 11:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 12:33:09 +0000</lastBuildDate>
+    <item>
+      <title>リモートワーカーとしての振る舞い - 覚書</title>
+      <link>https://satoru-takeuchi.hatenablog.com/entry/2026/08/02/102507</link>
+      <description>&lt;img src="https://ogimage.blog.st-hatena.com/10328749687217861088/14945776032057409530/1785633907" /&gt;&lt;br/&gt;私は新型コロナ禍よりさらに前から10年近くフルリモートワーカーです。自宅からオフィスまでは電車で4時間ほどかかります。出社は滅多にしません。そんな私が試行錯誤の上に考えた、リモートワーカーはどのように振る舞うとよさそうなのかという知見を共有します。本記事は「企業はリモートワークを推進すべきか否か」と...</description>
+      <pubDate>Sun, 02 Aug 2026 03:55:14 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/satoru-takeuchi.hatenablog.com/entry/2026/08/02/102507</comments>
+    </item>
+    <item>
+      <title>運動ってしんどくなるのが嫌なんだよ！どうにかならないの？</title>
+      <link>https://anond.hatelabo.jp/20260802153058</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;運動したら、不快感があるのが嫌！！！ ジョギングだと、ハァハァなるし、不快感がたまる！ 筋トレだと、数回腕立てするだけで不快感が出てくる！！ 学校の体育とか部活だと、そういう不快感は仕方ないものだと思ってた でもよく考えたら、この不快感はいらなくないか？？ もっと楽に、楽しく、不快感なしに運動する方法...</description>
+      <pubDate>Sun, 02 Aug 2026 06:31:59 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260802153058</comments>
+    </item>
     <item>
       <title>※服装と性犯罪は無関係です。(第20回NC佳作)・※服装と性犯罪は無関係です。(第20回NC佳作) | チャンピオンクロス</title>
       <link>https://championcross.jp/episodes/56897ce64fc9d</link>
@@ -20,13 +34,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/yoshiki_stu/n/n5689c1510949</comments>
     </item>
     <item>
-      <title>CLAUDE.mdとAGENTS.mdを削ったら、AIコーディングがグンと賢くなった｜白井暁彦 aka しらいはかせ</title>
-      <link>https://note.com/o_ob/n/nd19cba8e11d7</link>
-      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/c58c80010c4e301d709e6d858afe40a790bc4624.png" /&gt;&lt;br/&gt;Claude CodeやCodexのようなコーディングエージェントを使い続けていると、いつの間にかCLAUDE.mdやAGENTS.mdが巨大化していきます。 最初は数十行だったはずなのに、注意事項を追加し、作業手順を書き足し、引き継ぎ事項を残し、過去のトラブルを記録しているうちに、数百行の「何でも帳」になってしまいます。 情報を...</description>
-      <pubDate>Sat, 01 Aug 2026 13:32:46 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/o_ob/n/nd19cba8e11d7</comments>
-    </item>
-    <item>
       <title>物価やべえ…</title>
       <link>https://anond.hatelabo.jp/20260801120630</link>
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;コンビニで水とパンとクッキー買ったら700円。</description>
@@ -34,11 +41,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260801120630</comments>
     </item>
     <item>
-      <title>Copilot活用に向けた「Microsoft Teamsでの情報共有の考え方」を作成しました  | 北海道大学DX業務推進室</title>
-      <link>https://mx.general.hokudai.ac.jp/posts/SuvDaMaR</link>
-      <description>&lt;img src="https://storage.googleapis.com/studio-design-asset-files/projects/NxqgdwEJa1/s-1200x675_v-fms_webp_bab2ad9a-c99f-4a14-8a86-1a33d0d46d2e.png" /&gt;&lt;br/&gt;こんにちは！「事務職員が変われば、北大は変わる」を信じてる、北海道大学DX業務推進室の佐久間です。Microsoft 365 Copilotをもっと活用するためには、業務に関する情報がTeams上に適...</description>
-      <pubDate>Sat, 01 Aug 2026 06:41:19 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/mx.general.hokudai.ac.jp/posts/SuvDaMaR</comments>
+      <title>CLAUDE.mdとAGENTS.mdを削ったら、AIコーディングがグンと賢くなった｜白井暁彦 aka しらいはかせ</title>
+      <link>https://note.com/o_ob/n/nd19cba8e11d7</link>
+      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/c58c80010c4e301d709e6d858afe40a790bc4624.png" /&gt;&lt;br/&gt;Claude CodeやCodexのようなコーディングエージェントを使い続けていると、いつの間にかCLAUDE.mdやAGENTS.mdが巨大化していきます。 最初は数十行だったはずなのに、注意事項を追加し、作業手順を書き足し、引き継ぎ事項を残し、過去のトラブルを記録しているうちに、数百行の「何でも帳」になってしまいます。 情報を...</description>
+      <pubDate>Sat, 01 Aug 2026 13:32:46 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/o_ob/n/nd19cba8e11d7</comments>
     </item>
     <item>
       <title>ロシアのミサイルでキーウ市民が死ぬのは悪い攻撃で、ウクライナのドローン攻撃でロシア国民に被害が出るのは仕方がないことなのは、なぜ？</title>
@@ -46,6 +53,13 @@
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;戦争反対というのは、どういうレベルでの戦争反対なのか？ やられたら、やりかえしていいのか？ やられても、やりかえすべきではないのか？ 戦争に反対する。 その言葉は同じでも、それぞれに一派があるのは間違いなく。</description>
       <pubDate>Sat, 01 Aug 2026 23:41:15 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260802084053</comments>
+    </item>
+    <item>
+      <title>Copilot活用に向けた「Microsoft Teamsでの情報共有の考え方」を作成しました  | 北海道大学DX業務推進室</title>
+      <link>https://mx.general.hokudai.ac.jp/posts/SuvDaMaR</link>
+      <description>&lt;img src="https://storage.googleapis.com/studio-design-asset-files/projects/NxqgdwEJa1/s-1200x675_v-fms_webp_bab2ad9a-c99f-4a14-8a86-1a33d0d46d2e.png" /&gt;&lt;br/&gt;こんにちは！「事務職員が変われば、北大は変わる」を信じてる、北海道大学DX業務推進室の佐久間です。Microsoft 365 Copilotをもっと活用するためには、業務に関する情報がTeams上に適...</description>
+      <pubDate>Sat, 01 Aug 2026 06:41:19 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/mx.general.hokudai.ac.jp/posts/SuvDaMaR</comments>
     </item>
     <item>
       <title>京都に旅行した時、京都河原町駅で駅員さんに「四条はどうやって行くんですか？」と聞いたら「ここが四条です」と言われた→客が何を求めているかを理解すべきか？伝え方の問題か？</title>
