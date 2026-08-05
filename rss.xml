@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 05 Aug 2026 02:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 03:33:10 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft 謹製 デスクトップアプリ「Skill Recorder」で業務効率化スキル（SKILL.md）の作成が捗る？</title>
+      <link>https://zenn.dev/benjuwan/articles/c2ba48e7662f92</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--goPwC68q--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Microsoft%2520%25E8%25AC%25B9%25E8%25A3%25BD%2520%25E3%2583%2587%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%2588%25E3%2583%2583%25E3%2583%2597%25E3%2582%25A2%25E3%2583%2597%25E3%2583%25AA%25E3%2580%258CSkill%2520Recorder%25E3%2580%258D%25E3%2581%25A7%25E6%25A5%25AD%25E5%258B%2599%25E5%258A%25B9%25E7%258E%2587%25E5%258C%2596%25E3%2582%25B9%25E3%2582%25AD%25E3%2583%25AB%25EF%25BC%2588SKILL.md%25EF%25BC%2589...%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:benjuwan%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSnd2XzJhLTN4SnJmSkN0Ql9wMkkwWUlVaVlTY1ozLTFQZFZoNkxsaUIyRmc9czk2LWM=%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;はじめに スキル（SKILL.md）で定型業務をAIに移譲したり、特定業務の自動化・半自動化を実現したりといった状況は珍しくなくなってきたと思います。 例えば、ブラウザ操作のトレースはplaywright-mcpまたはplaywright-cliで行い、そのトレース結果からAIに業務効率化のスキル作成までをしてもらうのも一般的でしょう。 ...</description>
+      <pubDate>Tue, 04 Aug 2026 16:24:54 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/benjuwan/articles/c2ba48e7662f92</comments>
+    </item>
     <item>
       <title>土木業界にいると日本共産党に批判的になる→それよりも本当に嫌っているのは民主党かもしれない「道の駅ですらこの怒りっぷりなの……。」</title>
       <link>https://togetter.com/li/2729099</link>
@@ -13,17 +20,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2729099</comments>
     </item>
     <item>
-      <title>東大、60代教授を懲戒処分　サイトに中国から閲覧しにくい細工 | 毎日新聞</title>
-      <link>https://mainichi.jp/articles/20260804/k00/00m/040/209000c</link>
-      <pubDate>Tue, 04 Aug 2026 10:26:24 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20260804/k00/00m/040/209000c</comments>
-    </item>
-    <item>
-      <title>TVアニメ『ドカ食いダイスキ！ もちづきさん』公式サイト</title>
-      <link>https://mochizuki-san.jp/</link>
-      <description>&lt;img src="https://mochizuki-san.jp/assets/og/ogp.jpg" /&gt;&lt;br/&gt;『ドカ食いダイスキ！ もちづきさん』TVアニメ化決定！アニメーション制作：パッショーネ</description>
-      <pubDate>Tue, 04 Aug 2026 12:01:07 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/mochizuki-san.jp/</comments>
+      <title>玄関先で物置を整理していたらAmazonの配達が来たので「ごくろうさまです～」と受け取ろうとしたら、ガン無視で黙々と荷物をポストに突っ込んだ→配達員の対応に怒る人のポストに意見さまざま</title>
+      <link>https://togetter.com/li/2729116</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/25bfedaeed4d8a85b7dedb5a53774ad7-1200x630.jpeg" /&gt;&lt;br/&gt;かきを @easy_2_smile Amazonの配達が来たんだけどさ、たまたま僕が玄関先で物置の整理してたから、かきをスマイルで「ごくろうさまです～」って感じで受け取ろうとしたら、ガン無視しやがって黙々と荷物をポストに突っ込んでんの。 なんか頭きて「目の前に居るんだから手渡ししろよ！」つっても聞こえないふりしながら...</description>
+      <pubDate>Tue, 04 Aug 2026 17:55:26 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2729116</comments>
     </item>
   </channel>
 </rss>
