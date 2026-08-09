@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 09 Aug 2026 07:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 08:33:09 +0000</lastBuildDate>
     <item>
       <title>【速報】北朝鮮、ロに最大5万人派兵決定か</title>
       <link>https://www.47news.jp/14764797.html</link>
@@ -27,6 +27,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/local/kansai/news/20260808-GYO1T00089/</comments>
     </item>
     <item>
+      <title>AI研修(Day2)【MIXI 26新卒技術研修】</title>
+      <link>https://speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day2</link>
+      <description>&lt;img src="https://files.speakerdeck.com/presentations/289ed7542b7c4f84856de2f241ba5a16/slide_0.jpg?40070816" /&gt;&lt;br/&gt;本スライドは、MIXIの2026年度新卒向け技術研修で使用された資料です。 MIXI 2026新卒技術研修 『AI研修(Day2)』 ─────────────────────────────── ※皆様へのお願い※ 資料・動画・リポジトリのご利用に…</description>
+      <pubDate>Tue, 28 Jul 2026 01:14:20 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/mixi_engineers/2026_new_grad_training_ai_day2</comments>
+    </item>
+    <item>
       <title>「AIを全員に配った組織」の生産性が落ちるとき - &#x1f434; (馬)</title>
       <link>https://blog.takaumada.com/entry/ai-organization-flow</link>
       <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/2e71969fdc9f054693535515d43c069eb3d5b812/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Ftakaumada%2F20260808%2F20260808200150.png" /&gt;&lt;br/&gt;「ブライスのパラドックス」と呼ばれる現象があります。混雑するネットワークに新しい道を加えたのに、各人が自分にとって最短の経路を選んだ結果、全員の移動時間が逆に長くなることがある、という交通工学のパラドックスです。 逆に「道をなくす」ことで、移動時間が短縮されることもあります。2005年に完成したソウル...</description>
@@ -39,13 +46,6 @@
       <description>&lt;img src="https://www.sankei.com/resizer/v2/Y6YG3XXIHZI3HE6H7NDY4TSGMQ.jpg?auth=837a0a89bde0a9856ef00d0361a5a0cf1e03516f69e0b341297571edc8383a12&amp;amp;quality=50&amp;amp;focal=1219%2C1014&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;米プロバスケットボールNBAクリッパーズの八村塁は8日、名古屋市のIGアリーナで主催したイベントで来場者から人種差別に関わる誹謗中傷を受けながらも、日本代表として活動する理由の質問を受け「自分が日本人であることをすごくプライドに思っている。誰が何と言おうと僕は日本人」と答えた。 富山県出身の八村は西アフ...</description>
       <pubDate>Sat, 08 Aug 2026 14:19:21 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260808-QH3SAWA4FFMVFHRFU3FJ27BJFE/</comments>
-    </item>
-    <item>
-      <title>「飯塚幸三は上級国民だから逮捕されない」は間違いだった…《池袋暴走事故》警視庁幹部が「自民党議員」に呼び出されても逮捕を見送った理由 | 文春オンライン</title>
-      <link>https://bunshun.jp/articles/-/90775</link>
-      <description>&lt;img src="https://bunshun.jp/mwimgs/1/4/1200wm/img_1453747e42f98a95ff4c5dcf74392caf104022.jpg" /&gt;&lt;br/&gt;2019年4月、母娘2人が死亡し10人が重軽傷を負った「池袋暴走事故」。元官僚の飯塚幸三受刑者が逮捕されず在宅捜査となったことで、世間には「上級国民だから逮捕されなかった」という怒りと疑惑が広がった。 しかし、その裏側で捜査陣営は激しく葛藤し、1000ページに及ぶ法解釈を読み込みながら「不逮捕」の根拠を慎重に...</description>
-      <pubDate>Sat, 08 Aug 2026 03:13:44 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/bunshun.jp/articles/-/90775</comments>
     </item>
   </channel>
 </rss>
