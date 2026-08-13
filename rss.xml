@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 13 Aug 2026 08:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 09:33:10 +0000</lastBuildDate>
     <item>
       <title>中年期の出口｜清水研</title>
       <link>https://note.com/kenshimizu_/n/nee31efbc70d7</link>
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/302701052/rectangle_large_type_2_7f27bd366a0326ce054e5c4f1d7efdc3.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;強くなりたくて 私は小さいころ、傷つきやさみしさを抱えていました。 ミスが多くて運動神経が鈍いという性質を持って生まれてきたからか、周囲から自分が否定される体験が積み重なりました。いじめられたときは、ほんとうにみじめな体験をして、怖さや屈辱がこころの奥までしみわたりました。そして、本質的には「自分...</description>
       <pubDate>Wed, 12 Aug 2026 15:31:54 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/kenshimizu_/n/nee31efbc70d7</comments>
+    </item>
+    <item>
+      <title>彼女がいるやつってオタクと呼べるの？←これ｜nnnn</title>
+      <link>https://note.com/tender_loris3349/n/nb6366f744915</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/296178697/rectangle_large_type_2_b95b966fb7614304f07d06d3aa0e39d5.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;理想の味がするものが好きです。 理想の味がするものとは何か。 イニシエーション・ラブをアニメで終えたオタクがカラオケで歌う「ふわふわ時間」です。 いい感じのヘイトスピーチで笑っちゃったんですが、正直この感覚って俺にもかなりあって、彼女がいたらオタクじゃないとまでは言いませんが、やっぱり彼女がいるオタ...</description>
+      <pubDate>Wed, 12 Aug 2026 21:42:50 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/tender_loris3349/n/nb6366f744915</comments>
     </item>
     <item>
       <title>AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証 - Qiita</title>
@@ -46,20 +53,6 @@
       <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3011095013052026000000-1.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=cf6ac9c63f47ba5fbf890967ec80ac1c" /&gt;&lt;br/&gt;家電業界が再編に揺れている。日立製作所は4月、量販大手ノジマに白物家電事業を売却すると発表した。ブランドの顔といえる事業の売却を決めるまでには曲折があった。収益を改善し開発手法を変えるために、価格主導権を小売りから取り返そうと試みた。日立、最後のBtoC事業日立は2009年3月期に巨額赤字を計上したのを機...</description>
       <pubDate>Wed, 12 Aug 2026 20:09:54 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUC085KR0Y6A500C2000000/</comments>
-    </item>
-    <item>
-      <title>Claude がテキストに電子透かしを入れ始めたので、LLM ウォーターマーキングの仕組みを調べた</title>
-      <link>https://zenn.dev/hellorusk/articles/3328866ca9e922</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--BQ6yKX4L--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520%25E3%2581%258C%25E3%2583%2586%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E9%259B%25BB%25E5%25AD%2590%25E9%2580%258F%25E3%2581%258B%25E3%2581%2597%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581LLM%2520%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E8%25AA%25BF%25E3%2581%25B9%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kaito%2520Sugimoto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYxMTZhZmU1YmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;2026年8月、Anthropic が「Claude の生成テキストに機械可読なマーク（電子透かし）を埋め込む」と発表しました[1]。EU AI Act 第50条の透明性規範（Code of Practice on Transparency of AI-Generated Content）に署名したことに伴うもので、2026年8月2日以降にリリースされるモデルは、EU 圏内に限らず世界中でテキス...</description>
-      <pubDate>Wed, 12 Aug 2026 13:27:16 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/hellorusk/articles/3328866ca9e922</comments>
-    </item>
-    <item>
-      <title>最近ショッピングモールで増殖しているカプセルトイ専門店が嫌いすぎる人の記事に様々な反応「ディストピアは言いすぎ」「今の日本の欲の薄弱さを象徴している」「虚無感感じる」</title>
-      <link>https://togetter.com/li/2732102</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/c35e6163ab36a82184585f1ba524ef49-1200x630.jpeg" /&gt;&lt;br/&gt;カプセルトイの森が嫌い (原題は「 ガチャガチャの森が嫌い」 でしたが、ガチャガチャの森が個別の会社様の名前だとご指摘を頂きましたため、個別の会社様についての文章ではないため表題を訂正いたします。)私はガチャガチャの並んだ… イモンヌ&#x1f360;@immonnu イモンヌ&#x1f360; @immonnu 普段は化学屋さんで分析と営業やってます...</description>
-      <pubDate>Wed, 12 Aug 2026 11:25:55 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2732102</comments>
     </item>
   </channel>
 </rss>
