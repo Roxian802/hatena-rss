@@ -4,13 +4,27 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 13 Aug 2026 02:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 03:33:10 +0000</lastBuildDate>
     <item>
       <title>中年期の出口｜清水研</title>
       <link>https://note.com/kenshimizu_/n/nee31efbc70d7</link>
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/302701052/rectangle_large_type_2_7f27bd366a0326ce054e5c4f1d7efdc3.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;強くなりたくて 私は小さいころ、傷つきやさみしさを抱えていました。 ミスが多くて運動神経が鈍いという性質を持って生まれてきたからか、周囲から自分が否定される体験が積み重なりました。いじめられたときは、ほんとうにみじめな体験をして、怖さや屈辱がこころの奥までしみわたりました。そして、本質的には「自分...</description>
       <pubDate>Wed, 12 Aug 2026 15:31:54 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/kenshimizu_/n/nee31efbc70d7</comments>
+    </item>
+    <item>
+      <title>AIが実装し、AIがテストし、AIが「問題ありません」と言う時代の品質保証 - Qiita</title>
+      <link>https://qiita.com/y0us91/items/2feffd2cc6c672717973</link>
+      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxNjkwOTUlMkY2YjllMzA2ODI3N2JhMDUwMTQ1NzA5Nzc2ZDVlZGE3ZGRjMmQyMGU4JTJGeF9sYXJnZS5wbmclM0YxNzc5OTQzNzc3P2l4bGliPXJiLTQuMS4xJmFyPTElM0ExJmZpdD1jcm9wJm1hc2s9ZWxsaXBzZSZiZz1GRkZGRkYmZm09cG5nMzImcz05OThlODQwZjNhODI1OTBlNDljY2I2YTAyNzA0ODgyMw%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Daa0bd3a96133ea26806182b430fbdc8d?ixlib=rb-4.1.1&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9QUklRTMlODElOEMlRTUlQUUlOUYlRTglQTMlODUlRTMlODElOTclRTMlODAlODFBSSVFMyU4MSU4QyVFMyU4MyU4NiVFMyU4MiVCOSVFMyU4MyU4OCVFMyU4MSU5NyVFMyU4MCU4MUFJJUUzJTgxJThDJUUzJTgwJThDJUU1JTk1JThGJUU5JUExJThDJUUzJTgxJTgyJUUzJTgyJThBJUUzJTgxJUJFJUUzJTgxJTlCJUUzJTgyJTkzJUUzJTgwJThEJUUzJTgxJUE4JUU4JUE4JTgwJUUzJTgxJTg2JUU2JTk5JTgyJUU0JUJCJUEzJUUzJTgxJUFFJUU1JTkzJTgxJUU4JUIzJUFBJUU0JUJGJTlEJUU4JUE4JUJDJnR4dC1hbGlnbj1sZWZ0JTJDdG9wJnR4dC1jb2xvcj0lMjMxRTIxMjEmdHh0LWZvbnQ9SGlyYWdpbm8lMjBTYW5zJTIwVzYmdHh0LXNpemU9NTYmdHh0LXBhZD0wJnM9ZTIxYjBhNmM5YTM3MTk4MTAyMmVjZDhlZjQ3YzUxOGQ&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDB5MHVzOTEmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz1iY2YyNjQ1N2JkYjI1Yzc5ZjUzNzNkMDVkYTIwMGIwOA&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=df16b018b8b2ea2eee2b1e1d6130b1e4" /&gt;&lt;br/&gt;はじめに Coding Agentの進化によって、ソフトウェア開発の形が大きく変わり始めています。 少し前までAIによる開発支援といえば、 コード補完 コード生成 リファクタリング テストコード生成 など、「人間が主体で、AIが支援する」使い方が中心でした。 しかし現在のCoding Agentは、単にコードを生成するだけではあり...</description>
+      <pubDate>Wed, 12 Aug 2026 14:26:01 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/y0us91/items/2feffd2cc6c672717973</comments>
+    </item>
+    <item>
+      <title>「夫が絶賛したレシピ」にモヤモヤするという話を読んで思ったこと｜山本ゆり</title>
+      <link>https://note.com/syunkon0507/n/ne4818dea7e4d</link>
+      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/973829c2abeb4acada8edf160cbb76bb84bc636f.png" /&gt;&lt;br/&gt;小学生の作文みたいなタイトルになってしまったけど、先日、長谷川あかりさんの優しい文章を読んで思ったことを書きました。 全部は読んでもらえなさそうな超長文になってしまったんで、結局何が言いたいねんという結論、大枠の流れだけ先に書きますね。 ・モヤモヤを感じる理由はざっくり3つある ①大袈裟なバズ構文を見...</description>
+      <pubDate>Wed, 12 Aug 2026 15:45:02 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/syunkon0507/n/ne4818dea7e4d</comments>
     </item>
     <item>
       <title>Claude がテキストに電子透かしを入れ始めたので、LLM ウォーターマーキングの仕組みを調べた</title>
@@ -25,13 +39,6 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/b2c2c6c97c2c51591e6dfef5ecc5f8ad-1200x630.jpeg" /&gt;&lt;br/&gt;唐木元 @rootsy ちいかわ映画版、いろいろ考察があるのでしょうが、私が真っ先に思ったのは「お子に見せられない」でした。私はエロも暴力も多少は晒したほうがいいくらい思ってるタイプの親ですが、このストーリーはいただけません。終盤、ちいかわは事情に鑑みて真実の告発を断念します。多少の卑怯さを引き受ける 202...</description>
       <pubDate>Wed, 12 Aug 2026 13:31:37 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@truejapantimes/p/jSj2rrU</comments>
-    </item>
-    <item>
-      <title>トランプ氏の投稿を「いち早く閲覧」、月額最大1600万円のサービスを10社超が利用 - BBCニュース</title>
-      <link>https://www.bbc.com/japanese/articles/c89n3vnj4j1o</link>
-      <description>&lt;img src="https://ichef.bbci.co.uk/news/1200/branded_japanese/391a/live/f6f964e0-9514-11f1-976d-475167c7f6ea.jpg" /&gt;&lt;br/&gt;アメリカのドナルド・トランプ大統領のソーシャルメディア「トゥルース・ソーシャル」を所有するトランプ・メディア・アンド・テクノロジー・グループは10日、トランプ氏ら影響力のあるアカウントの投稿をいち早く閲覧できる、月額最大10万ドル（約1600万円）のサービスについて、10社以上が利用していると明らかにした...</description>
-      <pubDate>Wed, 12 Aug 2026 07:02:47 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.bbc.com/japanese/articles/c89n3vnj4j1o</comments>
     </item>
   </channel>
 </rss>
