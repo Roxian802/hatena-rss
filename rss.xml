@@ -4,7 +4,21 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 12 Aug 2026 23:33:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 00:33:09 +0000</lastBuildDate>
+    <item>
+      <title>中年期の出口｜清水研</title>
+      <link>https://note.com/kenshimizu_/n/nee31efbc70d7</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/302701052/rectangle_large_type_2_7f27bd366a0326ce054e5c4f1d7efdc3.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;強くなりたくて 私は小さいころ、傷つきやさみしさを抱えていました。 ミスが多くて運動神経が鈍いという性質を持って生まれてきたからか、周囲から自分が否定される体験が積み重なりました。いじめられたときは、ほんとうにみじめな体験をして、怖さや屈辱がこころの奥までしみわたりました。そして、本質的には「自分...</description>
+      <pubDate>Wed, 12 Aug 2026 15:31:54 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/kenshimizu_/n/nee31efbc70d7</comments>
+    </item>
+    <item>
+      <title>Claude がテキストに電子透かしを入れ始めたので、LLM ウォーターマーキングの仕組みを調べた</title>
+      <link>https://zenn.dev/hellorusk/articles/3328866ca9e922</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--BQ6yKX4L--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Claude%2520%25E3%2581%258C%25E3%2583%2586%25E3%2582%25AD%25E3%2582%25B9%25E3%2583%2588%25E3%2581%25AB%25E9%259B%25BB%25E5%25AD%2590%25E9%2580%258F%25E3%2581%258B%25E3%2581%2597%25E3%2582%2592%25E5%2585%25A5%25E3%2582%258C%25E5%25A7%258B%25E3%2582%2581%25E3%2581%259F%25E3%2581%25AE%25E3%2581%25A7%25E3%2580%2581LLM%2520%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25B3%25E3%2582%25B0%25E3%2581%25AE%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E8%25AA%25BF%25E3%2581%25B9%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Kaito%2520Sugimoto%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzYxMTZhZmU1YmMuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;2026年8月、Anthropic が「Claude の生成テキストに機械可読なマーク（電子透かし）を埋め込む」と発表しました[1]。EU AI Act 第50条の透明性規範（Code of Practice on Transparency of AI-Generated Content）に署名したことに伴うもので、2026年8月2日以降にリリースされるモデルは、EU 圏内に限らず世界中でテキス...</description>
+      <pubDate>Wed, 12 Aug 2026 13:27:16 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/hellorusk/articles/3328866ca9e922</comments>
+    </item>
     <item>
       <title>Steam全年齢向け百合ゲー、銀行からの入金拒否を受け発売延期。8月発売予定だった一般向けゲームなのに…相次ぐSteamゲームのデバンキング | Game*Spark - 国内・海外ゲーム情報サイト</title>
       <link>https://www.gamespark.jp/article/2026/08/12/170561.html</link>
