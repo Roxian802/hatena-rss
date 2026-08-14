@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 13 Aug 2026 23:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 00:33:10 +0000</lastBuildDate>
     <item>
       <title>100万円でも100億円でも、なくなる時は一瞬だ｜松浦勝人</title>
       <link>https://note.com/maxmatsuura/n/n1cf97b51d784</link>
       <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/2a710958fcd8fe1fc6d57f847d36f5c8293add7f.png" /&gt;&lt;br/&gt;——お金についての、僕の経験と結論 僕にとってお金は、使うものだ。貯めるものじゃない。 こう言うと、たいてい「金持ちの余裕ですね」という顔をされる。 違う。逆だ。 お金で痛い目に遭ってきた人間の、これは結論だ。 日本では、お金についての自分の考えを明かすのは、どこかタブーみたいなところがある。お金の話を...</description>
       <pubDate>Thu, 13 Aug 2026 08:23:44 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/maxmatsuura/n/n1cf97b51d784</comments>
+    </item>
+    <item>
+      <title>Webサービスの終わらせ方</title>
+      <link>https://zenn.dev/kibe/articles/df74c2e9fe76b6</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--gHi1Z8_Y--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:Web%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2593%25E3%2582%25B9%25E3%2581%25AE%25E7%25B5%2582%25E3%2582%258F%25E3%2582%2589%25E3%2581%259B%25E6%2596%25B9%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:k1b3%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzhmYzQxOGU0ZmEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;作るより消すほうが大変 Webサービスは、作るときより終わらせるときのほうが面倒です。 少なくとも私はそうでした。 作り始めたころは、 「Cloudflare Workers便利！」 「Supabase最高！」 「決済もSaaSでいける！」 「AIも載せちゃおう！」 「監視も入れとくか！」 と、現代Web開発の恩恵を浴びながら、楽しそうに外部...</description>
+      <pubDate>Thu, 13 Aug 2026 08:51:42 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/kibe/articles/df74c2e9fe76b6</comments>
     </item>
     <item>
       <title>39歳、年収850万だけど婚活市場で惨敗したから聞いてくれ</title>
@@ -25,13 +32,6 @@
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/302640338/rectangle_large_type_2_10ffb9dad1ffbe9079f2b03fa815dc20.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;評論家の三宅香帆の「批評の文体をひらきたい」という文章を読んだ。想像していたよりもずっと酷かった。 正直、こんな人が「文学」だの「批評」だの言い出したら世も末、と言いたいところだが、私は「世」に期待するのをやめたので、なんと言えばいいかわからない。とにかく酷い、としか言えない。 まず三宅香帆は「文...</description>
       <pubDate>Thu, 13 Aug 2026 05:58:22 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/yamadahifumi/n/n266f215d0517</comments>
-    </item>
-    <item>
-      <title>｢一口で捨てた｣｢たぶん市販で1番まずい｣との声も…辛口レビューだらけ｢イオン格安食品｣を人気順に"正直検証"した結果</title>
-      <link>https://toyokeizai.net/articles/-/954135?display=b</link>
-      <description>&lt;img src="https://tk.ismcdn.jp/mwimgs/b/5/1200xm/img_b51bb41009e254ba26cb56eb1c803610495492.jpg" /&gt;&lt;br/&gt;コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を...</description>
-      <pubDate>Thu, 13 Aug 2026 03:36:05 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/toyokeizai.net/articles/-/954135?display=b</comments>
     </item>
   </channel>
 </rss>
