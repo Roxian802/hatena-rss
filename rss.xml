@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 17 Aug 2026 02:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 03:33:10 +0000</lastBuildDate>
     <item>
       <title>チャンスは、変な顔をしてやってくる｜松浦勝人</title>
       <link>https://note.com/maxmatsuura/n/n04f20fbdce8e</link>
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/304131210/rectangle_large_type_2_81844743dd64fdd3388bdb119fc0ed5d.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;仕事とチャンスについての、僕の経験と結論 「チャンスを掴め」とよく言う。 でも、実際に経験してきた身から言うと、この言葉には大事な注釈がひとつ抜けている。 チャンスは、チャンスの顔をしてやってこない。 宝くじみたいに光って落ちているなら、誰も苦労しない。実際のチャンスは、もっと地味で、もっとひどい顔...</description>
       <pubDate>Sun, 16 Aug 2026 13:48:04 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/maxmatsuura/n/n04f20fbdce8e</comments>
+    </item>
+    <item>
+      <title>家を買う経済力がないまま50歳を過ぎて、この先も賃貸住まいの予定だが、引越しするにももう年齢が厳しい…賃貸は何歳まで住めるのだろうか？→様々なアドバイスが集まる</title>
+      <link>https://togetter.com/li/2733976</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/84cc6e6c14905cda2adfee03b7b0632e-1200x630.jpeg" /&gt;&lt;br/&gt;まる　50代｜派遣経理 @Tsunamayomg5 家を買う経済力が無いまま50過ぎて、この先も賃貸住まい。周りには「気楽だから〜」と言ってきたが、引越しするにももう年齢が厳しくなってきた。仕事同様に住まいも年齢がネックに。賃貸は何歳まで住めるのだろう。帰れる田舎もないし。 2026-08-16 23:58:09 ZAWA @PHY3z1z4WHJnNfJ...</description>
+      <pubDate>Sun, 16 Aug 2026 22:55:22 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2733976</comments>
     </item>
     <item>
       <title>ローカル LLM 雑感 (2026-08)</title>
@@ -20,25 +27,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/voluntas.ghost.io/local-llm-2026-08/</comments>
     </item>
     <item>
+      <title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした - Qiita</title>
+      <link>https://qiita.com/jksoft/items/65f7824679ddf171a93d</link>
+      <description>&lt;img src="https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-user-contents.imgix.net%2Fhttps%253A%252F%252Fcdn.qiita.com%252Fassets%252Fpublic%252Farticle-ogp-background-afbab5eb44e0b055cce1258705637a91.png%3Fixlib%3Drb-4.1.1%26w%3D1200%26blend64%3DaHR0cHM6Ly9xaWl0YS11c2VyLXByb2ZpbGUtaW1hZ2VzLmltZ2l4Lm5ldC9odHRwcyUzQSUyRiUyRnMzLWFwLW5vcnRoZWFzdC0xLmFtYXpvbmF3cy5jb20lMkZxaWl0YS1pbWFnZS1zdG9yZSUyRjAlMkYxMDk5OTIlMkZhZDZlOGE4NWZiM2NjMWJjNTM1MWU1YTUwM2M2N2Q2ZDNiM2I4MjA1JTJGbGFyZ2UucG5nJTNGMTYzMzU2MjMyND9peGxpYj1yYi00LjEuMSZhcj0xJTNBMSZmaXQ9Y3JvcCZtYXNrPWVsbGlwc2UmYmc9RkZGRkZGJmZtPXBuZzMyJnM9YTM2ZmE3ZTRlOTI0NDkwNWQ2YWZjY2MxYTNiMTU5OTQ%26blend-x%3D120%26blend-y%3D467%26blend-w%3D82%26blend-h%3D82%26blend-mode%3Dnormal%26s%3Defa3fe2401e33f94fe22c031ddcf0fe4?ixlib=rb-4.1.1&amp;amp;w=1200&amp;amp;fm=jpg&amp;amp;mark64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTk2MCZoPTMyNCZ0eHQ9JUUzJTgyJUE4JUUzJTgzJUE5JUUzJTgzJUJDJUUzJTgyJTkyJTIwMyUyMCVFNyVBNyU5MiVFMyU4MSVBNyUyMEFJJTIwJUUzJTgxJUFCJUU0JUI4JUI4JUU2JThBJTk1JUUzJTgxJTkyJUUzJTgxJTk5JUUzJTgyJThCJUU4JThCJUE1JUU2JTg5JThCJUUzJTgyJTkyJUU4JUE2JThCJUUzJTgxJUE2JUUzJTgwJTgxQUklMjAlRTMlODElOEIlRTMlODIlODklRTclQUQlOTQlRTMlODElODglRTMlODIlOTIlRTUlOEYlOTYlRTMlODIlOEElRTQlQjglOEElRTMlODElOTIlRTMlODIlOEIlRTMlODElOTMlRTMlODElQTglRTMlODElQUIlRTMlODElOTclRTMlODElOUYmdHh0LWFsaWduPWxlZnQlMkN0b3AmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT01NiZ0eHQtcGFkPTAmcz1hNjI5ZmFlZGVjY2RkZDE3Zjc5YjIwYTNiYmI3ZmRlNw&amp;amp;mark-x=120&amp;amp;mark-y=112&amp;amp;blend64=aHR0cHM6Ly9xaWl0YS11c2VyLWNvbnRlbnRzLmltZ2l4Lm5ldC9-dGV4dD9peGxpYj1yYi00LjEuMSZ3PTgzOCZoPTU4JnR4dD0lNDBqa3NvZnQmdHh0LWNvbG9yPSUyMzFFMjEyMSZ0eHQtZm9udD1IaXJhZ2lubyUyMFNhbnMlMjBXNiZ0eHQtc2l6ZT0zNiZ0eHQtcGFkPTAmcz0yODc5NjlhYTdhNjAxNDYyZjkzMzI0MDYwNDg4YzY4OQ&amp;amp;blend-x=242&amp;amp;blend-y=480&amp;amp;blend-w=838&amp;amp;blend-h=46&amp;amp;blend-fit=crop&amp;amp;blend-crop=left%2Cbottom&amp;amp;blend-mode=normal&amp;amp;s=f7ddeb86bbc0e932ce043cd9efd47169" /&gt;&lt;br/&gt;Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?</description>
+      <pubDate>Sat, 15 Aug 2026 01:36:21 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/jksoft/items/65f7824679ddf171a93d</comments>
+    </item>
+    <item>
       <title>C108 ブルアカのキャラで色紙を高額頒布した絵師まとめ</title>
       <link>https://posfie.com/@kaitobac/p/0dVYdnd</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/70fa95507891197ee47fd9d4db0435f6-1200x630.jpeg" /&gt;&lt;br/&gt;3万円スタート → 10万円を超える価格で落札 ブルアカ公式の仕事を担当したこともある人物によるオークション高額頒布 オークションではないが1万円以上の価格で頒布 これら絵師には職業としてイラストレーターをやっている人物も多数含まれる 前提: ブルーアーカイブ公式による二次創作ガイドライン https://bluearchive...</description>
       <pubDate>Sun, 16 Aug 2026 15:56:52 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@kaitobac/p/0dVYdnd</comments>
-    </item>
-    <item>
-      <title>みいちゃんは〈私〉だ ───『みいちゃんと山田さん』を読んで - ohnosakiko’s blog</title>
-      <link>https://ohnosakiko.hatenablog.com/entry/2026/08/16/182313</link>
-      <description>&lt;img src="https://ogimage.blog.st-hatena.com/10257846132707359828/14945776032065642744/1786872494" /&gt;&lt;br/&gt;去年ツイッターでちらほら断片情報を目にしていた頃の私の認識は、「知的障害のある女の子が酷い目に遭うのを楽しむような作りのマンガ？」程度のものだった。アニメ化されるというニュースで再び大きな話題になっていた７月末にマガポケのサイトで一気読みし、既刊を買って再読し、「みい山」で頭がいっぱいになったま...</description>
-      <pubDate>Sun, 16 Aug 2026 10:00:05 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ohnosakiko.hatenablog.com/entry/2026/08/16/182313</comments>
-    </item>
-    <item>
-      <title>ひょっとしてA級戦犯について「A級だから1番悪いヤツらなんだ」と勘違いしてる人が一定数いらっしゃる？→A級戦犯はランクでもないし永久戦犯でもないんですよ</title>
-      <link>https://togetter.com/li/2733787</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/27f8276c862396fda997f1209b3cf02c-1200x630.jpeg" /&gt;&lt;br/&gt;キャメル @4Ud1CCuftl19105 あの、ひょっとして「A級戦犯」について「A級なんだから一番悪いヤツらなんだ」と勘違いしてる人が一定数いらっしゃる…？ 2026-08-14 20:36:41 Takeharu Masuda @tacsheaven @4Ud1CCuftl19105 おそらくほとんどの人がそうでしょうね。 web.archive.org/web/2008102411… A,B,C級の戦犯とは、国...</description>
-      <pubDate>Sun, 16 Aug 2026 09:23:13 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2733787</comments>
     </item>
   </channel>
 </rss>
