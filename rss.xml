@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Tue, 18 Aug 2026 00:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 01:33:09 +0000</lastBuildDate>
     <item>
       <title>JTCにいる50代窓際サラリーマンをテーマにしたAIマンガの「動かない社員の代わりにAIエージェントを使う」回の「シニアがAIをうまく使いこなす」シーンに共感</title>
       <link>https://togetter.com/li/2734257</link>
@@ -25,13 +25,6 @@
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;そのメンタリティの行き付く先は「親はガキ連れて出歩くな」になっちゃうので…なるコメントがあるが、それでよくないか？それの何が問題なの？ 「赤ちゃんの泣き声聞いて可愛いとか思ったことない」理性で我慢して、理性で親に同情しているだけ…「親の感想を他人に押し付けないでほしい」という相互理解も必要では？ htt...</description>
       <pubDate>Mon, 17 Aug 2026 07:14:44 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260817161307</comments>
-    </item>
-    <item>
-      <title>攻撃手法から学ぶ OAuth セキュリティベストプラクティス</title>
-      <link>https://zenn.dev/hidebike712/books/oauth-attacks-and-bcp</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--O1H4ck-k--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci9kNDY5ODNmOTEwLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE" /&gt;&lt;br/&gt;OAuth における代表的な攻撃手法とその対抗策を最新のベストプラクティスに基づいて解説します。</description>
-      <pubDate>Mon, 17 Aug 2026 07:38:12 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/hidebike712/books/oauth-attacks-and-bcp</comments>
     </item>
   </channel>
 </rss>
