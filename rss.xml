@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 23 Aug 2026 23:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 00:33:13 +0000</lastBuildDate>
+    <item>
+      <title>Claude Code でフロントエンドデザインを実践する方法（2026年版ガイド）</title>
+      <link>https://open-design.ai/ja/blog/how-to-use-claude-code-for-frontend-design/</link>
+      <description>&lt;img src="https://open-design.ai/blog/how-to-use-claude-code-for-frontend-design-cover.webp" /&gt;&lt;br/&gt;← ノートへ戻る Claude Code でフロントエンドデザインを実践する方法（2026年版ガイド） Claude Code は本当に質の高いフロントエンドデザインを生み出せます。ただし、それは適切なセットアップとプロンプトがあってこそです。本ガイドでは、frontend-design プラグインのインストールから、ピクセル単位ではなく美的...</description>
+      <pubDate>Sun, 23 Aug 2026 10:08:21 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/open-design.ai/ja/blog/how-to-use-claude-code-for-frontend-design/</comments>
+    </item>
     <item>
       <title>AIに書かせたら、前より休めなくなった｜松浦勝人</title>
       <link>https://note.com/maxmatsuura/n/ne59969fd6e71</link>
@@ -18,6 +25,13 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/04a0148e37d2e0a7dc89c6b80f51bb11-1200x630.jpeg" /&gt;&lt;br/&gt;麵ヘラゆち @nikuniboshi トイレをご利用された後に手を洗わない方が多く、「トイレの後は手を洗ってください」とお伝えすると凄く嫌な顔をされてしまい、誰も幸せになっていないので、そろそろトイレの貸出自体を辞めるか検討中です。 pic.x.com/EXsvRtM0Vy 2026-08-19 16:44:50</description>
       <pubDate>Sun, 23 Aug 2026 08:48:37 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2736528</comments>
+    </item>
+    <item>
+      <title>7月にオーストラリアで発生した大規模通信障害の仕組みが判明したが、ITエンジニアが怖くて泣いてしまう内容だった「時刻が正確に合わなかったのか…」</title>
+      <link>https://togetter.com/li/2736568</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/e2e80085425ce4614952aef10e3c5f11-1200x630.jpeg" /&gt;&lt;br/&gt;Yu F @fj_twt &#x1f622; ハードウェア故障対応として筐体交換を実施したNTPサーバの時刻が1024週(約20年)巻き戻ってしまう ↓ サーバ証明書の有効期限外のためinvalidになってしまう ↓ スマホ等端末と基地局間の認証が失敗、接続不可 ↓ 大規模通信障害…囧rz オーストラリアで起きた全国的な通信障害についてまとめてみた - piyol...</description>
+      <pubDate>Sun, 23 Aug 2026 11:01:59 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2736568</comments>
     </item>
   </channel>
 </rss>
