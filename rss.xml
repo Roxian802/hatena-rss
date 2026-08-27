@@ -4,12 +4,19 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 27 Aug 2026 01:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 02:33:09 +0000</lastBuildDate>
     <item>
       <title>「スーパーリアル麻雀 Venus Returns」先行プレイレポ！初心者も安心の麻雀＆誰でも大興奮の脱衣 カメラ動かし放題の美麗3Dグラフィックで対局も身体も熱い！</title>
       <link>https://game.watch.impress.co.jp/docs/review/rev1/2135433.html</link>
       <pubDate>Tue, 25 Aug 2026 22:42:20 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/game.watch.impress.co.jp/docs/review/rev1/2135433.html</comments>
+    </item>
+    <item>
+      <title>サブスクで洋ドラばっか見てる俺が選ぶ「ただただ好きなアメリカのドラマ」20選</title>
+      <link>https://anond.hatelabo.jp/20260825071514</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;Better Call Saul（2015） いきなりこれ。 Breaking Badのスピンオフなんだけど、最終的にはこっちの方が好きになった。 弁護士が悪人になっていく話、と言ってしまえばそうなんだけど、実際には「ちょっとずつ間違った方を選び続けた人間がどうなるか」を6シーズンかけて延々見せられるドラマ。 ジミーもキムもマイクも...</description>
+      <pubDate>Mon, 24 Aug 2026 22:30:39 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260825071514</comments>
     </item>
     <item>
       <title>台湾本を買う前に読んでほしい。無料なのに濃すぎるブックガイド『臺灣書旅』｜台湾DEEPS</title>
@@ -19,11 +26,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/taiwandeeps/n/nb53f4fa58dbb</comments>
     </item>
     <item>
-      <title>サブスクで洋ドラばっか見てる俺が選ぶ「ただただ好きなアメリカのドラマ」20選</title>
-      <link>https://anond.hatelabo.jp/20260825071514</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;Better Call Saul（2015） いきなりこれ。 Breaking Badのスピンオフなんだけど、最終的にはこっちの方が好きになった。 弁護士が悪人になっていく話、と言ってしまえばそうなんだけど、実際には「ちょっとずつ間違った方を選び続けた人間がどうなるか」を6シーズンかけて延々見せられるドラマ。 ジミーもキムもマイクも...</description>
-      <pubDate>Mon, 24 Aug 2026 22:30:39 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260825071514</comments>
+      <title>ローカルでの開発やめませんか？Claude Code / Cursorで開発の8割をクラウドに移した話</title>
+      <link>https://zenn.dev/sc30gsw/articles/953334f11df507</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--Rs1PhDB_--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AD%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25AB%25E3%2581%25A7%25E3%2581%25AE%25E9%2596%258B%25E7%2599%25BA%25E3%2582%2584%25E3%2582%2581%25E3%2581%25BE%25E3%2581%259B%25E3%2582%2593%25E3%2581%258B%25EF%25BC%259FClaude%2520Code%2520%252F%2520Cursor%25E3%2581%25A7%25E9%2596%258B%25E7%2599%25BA%25E3%2581%25AE8%25E5%2589%25B2%25E3%2582%2592%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%2589%25E3%2581%25AB%25E7%25A7%25BB%25E3%2581%2597%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kaito%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2VmZDZhMGM5YWUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;はじめに 退勤直前にタスクを投げ、PCを閉じて帰る。寝ている間にテスト、AIによるレビュー修正まで回ってPRが上がってくる。翌朝、上がってきたPRをレビューする。 これは現在の私の開発の実情です。私がここでやることは2つだけで、止まったエージェントを起こすことと、承認が必要なものの確認・許可をすることだけで...</description>
+      <pubDate>Wed, 26 Aug 2026 14:12:04 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/sc30gsw/articles/953334f11df507</comments>
     </item>
     <item>
       <title>ダークパターン博物館｜だまされて、学ぼう。</title>
