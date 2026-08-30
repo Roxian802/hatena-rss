@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 30 Aug 2026 20:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 21:33:09 +0000</lastBuildDate>
+    <item>
+      <title>読売テレビが子ども相手に竹田恒泰の「フェイク皇室史」と「女性天皇否定」を一方的に刷り込む偏向番組を放送！ - 本と雑誌のニュースサイト／リテラ</title>
+      <link>https://lite-ra.com/2026/08/post-6401.html</link>
+      <description>&lt;img src="https://lite-ra.com/assets_c/2026/08/%C2%A5takeda_02_20260830-thumb-1200x1200-10361.png" /&gt;&lt;br/&gt;読売テレビが子ども相手に竹田恒泰の「フェイク皇室史」と「女性天皇否定」を一方的に刷り込む偏向番組を放送！ 国民の多くが支持している女性天皇論を完全無視し、国民の理解が得られていない「旧宮家の男系男子養子案」を高市政権が数の力で押し切った皇室典範改正。いまだ多くの国民が反対の声をあげているのはもちろ...</description>
+      <pubDate>Sun, 30 Aug 2026 08:21:39 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/lite-ra.com/2026/08/post-6401.html</comments>
+    </item>
     <item>
       <title>AIお姉ちゃんへの道（2026年版） - nomolkのブログ</title>
       <link>https://nomolk.hatenablog.com/entry/2026/08/30/145025</link>
@@ -13,11 +20,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/nomolk.hatenablog.com/entry/2026/08/30/145025</comments>
     </item>
     <item>
-      <title>ハーネス設計入門 〜プロンプト、コンテキストの次〜</title>
-      <link>https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi</link>
-      <description>&lt;img src="https://files.speakerdeck.com/presentations/245b6d1c3f9b4311ba13d4f595605e24/slide_0.jpg?40405431" /&gt;&lt;br/&gt;AirCle＠AIコミュニティ開催の「ハーネス設計入門」で登壇した際に使用したスライド資料です。</description>
-      <pubDate>Sat, 29 Aug 2026 21:30:35 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi</comments>
+      <title>WiresharkでHTTPS通信を復号する方法｜TLS1.3対応・パケット解析</title>
+      <link>https://eeengineer.com/description-by-wireshark/</link>
+      <description>&lt;img src="https://eeengineer.com/wp-content/uploads/2025/08/decription-by-wireshark-1.png" /&gt;&lt;br/&gt;はじめに WiresharkでHTTPS通信をキャプチャしても、多くの通信は「Application Data」と表示され、HTTP RequestやResponseの内容をそのまま確認することはできません。これは、HTTPS通信がTLSによって暗号化されているためです。 特にTLS 1.3では、ServerのCertificate Private Keyを取得しただけでは、通常は過去にキ...</description>
+      <pubDate>Sat, 29 Aug 2026 23:52:57 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/eeengineer.com/description-by-wireshark/</comments>
     </item>
   </channel>
 </rss>
