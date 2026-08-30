@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 30 Aug 2026 14:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 15:33:09 +0000</lastBuildDate>
+    <item>
+      <title>ハーネス設計入門 〜プロンプト、コンテキストの次〜</title>
+      <link>https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi</link>
+      <description>&lt;img src="https://files.speakerdeck.com/presentations/245b6d1c3f9b4311ba13d4f595605e24/slide_0.jpg?40405431" /&gt;&lt;br/&gt;AirCle＠AIコミュニティ開催の「ハーネス設計入門」で登壇した際に使用したスライド資料です。</description>
+      <pubDate>Sat, 29 Aug 2026 21:30:35 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi</comments>
+    </item>
     <item>
       <title>30代でカバンにちいかわ人形付けるか、普通？(追記あり）</title>
       <link>https://anond.hatelabo.jp/20260829204145</link>
@@ -20,18 +27,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/president.jp/articles/-/117954</comments>
     </item>
     <item>
-      <title>ハーネス設計入門 〜プロンプト、コンテキストの次〜</title>
-      <link>https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi</link>
-      <description>&lt;img src="https://files.speakerdeck.com/presentations/245b6d1c3f9b4311ba13d4f595605e24/slide_0.jpg?40405431" /&gt;&lt;br/&gt;AirCle＠AIコミュニティ開催の「ハーネス設計入門」で登壇した際に使用したスライド資料です。</description>
-      <pubDate>Sat, 29 Aug 2026 21:30:35 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi</comments>
-    </item>
-    <item>
       <title>妻のパスワードや暗証番号に「1130（仮）」のような謎の4桁の数字がよく登場する…誕生日や住所ではなく聞いても教えてくれない…怪しい「元カレ関連？」→結構みんな予想できない番号を使ってる</title>
       <link>https://togetter.com/li/2739036</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/022922e0d962111056905a96fa876fb5-1200x630.jpeg" /&gt;&lt;br/&gt;ゆきむら@30代眼科医 @ganka1212 妻のパスワードとか暗証番号とかに 1130（仮）みたいな謎の4桁の番号がよく登場する 誕生日でも住所でもない謎の数字、でも絶対忘れないであろう４桁 聞いても教えてくれない、、怪しい、 2026-08-29 16:07:59 もーさん @osakemon94010 @ganka1212 教えてくれないとなると、元カレの誕生...</description>
       <pubDate>Sun, 30 Aug 2026 03:47:24 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2739036</comments>
+    </item>
+    <item>
+      <title>SPFとDKIMとDMARCの役割の違いを整理する</title>
+      <link>https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--zZaaj4Yh--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SPF%25E3%2581%25A8DKIM%25E3%2581%25A8DMARC%25E3%2581%25AE%25E5%25BD%25B9%25E5%2589%25B2%25E3%2581%25AE%25E9%2581%2595%25E3%2581%2584%25E3%2582%2592%25E6%2595%25B4%25E7%2590%2586%25E3%2581%2599%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Riki%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jTEJZUTBlMkZ2Z0NhMGFLR1VXTGxUQTRmWUYwcjdheFYtVF84Y0ZzX21pX1ZQM1h0Smo9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;Introduction 「独自ドメインからメールを送りたい」と思ったとき、SPF・DKIM・DMARCという3つの単語に出会うことがあります。どれも「なりすましメール対策」の文脈で出てきますが、名前が似ているうえに設定もDNSレコードとして書くため、最初は「結局どれが何をしているのか」が非常に分かりにくいです。 この記事で...</description>
+      <pubDate>Sat, 29 Aug 2026 17:07:15 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles</comments>
     </item>
     <item>
       <title>偏差値40台の高校に死ぬほど努力して合格を目指す生徒を担当する塾講師バイト、6、7コマを費やしても教え子が一次方程式を解けず苦悩を吐露する</title>
@@ -46,13 +53,6 @@
       <description>&lt;img src="https://static.tokyo-np.co.jp/image/article/size1/2/b/e/f/2bef8652f3e462a77763c904243fc2e9_1.jpg" /&gt;&lt;br/&gt;27日に告示された沖縄県知事選（9月13日投開票）に関連するX（旧ツイッター）上の投稿を東京新聞が分析したところ、発信地別の件数は東京都が最多で、県内を上回っていることが分かった。知事選を巡っては県外からも大量の情報が発信され、中には真偽不明のものや候補者への誹謗（ひぼう）中傷も含まれる。交流サイト（S...</description>
       <pubDate>Sat, 29 Aug 2026 23:47:29 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.tokyo-np.co.jp/article/512094</comments>
-    </item>
-    <item>
-      <title>業務時間外もAIに働いてもらう話</title>
-      <link>https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi</link>
-      <description>&lt;img src="https://files.speakerdeck.com/presentations/8f8db3549b474f8f8dbd87f66735abe5/slide_0.jpg?40396993" /&gt;&lt;br/&gt;レビューで「これは後で」「別PRで」と後回しにしたタスク、そのまま消えていませんか。 そういうPRに、ラベルを1枚貼っておく。すると翌朝、実装されてマージまで終わっている。 これを実現する仕組みを作りました。フロントのnitタスクが夜間に回収されていきます。 担当リポジトリでは、develop…</description>
-      <pubDate>Sat, 29 Aug 2026 07:15:47 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi</comments>
     </item>
   </channel>
 </rss>
