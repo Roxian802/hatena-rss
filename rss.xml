@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 30 Aug 2026 23:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 00:33:11 +0000</lastBuildDate>
     <item>
       <title>データマネジメント研修（デジタル庁）</title>
       <link>https://speakerdeck.com/haseryo/datamanagementkenshu-digital-agency-japan</link>
@@ -20,18 +20,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/lite-ra.com/2026/08/post-6401.html</comments>
     </item>
     <item>
-      <title>AIお姉ちゃんへの道（2026年版） - nomolkのブログ</title>
-      <link>https://nomolk.hatenablog.com/entry/2026/08/30/145025</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/5e142cc771f3a1addd2a2364c6defef4be52a66c/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fslideglide%2F20260830%2F20260830183643.png" /&gt;&lt;br/&gt;AIお姉ちゃんというのは2023年に骨しゃぶり氏によって提唱された、ChatGPTに顔画像をつけてカスタム指示で人格も指定することで、お姉ちゃん化するカスタマイズのことである。 honeshabri.hatenablog.com 当時自分もやってみたくなって真似してみたら意外に大変だったという記事を書いた。 nomolk.hatenablog.com 自分の...</description>
-      <pubDate>Sun, 30 Aug 2026 07:18:23 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/nomolk.hatenablog.com/entry/2026/08/30/145025</comments>
-    </item>
-    <item>
-      <title>WiresharkでHTTPS通信を復号する方法｜TLS1.3対応・パケット解析</title>
-      <link>https://eeengineer.com/description-by-wireshark/</link>
-      <description>&lt;img src="https://eeengineer.com/wp-content/uploads/2025/08/decription-by-wireshark-1.png" /&gt;&lt;br/&gt;はじめに WiresharkでHTTPS通信をキャプチャしても、多くの通信は「Application Data」と表示され、HTTP RequestやResponseの内容をそのまま確認することはできません。これは、HTTPS通信がTLSによって暗号化されているためです。 特にTLS 1.3では、ServerのCertificate Private Keyを取得しただけでは、通常は過去にキ...</description>
-      <pubDate>Sat, 29 Aug 2026 23:52:57 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/eeengineer.com/description-by-wireshark/</comments>
+      <title>参議院のホームページがデザインリニューアルされたが、AIで丸ごと作ったか？という出来栄えで困惑する→落札価格が30万を切っている案件だった</title>
+      <link>https://togetter.com/li/2739144</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/bb595208e715f6cc4f681e8df829998d-1200x630.jpeg" /&gt;&lt;br/&gt;参議院審議中継 @sangiinwebtv 参議院ホームページ(sangiin.go.jp)のデザインリニューアルを実施しました。 平成21年以来となる17年ぶりのデザインの刷新により、視認性・操作性を向上させ、利用者が目的の情報にたどり着きやすいホームページといたしました。 併せて、国会議事堂内を360 度の映像で体感できる「バーチ...</description>
+      <pubDate>Sun, 30 Aug 2026 09:41:16 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2739144</comments>
     </item>
   </channel>
 </rss>
