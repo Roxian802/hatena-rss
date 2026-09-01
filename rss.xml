@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Tue, 01 Sep 2026 09:33:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:33:09 +0000</lastBuildDate>
     <item>
       <title>本学を取り上げたインターネット動画について｜福島大学</title>
       <link>https://www.fukushima-u.ac.jp/news/2026/09/015388.html</link>
@@ -31,6 +31,13 @@
       <link>https://internet.watch.impress.co.jp/docs/news/2137041.html</link>
       <pubDate>Mon, 31 Aug 2026 22:46:32 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/internet.watch.impress.co.jp/docs/news/2137041.html</comments>
+    </item>
+    <item>
+      <title>J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ</title>
+      <link>https://debiru.hatenablog.com/entry/20260831/jcom-plume-dns-blocking</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/a369b2ee359f56bab9d60040c728f418ce866692/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fsnippet.lavoscore.org%2F20260831%2Ffirefox.png" /&gt;&lt;br/&gt;あるWebサイトにアクセスするとSSLエラーになった DNSの応答がおかしい J:COMの応答 J:COM問い合わせ J:COMの権威ある回答 まとめ J:COM問い合わせ対応について J:COMに改善してほしいこと おわりに 関連情報 あるWebサイトにアクセスするとSSLエラーになった こんにちは。趣味でDNSを研究したりしている @debiru_R です...</description>
+      <pubDate>Mon, 31 Aug 2026 22:57:16 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/debiru.hatenablog.com/entry/20260831/jcom-plume-dns-blocking</comments>
     </item>
     <item>
       <title>校長は謝罪後すぐ退席、沖縄旅行中止など公表　同志社国際の保護者説明会、紛糾4時間</title>
