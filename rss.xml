@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 04 Sep 2026 23:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 00:33:09 +0000</lastBuildDate>
+    <item>
+      <title>AI をつかってみて思うこと (2026年9月4日)</title>
+      <link>https://member.ipmu.jp/yuji.tachikawa/misc/ai2026.html</link>
+      <description>2026年初夏に、最新LLMが研究に使えるようになったと聞いたので、7月8月と Anthropic の Claude Fable を使ってみていました。その過程でいろいろ思ったことを、徒然なるままに書いておこうと思います。未来に読み返して思うこともあるでしょうし。 僕がこの件について良く知っているから書いている、と主張したいわけで...</description>
+      <pubDate>Fri, 04 Sep 2026 13:57:09 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/member.ipmu.jp/yuji.tachikawa/misc/ai2026.html</comments>
+    </item>
     <item>
       <title>読書界隈が気持ち悪い</title>
       <link>https://anond.hatelabo.jp/20260904125913</link>
@@ -25,20 +32,6 @@
       <description>&lt;img src="https://tech.anotherball.com/ja/2026-09-04-interview-product-development-skills/ogp_jp.png" /&gt;&lt;br/&gt;こんにちは！AnotherBall Avvy事業部でテックリード 兼 技術責任者をやっている @fortkle です。普段はプロダクト開発をしつつ、サーバーサイドエンジニアの一次面接も担当しています。 最近、その面接で使っている質問の聞き方を少し変えました。大きく面接プロセスを変えたわけではなく、これまで一つの設計に関する質...</description>
       <pubDate>Fri, 04 Sep 2026 04:12:31 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/tech.anotherball.com/ja/2026-09-04-interview-product-development-skills/</comments>
-    </item>
-    <item>
-      <title>いいかげんJRPGは「戦闘システム」から脱却しろよ</title>
-      <link>https://anond.hatelabo.jp/20260904132526</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;昨晩のState of Playを見ていてうんざりしたのだが、雰囲気の良さそうなJRPGが出てきても、戦闘シーンが延々と流れてゲーム紹介が終わるんだよな。 うんざりだよ。 奴らはゲームの面白さを戦闘の面白さだと思っている。 「ゲーム性」とは戦闘システムのことだと勘違いしている。 これがJRPGのいちばんダメなところだ。 ...</description>
-      <pubDate>Fri, 04 Sep 2026 04:31:44 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260904132526</comments>
-    </item>
-    <item>
-      <title>『長江』映画レビュー&amp;完全ガイド | 35億も納得。さだまさしによる奇跡の記録映画（1981） - daily diary</title>
-      <link>https://www.teppayalfa.com/entry/2026/08/28/183515</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/46f2eab66370673ce07a193e68602891f02634e1/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ft%2Fteppay75%2F20260827%2F20260827172916.jpg" /&gt;&lt;br/&gt;豆瓣：长江 長江 - 映画情報・レビュー・評価・あらすじ | Filmarks映画 「歌手・さだまさしが35億円の借金を作った映画」だけで終わらせるには、あまりにも惜しい。1980年、改革開放が始まったばかりの中国を35mmフィルムで大規模に撮影した奇跡の贅沢さ。45年後の今こそ、その驚くべき映像の価値を再発見する。ぜひ4K...</description>
-      <pubDate>Fri, 04 Sep 2026 01:35:37 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.teppayalfa.com/entry/2026/08/28/183515</comments>
     </item>
   </channel>
 </rss>
