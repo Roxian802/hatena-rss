@@ -4,20 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 05 Sep 2026 15:33:12 +0000</lastBuildDate>
-    <item>
-      <title>くら寿司　「ちいかわ」コラボキャンペーン中止を発表　従業員の不正行為判明「深くお詫び」 - スポニチ Sponichi Annex 芸能</title>
-      <link>https://www.sponichi.co.jp/entertainment/news/2026/09/05/articles/20260905s00041000239000c.html</link>
-      <description>&lt;img src="https://www.sponichi.co.jp/entertainment/news/2026/09/03/jpeg/20260903s10041000071000p_view.webp" /&gt;&lt;br/&gt;くら寿司　「ちいかわ」コラボキャンペーン中止を発表　従業員の不正行為判明「深くお詫び」</description>
-      <pubDate>Sat, 05 Sep 2026 08:49:16 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.sponichi.co.jp/entertainment/news/2026/09/05/articles/20260905s00041000239000c.html</comments>
-    </item>
+    <lastBuildDate>Sat, 05 Sep 2026 16:33:09 +0000</lastBuildDate>
     <item>
       <title>リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ</title>
       <link>https://blog.pinkumohikan.com/entry/2026/09/05/150757</link>
       <description>&lt;img src="https://ogimage.blog.st-hatena.com/13355765958053239993/14945776032073975999/1788599007" /&gt;&lt;br/&gt;タイトルの「命をかけて」は当然冗談だが、リモートチームなのに通話時の音質に無頓着な人が多すぎる。 思っているよりも、あなたの声は聞き取りにくい オンラインミーティングで相手に「声が小さい」「隣や周りの音を拾っている」「聞き取りにくい」と言われたことはないだろうか？ それは音質への投資が不十分なサイン...</description>
       <pubDate>Sat, 05 Sep 2026 06:08:16 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/blog.pinkumohikan.com/entry/2026/09/05/150757</comments>
+    </item>
+    <item>
+      <title>くら寿司　「ちいかわ」コラボキャンペーン中止を発表　従業員の不正行為判明「深くお詫び」 - スポニチ Sponichi Annex 芸能</title>
+      <link>https://www.sponichi.co.jp/entertainment/news/2026/09/05/articles/20260905s00041000239000c.html</link>
+      <description>&lt;img src="https://www.sponichi.co.jp/entertainment/news/2026/09/03/jpeg/20260903s10041000071000p_view.webp" /&gt;&lt;br/&gt;くら寿司　「ちいかわ」コラボキャンペーン中止を発表　従業員の不正行為判明「深くお詫び」</description>
+      <pubDate>Sat, 05 Sep 2026 08:49:16 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.sponichi.co.jp/entertainment/news/2026/09/05/articles/20260905s00041000239000c.html</comments>
     </item>
     <item>
       <title>今イチオシの若者バンドを書いていく</title>
@@ -34,6 +34,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260905090222</comments>
     </item>
     <item>
+      <title>Claude Code の Rules はもう死んでいる - kawasin73のブログ</title>
+      <link>https://kawasin73.hatenablog.com/entry/2026/09/05/092056</link>
+      <description>&lt;img src="https://ogimage.blog.st-hatena.com/8599973812303291137/14945776032073934587/1788580285" /&gt;&lt;br/&gt;あちらを立てればこちらが立たず。どうもかわしんです。注意喚起です。 2026-08-18 以降、皆さんの Claude Code の Rules は動いていません。残念でした。解決策は環境変数 CLAUDE_CODE_THRIFTY_SONIC を無効にするように .claude/settings.json を設定してください。 ちなみに死んでいるのは Rules だけではないです。R...</description>
+      <pubDate>Sat, 05 Sep 2026 03:06:41 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/kawasin73.hatenablog.com/entry/2026/09/05/092056</comments>
+    </item>
+    <item>
       <title>国連総会、アフリカの実際の面積を反映した世界地図への置き換えを決議 - BBCニュース</title>
       <link>https://www.bbc.com/japanese/articles/cvgy7g9wlw8o</link>
       <description>&lt;img src="https://ichef.bbci.co.uk/news/1200/branded_japanese/1f88/live/bff197b0-a874-11f1-b109-879e35c24276.png" /&gt;&lt;br/&gt;西アフリカのトーゴが提案し、アフリカ連合（AU）加盟国が支持した「コレクト・ザ・マップ（地図を修正せよ）」決議案は、フランスやイギリス、日本を含む164カ国の賛成を得て可決された。反対票を投じたのはアメリカのみで、棄権は6カ国だった。</description>
@@ -46,27 +53,6 @@
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--t4ph97vb--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:AI%25E3%2581%25AB%25E3%2580%258C%25E4%25B8%25AD%25E5%25AD%25A6%25E7%2594%259F%25E3%2581%25A7%25E3%2582%2582%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%25E3%2582%2588%25E3%2581%2586%25E3%2581%25AB1%25E6%259E%259A%25E3%2581%25AEHTML%25E3%2581%25A7%25E5%259B%25B3%25E8%25A7%25A3%25E3%2581%2597%25E3%2581%25A6%25E3%2580%258D%25E3%2581%258C%25E3%2580%2581%25E8%25A4%2587%25E9%259B%2591%25E3%2581%25AA%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2582%2592%25E8%25AA%25AD%25E3%2582%2580%25E5%2589%258D%25E3%2581%25AE%25E6%259C%2580%25E8%2589%25AF%25E3%2581%25AE%25E6%25BA%2596%25E5%2582%2599%25E9%2581%258B%25E5%258B%2595%25E3%2581%258B%25E3%2582%2582%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:%25E3%2581%259F%25E3%2581%2591%25E3%2581%2586%25E3%2581%25A1%25E3%2581%2595%25E3%2582%2593%25E3%2581%25AF%25E7%25B8%25AE%25E9%2580%2580%25E3%2581%2597%25E3%2581%25BE%25E3%2581%2597%25E3%2581%259F%2520%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IwNGQ0YzY1YWUuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25A4%25E3%2582%25A8%25E3%2582%25BD%25E3%2583%2589%2520%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzUxMDFmMGM1NzEuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;はじめに 株式会社イエソドの竹内(@chimerast)です。 今回は、軽いお話しで、Claude CodeなどのAIに複雑なロジックを解説させるときの豆知識です。 きっかけは「5才児向けの絵本」だった この話の始まりは、コードとは関係のない雑談でした。 弊社のメンバーがClaudeに「Fable 5 と Fable 5.1 の違いを、5才児でもわかる...</description>
       <pubDate>Fri, 04 Sep 2026 04:42:49 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/yesodco/articles/ed0eb2f6b7621a</comments>
-    </item>
-    <item>
-      <title>欧米露のインテリ層から見た就職氷河期世代の話【追記】</title>
-      <link>https://anond.hatelabo.jp/20260904235743</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;最近、よくXやはてなで就職氷河期世代の苦労話や昔のブラック地獄といった話をよく目にする様になった 世代は違えど全部日本人からの意見のやりとりしかなくて、実際の所、外人から見たら就職氷河期世代ってどう映ってるんだろう？という疑問なんかも見かけたので、 もうコロナ直前の時代になるが、当時オーストラリアに...</description>
-      <pubDate>Fri, 04 Sep 2026 15:02:10 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260904235743</comments>
-    </item>
-    <item>
-      <title>ロシア極東 菊の紋章破壊する表現の記念碑設置 日本は撤去要求 | NHKニュース</title>
-      <link>https://news.web.nhk/newsweb/na/nd-20260905de48260</link>
-      <description>&lt;img src="https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48260/20260905de48260_E0000025027_1_l.jpg" /&gt;&lt;br/&gt;ロシア極東で、第2次世界大戦での日本に対する勝利を祝う記念碑が設置されましたが、ソビエト軍の兵士が菊の紋章が刻まれた石を破壊する場面が表現されていることから、ロシアにある日本大使館は「日本の国民感情の…</description>
-      <pubDate>Fri, 04 Sep 2026 23:41:37 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nd-20260905de48260</comments>
-    </item>
-    <item>
-      <title>「メルカトル図法の世界地図やめて」　国連決議が採択、日本も賛成：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASV947GNTV94UHBI00QM.html</link>
-      <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20260905000711_comm.jpg" /&gt;&lt;br/&gt;現在広く使われている「メルカトル図法」の世界地図ではなく、アフリカ大陸などがより正確な大きさで示される「イコールアース図法」の地図を採用するよう促す決議案が4日、国連総会（193カ国）で投票にかけら…</description>
-      <pubDate>Sat, 05 Sep 2026 01:59:52 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASV947GNTV94UHBI00QM.html</comments>
     </item>
   </channel>
 </rss>
