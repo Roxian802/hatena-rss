@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 06 Sep 2026 12:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:33:09 +0000</lastBuildDate>
     <item>
       <title>漫画の監修をして思ったこと｜森山憲一｜山岳ライター</title>
       <link>https://note.com/kenichimoriyama/n/nb66de607e8f4</link>
@@ -41,6 +41,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260905130056</comments>
     </item>
     <item>
+      <title>AI に、即答させない ―― 反証を、装置にする｜小出幸典 | 株式会社カンリー CTO</title>
+      <link>https://note.com/koid/n/n3a4455b202e0</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/307170208/rectangle_large_type_2_0075a7ce5cedd5f2b054524562382bfe.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;ある朝、AI にひとつ頼んだ。 「この機能が遅い。キャッシュを入れたい」 こう返ってきた。 判定: 中。戻せる変更だが、解決策が先に固定されており、課題側が検討されていない。 それは本当に、キャッシュで解決すべき課題ですか。 頼んだのは、実装の段取りだった。なのに AI は、私の頼み自体を突き返してきた。 この...</description>
+      <pubDate>Sat, 05 Sep 2026 08:55:42 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/koid/n/n3a4455b202e0</comments>
+    </item>
+    <item>
       <title>ゲイはしばしば「女性の気持ちの代弁者となる男性」として扱われる。しかしレズビアンが「男性の気持ちが分かる女性」として男性の代弁者となることはまずない。この非対称性は「ゲイだから女性が分かる」というより、女性について語る言葉にさえ、男性の方が権威を得やすい構造があるのではないか。→「ゲイとレズの非対称性とかじゃなくて『男は女の言ってることをまともに聞けない』ってだけの話よね」</title>
       <link>https://posfie.com/@petaritape/p/xlOCTNU</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/07fd6feb23360eb19f02f875e27cdbe0-1200x630.jpeg" /&gt;&lt;br/&gt;むらた&#x1f3f3;️‍&#x1f308;&#x1f3f3;️‍⚧️行政書士 @Emuoffice_ ゲイはしばしば「女性の気持ちの代弁者となる男性」として扱われる。しかしレズビアンが「男性の気持ちが分かる女性」として男性の代弁者となることはまずない。この非対称性は「ゲイだから女性が分かる」というより、女性について語る言葉にさえ、男性の方が権威を得やすい構造がある...</description>
@@ -48,18 +55,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@petaritape/p/xlOCTNU</comments>
     </item>
     <item>
-      <title>くら寿司の従業員、景品の「ちいかわ」横領判明しコラボ企画中止…メルカリに大量出品</title>
-      <link>https://www.yomiuri.co.jp/economy/20260905-GYT1T00218/</link>
-      <description>&lt;img src="https://www.yomiuri.co.jp/media/2026/09/20260905-GYT1I00222-1.jpg?type=ogp" /&gt;&lt;br/&gt;【読売新聞】　回転 寿司 （ ずし ） 大手のくら寿司は５日、人気キャラクター「ちいかわ」とのコラボキャンペーンを６日から中止すると発表した。同社の従業員による景品の横領が判明したためという。 同社によると、８月２１日から、コラボメ</description>
-      <pubDate>Sat, 05 Sep 2026 15:36:22 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/economy/20260905-GYT1T00218/</comments>
-    </item>
-    <item>
-      <title>違法な逮捕・勾留で死亡した16歳少女の遺族が提訴（神戸地裁）、明石署の違法捜査と助長した神戸地検の驚くべき対応</title>
-      <link>https://www.keiben-oasis.com/44513</link>
-      <description>&lt;img src="https://www.keiben-oasis.com/wp-content/uploads/2026/09/29391b119c71726ccd77699d15a7d031.jpg" /&gt;&lt;br/&gt;HOME ニュース一覧 違法な逮捕・勾留で死亡した16歳少女の遺族が提訴（神戸地裁）、明石署の違法捜査と助長した神戸地検の驚くべき対応 「とんでもない取調べと勾留が少女の命を奪いました」と語る向井義博弁護士（2026年７月30日、大阪市北区にて。撮影／粟野仁雄） 大川原化工機事件や東京五輪をめぐる贈収賄事件で高...</description>
-      <pubDate>Sat, 05 Sep 2026 07:59:46 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.keiben-oasis.com/44513</comments>
+      <title>ループエンジニアリング（ralph loop）で業務システムのUIを一新してみた</title>
+      <link>https://zenn.dev/sompojapan_dx/articles/846c6038fee45d</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--KNvpEwrj--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%2597%25E3%2582%25A8%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%258B%25E3%2582%25A2%25E3%2583%25AA%25E3%2583%25B3%25E3%2582%25B0%25EF%25BC%2588ralph%2520loop%25EF%25BC%2589%25E3%2581%25A7%25E6%25A5%25AD%25E5%258B%2599%25E3%2582%25B7%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25A0%25E3%2581%25AEUI%25E3%2582%2592%25E4%25B8%2580%25E6%2596%25B0%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:Namiyama%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzM4MDY0MmJiMDcuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:SOMPO%2520Digital%2520Lab%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSWNkcG9sTUVnNUMzMXFnbEJ4QVdud21EMHhMS1F0SUp1OHhrY0V1X2d5PXM5Ni1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;Sompo Digital Lab アプリケーションエンジニアの浪山健亮です。 今回は巷で話題になっているループエンジニアリングを実際にやってみての、気づきなどを記載しようと思います。 きっかけ とある自社システムの管理機能は、Vibe Coding が普及する前にエンジニアがその場しのぎでデザインを当てたものでした。デザインル...</description>
+      <pubDate>Sat, 05 Sep 2026 13:23:09 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/sompojapan_dx/articles/846c6038fee45d</comments>
     </item>
   </channel>
 </rss>
