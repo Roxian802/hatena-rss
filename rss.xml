@@ -4,20 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 14 Sep 2026 06:33:09 +0000</lastBuildDate>
-    <item>
-      <title>国道マップ</title>
-      <link>https://nanase.cc/kokudo-map/</link>
-      <description>&lt;img src="https://nanase.cc/kokudo-map/og.png" /&gt;&lt;br/&gt;日本の一般国道を全国 1 枚で出す地図です。縮尺を引いても番号を省略せず、 重用区間では重なるすべての番号を出します。 データ情報 国道 都道府県道 都道府県道の重用の考え方</description>
-      <pubDate>Sun, 13 Sep 2026 13:28:05 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/nanase.cc/kokudo-map/</comments>
-    </item>
+    <lastBuildDate>Mon, 14 Sep 2026 07:33:12 +0000</lastBuildDate>
     <item>
       <title>東京生まれの彼氏が憎くて憎くてたまらないマジで死んでほしい</title>
       <link>https://anond.hatelabo.jp/20260914125801</link>
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;地方の田舎出身であることのコンプレックスがヤバい 最近、実家が世田谷でいまは調布で一人暮らししている彼氏ができたんだけど、青春時代の話をするたびに見ている景色が違いすぎて発狂しそうになる 羨ましすぎて怒りがすごいので彼氏との会話で出てきた都内のお坊ちゃまセリフをいちいち羅列してケチをつけていこうと...</description>
       <pubDate>Mon, 14 Sep 2026 03:58:59 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260914125801</comments>
+    </item>
+    <item>
+      <title>国道マップ</title>
+      <link>https://nanase.cc/kokudo-map/</link>
+      <description>&lt;img src="https://nanase.cc/kokudo-map/og.png" /&gt;&lt;br/&gt;日本の一般国道を全国 1 枚で出す地図です。縮尺を引いても番号を省略せず、 重用区間では重なるすべての番号を出します。 データ情報 国道 都道府県道 都道府県道の重用の考え方</description>
+      <pubDate>Sun, 13 Sep 2026 13:28:05 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/nanase.cc/kokudo-map/</comments>
     </item>
     <item>
       <title>沖縄知事選敗北、共産・田村氏「高市政権が異常な介入」　辺野古「民意示されたと思わず」</title>
@@ -27,18 +27,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260913-RKLAHVKR4NBC3F57PNELOG5WZI/</comments>
     </item>
     <item>
-      <title>AIが書いた日本語に頻出する単語を指摘するtextlintプリセットを作った - ぷらすのブログ</title>
-      <link>https://blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/</link>
-      <description>&lt;img src="https://blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/og.png" /&gt;&lt;br/&gt;こんにちは、ぷらす(@p1ass)です。 AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット、textlint-rule-preset-ai-words-ja を作りました。 この記事では、実際に検出できる単語の例や、作成した背景、使い方、形態素解析を使った検出の仕組み、辞書の仕組みを紹介します。 GitHub - p1ass...</description>
-      <pubDate>Sun, 13 Sep 2026 13:01:15 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/</comments>
-    </item>
-    <item>
       <title>就職氷河期おひとり様「家借りるのも大変」　見えぬワンルーム8畳の先 - 日本経済新聞</title>
       <link>https://www.nikkei.com/article/DGXZQOUD1346V0T10C26A7000000/</link>
       <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3530413031082026000000-1.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;fp-x=0.75&amp;amp;fp-y=0.13&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=7a6fc8d729372bdbeceadb02706500e5" /&gt;&lt;br/&gt;バブル崩壊後、長らく続いた就職氷河期。そのころ社会に出た若者たちは今や40〜50代となった。結婚しない人や離婚する人が急増したこの世代には「夫婦に子ども2人」といった「標準世帯」とは異なる形で、住まいへの不安を抱える単身者が多い。「氷河期おひとり様」周辺の現状を5回で伝える。ワンルーム8畳、壁が薄く「隣...</description>
       <pubDate>Sun, 13 Sep 2026 21:05:49 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUD1346V0T10C26A7000000/</comments>
+    </item>
+    <item>
+      <title>AIが書いた日本語に頻出する単語を指摘するtextlintプリセットを作った - ぷらすのブログ</title>
+      <link>https://blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/</link>
+      <description>&lt;img src="https://blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/og.png" /&gt;&lt;br/&gt;こんにちは、ぷらす(@p1ass)です。 AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット、textlint-rule-preset-ai-words-ja を作りました。 この記事では、実際に検出できる単語の例や、作成した背景、使い方、形態素解析を使った検出の仕組み、辞書の仕組みを紹介します。 GitHub - p1ass...</description>
+      <pubDate>Sun, 13 Sep 2026 13:01:15 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/</comments>
     </item>
     <item>
       <title>すごく長い女オタクの愚痴</title>
