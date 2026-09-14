@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 14 Sep 2026 05:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:33:09 +0000</lastBuildDate>
     <item>
       <title>国道マップ</title>
       <link>https://nanase.cc/kokudo-map/</link>
@@ -13,11 +13,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/nanase.cc/kokudo-map/</comments>
     </item>
     <item>
+      <title>東京生まれの彼氏が憎くて憎くてたまらないマジで死んでほしい</title>
+      <link>https://anond.hatelabo.jp/20260914125801</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;地方の田舎出身であることのコンプレックスがヤバい 最近、実家が世田谷でいまは調布で一人暮らししている彼氏ができたんだけど、青春時代の話をするたびに見ている景色が違いすぎて発狂しそうになる 羨ましすぎて怒りがすごいので彼氏との会話で出てきた都内のお坊ちゃまセリフをいちいち羅列してケチをつけていこうと...</description>
+      <pubDate>Mon, 14 Sep 2026 03:58:59 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260914125801</comments>
+    </item>
+    <item>
       <title>沖縄知事選敗北、共産・田村氏「高市政権が異常な介入」　辺野古「民意示されたと思わず」</title>
       <link>https://www.sankei.com/article/20260913-RKLAHVKR4NBC3F57PNELOG5WZI/</link>
       <description>&lt;img src="https://www.sankei.com/resizer/v2/BYUJ6RS3PRASLO6ZNZFW3C55MA.jpg?auth=d7693f8f4828544675adaaaaab03b6905804d26e05c9df4bf62506dee87fc3ec&amp;amp;quality=50&amp;amp;focal=2715%2C2172&amp;amp;width=1200&amp;amp;height=675" /&gt;&lt;br/&gt;共産党の田村智子委員長は13日夜、沖縄県知事選で自民党などが推薦した古謝玄太氏の当選が確実となったことを受け、党本部で記者団の取材に応じた。玉城デニー知事が3選を逃したことについて「大変悔しい結果だ」と述べたうえで「玉城デニー県政を転覆するためにはどんな手でも使うという姿勢で、官邸と自民党がこの選挙...</description>
       <pubDate>Sun, 13 Sep 2026 21:45:59 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.sankei.com/article/20260913-RKLAHVKR4NBC3F57PNELOG5WZI/</comments>
+    </item>
+    <item>
+      <title>AIが書いた日本語に頻出する単語を指摘するtextlintプリセットを作った - ぷらすのブログ</title>
+      <link>https://blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/</link>
+      <description>&lt;img src="https://blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/og.png" /&gt;&lt;br/&gt;こんにちは、ぷらす(@p1ass)です。 AI が書いた日本語に出てきやすい単語と言い回しを見つける textlint のプリセット、textlint-rule-preset-ai-words-ja を作りました。 この記事では、実際に検出できる単語の例や、作成した背景、使い方、形態素解析を使った検出の仕組み、辞書の仕組みを紹介します。 GitHub - p1ass...</description>
+      <pubDate>Sun, 13 Sep 2026 13:01:15 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/</comments>
     </item>
     <item>
       <title>就職氷河期おひとり様「家借りるのも大変」　見えぬワンルーム8畳の先 - 日本経済新聞</title>
@@ -46,13 +60,6 @@
       <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/4dc86dc04660566b0b8bc6dbdb56f700bb8270b9.png" /&gt;&lt;br/&gt;僕も最近まで知らなかったが、日本の哲学はレベルが高い。というか最近上がったのかな。特に2025年に発売された「『純粋理性批判』を立て直す　カントの誤診」という本は、大げさに言えば哲学史に残る「事件」だという気がする。サルトルは、ハイデガーの「形而上学とは何か」を読んで「事件だ！」と言ったらしいが、私...</description>
       <pubDate>Sun, 13 Sep 2026 10:41:35 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/testuq/n/n8d5c280960d3</comments>
-    </item>
-    <item>
-      <title>県知事選挙と細かすぎて伝わらない沖縄の特殊事情</title>
-      <link>https://anond.hatelabo.jp/20260913201326</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;県知事選の当日に書いている。 県内外を問わず注目を集めていて歴史的な選挙になりそうな気配である。SNSのデマ、辺野古沖の転覆事故、基地問題、県民所得といった話題が取り上げられているが、今回の知事選を歴史的なものにしているのはそのいずれでもない。 今回の選挙における最大のトピック、それは「1972年をまたい...</description>
-      <pubDate>Sun, 13 Sep 2026 12:59:17 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260913201326</comments>
     </item>
   </channel>
 </rss>
