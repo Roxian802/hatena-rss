@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 17 Sep 2026 05:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 06:33:09 +0000</lastBuildDate>
     <item>
       <title>「報道1930」沖縄知事選ファクトチェックを論じた識者がかなり辛辣…『在沖縄メディアが「対象を選ぶ」手続きは公平だったか？』 - INVISIBLE Dojo.　ーQUIET &amp; COLORFUL PLACE-</title>
       <link>https://m-dojo.hatenadiary.com/entry/2026/09/16/201008</link>
@@ -20,6 +20,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/qiita.com/kskwtnk/items/aa21e7f57feb43e970e0</comments>
     </item>
     <item>
+      <title>「APIキーは.envに」はもはや通用しない　AIエージェントの“内通者化”をどう防ぐ？</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html</link>
+      <description>&lt;img src="https://image.itmedia.co.jp/ait/articles/2609/17/cover_news006.jpg" /&gt;&lt;br/&gt;選択肢も出そろってきています。OSS・セルフホスト系では「Infisical」「HashiCorp Vault」、OAuthトークンの保管に特化した「Nango」などがあり、マネージドベンダー系では「AWS Secrets Manager」「1Password」「Aembit」「WorkOS」「Arcade」といった名前が挙がります。共通する思想はシンプルです。エージェントに鍵...</description>
+      <pubDate>Wed, 16 Sep 2026 07:51:41 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html</comments>
+    </item>
+    <item>
       <title>野菜ってワンパターンだよな。スーパー行っても同じ野菜ばっかり。飽きたわ</title>
       <link>https://anond.hatelabo.jp/20260916165233</link>
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;もっと新作ベジタブルないの？ 俺はあと何回キャベツとかにんじんとか玉ねぎを食べなきゃいけないんだ？ いい加減飽きたよ せめて毎年、新作ベジタブルを出してよ 遺伝子組み換えしてさ ワンパターンな野菜をどう調理するか、じゃなくてさ 野菜そのものをアップデートさせようよ</description>
@@ -32,13 +39,6 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/7162586e9ff7cab00ccdcee37b48a0f1-1200x630.jpeg" /&gt;&lt;br/&gt;すずしろ @92u0fvnjbx8017 地方出身で「東京の飯は高くてまずい」「東京で出される刺身なんて臭くて食えない」みたいなことを言う人にそこそこの数会ったことがあるが、それはよくて「学校帰りに映画館に行ってました！日常的に美術館に行ってました！」がマウントになることがあるんだ… 2026-09-16 08:09:23 すずしろ @...</description>
       <pubDate>Wed, 16 Sep 2026 13:13:09 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@kalofollow/p/x0ZZc3P</comments>
-    </item>
-    <item>
-      <title>「次にくるマンガ大賞 2026」1位に「さむわんへるつ」、「おかえり水平線」 - コミックナタリー</title>
-      <link>https://natalie.mu/comic/news/689847</link>
-      <description>&lt;img src="https://ogre.natalie.mu/media/news/comic/2026/0916/someonehertz_comic1.jpg?impolicy=ogp_face_crop" /&gt;&lt;br/&gt;そのほか今年は「ニコニコ漫画賞」を新設。「作品そのものの面白さはもちろん、みんなのコメントで楽しみ方が広がる作品」に贈られる特別賞で、初代受賞作品には「地味なおじさん、実は英雄でした。～自覚がないまま無双してたら、姪のダンジョン配信で晒されてたようです～」が選ばれた。 「次にくるマンガ大賞」は、こ...</description>
-      <pubDate>Wed, 16 Sep 2026 12:51:48 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/natalie.mu/comic/news/689847</comments>
     </item>
   </channel>
 </rss>
