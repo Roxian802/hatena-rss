@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 18 Sep 2026 06:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:33:13 +0000</lastBuildDate>
     <item>
       <title>東京に生まれたことで彼女から殺意を抱かれていた彼氏です</title>
       <link>https://anond.hatelabo.jp/20260917181631</link>
@@ -39,6 +39,13 @@
       <description>&lt;img src="https://www.itmedia.co.jp/news/article/ogp/2609/18/2000001484/10006502/2048" /&gt;&lt;br/&gt;「効率化とは、仕事を減らすことではなく、同じ時間に詰め込める仕事を増やすことだった」──8月に話題になった「はてな匿名ダイアリー」の記事で、匿名の投稿者は「AIで効率化したのに仕事は一向に楽にならない」と書き、SNSの話題を席巻した。 実際にAIオールインを掲げるDeNAの南場智子会長も、講演で「楽になった分、...</description>
       <pubDate>Thu, 17 Sep 2026 23:32:09 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2609/18/2000001484/</comments>
+    </item>
+    <item>
+      <title>なぜ世界中のハッカーが変なデバイスで『DOOM』を動かしているのか～デジカメから妊娠検査キット、ハエの中枢神経系まで - nomolkのブログ</title>
+      <link>https://nomolk.hatenablog.com/entry/2026/09/18/020558</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/1fd13cef06d65c16f4120929e9d70b028c5a9748/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fimg.youtube.com%2Fvi%2FGTApvwqZ_TM%2Fhqdefault.jpg" /&gt;&lt;br/&gt;先日、Google Researchらがハエの中枢神経系を網羅したデータセットを公開して話題になりました。するとすぐさま現れたのが、それを使ってハエ（のシミュレーション）にDOOMをプレイさせる人です。 I'm training a fly brain to play Doom using the full MaleCNS v1.0 fruit fly connectome. Each Doom frame stimulate...</description>
+      <pubDate>Thu, 17 Sep 2026 20:24:02 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/nomolk.hatenablog.com/entry/2026/09/18/020558</comments>
     </item>
   </channel>
 </rss>
