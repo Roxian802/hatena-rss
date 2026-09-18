@@ -4,13 +4,27 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 18 Sep 2026 22:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:33:09 +0000</lastBuildDate>
     <item>
       <title>JR東日本で盗撮被害「うちではよくある」と3か月放置…休職の女性社員が816万円の賠償求め提訴 | 弁護士JPニュース</title>
       <link>https://www.ben54.jp/news/3943</link>
       <description>&lt;img src="https://img.ben54.jp/news/3943/kN85NvJ68jkS1789714341.jpg" /&gt;&lt;br/&gt;会見を開いた内藤智巴弁護士（右）ら。原告女性の前には衝立が設置された（9月18日 都内／弁護士JPニュース編集部） 「うちで盗撮はよくある。捕まっているだけ良い方」——。職場のトイレで盗撮被害に遭ったJR東日本（東日本旅客鉄道）の女性社員は、社内カウンセリングで産業医からそう告げられたと訴える。 加害者は、...</description>
       <pubDate>Fri, 18 Sep 2026 10:03:48 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.ben54.jp/news/3943</comments>
+    </item>
+    <item>
+      <title>緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった - LayerX エンジニアブログ</title>
+      <link>https://tech.layerx.co.jp/entry/2026/09/18/185816</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/5ed4f6e73205d082af7a8a0518536c4ad98d0eb3/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fy%2Fyuu2634%2F20260918%2F20260918191032.png" /&gt;&lt;br/&gt;こんにちは。バクラク事業部でエンジニアをしているpon)です。 社内で TypeSafe AI の Jev を題材にした勉強会を開催し、社内のエンジニアが50人以上参加してくれました！ 30分の短い会でしたが、終わってみるとサービスにJevを組みこむアイデアが50件を超えました。この記事では、なぜわざわざ勉強会という形にしたのか...</description>
+      <pubDate>Fri, 18 Sep 2026 10:21:35 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/tech.layerx.co.jp/entry/2026/09/18/185816</comments>
+    </item>
+    <item>
+      <title>既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ</title>
+      <link>https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--A3IX07SH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2597%25A2%25E5%25AD%2598%25E3%2581%25AE%2520LLM%2520%25E3%2581%258C%2520CPU%2520%25E3%2581%25AA%25E3%2582%2589%25E3%2580%2581%2520Jev%2520%25E3%2581%25AF%25E3%2581%259D%25E3%2581%25AE%2520GPU%2520%25E7%2589%2588%25E3%2581%25BF%25E3%2581%259F%25E3%2581%2584%25E3%2581%25AA%25E3%2582%2584%25E3%2581%25A4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;Jev を一晩叩いたので、その感想を書きます。タイトルは超大雑把な要約です。 実験結果 まず実験ログを置いておきます。 公式のクックブックの条件を変えた追試 https://docs.typesafe.ai/cookbooks/skill_suggestion チェス対戦 5戦やって、Claude 5 Sonnet には全勝 LoL をミニマルにしたような MOBA ゲームをリアルタ...</description>
+      <pubDate>Fri, 18 Sep 2026 07:47:56 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/mizchi/articles/jev-is-gpu-for-llms</comments>
     </item>
     <item>
       <title>【速報】アジア大会、韓国戦で北朝鮮国歌流れる</title>
@@ -25,27 +39,6 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/cc7eb6d8cea44b3611e2b68aaa484ff0-1200x630.jpeg" /&gt;&lt;br/&gt;カエル先生・高橋宏和 @hirokatz 「ちいかわ」が東アジアでウケるのはよくわかる。 抗うことのない大構造の中で、せめてひととき友と語らい季節を愛でちょっとしたものに舌鼓を打つ。 ほとんど漢詩の世界。 読み継がれている漢詩には、試験に合格できずに役人になれないまま歳を重ねたり、辺境へ左遷されたり、大義もわ...</description>
       <pubDate>Fri, 18 Sep 2026 04:34:13 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@golden_haniwa/p/ARbY2O5</comments>
-    </item>
-    <item>
-      <title>既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ</title>
-      <link>https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--A3IX07SH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2597%25A2%25E5%25AD%2598%25E3%2581%25AE%2520LLM%2520%25E3%2581%258C%2520CPU%2520%25E3%2581%25AA%25E3%2582%2589%25E3%2580%2581%2520Jev%2520%25E3%2581%25AF%25E3%2581%259D%25E3%2581%25AE%2520GPU%2520%25E7%2589%2588%25E3%2581%25BF%25E3%2581%259F%25E3%2581%2584%25E3%2581%25AA%25E3%2582%2584%25E3%2581%25A4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;Jev を一晩叩いたので、その感想を書きます。タイトルは超大雑把な要約です。 実験結果 まず実験ログを置いておきます。 公式のクックブックの条件を変えた追試 https://docs.typesafe.ai/cookbooks/skill_suggestion チェス対戦 5戦やって、Claude 5 Sonnet には全勝 LoL をミニマルにしたような MOBA ゲームをリアルタ...</description>
-      <pubDate>Fri, 18 Sep 2026 07:47:56 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/mizchi/articles/jev-is-gpu-for-llms</comments>
-    </item>
-    <item>
-      <title>自分で作ると大変、買った方が早い料理、ポテサラとコロッケ以外ある？</title>
-      <link>https://anond.hatelabo.jp/20260918112803</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;おかず何にしようかなと考えていて、ポテトサラダでも作るかと思ったんだけど、じゃがいも茹でて、つぶして、きゅうり塩もみして、ハム切って、マヨネーズで和えて……と考えたところで、これ結構たいへんだなとなった。 コロッケもそう。じゃがいも茹でてつぶして、具を炒めて、丸めて、小麦粉つけて卵つけてパン粉つけて...</description>
-      <pubDate>Fri, 18 Sep 2026 02:28:56 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260918112803</comments>
-    </item>
-    <item>
-      <title>同じ映画を何度も観るオタクが理解できない</title>
-      <link>https://anond.hatelabo.jp/20260918095718</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;オタクってなんで同じ映画を何回も観に行くの？ 一回観たらストーリー全部わかるじゃん。 「細かいところが〜」「推しが〜」って言われても、 いや、映画館まで行って同じもの再生してるだけだろ。 と思ってしまう。</description>
-      <pubDate>Fri, 18 Sep 2026 00:58:49 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260918095718</comments>
     </item>
   </channel>
 </rss>
