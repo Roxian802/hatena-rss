@@ -4,20 +4,13 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 18 Sep 2026 20:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 21:33:09 +0000</lastBuildDate>
     <item>
       <title>JR東日本で盗撮被害「うちではよくある」と3か月放置…休職の女性社員が816万円の賠償求め提訴 | 弁護士JPニュース</title>
       <link>https://www.ben54.jp/news/3943</link>
       <description>&lt;img src="https://img.ben54.jp/news/3943/kN85NvJ68jkS1789714341.jpg" /&gt;&lt;br/&gt;会見を開いた内藤智巴弁護士（右）ら。原告女性の前には衝立が設置された（9月18日 都内／弁護士JPニュース編集部） 「うちで盗撮はよくある。捕まっているだけ良い方」——。職場のトイレで盗撮被害に遭ったJR東日本（東日本旅客鉄道）の女性社員は、社内カウンセリングで産業医からそう告げられたと訴える。 加害者は、...</description>
       <pubDate>Fri, 18 Sep 2026 10:03:48 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.ben54.jp/news/3943</comments>
-    </item>
-    <item>
-      <title>同じ映画を何度も観るオタクが理解できない</title>
-      <link>https://anond.hatelabo.jp/20260918095718</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;オタクってなんで同じ映画を何回も観に行くの？ 一回観たらストーリー全部わかるじゃん。 「細かいところが〜」「推しが〜」って言われても、 いや、映画館まで行って同じもの再生してるだけだろ。 と思ってしまう。</description>
-      <pubDate>Fri, 18 Sep 2026 00:58:49 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260918095718</comments>
     </item>
     <item>
       <title>【速報】アジア大会、韓国戦で北朝鮮国歌流れる</title>
@@ -41,6 +34,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260918112803</comments>
     </item>
     <item>
+      <title>同じ映画を何度も観るオタクが理解できない</title>
+      <link>https://anond.hatelabo.jp/20260918095718</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;オタクってなんで同じ映画を何回も観に行くの？ 一回観たらストーリー全部わかるじゃん。 「細かいところが〜」「推しが〜」って言われても、 いや、映画館まで行って同じもの再生してるだけだろ。 と思ってしまう。</description>
+      <pubDate>Fri, 18 Sep 2026 00:58:49 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260918095718</comments>
+    </item>
+    <item>
       <title>既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ</title>
       <link>https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--A3IX07SH--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2597%25A2%25E5%25AD%2598%25E3%2581%25AE%2520LLM%2520%25E3%2581%258C%2520CPU%2520%25E3%2581%25AA%25E3%2582%2589%25E3%2580%2581%2520Jev%2520%25E3%2581%25AF%25E3%2581%259D%25E3%2581%25AE%2520GPU%2520%25E7%2589%2588%25E3%2581%25BF%25E3%2581%259F%25E3%2581%2584%25E3%2581%25AA%25E3%2582%2584%25E3%2581%25A4%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;Jev を一晩叩いたので、その感想を書きます。タイトルは超大雑把な要約です。 実験結果 まず実験ログを置いておきます。 公式のクックブックの条件を変えた追試 https://docs.typesafe.ai/cookbooks/skill_suggestion チェス対戦 5戦やって、Claude 5 Sonnet には全勝 LoL をミニマルにしたような MOBA ゲームをリアルタ...</description>
@@ -60,20 +60,6 @@
       <description>&lt;img src="https://s.tgstc.com/ogp3/fc68c125952a7ecf5eca29187c86f7d7-1200x630.jpeg" /&gt;&lt;br/&gt;サん✨ @Adscience12000 アメリカ大学院生の頃、研究発表プレゼンで「英語下手でごめんね」と言ったら指導教授からくそ怒られた。「英語が下手なのは聞けばわかる。そんなことで聴衆の時間を奪うな。俺たちは君の英語を評価しに来たんじゃない。」みたいなこと言われて懇々と説教された。「日本人が謙虚なのは知ってるが...</description>
       <pubDate>Fri, 18 Sep 2026 04:21:11 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2747135</comments>
-    </item>
-    <item>
-      <title>人間が本当に求めているものは『意味』ではなく『居場所』。宗教も仕事も家族も趣味も政治も国家も経済も、そのための媒介や言い訳にすぎない。 - 自意識高い系男子</title>
-      <link>https://ta-nishi.hatenablog.com/entry/2026/09/18/061851</link>
-      <description>&lt;img src="https://ogimage.blog.st-hatena.com/6435922169448026405/14945776032079065799/1789712127" /&gt;&lt;br/&gt;p-shirokuma.hatenadiary.com 死に伴う「意味」の喪失と、宗教の役割 - シロクマの屑籠 コストが安い行動や日常に「意味」を見いだせるよう訓練された個体は幸せ者。私もゲーセンで1日中遊ぶこと「如きに」生きる意味を見いだせる人間になれて幸せ者だとよく思う。2026/09/16 23:28 b.hatena.ne.jp シロクマさんの意味と...</description>
-      <pubDate>Fri, 18 Sep 2026 02:46:18 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ta-nishi.hatenablog.com/entry/2026/09/18/061851</comments>
-    </item>
-    <item>
-      <title>「1合」という単位にとらわれないご飯の炊き方｜ツジメシ</title>
-      <link>https://note.com/tsujimeshi/n/nf81f3a9daa1f</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/314588187/rectangle_large_type_2_8e27f4d066381a1df8d7ea58fe217c74.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;note実質1回目は、ごはんの炊き方について、です。 といっても、ご飯の美味しい炊き方については多くの方が解説されているので、ここでは味ではなく、主にに少量炊くときの利便性の話をします。 ＜結論から見たい方は下の「水加減は全体の重量で！」までスクロールしてください＞ （うちに１合の計量カップがないのでCha...</description>
-      <pubDate>Fri, 18 Sep 2026 02:47:56 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/tsujimeshi/n/nf81f3a9daa1f</comments>
     </item>
   </channel>
 </rss>
