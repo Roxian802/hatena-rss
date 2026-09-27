@@ -4,13 +4,13 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 27 Sep 2026 00:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 01:33:11 +0000</lastBuildDate>
     <item>
-      <title>ローカルLLMで使えるWeb検索まとめ｜npaka</title>
-      <link>https://note.com/npaka/n/n1d86b2196515</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/317720439/rectangle_large_type_2_4707f1211bfd7acfb09c0a358b9556cd.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;ローカルLLMで使えるWeb検索をまとめました。 1. はじめに最近のローカルLLMは、Tool CallingやAIハーネスのWeb検索機能を使って、Webの最新情報を調べる能力も高くなっています。 LLM単体では学習後の最新情報を知ることはできませんが、 検索 → ページを読む → 情報を比較 → 必要なら再検索 → 回答 という仕組みを用意...</description>
-      <pubDate>Sat, 26 Sep 2026 07:44:27 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/npaka/n/n1d86b2196515</comments>
+      <title>【検証】Google AI Pro 限界まで使い倒したらめちゃくちゃお得 説｜ぶるぺん/blue.pen5805</title>
+      <link>https://note.com/blue_pen5805/n/nb124b104c28b</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/317544550/rectangle_large_type_2_680289cb08ac513fe5f10b56c84541ac.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;みなさん ChatGPT とか Claude とか使ってますか？ はい、そうですね Gemini は使ってないですね 今回はそんな Gemini の有料サブスクの中で 最も一般的なプランである Google AI Pro （月額 2,900円）について 全特典の価値をすべて計算したら実はめちゃくちゃお得なのでは？ という説について検証していきます なお、...</description>
+      <pubDate>Sat, 26 Sep 2026 06:52:37 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/blue_pen5805/n/nb124b104c28b</comments>
     </item>
   </channel>
 </rss>
