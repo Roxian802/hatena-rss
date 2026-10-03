@@ -4,20 +4,13 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 03 Oct 2026 05:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 06:33:12 +0000</lastBuildDate>
     <item>
       <title>ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～</title>
       <link>https://lpi.or.jp/news/press/page/20261001_01/</link>
       <description>&lt;img src="https://lpi.or.jp/news/press/page/20261001_01/images/ogp.png" /&gt;&lt;br/&gt;ネットワークの仕組みを実習で体感できる入門教材「Linuxネットワーク標準教科書」を無償公開 ～2,000名超のLinuC Open Networkコミュニティで共創、LinuC学習の土台に ～ Linux技術者認定「LinuC(リナック)」などを実施する特定非営利活動法人エルピーアイジャパン(以下:LPI-Japan、東京都千代田区、理事長 鈴木 敦夫)...</description>
       <pubDate>Fri, 02 Oct 2026 12:06:40 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/lpi.or.jp/news/press/page/20261001_01/</comments>
-    </item>
-    <item>
-      <title>簗和生農相、予算カット発言を認める　辞任は否定　自民内には支援しなかったことへの「報復」当然視する声：東京新聞デジタル</title>
-      <link>https://www.tokyo-np.co.jp/article/519272</link>
-      <description>&lt;img src="https://static.tokyo-np.co.jp/image/article/size1/d/f/d/9/dfd90653410072e53a2fa4380ca6dd2d_2.jpg" /&gt;&lt;br/&gt;簗和生農相は2日、国会内で会見し、5月の地元会合の際、衆院選で自身を応援しなかった首長がいる自治体の道路予算を大幅に削減したと発言したことを認めた。「（週刊誌の）報道で書かれているので、そういう発言をしたのだと思う」と述べた。 選挙での支持を求めて地元関係者をどう喝するような発言。自民党派閥の裏金問...</description>
-      <pubDate>Fri, 02 Oct 2026 22:36:55 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.tokyo-np.co.jp/article/519272</comments>
     </item>
     <item>
       <title>俺も山手線を徒歩で一周したことがある これ、やったことある人にしか分か..</title>
@@ -27,18 +20,32 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261002151015</comments>
     </item>
     <item>
+      <title>簗和生農相、予算カット発言を認める　辞任は否定　自民内には支援しなかったことへの「報復」当然視する声：東京新聞デジタル</title>
+      <link>https://www.tokyo-np.co.jp/article/519272</link>
+      <description>&lt;img src="https://static.tokyo-np.co.jp/image/article/size1/d/f/d/9/dfd90653410072e53a2fa4380ca6dd2d_2.jpg" /&gt;&lt;br/&gt;簗和生農相は2日、国会内で会見し、5月の地元会合の際、衆院選で自身を応援しなかった首長がいる自治体の道路予算を大幅に削減したと発言したことを認めた。「（週刊誌の）報道で書かれているので、そういう発言をしたのだと思う」と述べた。 選挙での支持を求めて地元関係者をどう喝するような発言。自民党派閥の裏金問...</description>
+      <pubDate>Fri, 02 Oct 2026 22:36:55 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.tokyo-np.co.jp/article/519272</comments>
+    </item>
+    <item>
+      <title>新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita</title>
+      <link>https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14</link>
+      <description>はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな...</description>
+      <pubDate>Fri, 02 Oct 2026 15:17:29 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14</comments>
+    </item>
+    <item>
+      <title>とあるアンガーマネジメントの本に書かれていた「怒りを皮肉で表現する人」の問題点の指摘が丁寧なオーバーキルで喀血しかけた話</title>
+      <link>https://togetter.com/li/2753348</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/29287ded0e6c52fe332e5b468521c79d-1200x630.jpeg" /&gt;&lt;br/&gt;芽茶子 @mechacor アンガーマネジメントの本読んだら、大要「怒りを皮肉で表現する人は、直接怒りを伝える度胸も交渉能力も無いばかりか、皮肉＝知性と勘違いし勝手に優越感に浸り、歯止めもきかないので、かえって相手を深く傷つけてしまい余計なトラブルをひきおこす」って書いててニコニコしながら喀血するとこだった...</description>
+      <pubDate>Fri, 02 Oct 2026 18:35:20 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2753348</comments>
+    </item>
+    <item>
       <title>僕だけが感じているのではないと思うけど、あらゆるものが値上がりして、人生設計を一から見直さないと詰んでしまうレベルに達している。景気が上向いているとか言われたってそれは大企業や大投資家たちの話であって、中小企業やフリーランスにとっては底なしの状態から更に落とされていく感覚がある。→「政治の失敗である、、」 - posfie</title>
       <link>https://posfie.com/@kalofollow/p/E9DXCFB</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/9a55e3277b06edf7c953e63a0ae147d7-1200x630.jpeg" /&gt;&lt;br/&gt;改憲反対。平和外交を。にっちもさっちもす808。 @wshootingstar この先に待っているのは、持つものと持たざるものの格差。 千歳も家賃高騰だって。半導体関連。 ニセコでは固定資産税上がって住めなくて引っ越したと言う話。 持つものと持たざるものの格差がどんどん開く。 黙ってるそこのあなたたち、多くが追いやられ...</description>
       <pubDate>Fri, 02 Oct 2026 14:27:56 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@kalofollow/p/E9DXCFB</comments>
-    </item>
-    <item>
-      <title>簗氏が発言したとされる会合の音声データ　「予算大幅カット」《無料公開》｜下野新聞デジタル</title>
-      <link>https://www.shimotsuke.co.jp/articles/-/1433312</link>
-      <description>&lt;img src="https://soon.ismcdn.jp/mwimgs/e/b/1200wm/img_ebf6ef6141c4dac8d422d95b4e7264c82051550.jpg" /&gt;&lt;br/&gt;衆院栃木３区を地盤とする簗和生農相（比例代表北関東ブロック、６期）が就任前の５月、地元での自民党関係者らとの懇親会で発言したとされる音声データの要約は以下の通り。 選挙の総括ということで、自民党の流れをお話します。まず、那須烏山市、那珂川町の令和8年度の道路予算については大幅にカットしました。これ...</description>
-      <pubDate>Fri, 02 Oct 2026 12:28:51 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.shimotsuke.co.jp/articles/-/1433312</comments>
     </item>
   </channel>
 </rss>
