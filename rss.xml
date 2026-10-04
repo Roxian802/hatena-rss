@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 04 Oct 2026 19:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:33:13 +0000</lastBuildDate>
     <item>
       <title>自信を持ってオススメ出来るお取り寄せグルメまとめ｜山本さほ</title>
       <link>https://note.com/sahoobb/n/n16ac73d5b85b</link>
@@ -27,18 +27,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/englishbusy/n/n40943f3c89ab</comments>
     </item>
     <item>
-      <title>AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった</title>
-      <link>https://portalshit.net/2026/10/03/ai-is-eating-product-management</link>
-      <description>&lt;img src="https://resources.portalshit.net/b0f4affb3031b2605835590f81748b7a.jpg" /&gt;&lt;br/&gt;生成 AI が人間の仕事を奪っていくという話が様々なところでなされている。ソフトウェア開発の現場で AI にジョブセキュリティを脅かされるのはエンジニアやデザイナーなどの作り手の方で、何を・なぜ作るべきか考えるプロダクトマネージャーに関しては AI に置き換えられにくい職業だと思っていた。 しかし実際に勤務先...</description>
-      <pubDate>Sat, 03 Oct 2026 13:00:04 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/portalshit.net/2026/10/03/ai-is-eating-product-management</comments>
-    </item>
-    <item>
       <title>40前の女性同僚が結婚相談所に入った。1年経っても成婚できず参っている。理想が高いのでは？と言えないでいる</title>
       <link>https://anond.hatelabo.jp/20261004080428</link>
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;同じ年代、同性、独身です。自分の市場価値は分かってるので、婚活よりはお金貯めて老後のために貯金してます。もともと男性にはおまり興味はなく、小説オタクだったんで。サークルなどに入り活動してます。そんな自分なので 同年代同僚に高望みするなと言えずにいます。 同じくらいの年齢で初婚、年収４００万以上希望...</description>
       <pubDate>Sat, 03 Oct 2026 23:05:12 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261004080428</comments>
+    </item>
+    <item>
+      <title>AI に仕事を奪われるのはエンジニアではなくプロダクトマネージャーの方だった</title>
+      <link>https://portalshit.net/2026/10/03/ai-is-eating-product-management</link>
+      <description>&lt;img src="https://resources.portalshit.net/b0f4affb3031b2605835590f81748b7a.jpg" /&gt;&lt;br/&gt;生成 AI が人間の仕事を奪っていくという話が様々なところでなされている。ソフトウェア開発の現場で AI にジョブセキュリティを脅かされるのはエンジニアやデザイナーなどの作り手の方で、何を・なぜ作るべきか考えるプロダクトマネージャーに関しては AI に置き換えられにくい職業だと思っていた。 しかし実際に勤務先...</description>
+      <pubDate>Sat, 03 Oct 2026 13:00:04 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/portalshit.net/2026/10/03/ai-is-eating-product-management</comments>
     </item>
     <item>
       <title>個人向けGeminiのモデル選択が厳格化　無料ユーザーが使えるのは「Flash-Lite」のみに</title>
@@ -53,13 +53,6 @@
       <description>&lt;img src="https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261004-00000018-asahi-000-5-view.jpg?exp=10800" /&gt;&lt;br/&gt;ベッドに横たわる男女（写真はイメージです）=西岡臣撮影（朝日新聞）　配偶者との性行為を断れない理由として、よく「夫婦の義務だから」という声があがります。法的には、夫婦に性行為の義務はあるのでしょうか。家族法に詳しい青山学院大学の大島梨沙教授に聞きました。 【写真】「経済力ないってみじめ」　セックス...</description>
       <pubDate>Sun, 04 Oct 2026 03:11:40 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/articles/ebaf8b2cd82922e3f345b87800356dc839b763d7</comments>
-    </item>
-    <item>
-      <title>localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要</title>
-      <link>https://gigazine.net/news/20261004-cloudflare-quick-tunnels/</link>
-      <description>&lt;img src="https://i.gzn.jp/img/2026/10/04/cloudflare-quick-tunnels/00.png" /&gt;&lt;br/&gt;PC上で開発中のWebアプリを外部から確認するには、ポート開放やサーバー設定などの手間がかかります。以前レビューした「Cloudflare Tunnel」からさらに手軽になり、アカウント登録不要かつコマンド1つで利用可能でAI向けのJSON出力にも対応した「Cloudflare Quick Tunnels」を実際に使ってみました。 Cloudflare Quick ...</description>
-      <pubDate>Sun, 04 Oct 2026 03:07:44 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261004-cloudflare-quick-tunnels/</comments>
     </item>
   </channel>
 </rss>
