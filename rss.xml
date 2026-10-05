@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 05 Oct 2026 14:33:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:33:10 +0000</lastBuildDate>
     <item>
       <title>焼肉きんぐに不正アクセス、1078万人分の情報流出　アプリ登録者ほぼ全員が対象</title>
       <link>https://ascii.jp/elem/000/004/440/4440100/</link>
@@ -27,18 +27,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2754284</comments>
     </item>
     <item>
-      <title>何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料</title>
-      <link>https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html</link>
-      <description>&lt;img src="https://coliss.com/wp-content/uploads-202604/2026100511-01@2x.png" /&gt;&lt;br/&gt;これには思わず二度見、いや三度見しました！ Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat Pro, After Effects, InDesignのAdobeのアプリ7種類をAdobeのコードを一切使用せずに、完全に新しいコードを使用して各アプリの機能を忠実に再現したオープンソースのアプリを紹介します。 しかも、すべてのアプ...</description>
-      <pubDate>Sun, 04 Oct 2026 23:05:07 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html</comments>
-    </item>
-    <item>
       <title>俺のAIプログラミング手法(2026/10/05)</title>
       <link>https://zenn.dev/mizchi/articles/ai-coding-loop-formal</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--NK9_lu5L--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BF%25BA%25E3%2581%25AEAI%25E3%2583%2597%25E3%2583%25AD%25E3%2582%25B0%25E3%2583%25A9%25E3%2583%259F%25E3%2583%25B3%25E3%2582%25B0%25E6%2589%258B%25E6%25B3%2595%25282026%252F10%252F05%2529%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;棚卸し的な記事です。 人間の役割を定義する モデルの性能を評価する 無茶振りしてどこまで出来るか観察 何ができて、何ができなかったことがドメイン知識になる ループを構築する 自動化して得られた時間で、評価指標を改善する 評価指標を作る どの数値を改善すべきか、トレードオフは何を優先すべきか ループのイテレ...</description>
       <pubDate>Mon, 05 Oct 2026 06:52:58 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/mizchi/articles/ai-coding-loop-formal</comments>
+    </item>
+    <item>
+      <title>何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料</title>
+      <link>https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html</link>
+      <description>&lt;img src="https://coliss.com/wp-content/uploads-202604/2026100511-01@2x.png" /&gt;&lt;br/&gt;これには思わず二度見、いや三度見しました！ Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat Pro, After Effects, InDesignのAdobeのアプリ7種類をAdobeのコードを一切使用せずに、完全に新しいコードを使用して各アプリの機能を忠実に再現したオープンソースのアプリを紹介します。 しかも、すべてのアプ...</description>
+      <pubDate>Sun, 04 Oct 2026 23:05:07 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html</comments>
     </item>
     <item>
       <title>ミュージカルの主催「本日、男が女性のお客様に電話番号を聞く等の不適切行為が発生しました。今後は男の観劇を制限します」</title>
@@ -55,13 +55,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261005100640</comments>
     </item>
     <item>
-      <title>パン屋のパン高すぎんか？</title>
-      <link>https://anond.hatelabo.jp/20261004214313</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;クリームパンとかでも300円するのおかしくないか？インフレとはいいつつも超熟は1斤200円もせんぞ 何を選んでも超熟の食パンや超熟ロールと比較して5倍以上の値段がする そんな価値あるか？いつも客はかなり入ってるけどみんな富裕層なのか？</description>
-      <pubDate>Sun, 04 Oct 2026 13:00:10 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261004214313</comments>
-    </item>
-    <item>
       <title>ペスト研究所の職員、「原因不明」の感染症で死亡　ロシア</title>
       <link>https://www.cnn.co.jp/world/35253226.html</link>
       <description>&lt;img src="https://www.cnn.co.jp/storage/2026/10/05/65f7fa2f8b251ab309c402aaef56ea40/map.jpg" /&gt;&lt;br/&gt;（CNN） ロシア東部シベリアの研究所で危険な感染症の病原体とみられるものが流出し、研究者1人が死亡した。ロシア当局は事案への対応に追われている。 ロシア国営タス通信によると、事故はイルクーツク近郊のシェレホフにあるペスト対策研究所で発生した。 感染症を扱うロシア当局によると、何が流出したのか正確には分...</description>
@@ -69,11 +62,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/world/35253226.html</comments>
     </item>
     <item>
-      <title>JR東海道本線（東京〜熱海）｜鳥瞰路線図</title>
-      <link>https://maps.chizutodesign.com/chokanzu/?route=jr-tokaido-tokyo-atami</link>
-      <description>&lt;img src="https://maps.chizutodesign.com/chokanzu/ogp.png" /&gt;&lt;br/&gt;鉄道の路線ごとに、沿線を斜め上から見下ろした鳥瞰図をオープンデータで作成しました。大正から昭和にかけて多くの沿線図を手がけた吉田初三郎（1884–1955）の鳥瞰図に敬意を込め、その描き方を参考にしています（非公式の個人作品です）。 国土地理院の標高と OpenStreetMap などのデータから、全国の路線を機械的に描...</description>
-      <pubDate>Sun, 04 Oct 2026 16:15:26 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/maps.chizutodesign.com/chokanzu/?route=jr-tokaido-tokyo-atami</comments>
+      <title>パン屋のパン高すぎんか？</title>
+      <link>https://anond.hatelabo.jp/20261004214313</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;クリームパンとかでも300円するのおかしくないか？インフレとはいいつつも超熟は1斤200円もせんぞ 何を選んでも超熟の食パンや超熟ロールと比較して5倍以上の値段がする そんな価値あるか？いつも客はかなり入ってるけどみんな富裕層なのか？</description>
+      <pubDate>Sun, 04 Oct 2026 13:00:10 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261004214313</comments>
     </item>
     <item>
       <title>簗農相「予算大幅カット」発言の背景は？　衆院栃木3区、保守分裂や確執の経緯を振り返る《無料公開》｜下野新聞デジタル</title>
@@ -81,6 +74,13 @@
       <description>&lt;img src="https://soon.ismcdn.jp/mwimgs/0/2/1200wm/img_02e825b193cc3c66e9c663c4a2ec1fe56365097.jpg" /&gt;&lt;br/&gt;衆院栃木３区を地盤とする簗和生農相（比例代表北関東ブロック、６期）が、衆院選で首長が自身を応援しなかった那須烏山市と那珂川町の道路予算を削減したと発言した問題は、５日召集の臨時国会の火種になる可能性がある。簗氏はなぜ両市町をやり玉に挙げたのか。発言の背景にあるとされる栃木３区の保守分裂の構図は、...</description>
       <pubDate>Sun, 04 Oct 2026 15:07:39 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.shimotsuke.co.jp/articles/-/1434360</comments>
+    </item>
+    <item>
+      <title>JR東海道本線（東京〜熱海）｜鳥瞰路線図</title>
+      <link>https://maps.chizutodesign.com/chokanzu/?route=jr-tokaido-tokyo-atami</link>
+      <description>&lt;img src="https://maps.chizutodesign.com/chokanzu/ogp.png" /&gt;&lt;br/&gt;鉄道の路線ごとに、沿線を斜め上から見下ろした鳥瞰図をオープンデータで作成しました。大正から昭和にかけて多くの沿線図を手がけた吉田初三郎（1884–1955）の鳥瞰図に敬意を込め、その描き方を参考にしています（非公式の個人作品です）。 国土地理院の標高と OpenStreetMap などのデータから、全国の路線を機械的に描...</description>
+      <pubDate>Sun, 04 Oct 2026 16:15:26 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/maps.chizutodesign.com/chokanzu/?route=jr-tokaido-tokyo-atami</comments>
     </item>
   </channel>
 </rss>
