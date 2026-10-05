@@ -4,13 +4,27 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 05 Oct 2026 03:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 04:33:19 +0000</lastBuildDate>
     <item>
       <title>何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料</title>
       <link>https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html</link>
       <description>&lt;img src="https://coliss.com/wp-content/uploads-202604/2026100511-01@2x.png" /&gt;&lt;br/&gt;これには思わず二度見、いや三度見しました！ Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat Pro, After Effects, InDesignのAdobeのアプリ7種類をAdobeのコードを一切使用せずに、完全に新しいコードを使用して各アプリの機能を忠実に再現したオープンソースのアプリを紹介します。 しかも、すべてのアプ...</description>
       <pubDate>Sun, 04 Oct 2026 23:05:07 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html</comments>
+    </item>
+    <item>
+      <title>JR東海道本線（東京〜熱海）｜鳥瞰路線図</title>
+      <link>https://maps.chizutodesign.com/chokanzu/?route=jr-tokaido-tokyo-atami</link>
+      <description>&lt;img src="https://maps.chizutodesign.com/chokanzu/ogp.png" /&gt;&lt;br/&gt;鉄道の路線ごとに、沿線を斜め上から見下ろした鳥瞰図をオープンデータで作成しました。大正から昭和にかけて多くの沿線図を手がけた吉田初三郎（1884–1955）の鳥瞰図に敬意を込め、その描き方を参考にしています（非公式の個人作品です）。 国土地理院の標高と OpenStreetMap などのデータから、全国の路線を機械的に描...</description>
+      <pubDate>Sun, 04 Oct 2026 16:15:26 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/maps.chizutodesign.com/chokanzu/?route=jr-tokaido-tokyo-atami</comments>
+    </item>
+    <item>
+      <title>｢丸暗記では学力がつかない｣は間違いだった…日本の15歳が｢OECD首位｣になり､フィンランドが凋落した根本原因</title>
+      <link>https://president.jp/articles/-/119715</link>
+      <description>&lt;img src="https://president.ismcdn.jp/mwimgs/a/f/1200wm/img_af2f82f0704148926165d124697b25ed569689.jpg" /&gt;&lt;br/&gt;先進国の学力は過去最低、日本が首位に 経済協力開発機構（OECD）が9月8日に発表した2025年の学習到達度調査（PISA）で、OECD加盟国の15歳の平均成績は「科学コンピテンシー」「数学的リテラシー」「読解力」の3分野すべてで過去最低を記録した。 その中で、日本は3分野すべてにおいてOECD加盟国で首位に立った。3分野そ...</description>
+      <pubDate>Fri, 02 Oct 2026 11:35:44 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/president.jp/articles/-/119715</comments>
     </item>
     <item>
       <title>「死因特定推理ゲーム」空前のブーム到来。『未整理記録』など無料で面白いゲームも続々、『オブラディン』『Type Help』の影響力大きく。どれもセールで買える - AUTOMATON</title>
@@ -32,13 +46,6 @@
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/320303218/rectangle_large_type_2_6a45c760fed50e6f55240691ad96d555.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;私は1978年4月にプログラミングを学び始めました。それから48年以上、さまざまなソフトウェア開発のプロジェクトに携わり、現在もソフトウェア開発を続けています。 この48年間で、ソフトウェア開発を取り巻く環境は大きく変わりました。 そして今、生成AIによって、また大きな変化が起きています。 しかし、今回の変化...</description>
       <pubDate>Sun, 04 Oct 2026 12:43:02 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/yoshiki_shibata/n/n185f3d9e13bc</comments>
-    </item>
-    <item>
-      <title>コンサル詰めシミュレーター｜Landsknecht</title>
-      <link>https://landsknecht.jp/tsume/</link>
-      <description>&lt;img src="https://landsknecht.jp/wp-content/plugins/consulmap/assets/og/tsume.png?v=1.21.0" /&gt;&lt;br/&gt;¥否クライアント版 NEW日曜の夜8時。パートナーの九条として、先方の本部長に「月7,500万円で、うちの何が変わるのか」を丁寧語で詰められる パートナー版 NEW日曜の夜11時。マネージャーの鬼塚として、パートナーの九条に収支・稼働率・先方の評価・次の提案・継続を詰められる。かなりえぐい は？マネージャー版金曜の...</description>
-      <pubDate>Sat, 03 Oct 2026 09:23:36 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/landsknecht.jp/tsume/</comments>
     </item>
   </channel>
 </rss>
