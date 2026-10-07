@@ -4,20 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 07 Oct 2026 20:33:09 +0000</lastBuildDate>
-    <item>
-      <title>相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ</title>
-      <link>https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html</link>
-      <description>&lt;img src="https://security.macnica.co.jp/assets_c/2026/10/a60b5fc65f9b88afce9c9743cf4c6ea4692e34d4-thumb-1200xauto-16007.png" /&gt;&lt;br/&gt;1.記事概要 国内の法人・企業が運営するWEBシステムからの情報漏洩が相次いでいます。後述の通り過去のサイバー攻撃と異なる点が多いため、セキュリティ専門家間でも事件に関する解釈が一部揺らいでいます。また、被害公表においても「不正アクセス」「個人情報◯◯件漏洩」といった概要の説明はあっても、他組織が自社シ...</description>
-      <pubDate>Wed, 07 Oct 2026 06:59:02 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/security.macnica.co.jp/blog/2026/10/web-incidents2026.html</comments>
-    </item>
+    <lastBuildDate>Wed, 07 Oct 2026 21:33:13 +0000</lastBuildDate>
     <item>
       <title>おひたしが好きすぎて毎日食べているが、偶然見つけたレシピを試してみたら料亭の味みたいになって感動した話「醤油洗いをするとワンランク上の味になる」</title>
       <link>https://togetter.com/li/2755262</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/cf164ac2132e1d29854be74a666a82eb-1200x630.jpeg" /&gt;&lt;br/&gt;おひたしが好きすぎて毎日食べているが、偶然見つけたレシピを試してみたら料亭の味みたいになって感動した話「醤油洗いをするとワンランク上の味になる」</description>
       <pubDate>Wed, 07 Oct 2026 11:37:50 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2755262</comments>
+    </item>
+    <item>
+      <title>相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ</title>
+      <link>https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html</link>
+      <description>&lt;img src="https://security.macnica.co.jp/assets_c/2026/10/a60b5fc65f9b88afce9c9743cf4c6ea4692e34d4-thumb-1200xauto-16007.png" /&gt;&lt;br/&gt;1.記事概要 国内の法人・企業が運営するWEBシステムからの情報漏洩が相次いでいます。後述の通り過去のサイバー攻撃と異なる点が多いため、セキュリティ専門家間でも事件に関する解釈が一部揺らいでいます。また、被害公表においても「不正アクセス」「個人情報◯◯件漏洩」といった概要の説明はあっても、他組織が自社シ...</description>
+      <pubDate>Wed, 07 Oct 2026 06:59:02 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/security.macnica.co.jp/blog/2026/10/web-incidents2026.html</comments>
     </item>
     <item>
       <title>一時期ネットを熱狂させた「行動経済学」、現在ではインチキがバレてぼろぼろになっているらしい。有名なダン・アリエリは論文取り消し＆研究所も取り潰しに</title>
@@ -39,13 +39,6 @@
       <description>&lt;img src="https://img.cf.47news.jp/static/renewal/common/img/thumb_large.png" /&gt;&lt;br/&gt;旅行大手エイチ・アイ・エス（HIS）は7日、不正アクセスを受けて最大627人分の顧客のパスポート情報が流出した恐れがあると発表した。</description>
       <pubDate>Wed, 07 Oct 2026 06:37:46 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.47news.jp/15049148.html</comments>
-    </item>
-    <item>
-      <title>【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG</title>
-      <link>https://newsdig.tbs.co.jp/articles/-/2995228</link>
-      <description>&lt;img src="https://newsdig.ismcdn.jp/mwimgs/8/8/1200w/img_889d95d62ab8c42c11e87ffb9c488b0a330824.jpg" /&gt;&lt;br/&gt;去年、アサヒビールへのサイバー攻撃を行ったハッカー集団「Qilin」。その中心メンバーが拘束されたことをめぐり、QilinがJNNの取材に応じました。アサヒグループホールディングスなど世界の企業にサイバー攻撃を…</description>
-      <pubDate>Wed, 07 Oct 2026 04:48:04 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/newsdig.tbs.co.jp/articles/-/2995228</comments>
     </item>
   </channel>
 </rss>
