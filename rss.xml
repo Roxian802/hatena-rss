@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 08 Oct 2026 11:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:33:09 +0000</lastBuildDate>
     <item>
       <title>【速報】高市首相「『とにかく働いて返せ』と言っている」　全省庁調査は「行わず」　衆院代表質問｜下野新聞デジタル</title>
       <link>https://www.shimotsuke.co.jp/articles/-/1436795</link>
@@ -13,18 +13,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.shimotsuke.co.jp/articles/-/1436795</comments>
     </item>
     <item>
-      <title>2026年 情報漏洩・不正アクセスTier表</title>
-      <link>https://ai.itokoba.com/security-tier/</link>
-      <description>&lt;img src="https://ai.itokoba.com/security-tier/assets/share.png" /&gt;&lt;br/&gt;D浅い情報の限定的な誤送付等で、削除・回収と転送抑止を裏づけられる事案。低位でも被害ゼロを意味しない。 2026年に公表された国内の事案・国内で利用されるサービス。掲載数は会社数・独立した事件数とは異なります。続報に応じて更新します。 公表日は続報・報道の掲載日を含みます。出典は各事案の詳細記事に掲載し...</description>
-      <pubDate>Wed, 07 Oct 2026 11:58:19 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/ai.itokoba.com/security-tier/</comments>
-    </item>
-    <item>
       <title>直近で相次いでいる国内組織における不正アクセスに関する注意喚起</title>
       <link>https://www.jpcert.or.jp/at/2026/at260030.html</link>
       <description>&lt;img src="https://www.jpcert.or.jp/common/image/ogp_image.jpg" /&gt;&lt;br/&gt;JPCERT-AT-2026-0030 JPCERT/CC 2026-10-08 I. 概要各被害公表や報道のとおり、直近2026年9月前後で国内組織における不正アクセスによる個人情報等の漏えい被害が相次いでいます。 複数の製品やサービスで被害が発生している中、技術的な情報の共有が不足しており、把握している情報は限定的かつ断片的であるものの、攻...</description>
       <pubDate>Thu, 08 Oct 2026 02:17:29 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/at/2026/at260030.html</comments>
+    </item>
+    <item>
+      <title>嫌われるデザインの歴史</title>
+      <link>https://zenn.dev/blackmose/articles/de0170a13be930</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--EN-IRf----/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AB%258C%25E3%2582%258F%25E3%2582%258C%25E3%2582%258B%25E3%2583%2587%25E3%2582%25B6%25E3%2582%25A4%25E3%2583%25B3%25E3%2581%25AE%25E6%25AD%25B4%25E5%258F%25B2%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2582%2584%25E3%2581%258B%25E3%2582%2593%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2JiMDNkMzJlOTQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;はじめに どの時代にも「ああ、あの頃のやつね」と一目でバレるデザインがある。 2000年前後ならワードアートの虹色文字、2010年代ならパワポのデフォルトテンプレート、そして2024年以降はAIが量産する紫グラデーションと角丸カード。 ただ、流行したデザインがそのまま嫌われるわけではない。スキューモーフィズムのよ...</description>
+      <pubDate>Thu, 08 Oct 2026 01:44:23 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/blackmose/articles/de0170a13be930</comments>
+    </item>
+    <item>
+      <title>2026年 情報漏洩・不正アクセスTier表</title>
+      <link>https://ai.itokoba.com/security-tier/</link>
+      <description>&lt;img src="https://ai.itokoba.com/security-tier/assets/share.png" /&gt;&lt;br/&gt;D浅い情報の限定的な誤送付等で、削除・回収と転送抑止を裏づけられる事案。低位でも被害ゼロを意味しない。 2026年に公表された国内の事案・国内で利用されるサービス。掲載数は会社数・独立した事件数とは異なります。続報に応じて更新します。 公表日は続報・報道の掲載日を含みます。出典は各事案の詳細記事に掲載し...</description>
+      <pubDate>Wed, 07 Oct 2026 11:58:19 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/ai.itokoba.com/security-tier/</comments>
     </item>
     <item>
       <title>【速報】首相、簗農相を続投させる意向表明</title>
@@ -41,17 +48,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/coliss.com/wp-content/cache/all/articles/build-websites/operation/work/crafting-apps-20261008.html/index.html</comments>
     </item>
     <item>
+      <title>鈴木紗理奈、農水相の予算カット発言に「これが政治なんじゃないですか」…SNSでは憤慨も- Smart FLASH/スマフラ[光文社週刊誌]</title>
+      <link>https://smart-flash.jp/entertainment/entertainment-news/432404/</link>
+      <description>&lt;img src="https://data.smart-flash.jp/wp-content/uploads/2023/08/31134138/sarina_1_thumb.jpg" /&gt;&lt;br/&gt;鈴木紗理奈が、10月6日放送の『ゴゴスマ〜GOGO！Smile！〜』（TBS系）で、簗和生（やなかずお）農水相の「予算カット」発言に言及。その際に示した “持論” が、SNSで疑問を持たれている。 この日の番組では、衆院選で自身を支持しなかった自治体の道路予算を「大幅にカットした」とする簗氏の発言を取り上げた。簗氏は発...</description>
+      <pubDate>Wed, 07 Oct 2026 13:09:32 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/smart-flash.jp/entertainment/entertainment-news/432404/</comments>
+    </item>
+    <item>
       <title>なんで我々アジア人が欧米の主導する対露制裁に協力する義理があるのか？</title>
       <link>https://anond.hatelabo.jp/20261008074405</link>
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;ウクライナが韓国を批判している。韓国がロシアを支援しているという理由だ。 ウクライナ、韓国を批判 石油製品輸出でロシアを「実質的に支援」 しかし、我々アジア人がロシアを支援していったい何が悪いのか？ ゼレンスキー大統領、イスラエルとの関係強化が共通の安全保障を高めると表明 多くのパレスチナ人市民を虐殺...</description>
       <pubDate>Wed, 07 Oct 2026 22:58:14 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261008074405</comments>
-    </item>
-    <item>
-      <title>1日16万円以上のAI費用発生で開発元が悲鳴。『妹に運転を教える』プレイヤー数1か月で20倍に―デモ版早期終了も視野 | Game*Spark - 国内・海外ゲーム情報サイト</title>
-      <link>https://www.gamespark.jp/article/2026/10/07/173304.html</link>
-      <pubDate>Wed, 07 Oct 2026 16:55:36 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.gamespark.jp/article/2026/10/07/173304.html</comments>
     </item>
     <item>
       <title>斎藤元彦知事、フリー記者の「人殺し」発言「容認しがたい」…会見参加認めず専門家「知る権利を揺るがしかねない」</title>
@@ -61,18 +69,17 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/national/20261008-GYT1T00111/</comments>
     </item>
     <item>
+      <title>1日16万円以上のAI費用発生で開発元が悲鳴。『妹に運転を教える』プレイヤー数1か月で20倍に―デモ版早期終了も視野 | Game*Spark - 国内・海外ゲーム情報サイト</title>
+      <link>https://www.gamespark.jp/article/2026/10/07/173304.html</link>
+      <pubDate>Wed, 07 Oct 2026 16:55:36 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.gamespark.jp/article/2026/10/07/173304.html</comments>
+    </item>
+    <item>
       <title>IDCFクラウドへのランサムウェア攻撃についてまとめてみた - piyolog</title>
       <link>https://piyolog.hatenadiary.jp/entry/2026/10/08/070606</link>
       <description>&lt;img src="https://ogimage.blog.st-hatena.com/10257846132616586766/14945776032087385117/1791428622" /&gt;&lt;br/&gt;2026年10月7日、IDCフロンティアは、同社が提供するクラウドサービス「IDCFクラウド」の一部のシステムが第三者からのランサムウェア攻撃を受け、障害が発生していると公表しました。ここでは関連する情報をまとめます。 東日本リージョン1への攻撃 IDCフロンティアは10月7日13時52分の第1報で、「IDCFクラウド」の一部...</description>
       <pubDate>Wed, 07 Oct 2026 22:19:57 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/piyolog.hatenadiary.jp/entry/2026/10/08/070606</comments>
-    </item>
-    <item>
-      <title>銀行もやられるの時間の問題だろ。そんな事ありえないwと言うだろうが、銀行のデータ全部消滅したらどうなるんだ。いま預金通帳もってない者多いだろ。おれは持ってるが、記入された残高が今銀行にあると証明するすべがない。その後ATMで引き出してませんか？カード会社が引き落としてませんか？とか。→「これを一番恐れている&#x1f976; ネット証券ネット銀行…。 怖いよ〜&#x1f62d;」</title>
-      <link>https://posfie.com/@petaritape/p/wXRbWdC</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/d0c6627d104be420f82cac52bf7f8206-1200x630.jpeg" /&gt;&lt;br/&gt;ポンピィ @pom_pom_pee 銀行もやられるの時間の問題だろ。そんな事ありえないwと言うだろうが、銀行のデータ全部消滅したらどうなるんだ。いま預金通帳もってない者多いだろ。おれは持ってるが、記入された残高が今銀行にあると証明するすべがない。その後ATMで引き出してませんか？カード会社が引き落としてませんか？...</description>
-      <pubDate>Wed, 07 Oct 2026 15:25:49 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@petaritape/p/wXRbWdC</comments>
     </item>
   </channel>
 </rss>
