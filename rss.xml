@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 07 Oct 2026 23:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 00:33:09 +0000</lastBuildDate>
     <item>
       <title>おひたしが好きすぎて毎日食べているが、偶然見つけたレシピを試してみたら料亭の味みたいになって感動した話「醤油洗いをするとワンランク上の味になる」</title>
       <link>https://togetter.com/li/2755262</link>
@@ -18,13 +18,6 @@
       <description>&lt;img src="https://security.macnica.co.jp/assets_c/2026/10/a60b5fc65f9b88afce9c9743cf4c6ea4692e34d4-thumb-1200xauto-16007.png" /&gt;&lt;br/&gt;1.記事概要 国内の法人・企業が運営するWEBシステムからの情報漏洩が相次いでいます。後述の通り過去のサイバー攻撃と異なる点が多いため、セキュリティ専門家間でも事件に関する解釈が一部揺らいでいます。また、被害公表においても「不正アクセス」「個人情報◯◯件漏洩」といった概要の説明はあっても、他組織が自社シ...</description>
       <pubDate>Wed, 07 Oct 2026 06:59:02 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/security.macnica.co.jp/blog/2026/10/web-incidents2026.html</comments>
-    </item>
-    <item>
-      <title>最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ</title>
-      <link>https://joisino.hatenablog.com/entry/filler</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/8a0262dd141a1e925fe258356cb931f0e5a0ffc7/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fj%2Fjoisino%2F20261007%2F20261007092415.png" /&gt;&lt;br/&gt;LLM の「思考」といえば思考の連鎖 (Chain of Thought; CoT) が有名ですが、思考の連鎖はいわば「喋りながら考えている」ことに相当します。これに対して、最近の LLM は「黙って」考えられるようになってきています。 鍵となるのはフィラートークン (filler tokens) です。これは「.」などの意味のないトークンのことで...</description>
-      <pubDate>Wed, 07 Oct 2026 08:57:44 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/joisino.hatenablog.com/entry/filler</comments>
     </item>
   </channel>
 </rss>
