@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 11 Oct 2026 11:33:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:33:09 +0000</lastBuildDate>
     <item>
       <title>こんなクソ広告ばかり出していたら、そりゃWebから人はいなくなるよ。──Webメディア編集長として思うこと</title>
       <link>https://rocketnews24.com/2026/10/11/2809403/</link>
@@ -34,6 +34,20 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261007235528</comments>
     </item>
     <item>
+      <title>「国民の大多数が竹中平蔵を悪としてるから」「正社員をなくせばいい」という竹中平蔵氏の発言に猛批判が集中するが、その正しい面に気づくのは難しい</title>
+      <link>https://togetter.com/li/2756787</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/962e433d892835df864da09767cf8729-1200x630.jpeg" /&gt;&lt;br/&gt;竹中 平蔵 @HeizoTakenaka 「正社員をなくせばいい」私がなぜそう考えるのか。 世間ではいまだに「非正規が増えたのは竹中のせいだ」といった的外れな批判が繰り返されている。 だが、働き手のうち派遣はわずか2〜3％にすぎず、客観的なファクトすら見ようとしない感情論にすぎない。 真の病巣は、1979年の判例以来、何...</description>
+      <pubDate>Sun, 11 Oct 2026 03:46:22 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2756787</comments>
+    </item>
+    <item>
+      <title>「ノンフライヤーって何がそんなに便利なの？」冷凍食品はパリパリ、肉も魚もほったらかしで調理できる→ズボラな人ほどQOLが上がるおすすめ家電です</title>
+      <link>https://togetter.com/li/2756166</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/9da2cac4616b3fbbe56f2ce085bf36c4-1200x630.jpeg" /&gt;&lt;br/&gt;眠れる森の熊 @k___metabo 冷凍の唐揚げとか、揚げ物系はマジでパリパリに仕上がった旨い。しかもセットして放置してるだけだし、何の労力もなし。買ってきた揚げ物もリクリスプで揚げたてみたいになる。マジで今年1番の買い物や。 x.com/k___metabo/sta… 2026-10-08 19:13:48</description>
+      <pubDate>Sun, 11 Oct 2026 01:56:14 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2756166</comments>
+    </item>
+    <item>
       <title>「東京駅周辺・地下通路完全網羅マップ」を作ろう！（1）大手町編【全4回】｜さんたつ by 散歩の達人</title>
       <link>https://san-tatsu.jp/articles/552820/</link>
       <description>&lt;img src="https://san-tatsu.jp/assets/uploads/2026/09/22150737/1790057256-2237c2d7226e8d28189f7195d975d3cf.jpg" /&gt;&lt;br/&gt;駅と駅がつながっているばかりか、ビルとビルの間にいくつもの通路が張り巡らされ、一歩間違えば迷宮と化す東京の地下空間。それならば、その複雑な構造を完全網羅した地図を作ってやろうじゃないか！　まずは、東京駅周辺を全4回に分けてお送りします。今回はその第1回、【大手町編】です。</description>
@@ -53,13 +67,6 @@
       <description>&lt;img src="https://i.gzn.jp/img/2026/10/10/adhd-higher-odds-gut-problems/00.jpg" /&gt;&lt;br/&gt;注意欠如多動症(ADHD)は不注意や衝動性を特徴とする発達障害であり、世界全体では成人の2～4％がADHDを持っているといわれています。イギリスのウォーリック大学が主導した研究では、ADHDを持つ人は便秘や過敏性腸症候群(IBS)、下痢といった胃腸症状を経験する可能性が著しく高いとの結果が示されました。 The Associati...</description>
       <pubDate>Sat, 10 Oct 2026 14:18:16 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261010-adhd-higher-odds-gut-problems/</comments>
-    </item>
-    <item>
-      <title>SQLite 本体にベクトル検索拡張 vec1 がやってきた</title>
-      <link>https://zenn.dev/mattn/articles/6e9996319ac099</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--PnneRXdm--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:SQLite%2520%25E6%259C%25AC%25E4%25BD%2593%25E3%2581%25AB%25E3%2583%2599%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AB%25E6%25A4%259C%25E7%25B4%25A2%25E6%258B%25A1%25E5%25BC%25B5%2520vec1%2520%25E3%2581%258C%25E3%2582%2584%25E3%2581%25A3%25E3%2581%25A6%25E3%2581%258D%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mattn%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2IwYjA3ZWIzODAuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...</description>
-      <pubDate>Sat, 10 Oct 2026 17:16:51 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/mattn/articles/6e9996319ac099</comments>
     </item>
   </channel>
 </rss>
