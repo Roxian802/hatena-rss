@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 14 Oct 2026 10:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:33:09 +0000</lastBuildDate>
+    <item>
+      <title>高市首相、簗農相を交代へ　政権発足後、不祥事で辞任は初 | 毎日新聞</title>
+      <link>https://mainichi.jp/articles/20261001/k00/00m/010/312000c</link>
+      <description>&lt;img src="https://cdn.mainichi.jp/vol1/2026/09/17/20260917k0000m010201000p/0c10.jpg?1" /&gt;&lt;br/&gt;高市早苗首相は、衆院選で自身を応援しなかった首長の自治体予算の恣意（しい）的な削減に言及したと報道された簗和生農相（47）を交代させる方針を固めた。近く簗氏から辞表を受け取り、正式決定する。 簗氏が辞任すれば、高市政権発足後に不祥事で辞任する閣僚は初めて。内閣改造から1カ月にも満たない更迭となり、首...</description>
+      <pubDate>Wed, 14 Oct 2026 08:46:36 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20261001/k00/00m/010/312000c</comments>
+    </item>
     <item>
       <title>なろう作家「今季のアニメをいろいろ観てたら、異世界物なのに「超弩級」というセリフが出てきて失笑した。」</title>
       <link>https://posfie.com/@mou_tamn/p/NyB0sjG</link>
@@ -46,13 +53,6 @@
       <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3717267013102026000000-1.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=4c2bdfea93b4edcd9f17645aacb91f54" /&gt;&lt;br/&gt;「もう営業を自粛して半年以上ですから。あれだけやる気に満ちていたみんなが覇気を失っていますよ」。あるプルデンシャル生命保険のベテラン営業マンはこぼす。金融庁の一部業務停止命令が加わり、2027年1月までは新規の保険販売を止めざるを得なくなった。販売の自粛で営業社員は午前9時から午後5時ごろまでの出社が義...</description>
       <pubDate>Tue, 13 Oct 2026 20:35:36 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUB024MO0S6A001C2000000/</comments>
-    </item>
-    <item>
-      <title>私物Macと仕事Macのdotfilesとアプリ管理をmise bootstrapで管理しやすくした - $shibayu36-&gt;blog;</title>
-      <link>https://blog.shibayu36.org/entry/2026/10/13/173000</link>
-      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/2c9c556b2a428df8224731a2c49b73b25d32c0e5/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fs%2Fshiba_yu36%2F20261011%2F20261011162746.png" /&gt;&lt;br/&gt;自分の設定ファイルやインストールするアプリは、https://github.com/shibayu36/config-file のリポジトリで管理している。これまでは私物Macと仕事Macが全く同じになるように、雑にsymlinkを張るスクリプトで運用していた。新しい仕事用のMacをもらったのをきっかけに、私物だけ・仕事だけに入れるものをちゃんと分けつ...</description>
-      <pubDate>Tue, 13 Oct 2026 12:43:28 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/blog.shibayu36.org/entry/2026/10/13/173000</comments>
     </item>
   </channel>
 </rss>
