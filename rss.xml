@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 15 Oct 2026 04:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:33:09 +0000</lastBuildDate>
     <item>
       <title>トランプ氏、トランプ州をトランプ州にトランプ</title>
       <link>https://kyoko-np.net/2026101501.html</link>
@@ -18,6 +18,13 @@
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--Wqu5YoJN--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:WAF%2520%25E3%2581%25A7%25E3%2583%2596%25E3%2583%25AD%25E3%2583%2583%25E3%2582%25AF%25E3%2581%2599%25E3%2582%258B%25E5%2589%258D%25E3%2581%25AB%25E7%25A2%25BA%25E3%2581%258B%25E3%2582%2581%25E3%2581%25A6%25E3%2581%2584%25E3%2582%258B%25E3%2581%2593%25E3%2581%25A8%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:%25E3%2581%2588%25E3%2581%25BF%25E3%2582%258A%25E3%2580%259C%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzNlODc0NGRhYmUuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;&#x1f9f1; はじめに WAF の運用で、既知の攻撃を止めるルールをすり抜けてくる迷惑なアクセスや、攻撃ばかりを送ってくるアクセスを調べ、その送信元をブロックしています。 この記事では、そのときに気をつけていることと、前提になる基礎知識をまとめます。ポイントは次の 3 つです。 止める前に、巻き添えになる正規の利用者...</description>
       <pubDate>Wed, 14 Oct 2026 06:30:40 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/azunyan/articles/7a105969d7d16c</comments>
+    </item>
+    <item>
+      <title>日本のGDPが世界6位に、インドとイギリスに抜かれる　27年IMF見通し - 日本経済新聞</title>
+      <link>https://www.nikkei.com/article/DGXZQOUA142QN0U6A011C2000000/</link>
+      <description>&lt;img src="https://article-image-ix.nikkei.com/https%3A%2F%2Fimgix-proxy.n8s.jp%2FDSXZQO3726309014102026000000-1.jpg?auto=compress&amp;amp;bg=FFFF&amp;amp;crop=focalpoint&amp;amp;fit=crop&amp;amp;fm=jpg&amp;amp;h=630&amp;amp;w=1200&amp;amp;s=27a366814525e4d8b3b2af02d04733e1" /&gt;&lt;br/&gt;国際通貨基金（IMF）は日本の名目GDP（国内総生産）が2027年にインドと英国に抜かれ、世界6位に転落するとの見通しを示した。円安によるドル換算額の目減りや成長の鈍さが響く。日本は10年に中国に抜かれ、世界2位から3位に後退した。23年にはドイツに抜かれて4位となっていた。IMFの10月の最新推計によると、日本のGDP...</description>
+      <pubDate>Wed, 14 Oct 2026 21:49:19 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUA142QN0U6A011C2000000/</comments>
     </item>
   </channel>
 </rss>
