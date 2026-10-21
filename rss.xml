@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 21 Oct 2026 21:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:33:09 +0000</lastBuildDate>
     <item>
       <title>修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog</title>
       <link>https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</link>
@@ -20,6 +20,13 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.fnn.jp/articles/-/1137017</comments>
     </item>
     <item>
+      <title>車で草原を走ると火災になる理由</title>
+      <link>https://anond.hatelabo.jp/20261021204804</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;モンゴルで自然保護区の草原が大火災になり、KDDIの子会社の社員が車で走ったことが原因と報じられている件に関して。 「何で車で走ると火事になるのか？」と疑問を投げかけている人が結構多いので解説しまっする。 https://b.hatena.ne.jp/entry/s/news.livedoor.com/article/detail/32606839/ それは車の下には触媒コ...</description>
+      <pubDate>Wed, 21 Oct 2026 11:58:24 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261021204804</comments>
+    </item>
+    <item>
       <title>「1時間でビール4缶、ワインをミニカップで4杯」沖縄のテレビで放送された、飲酒した状態の記者の教習所での運転体験のリポートが、謎に情報量が多すぎる</title>
       <link>https://togetter.com/li/2761013</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/1dee8a1d07facc688b6ebd2975d1436c-1200x630.jpeg" /&gt;&lt;br/&gt;飲酒による運転への影響は？記者が飲酒運転を体験 – QAB NEWS Headline 著作権や肖像権などの都合により、全体または一部を配信できない場合があります。 続いてのキーワードは「５年連続で全国ワースト」。これは昨年度、県内で起きた人身事故に占める「飲酒運転の割合」です。 全国で QAB NEWS Headline</description>
@@ -32,13 +39,6 @@
       <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/beb18d5abbbc1fc750a8444b6840c359b4df9461/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20261021%2F20261021111143.png" /&gt;&lt;br/&gt;PHP開発チームは2026年10月20日（日本時間で深夜）、重大な脆弱性2件の修正パッチを、2026年10月21日 23時（日本時間）にリリース予定と告知しました。両件のCVSS v4.0スコアは9.2とされています。詳細が公開された場合などには、パッチの公開が前倒しになる可能性もあります。 本脆弱性の発見に関与すると見られる研究...</description>
       <pubDate>Wed, 21 Oct 2026 02:15:43 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/blog.flatt.tech/entry/php2shell</comments>
-    </item>
-    <item>
-      <title>移民のせいでも民度が低いからでもない…フランス全土で｢大暴動｣が起きた"日本人には理解しにくい背景"</title>
-      <link>https://president.jp/articles/-/120650</link>
-      <description>&lt;img src="https://president.ismcdn.jp/mwimgs/8/d/1200wm/img_8d2f906061a9981de6cf894680724aa91036741.jpg" /&gt;&lt;br/&gt;フランスで大規模デモに乗じて暴動が発生し、混乱が広がっている。元国際交流基金フランス担当で、神戸学院大学の鈴木洋仁准教授は「日本のSNSでは“移民を受け入れた結果”や“民度の差”といったコメントが散見される。この解釈こそ日本社会を映し出している」という――。 フランス公共放送F2は、現地時間10月18日午後8時か...</description>
-      <pubDate>Wed, 21 Oct 2026 00:46:06 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/president.jp/articles/-/120650</comments>
     </item>
   </channel>
 </rss>
