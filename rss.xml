@@ -4,7 +4,21 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 21 Oct 2026 05:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:33:10 +0000</lastBuildDate>
+    <item>
+      <title>PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog</title>
+      <link>https://blog.flatt.tech/entry/php2shell</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/beb18d5abbbc1fc750a8444b6840c359b4df9461/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Ff%2Fflattsecurity%2F20261021%2F20261021111143.png" /&gt;&lt;br/&gt;PHP開発チームは2026年10月20日（日本時間で深夜）、重大な脆弱性2件の修正パッチを、2026年10月21日 23時（日本時間）にリリース予定と告知しました。両件のCVSS v4.0スコアは9.2とされています。詳細が公開された場合などには、パッチの公開が前倒しになる可能性もあります。 本脆弱性の発見に関与すると見られる研究...</description>
+      <pubDate>Wed, 21 Oct 2026 02:15:43 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/blog.flatt.tech/entry/php2shell</comments>
+    </item>
+    <item>
+      <title>新築の内覧に行ったらほぼ網戸がなかったが、今時の新築は窓を開けないの？それともハウスメーカーがケチってオプションにしてるだけ？→最近は網戸がないのが普通らしい</title>
+      <link>https://togetter.com/li/2760856</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/c2f29d7abf96e8109c55a363a3d23789-1200x630.jpeg" /&gt;&lt;br/&gt;新築の内覧に行ったらほぼ網戸がなかったが、今時の新築は窓を開けないの？それともハウスメーカーがケチってオプションにしてるだけ？→最近は網戸がないのが普通らしい</description>
+      <pubDate>Tue, 20 Oct 2026 23:29:35 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2760856</comments>
+    </item>
     <item>
       <title>まじで支離滅裂な文章書ける人すごい 関係性の薄い概念を持ってこれるのほんとにすごい こういう人は歌詞書くのもうまいイメージある→「パッと見支離滅裂だけどよくよく聞いたりちゃんと読んだりするとその人なりのルールみたいなのがちゃんとあるタイプが好きです」</title>
       <link>https://posfie.com/@petaritape/p/FT5fXaE</link>
