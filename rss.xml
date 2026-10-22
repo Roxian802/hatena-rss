@@ -4,27 +4,27 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 22 Oct 2026 03:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 04:33:10 +0000</lastBuildDate>
+    <item>
+      <title>阿部寛のホームページ</title>
+      <link>https://abehiroshi.la.coocan.jp/</link>
+      <description>&lt;body&gt;&lt;/body&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 07:48:30 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/abehiroshi.la.coocan.jp/</comments>
+    </item>
+    <item>
+      <title>高市総理「大至急、PHPパッチ適用を」Xで異例の要請　エンジニアは評価「経営層に伝わる」</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/22/2000002483/</link>
+      <description>&lt;img src="https://www.itmedia.co.jp/news/article/ogp/2610/22/2000002483/10010094/2048" /&gt;&lt;br/&gt;「今夜に対応して頂きたい大至急のお願い」――高市早苗首相は10月21日午後10時前、自身のXアカウントで、PHPの「緊急」の脆弱性について、修正パッチを「可及的速やかに適用できる準備」をするよう求めた。パッチはこの投稿の約1時間後（21日午後11時ごろ）に公開された。 首相が個別のソフトウェア脆弱性について、Xで直...</description>
+      <pubDate>Wed, 21 Oct 2026 22:16:49 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/22/2000002483/</comments>
+    </item>
     <item>
       <title>車で草原を走ると火災になる理由</title>
       <link>https://anond.hatelabo.jp/20261021204804</link>
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;モンゴルで自然保護区の草原が大火災になり、KDDIの子会社の社員が車で走ったことが原因と報じられている件に関して。 「何で車で走ると火事になるのか？」と疑問を投げかけている人が結構多いので解説しまっする。 https://b.hatena.ne.jp/entry/s/news.livedoor.com/article/detail/32606839/ それは車の下には触媒コ...</description>
       <pubDate>Wed, 21 Oct 2026 11:58:24 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261021204804</comments>
-    </item>
-    <item>
-      <title>【PHP脆弱性php2shell】WordPressも対象、パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
-      <link>https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</link>
-      <description>&lt;img src="https://blogs.itmedia.co.jp/mt-static/support/assets_c/userpics/userpic-220-100x100.png" /&gt;&lt;br/&gt;【PHP脆弱性php2shell】WordPressも対象、パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作...</description>
-      <pubDate>Wed, 21 Oct 2026 14:07:21 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</comments>
-    </item>
-    <item>
-      <title>PHPの2件の深刻な脆弱性(CVE-2026-109618、CVE-2026-109619)についてまとめてみた - piyolog</title>
-      <link>https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</link>
-      <description>&lt;img src="https://ogimage.blog.st-hatena.com/10257846132616586766/14945776032093179100/1792635910" /&gt;&lt;br/&gt;2026年10月21日、PHPの開発元であるThe PHP Groupは、PHPの深刻な脆弱性2件を修正するセキュリティリリースを公開しました。ここでは関連する情報をまとめます。 何が起きたの? PHPのセキュリティチームは10月20日(協定世界時)、2件の critical な脆弱性を修正するセキュリティリリースを10月21日14時(協定世界時、日本...</description>
-      <pubDate>Wed, 21 Oct 2026 08:57:42 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/piyolog.hatenadiary.jp/entry/2026/10/21/174516</comments>
     </item>
   </channel>
 </rss>
