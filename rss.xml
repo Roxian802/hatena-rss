@@ -4,14 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 22 Oct 2026 01:33:09 +0000</lastBuildDate>
-    <item>
-      <title>修正予告されたPHPの2件の深刻な脆弱性についてまとめてみた - piyolog</title>
-      <link>https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</link>
-      <description>&lt;img src="https://ogimage.blog.st-hatena.com/10257846132616586766/14945776032093179100/1792578197" /&gt;&lt;br/&gt;2026年10月20日、PHPの開発元であるThe PHP Groupのセキュリティチームは、PHPの深刻な脆弱性2件を修正するセキュリティリリースを予告しました。ここでは関連する情報をまとめます。（開発元等から詳細情報が公開され次第更新します。） 開発元は何を予告したの? PHPのセキュリティチームは10月20日(協定世界時)、2件の...</description>
-      <pubDate>Wed, 21 Oct 2026 08:57:42 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/piyolog.hatenadiary.jp/entry/2026/10/21/174516</comments>
-    </item>
+    <lastBuildDate>Thu, 22 Oct 2026 02:33:11 +0000</lastBuildDate>
     <item>
       <title>車で草原を走ると火災になる理由</title>
       <link>https://anond.hatelabo.jp/20261021204804</link>
@@ -20,9 +13,16 @@
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261021204804</comments>
     </item>
     <item>
-      <title>【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
+      <title>PHPの2件の深刻な脆弱性(CVE-2026-109618、CVE-2026-109619)についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</link>
+      <description>&lt;img src="https://ogimage.blog.st-hatena.com/10257846132616586766/14945776032093179100/1792633036" /&gt;&lt;br/&gt;2026年10月21日、PHPの開発元であるThe PHP Groupは、PHPの深刻な脆弱性2件を修正するセキュリティリリースを公開しました。ここでは関連する情報をまとめます。 何が起きたの? PHPのセキュリティチームは10月20日(協定世界時)、2件の critical な脆弱性を修正するセキュリティリリースを10月21日14時(協定世界時、日本...</description>
+      <pubDate>Wed, 21 Oct 2026 08:57:42 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/piyolog.hatenadiary.jp/entry/2026/10/21/174516</comments>
+    </item>
+    <item>
+      <title>【PHP脆弱性php2shell】WordPressも対象、パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
       <link>https://blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</link>
-      <description>&lt;img src="https://blogs.itmedia.co.jp/mt-static/support/assets_c/userpics/userpic-220-100x100.png" /&gt;&lt;br/&gt;【PHP脆弱性php2shell】パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作り、23時15分以降に...</description>
+      <description>&lt;img src="https://blogs.itmedia.co.jp/mt-static/support/assets_c/userpics/userpic-220-100x100.png" /&gt;&lt;br/&gt;【PHP脆弱性php2shell】WordPressも対象、パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619） PHPの重大な脆弱性で、タイムラインが大騒ぎです。 震源のひとつが、「23時にパッチが公開されたら、それをAIで解析して攻撃コードを作...</description>
       <pubDate>Wed, 21 Oct 2026 14:07:21 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</comments>
     </item>
