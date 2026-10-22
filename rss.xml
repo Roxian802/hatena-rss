@@ -4,20 +4,13 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 22 Oct 2026 19:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:33:10 +0000</lastBuildDate>
     <item>
       <title>PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside</title>
       <link>https://inside.pixiv.blog/2026/10/22/193321</link>
       <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/8cd92b99c33a019db64c3e5ef3fed5be0d143248/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpxvpxv%2F20261022%2F20261022182502.png" /&gt;&lt;br/&gt;こんにちは、Platform Division Infrastructure Unitのpicopicoです。 2026年10月21日、PHPに深刻な脆弱性（通称PHP2Shell）が見つかり、緊急のセキュリティリリースが予告されました。今回の脆弱性への対応にあたられた皆さま、そして現在も対応を続けている皆さまに、心より敬意を表します。 ピクシブでは影響を受ける...</description>
       <pubDate>Thu, 22 Oct 2026 10:38:41 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/inside.pixiv.blog/2026/10/22/193321</comments>
-    </item>
-    <item>
-      <title>おっさんの話が死ぬほどつまらない｜shi3z</title>
-      <link>https://note.com/shi3zblog/n/n0be98b63d815</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/327058739/rectangle_large_type_2_d1fb10ec0faef06a1377752c41dbbf11.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;今思うと 俺は本当に周りに恵まれていたなあ。 と思うわけだ。 世の中には二種類のおっさんがいる。 話のつまらないおっさんと、面白いおっさんだ。 吾輩も齢50となって、もう逃げも隠れもできない立派なおっさんなわけだが、おっさんからしてもそこに居るのが苦痛になるほどつまらない話しかしないおっさんに時々遭遇す...</description>
-      <pubDate>Thu, 22 Oct 2026 02:11:26 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/shi3zblog/n/n0be98b63d815</comments>
     </item>
     <item>
       <title>PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表　混乱広げた企業を名指しで批判</title>
@@ -27,18 +20,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/22/2000002525/</comments>
     </item>
     <item>
+      <title>おっさんの話が死ぬほどつまらない｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/n0be98b63d815</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/327058739/rectangle_large_type_2_d1fb10ec0faef06a1377752c41dbbf11.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;今思うと 俺は本当に周りに恵まれていたなあ。 と思うわけだ。 世の中には二種類のおっさんがいる。 話のつまらないおっさんと、面白いおっさんだ。 吾輩も齢50となって、もう逃げも隠れもできない立派なおっさんなわけだが、おっさんからしてもそこに居るのが苦痛になるほどつまらない話しかしないおっさんに時々遭遇す...</description>
+      <pubDate>Thu, 22 Oct 2026 02:11:26 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/shi3zblog/n/n0be98b63d815</comments>
+    </item>
+    <item>
       <title>ドパ英単語ガチャ | Dopa Word Gacha</title>
       <link>https://wordgacha.com/</link>
       <description>&lt;img src="https://wordgacha.com/og.png" /&gt;&lt;br/&gt;Word frequency decides the rarity: an English-word card gacha where every pull gets faster and louder. 英単語の使用頻度でレア度が決まる、引くたびに演出が加速する英単語カードガチャ。</description>
       <pubDate>Thu, 22 Oct 2026 01:01:22 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/wordgacha.com/</comments>
-    </item>
-    <item>
-      <title>仕組みを理解する動画を、Claude Codeに作らせると便利すぎる</title>
-      <link>https://zenn.dev/explaza/articles/c749042ecbe232</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s---OmM6dY2--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E4%25BB%2595%25E7%25B5%2584%25E3%2581%25BF%25E3%2582%2592%25E7%2590%2586%25E8%25A7%25A3%25E3%2581%2599%25E3%2582%258B%25E5%258B%2595%25E7%2594%25BB%25E3%2582%2592%25E3%2580%2581Claude%2520Code%25E3%2581%25AB%25E4%25BD%259C%25E3%2582%2589%25E3%2581%259B%25E3%2582%258B%25E3%2581%25A8%25E4%25BE%25BF%25E5%2588%25A9%25E3%2581%2599%25E3%2581%258E%25E3%2582%258B%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:musoukun%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzQzOWQzZGM0MGMuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E6%25A0%25AA%25E5%25BC%258F%25E4%25BC%259A%25E7%25A4%25BE%25E3%2582%25A8%25E3%2582%25AF%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25A9%25E3%2582%25B6%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2Q2ZDNkY2FmNzUuanBlZw==%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;最近は動画で説明資料を作っている アプリの仕組みをお客さんに説明するとき、構成図とかHTML・Markdownで、説明するのが一般的かと思いますが 最近はjavascriptを用いて、Claudeで動画を生成しやすくなったので、アプリの操作と、その裏で起きている処理を交互に見せる解説動画を作って説明に使っています。 めちゃくち...</description>
-      <pubDate>Wed, 21 Oct 2026 19:34:57 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/explaza/articles/c749042ecbe232</comments>
     </item>
   </channel>
 </rss>
