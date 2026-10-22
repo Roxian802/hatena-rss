@@ -4,20 +4,13 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 22 Oct 2026 02:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 03:33:09 +0000</lastBuildDate>
     <item>
       <title>車で草原を走ると火災になる理由</title>
       <link>https://anond.hatelabo.jp/20261021204804</link>
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;モンゴルで自然保護区の草原が大火災になり、KDDIの子会社の社員が車で走ったことが原因と報じられている件に関して。 「何で車で走ると火事になるのか？」と疑問を投げかけている人が結構多いので解説しまっする。 https://b.hatena.ne.jp/entry/s/news.livedoor.com/article/detail/32606839/ それは車の下には触媒コ...</description>
       <pubDate>Wed, 21 Oct 2026 11:58:24 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261021204804</comments>
-    </item>
-    <item>
-      <title>PHPの2件の深刻な脆弱性(CVE-2026-109618、CVE-2026-109619)についてまとめてみた - piyolog</title>
-      <link>https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</link>
-      <description>&lt;img src="https://ogimage.blog.st-hatena.com/10257846132616586766/14945776032093179100/1792633036" /&gt;&lt;br/&gt;2026年10月21日、PHPの開発元であるThe PHP Groupは、PHPの深刻な脆弱性2件を修正するセキュリティリリースを公開しました。ここでは関連する情報をまとめます。 何が起きたの? PHPのセキュリティチームは10月20日(協定世界時)、2件の critical な脆弱性を修正するセキュリティリリースを10月21日14時(協定世界時、日本...</description>
-      <pubDate>Wed, 21 Oct 2026 08:57:42 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/piyolog.hatenadiary.jp/entry/2026/10/21/174516</comments>
     </item>
     <item>
       <title>【PHP脆弱性php2shell】WordPressも対象、パッチは21:59に公開済み。「23:15から乗っ取り」「15分でAIが攻撃コード？」は本当か、自分のVPSのログで検証（CVE-2026-109618／109619）：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
@@ -27,11 +20,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/blogs.itmedia.co.jp/agile/2026/10/php2shell_cve_2026_109618_panic.html</comments>
     </item>
     <item>
-      <title>モンゴル草原で大規模火災　出火元はKDDI子会社の車両か、KDDIが謝罪　東京都の2.4倍焼失、中国にも延焼迫る｜FNNプライムオンライン</title>
-      <link>https://www.fnn.jp/articles/-/1137017</link>
-      <description>&lt;img src="https://fnn.ismcdn.jp/mwimgs/8/5/600/img_85d9cd8af512af206ca13ef8b18c71dd77926.jpg" /&gt;&lt;br/&gt;モンゴル草原で大規模火災　出火元はKDDI子会社の車両か、KDDIが謝罪　東京都の2.4倍焼失、中国にも延焼迫る モンゴルで大規模な草原火災があり、通信大手KDDIは現地子会社が活動を行っていたところ火災が発生したとして、謝罪しました。 モンゴルメディアによりますと10月8日、希少な野生動物が生息する東部のヌムルグ...</description>
-      <pubDate>Wed, 21 Oct 2026 10:49:14 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.fnn.jp/articles/-/1137017</comments>
+      <title>PHPの2件の深刻な脆弱性(CVE-2026-109618、CVE-2026-109619)についてまとめてみた - piyolog</title>
+      <link>https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</link>
+      <description>&lt;img src="https://ogimage.blog.st-hatena.com/10257846132616586766/14945776032093179100/1792635910" /&gt;&lt;br/&gt;2026年10月21日、PHPの開発元であるThe PHP Groupは、PHPの深刻な脆弱性2件を修正するセキュリティリリースを公開しました。ここでは関連する情報をまとめます。 何が起きたの? PHPのセキュリティチームは10月20日(協定世界時)、2件の critical な脆弱性を修正するセキュリティリリースを10月21日14時(協定世界時、日本...</description>
+      <pubDate>Wed, 21 Oct 2026 08:57:42 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/piyolog.hatenadiary.jp/entry/2026/10/21/174516</comments>
     </item>
   </channel>
 </rss>
