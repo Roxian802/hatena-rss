@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 22 Oct 2026 11:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:33:09 +0000</lastBuildDate>
     <item>
       <title>ドパ英単語ガチャ | Dopa Word Gacha</title>
       <link>https://wordgacha.com/</link>
@@ -27,9 +27,9 @@
       <comments>https://b.hatena.ne.jp/entry/s/huyukiitoichi.hatenadiary.jp/entry/2026/10/22/080000</comments>
     </item>
     <item>
-      <title>失効免許証を警備捜査に流用　神奈川県警で30年前から常態化か | 毎日新聞</title>
+      <title>失効免許証を警備部門に流用　神奈川県警で30年前から常態化か | 毎日新聞</title>
       <link>https://mainichi.jp/articles/20261021/k00/00m/040/394000c</link>
-      <description>&lt;img src="https://cdn.mainichi.jp/vol1/2022/01/27/20220127k0000m040284000p/0c10.jpg?1" /&gt;&lt;br/&gt;神奈川県警の警察署で、運転免許の更新時に回収した失効免許証を警備部門に渡し、過激派や右翼関係者の顔写真を捜査資料として流用していた。警察庁は22日、免許行政のために保有した情報の目的外利用にあたり、個人情報保護法に抵触する可能性が高いと説明。不正に収集した情報を削除し、他の都道府県警で同様の取り扱...</description>
+      <description>&lt;img src="https://cdn.mainichi.jp/vol1/2022/01/27/20220127k0000m040284000p/0c10.jpg?1" /&gt;&lt;br/&gt;神奈川県警の警察署で、運転免許の更新時に回収した失効免許証を公安捜査を担う警備部門に渡し、過激派や右翼関係者の顔写真を情報収集のための資料として流用していた。警察庁は22日、免許行政のために保有した情報の目的外利用にあたり、個人情報保護法に抵触する可能性が高いと説明。不正に取得した情報を削除し、他...</description>
       <pubDate>Thu, 22 Oct 2026 01:59:00 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/mainichi.jp/articles/20261021/k00/00m/040/394000c</comments>
     </item>
@@ -41,18 +41,17 @@
       <comments>https://b.hatena.ne.jp/entry/s/note.com/wildriver/n/nb0211b901e56</comments>
     </item>
     <item>
-      <title>阿部寛のホームページ</title>
-      <link>https://abehiroshi.la.coocan.jp/</link>
-      <description>&lt;body&gt;&lt;/body&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 07:48:30 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/abehiroshi.la.coocan.jp/</comments>
-    </item>
-    <item>
       <title>高市総理「大至急、PHPパッチ適用を」Xで異例の要請　エンジニアは評価「経営層に伝わる」</title>
       <link>https://www.itmedia.co.jp/news/article/2610/22/2000002483/</link>
       <description>&lt;img src="https://www.itmedia.co.jp/news/article/ogp/2610/22/2000002483/10010094/2048" /&gt;&lt;br/&gt;「今夜に対応して頂きたい大至急のお願い」――高市早苗首相は10月21日午後10時前、自身のXアカウントで、PHPの「緊急」の脆弱性について、修正パッチを「可及的速やかに適用できる準備」をするよう求めた。パッチはこの投稿の約1時間後（21日午後11時ごろ）に公開された。 首相が個別のソフトウェア脆弱性について、Xで直...</description>
       <pubDate>Wed, 21 Oct 2026 22:16:49 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/22/2000002483/</comments>
+    </item>
+    <item>
+      <title>「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2150161.html</link>
+      <pubDate>Wed, 21 Oct 2026 23:31:06 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2150161.html</comments>
     </item>
     <item>
       <title>デジタル庁、「神Excel」対策ツールを公開　AIと組み合わせたデータ整備方法も紹介</title>
@@ -62,10 +61,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/aiplus/article/2610/21/2000002475/</comments>
     </item>
     <item>
-      <title>「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2150161.html</link>
-      <pubDate>Wed, 21 Oct 2026 23:31:06 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2150161.html</comments>
+      <title>阿部寛のホームページ</title>
+      <link>https://abehiroshi.la.coocan.jp/</link>
+      <description>&lt;body&gt;&lt;/body&gt;</description>
+      <pubDate>Wed, 27 Aug 2025 07:48:30 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/abehiroshi.la.coocan.jp/</comments>
     </item>
   </channel>
 </rss>
