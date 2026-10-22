@@ -4,7 +4,21 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 22 Oct 2026 12:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:33:21 +0000</lastBuildDate>
+    <item>
+      <title>PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside</title>
+      <link>https://inside.pixiv.blog/2026/10/22/193321</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/8cd92b99c33a019db64c3e5ef3fed5be0d143248/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fp%2Fpxvpxv%2F20261022%2F20261022182502.png" /&gt;&lt;br/&gt;こんにちは、Platform Division Infrastructure Unitのpicopicoです。 2026年10月21日、PHPに深刻な脆弱性（通称PHP2Shell）が見つかり、緊急のセキュリティリリースが予告されました。今回の脆弱性への対応にあたられた皆さま、そして現在も対応を続けている皆さまに、心より敬意を表します。 ピクシブでは影響を受ける...</description>
+      <pubDate>Thu, 22 Oct 2026 10:38:41 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/inside.pixiv.blog/2026/10/22/193321</comments>
+    </item>
+    <item>
+      <title>おっさんの話が死ぬほどつまらない｜shi3z</title>
+      <link>https://note.com/shi3zblog/n/n0be98b63d815</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/327058739/rectangle_large_type_2_d1fb10ec0faef06a1377752c41dbbf11.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;今思うと 俺は本当に周りに恵まれていたなあ。 と思うわけだ。 世の中には二種類のおっさんがいる。 話のつまらないおっさんと、面白いおっさんだ。 吾輩も齢50となって、もう逃げも隠れもできない立派なおっさんなわけだが、おっさんからしてもそこに居るのが苦痛になるほどつまらない話しかしないおっさんに時々遭遇す...</description>
+      <pubDate>Thu, 22 Oct 2026 02:11:26 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/shi3zblog/n/n0be98b63d815</comments>
+    </item>
     <item>
       <title>ドパ英単語ガチャ | Dopa Word Gacha</title>
       <link>https://wordgacha.com/</link>
@@ -46,26 +60,6 @@
       <description>&lt;img src="https://www.itmedia.co.jp/news/article/ogp/2610/22/2000002483/10010094/2048" /&gt;&lt;br/&gt;「今夜に対応して頂きたい大至急のお願い」――高市早苗首相は10月21日午後10時前、自身のXアカウントで、PHPの「緊急」の脆弱性について、修正パッチを「可及的速やかに適用できる準備」をするよう求めた。パッチはこの投稿の約1時間後（21日午後11時ごろ）に公開された。 首相が個別のソフトウェア脆弱性について、Xで直...</description>
       <pubDate>Wed, 21 Oct 2026 22:16:49 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/22/2000002483/</comments>
-    </item>
-    <item>
-      <title>「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2150161.html</link>
-      <pubDate>Wed, 21 Oct 2026 23:31:06 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2150161.html</comments>
-    </item>
-    <item>
-      <title>デジタル庁、「神Excel」対策ツールを公開　AIと組み合わせたデータ整備方法も紹介</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2610/21/2000002475/</link>
-      <description>&lt;img src="https://www.itmedia.co.jp/aiplus/article/ogp/2610/21/2000002475/10010068/2048" /&gt;&lt;br/&gt;デジタル庁が、Excelファイルなどが“機械にとって読みやすいか”を判定するツール「Harunobu」を公開している。紙に印刷した際のレイアウトを優先してセル結合などを多用した、いわゆる「神Excel」の対策にも活用できるという。AIと組み合わせたデータの整備方法も取り上げている。 Harunobu（はるのぶ）という名称のこの...</description>
-      <pubDate>Wed, 21 Oct 2026 12:22:50 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/aiplus/article/2610/21/2000002475/</comments>
-    </item>
-    <item>
-      <title>阿部寛のホームページ</title>
-      <link>https://abehiroshi.la.coocan.jp/</link>
-      <description>&lt;body&gt;&lt;/body&gt;</description>
-      <pubDate>Wed, 27 Aug 2025 07:48:30 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/abehiroshi.la.coocan.jp/</comments>
     </item>
   </channel>
 </rss>
