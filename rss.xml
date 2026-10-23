@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 23 Oct 2026 09:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:33:09 +0000</lastBuildDate>
     <item>
       <title>作家の村上龍さん死去「コインロッカー・ベイビーズ」74歳 | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261023de64176</link>
@@ -13,9 +13,9 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nd-20261023de64176</comments>
     </item>
     <item>
-      <title>プロ野球 巨人の新監督に松井秀喜氏が就任へ | NHKニュース</title>
+      <title>巨人新監督に就任 松井秀喜氏が会見「新たな黄金時代を」 | NHKニュース</title>
       <link>https://news.web.nhk/newsweb/na/nd-20261023de64015</link>
-      <description>&lt;img src="https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64015/20261023de64015_E0000101674_1_l.jpg" /&gt;&lt;br/&gt;プロ野球、巨人の新しい監督に、巨人のスター選手として活躍し、大リーグのヤンキースなどでもプレーした松井秀喜氏が就任することが関係者への取材でわかりました。 巨人はことし5月、阿部慎之助前監督が娘に…</description>
+      <description>&lt;img src="https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64015/20261023de64015_E0000103196_1_l.jpg" /&gt;&lt;br/&gt;プロ野球、巨人の新しい監督に、巨人のスター選手として活躍し、大リーグのヤンキースなどでもプレーした松井秀喜氏が就任し、会見で「新たな黄金時代を作れるよう、きょうここからスタートしたい」と意気込みを話し…</description>
       <pubDate>Fri, 23 Oct 2026 02:08:28 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nd-20261023de64015</comments>
     </item>
@@ -41,13 +41,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2761650</comments>
     </item>
     <item>
-      <title>入社2年目で社用携帯を持ち帰らない人がいるけど、指摘することが「時間外の業務指示」扱いで問題視されるのも面倒→なぜ持ち帰るのか？残業代は？職種によるのでは？議論に</title>
-      <link>https://togetter.com/li/2761694</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/f9f1e617232f9496712573d8da6d807f-1200x630.jpeg" /&gt;&lt;br/&gt;入社2年目で社用携帯を持ち帰らない人がいるけど、指摘することが「時間外の業務指示」扱いで問題視されるのも面倒→なぜ持ち帰るのか？残業代は？職種によるのでは？議論に</description>
-      <pubDate>Thu, 22 Oct 2026 23:16:19 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2761694</comments>
-    </item>
-    <item>
       <title>デジタル庁HPの問い合わせ内容漏洩か　最大1万3000件以上</title>
       <link>https://news.tv-asahi.co.jp/news_economy/articles/000542237.html</link>
       <description>&lt;img src="https://news.tv-asahi.co.jp/articles_img/000542237_1200.jpg" /&gt;&lt;br/&gt;1 デジタル庁は22日夜、ホームページの問い合わせフォームに入力された内容など最大1万3000件余りが外部に流出した可能性があると発表しました。 デジタル庁によりますと、流出した可能性があるのは2021年5月から2023年3月までの間にホームページの問い合わせフォームに入力された「一般的なご意見・ご要望」最大8833件...</description>
@@ -55,11 +48,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/news.tv-asahi.co.jp/news_economy/articles/000542237.html</comments>
     </item>
     <item>
-      <title>これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩き落とした人として後世に語り継がれると思う</title>
-      <link>https://posfie.com/@golden_haniwa/p/LQ90sis</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/76d78bc47b443e300e0c4203f9abf42d-1200x630.jpeg" /&gt;&lt;br/&gt;該当の人物が、パッチが公開される前に、PHPのクリティカルな未修正脆弱性の詳細やPoC（概念実証）をX上で公開してしまったからです。 この脆弱性は以下のものです CVE-2026-109618 と CVE-2026-109619 通称 PHP2Shell CVSS 9.2の未認証リモートコード実行（RCE） PHP本体のメモリ管理やリクエスト処理に関する欠陥で、...</description>
-      <pubDate>Thu, 22 Oct 2026 03:54:28 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/posfie.com/@golden_haniwa/p/LQ90sis</comments>
+      <title>入社2年目で社用携帯を持ち帰らない人がいるけど、指摘することが「時間外の業務指示」扱いで問題視されるのも面倒→なぜ持ち帰るのか？残業代は？職種によるのでは？議論に</title>
+      <link>https://togetter.com/li/2761694</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/f9f1e617232f9496712573d8da6d807f-1200x630.jpeg" /&gt;&lt;br/&gt;入社2年目で社用携帯を持ち帰らない人がいるけど、指摘することが「時間外の業務指示」扱いで問題視されるのも面倒→なぜ持ち帰るのか？残業代は？職種によるのでは？議論に</description>
+      <pubDate>Thu, 22 Oct 2026 23:16:19 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2761694</comments>
     </item>
   </channel>
 </rss>
