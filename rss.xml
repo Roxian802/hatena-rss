@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 24 Oct 2026 12:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 13:33:09 +0000</lastBuildDate>
     <item>
       <title>カフェインレスコーヒーなるものをありがたがる気持ちがコーヒー好きからしたれ理解できない</title>
       <link>https://anond.hatelabo.jp/20261024090651</link>
@@ -25,13 +25,6 @@
       <description>&lt;img src="https://www.cnn.co.jp/storage/2026/10/23/f44e700f6600d3b98a33d6a33e1e3616/t/470/675/d/1st-2026-bielfeldt-ole-e43110-f27846__1200_.jpeg" /&gt;&lt;br/&gt;オーレ・ビールフェルト氏はインクジェットプリンター内部のインクの液滴を捉えた写真で最優秀賞を受賞した/Ole Bielfeldt （CNN） 顕微鏡で撮影した写真を対象とするニコンのフォトコンテスト「ニコン・スモールワールド」で、プリンター内部のインクの液滴を捉えた写真が最優秀賞に輝いた。 主催者が21日に発表した声...</description>
       <pubDate>Fri, 23 Oct 2026 06:03:47 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/fringe/35253864.html</comments>
-    </item>
-    <item>
-      <title>PHPの緊急脆弱性「php2shell」で攻撃されていないか？サーバーに残る3つの痕跡と確認方法 - インフラ学習サイト「InfraAcademy」</title>
-      <link>https://engineer-ninaritai.com/php2shell-attack-detection/</link>
-      <description>&lt;img src="https://engineer-ninaritai.com/blog/thumbnail/php2shell-attack-detection.png" /&gt;&lt;br/&gt;こんにちは、インフラエンジニアのryuです。 前回の記事「PHPの緊急脆弱性「php2shell」とは？」では、2026年10月21日に公開されたPHPの脆弱性の仕組みと、アップデートの進め方を解説しました。 今回はその続きです。 アップデートを終えたあとに、多くの人が気になるのが「すでに攻撃されていないか？」という点だと思...</description>
-      <pubDate>Fri, 23 Oct 2026 12:23:05 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/engineer-ninaritai.com/php2shell-attack-detection/</comments>
     </item>
   </channel>
 </rss>
