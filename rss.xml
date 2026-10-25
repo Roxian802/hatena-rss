@@ -4,7 +4,21 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 25 Oct 2026 21:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 22:33:09 +0000</lastBuildDate>
+    <item>
+      <title>さよならWordPress。ゲ制工房は新時代のCMS、EmDashに移行しました。</title>
+      <link>https://yurinchi2525.com/20261025emdash/</link>
+      <description>&lt;img src="https://yurinchi2525.com/_emdash/api/media/file/01M5RFZ03M25JJZAVGW2NGE1FD.png" /&gt;&lt;br/&gt;「Posts」と「Pages」の違いEmDashの管理画面を開くと、記事を書く場所が「Posts」と「Pages」の2つに分かれています。WordPressでいう「投稿」と「固定ページ」にあたるものです。 Posts（投稿）：日々書いていくブログ記事。カテゴリーやタグを付けられて、記事一覧・RSS・カテゴリー別の一覧に並びます。公開日時を指...</description>
+      <pubDate>Sun, 25 Oct 2026 09:02:39 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/yurinchi2525.com/20261025emdash/</comments>
+    </item>
+    <item>
+      <title>AI ネイティブの SDLC プレイブック</title>
+      <link>https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook</link>
+      <description>&lt;img src="https://claude.com/ja/resources/articles/the-ai-native-sdlc-playbook/opengraph-image/og" /&gt;&lt;br/&gt;This playbook is also available for download — the same six stages, plays, and worked examples, laid out for reading offline or sharing with your team. コードはもはやボトルネックではありません。組織は 1 年前には想像もできない速度でコードを書くために AI を活用し始めましたが、コードを扱うプロセスは...</description>
+      <pubDate>Sun, 25 Oct 2026 01:29:55 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/claude.com/ja/resources/articles/the-ai-native-sdlc-playbook</comments>
+    </item>
     <item>
       <title>リュウジはなぜ嫌われている人からはすごく嫌われているのか…リュウジが自分自身のアンチになる要素を解説、さらに自分に対してのアンチ発言も</title>
       <link>https://togetter.com/li/2762636</link>
@@ -27,18 +41,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35253937.html</comments>
     </item>
     <item>
-      <title>英語多読サイト【無料・音声つき】レベル別の読み物1,887本｜イソップ全312話・名作・自己啓発｜多読ベスト</title>
-      <link>https://www.haradaeigo.com/tadokubest/</link>
-      <description>&lt;img src="https://www.haradaeigo.com/tadokubest/og/top.jpg" /&gt;&lt;br/&gt;FREE登録なし・全部無料・音声つき 読むほど、 英語が好きになる。 イソップ物語 312話の原文から、昔話、名作、自己啓発の名著まで。 レベル別 1,887本の英語を、音声に合わせて文が光る「聞き読み」で。全作品に日本語の全訳つき。</description>
-      <pubDate>Sat, 24 Oct 2026 14:08:05 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.haradaeigo.com/tadokubest/</comments>
-    </item>
-    <item>
-      <title>思いつきが現実になる世界でこわい - 運河</title>
-      <link>https://uiuret.hatenablog.com/entry/2026/10/25/080436</link>
-      <description>&lt;img src="https://ogimage.blog.st-hatena.com/12704346814673876938/14945776032094924977/1792883076" /&gt;&lt;br/&gt;僕はプログラマーなのだが、最近は1行もプログラムを自分で書いていない。プログラムを書いてないどころか、ほとんど読んでいない。 仕事では最低限すべてのコードに目を通してレビューをやってはいるが、もはやその必要もあまりなく儀式的にやっているだけになっている。 AIで頭がおかしくなった、という記事を書いたの...</description>
-      <pubDate>Sun, 25 Oct 2026 02:09:50 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/uiuret.hatenablog.com/entry/2026/10/25/080436</comments>
+      <title>ファミコンゲームの作り方 - takuya matsubara blog</title>
+      <link>https://nicotakuya.hatenablog.com/entry/2026/10/23/215952</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/56cc484d0be051d201921f598f375b96fbeda7ac/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn-ak.f.st-hatena.com%2Fimages%2Ffotolife%2Fn%2Fnicotakuya%2F20261023%2F20261023214659.png" /&gt;&lt;br/&gt;「ファミコンゲームの作り方」という本(pdf)を書いてみました。 そして、GitHubで公開してみました。 github.com 目次です。 「おもちゃの作り方」という本をリスペクトして、空いた場所にイラストを載せてみました。 おもちゃの作り方(1973年) - takuya matsubara blog 本に掲載している「Jump Game」です。元々は6年前...</description>
+      <pubDate>Fri, 23 Oct 2026 14:50:26 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/nicotakuya.hatenablog.com/entry/2026/10/23/215952</comments>
     </item>
   </channel>
 </rss>
