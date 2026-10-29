@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 28 Oct 2026 23:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 00:33:09 +0000</lastBuildDate>
+    <item>
+      <title>pfpdf — Markdown から、印刷品質の PDF へ</title>
+      <link>https://pfpdf.preferred.tech/ja/</link>
+      <description>&lt;img src="https://pfpdf.preferred.tech/ogp.png" /&gt;&lt;br/&gt;GFM Markdown表・タスクリスト・取り消し線・自動リンク・ネストしたリストなど、GitHub 標準の記法がそのまま使えます。 日本語対応の強調処理`これは**「重要」**です` のように全角記号に隣接した強調も正しく変換されます。 数式とコードハイライトインライン・ディスプレイ数式とコードブロックのハイライトを同梱...</description>
+      <pubDate>Wed, 28 Oct 2026 03:32:19 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/pfpdf.preferred.tech/ja/</comments>
+    </item>
     <item>
       <title>ヨドバシ.com - 食品・飲料 賞味期限間近のため 訳あり大特価</title>
       <link>https://www.yodobashi.com/store/500121/</link>
