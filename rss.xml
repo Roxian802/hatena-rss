@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 29 Oct 2026 06:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:33:09 +0000</lastBuildDate>
     <item>
       <title>エアコン屋の裏方</title>
       <link>https://aircon-urakata.com/</link>
@@ -31,13 +31,6 @@
       <link>https://www.gamespark.jp/article/2026/10/28/174176.html</link>
       <pubDate>Wed, 28 Oct 2026 11:22:16 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.gamespark.jp/article/2026/10/28/174176.html</comments>
-    </item>
-    <item>
-      <title>pfpdf — Markdown から、印刷品質の PDF へ</title>
-      <link>https://pfpdf.preferred.tech/ja/</link>
-      <description>&lt;img src="https://pfpdf.preferred.tech/ogp.png" /&gt;&lt;br/&gt;GFM Markdown表・タスクリスト・取り消し線・自動リンク・ネストしたリストなど、GitHub 標準の記法がそのまま使えます。 日本語対応の強調処理`これは**「重要」**です` のように全角記号に隣接した強調も正しく変換されます。 数式とコードハイライトインライン・ディスプレイ数式とコードブロックのハイライトを同梱...</description>
-      <pubDate>Wed, 28 Oct 2026 03:32:19 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/pfpdf.preferred.tech/ja/</comments>
     </item>
   </channel>
 </rss>
