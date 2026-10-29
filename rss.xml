@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 29 Oct 2026 00:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 01:33:09 +0000</lastBuildDate>
     <item>
       <title>pfpdf — Markdown から、印刷品質の PDF へ</title>
       <link>https://pfpdf.preferred.tech/ja/</link>
@@ -20,13 +20,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.yodobashi.com/store/500121/</comments>
     </item>
     <item>
-      <title>ヨドバシ.comで買いたいおやつ - おやつ - はてなパークス</title>
-      <link>https://p.hatena.ne.jp/p/1557229530244976640/t/1564809683624005632</link>
-      <description>&lt;img src="https://assets.p.hatena.ne.jp/vite/assets/og-default-t4OpS_sV.png" /&gt;&lt;br/&gt;近所で買えないおやつも一品から無料で届けてくれる。 つまり、ヨドバシ.comは我々にとって最も身近なおやつ屋さん。 ヨドバシ.comで買いたいおすすめおやつを集めましょう！</description>
-      <pubDate>Wed, 28 Oct 2026 02:00:17 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/p.hatena.ne.jp/p/1557229530244976640/t/1564809683624005632</comments>
-    </item>
-    <item>
       <title>MarkdownからきれいなPDFを作るCLIツールpfpdfを公開しました｜株式会社Preferred Networks</title>
       <link>https://www.preferred.jp/ja/blog/tech/1798</link>
       <description>&lt;img src="https://pfn-web-static-contents-kuroco.s3.ap-northeast-1.amazonaws.com/files/topics/1798_ext_7_0.jpg?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27pfpdf%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2597%25E3%2583%25AB.jpg&amp;amp;response-content-type=image%2Fjpeg&amp;amp;X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&amp;amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;amp;X-Amz-Credential=AKIAU6WUUW4WRBGES7WL%2F20261028%2Fap-northeast-1%2Fs3%2Faws4_request&amp;amp;X-Amz-Date=20261028T043042Z&amp;amp;X-Amz-SignedHeaders=host&amp;amp;X-Amz-Expires=604800&amp;amp;X-Amz-Signature=559e9d33ee5b9d7e87d67e83cbb8fef15958d5cf71d994ddfb104eaae6317064" /&gt;&lt;br/&gt;皆さん、こんにちは。エンジニアのいもす (@imos) です。 文書はMarkdownで管理はしたいけど、Markdownは他の人に読んでもらうにはイマイチ使いにくい。そう思ったことはありませんか？ 昨今LLMやコーディングエージェントが大きく進化し文書を気軽に書けるようになり、Google DocsやWordで文章を書くよりもMarkdownで書...</description>
@@ -34,11 +27,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.preferred.jp/ja/blog/tech/1798</comments>
     </item>
     <item>
-      <title>副会長辞任に関するお知らせ</title>
-      <link>https://www.jfa.jp/news/00036959/</link>
-      <description>&lt;img src="https://www.jfa.jp/img/cache/65c02c9f-09b0-4df2-8a70-608bd3093d95.jpg" /&gt;&lt;br/&gt;Jリーグを頂点としたピラミッド型のリーグ構造を形成し、各年代、各カテゴリーのチームが参加できる各種大会・リーグを整備しています。</description>
-      <pubDate>Wed, 28 Oct 2026 09:37:32 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.jfa.jp/news/00036959/</comments>
+      <title>ヨドバシ.comで買いたいおやつ - おやつ - はてなパークス</title>
+      <link>https://p.hatena.ne.jp/p/1557229530244976640/t/1564809683624005632</link>
+      <description>&lt;img src="https://assets.p.hatena.ne.jp/vite/assets/og-default-t4OpS_sV.png" /&gt;&lt;br/&gt;近所で買えないおやつも一品から無料で届けてくれる。 つまり、ヨドバシ.comは我々にとって最も身近なおやつ屋さん。 ヨドバシ.comで買いたいおすすめおやつを集めましょう！</description>
+      <pubDate>Wed, 28 Oct 2026 02:00:17 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/p.hatena.ne.jp/p/1557229530244976640/t/1564809683624005632</comments>
     </item>
   </channel>
 </rss>
