@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 30 Oct 2026 12:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:33:09 +0000</lastBuildDate>
     <item>
       <title>日本政府の排外主義的な政策に対する抗議声明</title>
       <link>https://dept.sophia.ac.jp/is/igc/detail.php?n=2026022</link>
@@ -25,6 +25,13 @@
       <description>&lt;img src="https://www.dailyshincho.com/wp-content/uploads/2026/10/1515693_1.jpg" /&gt;&lt;br/&gt;内閣改造からひと月で閣僚がクビ。野党が高市早苗首相（65）の任命責任を問う中、自民党内にも批判に同調する動きが広がっている 政治部デスクが解説する。 「最たる例が“予算カット発言”で更迭された簗（やな）和生前農水相（47）を“根本的に国会議員は全国民の代表者であるということを認識していない”と痛烈に批判し...</description>
       <pubDate>Thu, 29 Oct 2026 23:44:38 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.dailyshincho.jp/article/2026/10300458/</comments>
+    </item>
+    <item>
+      <title>メルセンヌ・ツイスタ。PythonやC++でも使われる、世界標準「擬似乱数」の設計思想【松本眞】 - レバテックLAB</title>
+      <link>https://levtech.jp/media/detail_959/</link>
+      <description>&lt;img src="https://cdn.image.st-hatena.com/image/scale/6e524fdc917c005d5ac9c298d68f84c36009f80f/backend=imagemagick;version=1;width=1300/https%3A%2F%2Fcdn.blog.st-hatena.com%2Ffiles%2F6802418398571665203%2F14945776032094163053" /&gt;&lt;br/&gt;数学者・算法学者 松本 眞（まつもと・まこと） 1965年東京都生まれ。東京大学理学部情報科学科卒業、同大学大学院理学系研究科修士課程情報科学専攻修了、同研究科博士課程数学専攻中退。京都大学数理解析研究所助手、慶應義塾大学理工学部助教授、九州大学助教授、広島大学教授、東京大学教授などを務めた。2023年に広...</description>
+      <pubDate>Fri, 30 Oct 2026 00:24:37 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/levtech.jp/media/detail_959/</comments>
     </item>
     <item>
       <title>「うちにはもう何年も天ぷら粉の常備がない。なぜなら絹豆腐に片栗粉を入れて作った衣がサクサクすぎてバカうまだからだ」このレシピで作ったさつまいもの天ぷらが話題に</title>
@@ -48,10 +55,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/ymotongpoo.hatenablog.com/entry/2026/10/30/093000</comments>
     </item>
     <item>
-      <title>SQLを学びつつ事件の謎を解いていくプログラミング系の推理ADV『Ghost in the SQL Data』Steam配信開始！事件の矛盾を見つけろ | Game*Spark - 国内・海外ゲーム情報サイト</title>
-      <link>https://www.gamespark.jp/article/2026/10/29/174245.html</link>
-      <pubDate>Thu, 29 Oct 2026 11:24:05 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.gamespark.jp/article/2026/10/29/174245.html</comments>
+      <title>Figmaを離れてClaude CodeでUIデザインをするようになった話｜&#x1f430;</title>
+      <link>https://note.com/hgffdgn654/n/n92467b83a1c1</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/329775375/rectangle_large_type_2_4a37721baf34426709979f4b1ee50325.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;久々のデザイン記事です。以前はFigmaでゴリゴリにコンポーネントを作ってUIデザインをしていましたが、生成AIの登場によってデザイン業務の進め方も大きく変わってきたように感じています。今回はそんな私の最近のデザイン業務についてまとめていきます。 現在私は業務委託としてSaaSプロダクトのソロデザイナーとして...</description>
+      <pubDate>Thu, 29 Oct 2026 14:57:36 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/hgffdgn654/n/n92467b83a1c1</comments>
     </item>
   </channel>
 </rss>
