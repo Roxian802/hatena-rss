@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 31 Oct 2026 07:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 08:33:09 +0000</lastBuildDate>
     <item>
       <title>国家のために命を懸けて戦う意味がよくわからない</title>
       <link>https://anond.hatelabo.jp/20261031104756</link>
@@ -25,13 +25,6 @@
       <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20261030003744_comm.jpg" /&gt;&lt;br/&gt;福島県喜多方市が特産のしょうゆのPRをかねて地元の小学生から募集したポスターコンクールで、入賞作品に「生成AI（人工知能）が使われた」などとの中傷がネットで相次ぎ、作品の公開が中止された。画用紙での…</description>
       <pubDate>Fri, 30 Oct 2026 22:18:39 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html</comments>
-    </item>
-    <item>
-      <title>文章のAIっぽさを抑えるプロンプト</title>
-      <link>https://imoz.jp/scraps/202610_humanizer.html</link>
-      <description>&lt;img src="https://imoz.jp/scraps/202610_humanizer.html.png" /&gt;&lt;br/&gt;文章のAIっぽさを抑えるプロンプト 最近の大規模言語モデル（LLM）を使っていると、コーディング能力が高まる一方で、文章の流暢さは失われていると感じます。短い説明でも細かく見出しを付けたり、具体例の後に同じ結論を言い直したりして、個々の文は読めても説明の流れが途切れることがあります。 その一方で、指示に...</description>
-      <pubDate>Fri, 30 Oct 2026 14:00:14 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/imoz.jp/scraps/202610_humanizer.html</comments>
     </item>
   </channel>
 </rss>
