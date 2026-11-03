@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Tue, 03 Nov 2026 06:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 07:33:09 +0000</lastBuildDate>
     <item>
       <title>ADHDにおける「起こりえる行動特性（実例80個）」と家族の対処法</title>
       <link>https://ezo-cl.jp/symptom/3014/</link>
@@ -13,25 +13,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/ezo-cl.jp/symptom/3014/</comments>
     </item>
     <item>
+      <title>GMO熊谷代表「あなたお詫びしているのにボタン開けてどうするんだ」 会見中に服装注意 記者には「申し訳ありません」 | 国内 | ABEMA TIMES | アベマタイムズ</title>
+      <link>https://times.abema.tv/articles/-/10285860</link>
+      <description>&lt;img src="https://times-abema.ismcdn.jp/mwimgs/f/1/1200w/img_f1ed15a5b4e464d950ef9b8614c594e5159318.jpg" /&gt;&lt;br/&gt;片山さつき氏は財務省の“恐竜番付”で上位だった？元同僚が激白「怖い上司と恐れられていた」「関脇からおかみさんに」</description>
+      <pubDate>Mon, 02 Nov 2026 11:42:56 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/times.abema.tv/articles/-/10285860</comments>
+    </item>
+    <item>
       <title>ARCHITECTURE.md</title>
       <link>https://architecture.md/</link>
       <description>SYSTEM TEMPLATE FOR RAPID CODEBASE COMPREHENSION - HAVE YOUR AGENT TO FILL IN FOR YOUR REPO # Architecture Overview This document serves as a critical, living template designed to equip agents with a rapid and comprehensive understanding of the codebase's architecture, enabling efficient navigati...</description>
       <pubDate>Mon, 02 Nov 2026 12:45:56 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/architecture.md/</comments>
-    </item>
-    <item>
-      <title>小学校で給食費などの督促怠り5400万円不足　校長ら私費で補てん：朝日新聞</title>
-      <link>https://www.asahi.com/articles/ASVC244FYVC2OXIE046M.html</link>
-      <description>&lt;img src="https://imgopt.asahi.com/ogp/AS20261102004452_comm.jpg" /&gt;&lt;br/&gt;京都府木津川市教育委員会は2日、市立小学校に勤務していた元事務職員が給食費などの学校徴収金の督促を怠り、2012年度からの総計で約5400万円の資金不足が生じたと発表した。うち約3700万円分は、校…</description>
-      <pubDate>Mon, 02 Nov 2026 14:47:39 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASVC244FYVC2OXIE046M.html</comments>
-    </item>
-    <item>
-      <title>日本の全法令を git の履歴にしてみた</title>
-      <link>https://zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--wF0_risC--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E6%2597%25A5%25E6%259C%25AC%25E3%2581%25AE%25E5%2585%25A8%25E6%25B3%2595%25E4%25BB%25A4%25E3%2582%2592%2520git%2520%25E3%2581%25AE%25E5%25B1%25A5%25E6%25AD%25B4%25E3%2581%25AB%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:kohei%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzkxMTViMzUwNTEuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;きっかけ ただの思いつきです。 私は法律のことを全然知りません。ただ、最近は AI のおかげで、知らない分野の調べものがとても速くなりました。国会会議録の API を眺めていたときに、ふと「法律を git で管理したら面白いのでは」と思いつきました。知らない分野でも、AI と一緒ならどこまでできるのか試してみたくな...</description>
-      <pubDate>Mon, 02 Nov 2026 05:17:38 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/koheiwada/articles/houritsu-japanese-laws-as-git</comments>
     </item>
   </channel>
 </rss>
