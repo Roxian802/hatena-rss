@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Wed, 04 Nov 2026 10:33:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 11:33:10 +0000</lastBuildDate>
     <item>
       <title>アメリカ中間選挙2026 開票速報</title>
       <link>https://vdata.nikkei.com/us-election/2026/live/</link>
       <description>&lt;img src="https://vdata.nikkei.com/us-election/2026/live/img/OGimage.jpg?518000" /&gt;&lt;br/&gt;およそ30年議席を守ってきた共和党のコリンズ氏を急進左派に近いジャクソン氏が破るのか。コリンズ氏はトランプ氏と距離がある共和穏健派の代表格。</description>
       <pubDate>Tue, 03 Nov 2026 23:32:36 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/vdata.nikkei.com/us-election/2026/live/</comments>
+    </item>
+    <item>
+      <title>マッキンゼーが国に納品した資料2,446ページ、全部数えたらパターンは7つだけだった｜うちた</title>
+      <link>https://note.com/uchita_success/n/nfc53d1ef5f81</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/331718777/rectangle_large_type_2_7c10ab2f38dc8f253b3533956d0c32f5.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;経産省のサイトは、コンサル資料の宝の山。意外なのは、派手なフレームワークが少数だったこと。一流ほど、基本の型を使い倒すんです。 全部言語化して、AIで再現するプロンプトも作ったので置いておきます。 マッキンゼーの実物が、誰でも読める理由コンサルの実物資料は、守秘義務のかたまりで普通は世に出ません。 た...</description>
+      <pubDate>Tue, 03 Nov 2026 15:24:33 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/uchita_success/n/nfc53d1ef5f81</comments>
     </item>
     <item>
       <title>E2Eテスト大全（あなたの知らない、E2Eテスト周辺の理論） - 若くない何かの悩み</title>
@@ -55,13 +62,6 @@
       <comments>https://b.hatena.ne.jp/entry/s/imoz.jp/scraps/202611_housemaker.html</comments>
     </item>
     <item>
-      <title>Amazonプライムビデオで見て損無しのマジおもろ映画厳選10作 | オモコロブロス！</title>
-      <link>https://omocoro.jp/bros/kiji/592898/</link>
-      <description>&lt;img src="https://omocoro.jp/assets/uploads/2026/10/1791344964a9nnh.jpg" /&gt;&lt;br/&gt;Amazonプライムに入ってると見放題の「Amazonプライムビデオ」の中から、それなりにたくさん映画を見ている側の人間の私が、「これは面白いのでオススメです」と自信をもってオススメできるおもろ映画を色んなジャンルで10作ほどご紹介したいと思います。 こんにちは、映画好き人間です。 Amazonプライムってみんな入っ...</description>
-      <pubDate>Mon, 02 Nov 2026 14:39:32 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/omocoro.jp/bros/kiji/592898/</comments>
-    </item>
-    <item>
       <title>Aterm設定画面、「PHP使ってないのに.php」なぜ？　NECに聞いた</title>
       <link>https://www.itmedia.co.jp/news/article/2611/04/2000002847/</link>
       <description>&lt;img src="https://www.itmedia.co.jp/news/article/ogp/2611/04/2000002847/10011221/2048" /&gt;&lt;br/&gt;同社によると、Atermの設定画面ではPHP本体や、一般に提供されているPHPの実行環境は使っていない。PHPから移行したわけでもなく、「過去にPHPを使っていた名残」との見方も否定した。 ではなぜ「.php」なのか。 クイック設定画面で「.php」と表示される機種に実装されているのは、「PHPの一部の仕様を参考にした独自の...</description>
@@ -69,18 +69,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/04/2000002847/</comments>
     </item>
     <item>
-      <title>トランプ氏、イスラエル支援打ち切り表明…苦戦の中間選挙影響示唆「なぜ我々が狂人からの攻撃に耐えなければならないか」</title>
-      <link>https://www.yomiuri.co.jp/world/20261104-GYT1T00042/</link>
-      <description>&lt;img src="https://www.yomiuri.co.jp/media/2026/11/20261104-GYT1I00074-1.jpg?type=ogp" /&gt;&lt;br/&gt;【読売新聞】　【ワシントン＝上村健太】米国のトランプ大統領は３日、米ＦＯＸニュースのインタビューに対し、イスラエルに対する年間４０億ドル（約６３００億円）の支援を年内で打ち切ると述べた。米紙ニューヨーク・タイムズは「数十年にわたる米</description>
-      <pubDate>Tue, 03 Nov 2026 20:03:10 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/world/20261104-GYT1T00042/</comments>
-    </item>
-    <item>
-      <title>自治体システム移行で高額請求、ＩＴ大手の「手切れ金」との声も…公取委が実態調査へ</title>
-      <link>https://www.yomiuri.co.jp/economy/20261103-GYT1T00297/</link>
-      <description>&lt;img src="https://www.yomiuri.co.jp/media/2026/11/20261103-GYT1I00298-1.jpg?type=ogp" /&gt;&lt;br/&gt;【読売新聞】　地方自治体が住民基本台帳などのシステム運用委託先を切り替えようとすると、委託先から高額な作業費を請求される事例などが相次いでいるとして、公正取引委員会は実態調査に乗り出す方針を固めた。独占禁止法が禁止する取引妨害に当た</description>
-      <pubDate>Tue, 03 Nov 2026 20:15:21 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/economy/20261103-GYT1T00297/</comments>
+      <title>Amazonプライムビデオで見て損無しのマジおもろ映画厳選10作 | オモコロブロス！</title>
+      <link>https://omocoro.jp/bros/kiji/592898/</link>
+      <description>&lt;img src="https://omocoro.jp/assets/uploads/2026/10/1791344964a9nnh.jpg" /&gt;&lt;br/&gt;Amazonプライムに入ってると見放題の「Amazonプライムビデオ」の中から、それなりにたくさん映画を見ている側の人間の私が、「これは面白いのでオススメです」と自信をもってオススメできるおもろ映画を色んなジャンルで10作ほどご紹介したいと思います。 こんにちは、映画好き人間です。 Amazonプライムってみんな入っ...</description>
+      <pubDate>Mon, 02 Nov 2026 14:39:32 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/omocoro.jp/bros/kiji/592898/</comments>
     </item>
   </channel>
 </rss>
