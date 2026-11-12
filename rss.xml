@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 12 Nov 2026 09:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:33:19 +0000</lastBuildDate>
     <item>
       <title>Mozkey（もずきー）| 書くことに集中できる、日本語入力。</title>
       <link>https://koyasi777.com/mozkey/</link>
@@ -54,18 +54,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2769315</comments>
     </item>
     <item>
-      <title>インシデント調査報告書チェックリスト公開のお知らせ</title>
-      <link>https://www.jpcert.or.jp/ir_report_checklist_20261111.html</link>
-      <description>&lt;img src="https://www.jpcert.or.jp/common/image/ogp_image.jpg" /&gt;&lt;br/&gt;一般社団法人JPCERTコーディネーションセンター（東京都中央区、代表理事 菊池 浩明、以下「JPCERT/CC」）は、本日「インシデント調査報告書チェックリスト」を公開いたしました。 ・インシデント調査報告書チェックリスト https://jpcertcc.github.io/ir_report_checklist/（GitHub上で公開しています） 昨今、ランサム...</description>
-      <pubDate>Wed, 11 Nov 2026 10:22:32 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/ir_report_checklist_20261111.html</comments>
-    </item>
-    <item>
       <title>厄介なWEB広告の頂点を決める『消せない広告オブザイヤー2026』の開催が決定！業界内外問わずとても盛り上がりそう</title>
       <link>https://togetter.com/li/2769214</link>
       <description>&lt;img src="https://s.tgstc.com/ogp3/9d01977678ebe55782e249beb071f273-1200x630.jpeg" /&gt;&lt;br/&gt;「消せない広告オブザイヤー2026」開催！ あなたが出会った“閉じにくい広告”を #消せない広告オブザイヤー で教えてください | 解説記事 | Web担当者Forum 【Web担】「消せない広告オブザイヤー2026」開催！ あなたが出会った"閉じにくい広告"を #消せない広告オブザイヤー で教えてください 5 users Web担当者Forum Web...</description>
       <pubDate>Wed, 11 Nov 2026 09:47:23 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2769214</comments>
+    </item>
+    <item>
+      <title>インシデント調査報告書チェックリスト公開のお知らせ</title>
+      <link>https://www.jpcert.or.jp/ir_report_checklist_20261111.html</link>
+      <description>&lt;img src="https://www.jpcert.or.jp/common/image/ogp_image.jpg" /&gt;&lt;br/&gt;一般社団法人JPCERTコーディネーションセンター（東京都中央区、代表理事 菊池 浩明、以下「JPCERT/CC」）は、本日「インシデント調査報告書チェックリスト」を公開いたしました。 ・インシデント調査報告書チェックリスト https://jpcertcc.github.io/ir_report_checklist/（GitHub上で公開しています） 昨今、ランサム...</description>
+      <pubDate>Wed, 11 Nov 2026 10:22:32 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/ir_report_checklist_20261111.html</comments>
     </item>
   </channel>
 </rss>
