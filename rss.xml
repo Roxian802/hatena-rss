@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 13 Nov 2026 02:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:33:10 +0000</lastBuildDate>
     <item>
       <title>戦争には反対だがあんたたちには同調したくないという話｜shv_12</title>
       <link>https://note.com/shv12/n/n1cf50c3c56f8</link>
       <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/77cefe5ace93e32dbe94c8c29ade53fa67fbc1fe.png" /&gt;&lt;br/&gt;いちいち反応すると面倒なことになりそうだから言及するのもアレなんだけど、サッカーだけでなくアニメやアイドルファン界隈でも同様な動きをしているし、いい加減にしろや！という気持ちを込めてこの記事を書いてます。 ここ数日起きていることここ最近、SNS上でサッカーファンを自称する人が「#反戦サッカー部」といっ...</description>
       <pubDate>Thu, 12 Nov 2026 17:56:30 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/shv12/n/n1cf50c3c56f8</comments>
+    </item>
+    <item>
+      <title>マイクロソフトで接続障害が発生 世界各地に影響のおそれ | NHKニュース</title>
+      <link>https://news.web.nhk/newsweb/na/nd-20261113de75121</link>
+      <description>&lt;img src="https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75121/20261113de75121_E0000170396_1_l.jpg" /&gt;&lt;br/&gt;アメリカのIT大手「マイクロソフト」は、「マイクロソフト365」と呼ばれるメールなどさまざまなソフトを使えるサービスで、世界各地に影響するおそれのある接続障害が発生していると発表しました。 マイク…</description>
+      <pubDate>Thu, 12 Nov 2026 20:59:02 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nd-20261113de75121</comments>
     </item>
     <item>
       <title>低信用社会がどれだけしんどいか、中国に住んでる俺が教えてやる｜華村＠中国</title>
@@ -34,11 +41,11 @@
       <comments>https://b.hatena.ne.jp/entry/s/jisin.jp/entertainment/entertainment-news/2609154/</comments>
     </item>
     <item>
-      <title>そのヤバいDockerイメージをいつまで使うのか - keroxpのScrapbox</title>
-      <link>https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B</link>
-      <description>&lt;img src="https://scrapbox.io/files/6af29d22c4eb69e79af1cfde.png?type=thumbnail" /&gt;&lt;br/&gt;Dockerコンテナは、環境構築やデプロイの容易さから広く普及して久しいと思う ホストマシンを選ばず（サーバーでは大抵Linuxだろうが）、Kubernetesでスケーリングも可能 実行権限やFSの内容も、コンテナ内に閉じているからDCやVPCには影響が出ない。安全！　安心！ と思ってると死ぬぞ Dockerだから安全は嘘 Dockerを使...</description>
-      <pubDate>Thu, 12 Nov 2026 10:43:51 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B</comments>
+      <title>GAMES NEVER DIE!</title>
+      <link>https://gamesneverdie.com/ja</link>
+      <description>&lt;img src="https://gamesneverdie.com/-/opengraph-image.png?opengraph-image.1m6_ze9td0zvu.png" /&gt;&lt;br/&gt;ゲームよ、永遠なれ！ コンソールからPC、アーケードまで。 約26万作品の情報が集積されている、 世界最大級のゲームデータベースサイト。 ちかぢかユーザー投稿機能も実装予定！</description>
+      <pubDate>Thu, 12 Nov 2026 04:32:54 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/gamesneverdie.com/ja</comments>
     </item>
   </channel>
 </rss>
