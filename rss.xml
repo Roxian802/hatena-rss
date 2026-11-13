@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 13 Nov 2026 01:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 02:33:09 +0000</lastBuildDate>
+    <item>
+      <title>戦争には反対だがあんたたちには同調したくないという話｜shv_12</title>
+      <link>https://note.com/shv12/n/n1cf50c3c56f8</link>
+      <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/77cefe5ace93e32dbe94c8c29ade53fa67fbc1fe.png" /&gt;&lt;br/&gt;いちいち反応すると面倒なことになりそうだから言及するのもアレなんだけど、サッカーだけでなくアニメやアイドルファン界隈でも同様な動きをしているし、いい加減にしろや！という気持ちを込めてこの記事を書いてます。 ここ数日起きていることここ最近、SNS上でサッカーファンを自称する人が「#反戦サッカー部」といっ...</description>
+      <pubDate>Thu, 12 Nov 2026 17:56:30 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/shv12/n/n1cf50c3c56f8</comments>
+    </item>
     <item>
       <title>低信用社会がどれだけしんどいか、中国に住んでる俺が教えてやる｜華村＠中国</title>
       <link>https://note.com/stwtcpld/n/n1fdcb68bfbc4</link>
@@ -32,13 +39,6 @@
       <description>&lt;img src="https://scrapbox.io/files/6af29d22c4eb69e79af1cfde.png?type=thumbnail" /&gt;&lt;br/&gt;Dockerコンテナは、環境構築やデプロイの容易さから広く普及して久しいと思う ホストマシンを選ばず（サーバーでは大抵Linuxだろうが）、Kubernetesでスケーリングも可能 実行権限やFSの内容も、コンテナ内に閉じているからDCやVPCには影響が出ない。安全！　安心！ と思ってると死ぬぞ Dockerだから安全は嘘 Dockerを使...</description>
       <pubDate>Thu, 12 Nov 2026 10:43:51 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B</comments>
-    </item>
-    <item>
-      <title>無印良品「21年までクレカ番号で顧客を識別していた」　“全ケタ保有＆漏えい“巡り謝罪　削除漏れなぜ発生</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/12/2000003144/</link>
-      <description>&lt;img src="https://www.itmedia.co.jp/news/article/ogp/2611/12/2000003144/10011987/2048" /&gt;&lt;br/&gt;「無印良品」を展開する良品計画（東京都文京区）は11月12日、不正アクセスによる顧客情報の流出について記者会見を開き、清水智社長らが謝罪した。過去に取得したクレジットカード番号の全桁を削除せず保管していた問題について「データの運用管理に不備があった。私どもの落ち度」と説明した。 同社は10月30日、公式ア...</description>
-      <pubDate>Thu, 12 Nov 2026 08:34:31 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/12/2000003144/</comments>
     </item>
   </channel>
 </rss>
