@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Fri, 13 Nov 2026 20:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 21:33:11 +0000</lastBuildDate>
     <item>
       <title>Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例</title>
       <link>https://ktlog.net/posts/claude-code-ai-ecosystem</link>
@@ -27,17 +27,18 @@
       <comments>https://b.hatena.ne.jp/entry/s/atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html</comments>
     </item>
     <item>
+      <title>ぼくのClaude Codeの使い方</title>
+      <link>https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata</link>
+      <description>&lt;img src="https://files.speakerdeck.com/presentations/9c2451b8b99f4a269ce6f420bc0480ae/slide_0.jpg?41338374" /&gt;&lt;br/&gt;Sapporo Claude Code Meetup LT, 2026/11/12</description>
+      <pubDate>Thu, 12 Nov 2026 15:11:52 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata</comments>
+    </item>
+    <item>
       <title>「みんな戦争には反対してる」はたぶん間違い</title>
       <link>https://anond.hatelabo.jp/20261113092029</link>
       <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;反戦活動への揶揄で「反戦なんて誰でもそうですが？」みたいに言う人がいるが、たぶんそれは間違いだ。 そりゃ自分の頭に爆弾が落ちてくるのは誰でも嫌だ。でも戦争自体についてはそうじゃない。 アメリカやイスラエルやロシアの所業も「良くはないけど～」みたいに保留つけてぼんやり容認してる人いくらでもいるだろ。 ...</description>
       <pubDate>Fri, 13 Nov 2026 00:20:49 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261113092029</comments>
-    </item>
-    <item>
-      <title>麺はスープの脂をどれくらい持ち上げているのか？ | オモコロ</title>
-      <link>https://omocoro.jp/kiji/595999/</link>
-      <pubDate>Fri, 13 Nov 2026 03:59:59 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/omocoro.jp/kiji/595999/</comments>
     </item>
     <item>
       <title>出場歌手 | 第77回NHK紅白歌合戦</title>
@@ -47,11 +48,10 @@
       <comments>https://b.hatena.ne.jp/entry/s/www.nhk.or.jp/kouhaku/artist77/index.html</comments>
     </item>
     <item>
-      <title>ぼくのClaude Codeの使い方</title>
-      <link>https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata</link>
-      <description>&lt;img src="https://files.speakerdeck.com/presentations/9c2451b8b99f4a269ce6f420bc0480ae/slide_0.jpg?41338374" /&gt;&lt;br/&gt;Sapporo Claude Code Meetup LT, 2026/11/12</description>
-      <pubDate>Thu, 12 Nov 2026 15:11:52 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata</comments>
+      <title>麺はスープの脂をどれくらい持ち上げているのか？ | オモコロ</title>
+      <link>https://omocoro.jp/kiji/595999/</link>
+      <pubDate>Fri, 13 Nov 2026 03:59:59 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/omocoro.jp/kiji/595999/</comments>
     </item>
     <item>
       <title>多くの日本人が毎日髪を洗うようになったのは1990年前後、バブル期以後ではないか？昔の洗髪事情が話題に→「シャワーがなかった」「銭湯で洗髪代を払う」地域差もありそう</title>
