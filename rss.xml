@@ -4,20 +4,13 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 14 Nov 2026 00:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:33:16 +0000</lastBuildDate>
     <item>
       <title>Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例</title>
       <link>https://ktlog.net/posts/claude-code-ai-ecosystem</link>
       <description>&lt;img src="https://ktlog.net/_emdash/api/media/file/01M6WX9NHRH5N9QRFZYP0DTKWK.webp" /&gt;&lt;br/&gt;公開 2026.11.08 Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例 Claude Codeのおすすめ環境は、入口をClaude Code 1つにまとめ、判断AIや権限ルールなどのハーネスを通してから、ほかのAI・スキル・MCP・外部APIへ仕事を振り分ける形です。全体図と3つの実例でまとめました。 Claude C...</description>
       <pubDate>Fri, 13 Nov 2026 05:21:58 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/ktlog.net/posts/claude-code-ai-ecosystem</comments>
-    </item>
-    <item>
-      <title>総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に開講　Pythonでのデータ分析が4週間で学べる</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html</link>
-      <description>&lt;img src="https://image.itmedia.co.jp/ait/articles/2611/13/cover_news013.jpg" /&gt;&lt;br/&gt;連載目次 総務省は2026年11月10日、データサイエンス・オンライン講座の新講座「“わかる・使える”統計解析プログラミング」の受講者募集を開始した。開講は2027年1月12日（火）で、3月16日（火）まで。オンライン学習サービス「gacco（ガッコ）」で受講登録でき、登録料・受講料は無料だ。受講登録の期限は2027年2月22日...</description>
-      <pubDate>Fri, 13 Nov 2026 00:15:26 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html</comments>
     </item>
   </channel>
 </rss>
