@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 15 Nov 2026 07:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 08:33:10 +0000</lastBuildDate>
     <item>
       <title>常時稼働エージェントの作り方（Claude公式ブログを資料化）</title>
       <link>https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata</link>
@@ -25,13 +25,6 @@
       <description>&lt;img src="https://claude.com/resources/articles/building-always-on-agents/opengraph-image/og" /&gt;&lt;br/&gt;Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a resurgence of always-on agents. Always-on agents are stateful and proactive, meaning they manage c...</description>
       <pubDate>Sat, 14 Nov 2026 00:52:42 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/claude.com/resources/articles/building-always-on-agents</comments>
-    </item>
-    <item>
-      <title>「哲学ってなんなの？ ムダじゃない？」 哲学者に話を聞いてきた - イーアイデム「ジモコロ」</title>
-      <link>https://www.e-aidem.com/ch/jimocoro/entry/osore02/</link>
-      <description>&lt;img src="https://jimocoro-cdn.com/ch/jimocoro/assets/uploads/2016/11/20161114145937.jpg" /&gt;&lt;br/&gt;うーん。実に興味深い……。 こんにちは。ライターの恐山（おそれざん）と申します。 難解な哲学書を読んでいるふりをしています。 唐突ながらおたずねします。 みなさんは「哲学」という言葉にどんなイメージを持っていますか？ 周囲の人たちに聞いてみたところ、このような反応でした。 ・難しいことを言っている学問 ・...</description>
-      <pubDate>Sat, 14 Nov 2026 13:25:09 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/www.e-aidem.com/ch/jimocoro/entry/osore02/</comments>
     </item>
   </channel>
 </rss>
