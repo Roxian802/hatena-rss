@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 15 Nov 2026 02:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 03:33:09 +0000</lastBuildDate>
+    <item>
+      <title>常時稼働エージェントの作り方（Claude公式ブログを資料化）</title>
+      <link>https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata</link>
+      <description>&lt;img src="https://files.speakerdeck.com/presentations/35d0e47593c74ea99eb61eb523e3f757/slide_0.jpg?41374920" /&gt;&lt;br/&gt;以下のURLを私のClaude Codeに渡して、スライドをポン出しする実験です。 https://claude.com/ja/resources/articles/building-always-on-agents</description>
+      <pubDate>Sat, 14 Nov 2026 16:06:17 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata</comments>
+    </item>
     <item>
       <title>「哲学ってなんなの？ ムダじゃない？」 哲学者に話を聞いてきた - イーアイデム「ジモコロ」</title>
       <link>https://www.e-aidem.com/ch/jimocoro/entry/osore02/</link>
