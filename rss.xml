@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 15 Nov 2026 22:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 23:33:09 +0000</lastBuildDate>
     <item>
       <title>今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi</title>
       <link>https://note.com/at_sushi_at/n/n2e6ea3453e37</link>
@@ -32,6 +32,13 @@
       <description>&lt;img src="https://storage.googleapis.com/secons-site-images/other/blog_images/20261114-feed-reader-main.webp" /&gt;&lt;br/&gt;みんな自作 FeedReader 作っているなぁ、でも今使っている Inoreader (今は亡き、安価な年額19.99USDの starter planを使い続けている) でいいや、と思っていたのだが、結局細かいあれこれをブラウザ拡張の Tampermonkey などでちまちま修正していて、ちょっと魔がさしたので作ってみた。 30行ぐらい雑な仕様を書いて Op...</description>
       <pubDate>Sat, 14 Nov 2026 15:23:09 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/secon.dev/entry/2026/11/12/220000-my-own-feed-reader/</comments>
+    </item>
+    <item>
+      <title>工場で勤務するようになって知ったのだが、利益のために効率を追求しようとするとあらゆる機械や人間が稼働率100%近くで動くことを要求されてヤバい</title>
+      <link>https://togetter.com/li/2770697</link>
+      <description>&lt;img src="https://s.tgstc.com/ogp3/5cee02d8815512dedc737329939f5d46-1200x630.jpeg" /&gt;&lt;br/&gt;Bi @SAT20924 工場で勤務するようになって知ったのだが、利益のために効率を追求しようとすると基本的にあらゆる機械や人間が稼働率100%近くで動くことを要求されるからマジでイレギュラーが起きた時の吸収箇所がほぼなくてヤバい この社会もそんな感じで必然的にギリギリで回るようになってしまっている気がする x.com/...</description>
+      <pubDate>Sun, 15 Nov 2026 08:14:44 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2770697</comments>
     </item>
   </channel>
 </rss>
