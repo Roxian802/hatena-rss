@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 15 Nov 2026 16:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 17:33:09 +0000</lastBuildDate>
+    <item>
+      <title>今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi</title>
+      <link>https://note.com/at_sushi_at/n/n2e6ea3453e37</link>
+      <description>1年前、私はAIをまだ舐めていたもちろんAIは当時からある程度のコード、というかほとんどのコードを書いてくれた。 それでも、ソフトウェアエンジニアとしての根本的な能力が足りてなかった。 保守性を考えない安直で重複したコード、勘違いによるミス、一部しか考慮していないことによる不完全な対応。 一部に限れば、...</description>
+      <pubDate>Sun, 15 Nov 2026 09:51:50 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/at_sushi_at/n/n2e6ea3453e37</comments>
+    </item>
     <item>
       <title>マザーボードは、ほぼ壊れない ―組み立て2,400台とサポート43,000件で見えた、PCの故障の順序</title>
       <link>https://clivelab.jp/blogs/news/motherboard-rarely-fails</link>
@@ -32,13 +39,6 @@
       <description>&lt;img src="https://img.jp.ekkowassets.com/c_limit,w_200,h_200,f_auto,q_auto:eco/ch/units/39166665832988672/profile_7.png" /&gt;&lt;br/&gt;【ベルリン共同】ドイツ公共放送WDRは14日、米IT大手マイクロソフトの主力業務ソフトの大規模障害による影響で、西部ブリュールのテーマパーク内にあるプールの利用者15人が体調不良を訴えたと報じた。障害により安全管理システムの警報メールが担当者に届かず、塩素を注入する装置の不具合に気付かず水中塩素濃度が著し...</description>
       <pubDate>Sun, 15 Nov 2026 02:57:16 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.jp/i/1494496378441958289</comments>
-    </item>
-    <item>
-      <title>個人開発で5週間150万DL、AIと爆速で作るCAD「SolidCraft」 - FabScene（ファブシーン）</title>
-      <link>https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/</link>
-      <description>&lt;img src="https://fabscene.com/wp-content/uploads/2026/11/image-113.webp" /&gt;&lt;br/&gt;Claude CodeやCodexのようなAIコーディングツールが広がり、個人が手がけられるソフトウェアの規模が変わりつつある。米国の開発者Brennen Herbruck氏が2026年10月に書き始めたオープンソースの3D CAD「SolidCraft」は、その一例だ。公開から約5週間で正式版を58回リリースし、GitHubからのダウンロードは約150万回、ス...</description>
-      <pubDate>Sat, 14 Nov 2026 23:49:57 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/</comments>
     </item>
   </channel>
 </rss>
