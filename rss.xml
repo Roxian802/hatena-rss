@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 16 Nov 2026 00:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 01:33:11 +0000</lastBuildDate>
+    <item>
+      <title>筒抜けの国家中枢　安全保障脅かすスマホ位置情報</title>
+      <link>https://vdata.nikkei.com/newsgraphics/location-data-leaks/</link>
+      <description>&lt;img src="https://vdata.nikkei.com/newsgraphics/location-data-leaks/img/OGimage.jpg?559588" /&gt;&lt;br/&gt;日本国内のスマートフォンの位置情報が海外で売買されている。スマホにひもづく4000万超の端末IDのデータを分析すると、首相官邸や防衛施設を出入りする記録が見つかった。蓄積することで個人特定につながる機微な情報だ。 政府が7月に国家情報局を新設して情報収集・分析機能の強化を進めるなか、防諜（ぼうちょう）体...</description>
+      <pubDate>Sun, 15 Nov 2026 21:37:37 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/vdata.nikkei.com/newsgraphics/location-data-leaks/</comments>
+    </item>
     <item>
       <title>こんなに変わった！ AWSネットワークの常識</title>
       <link>https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote</link>
@@ -18,13 +25,6 @@
       <description>1年前、私はAIをまだ舐めていたもちろんAIは当時からある程度のコード、というかほとんどのコードを書いてくれた。 それでも、ソフトウェアエンジニアとしての根本的な能力が足りてなかった。 保守性を考えない安直で重複したコード、勘違いによるミス、一部しか考慮していないことによる不完全な対応。 一部に限れば、...</description>
       <pubDate>Sun, 15 Nov 2026 09:51:50 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/at_sushi_at/n/n2e6ea3453e37</comments>
-    </item>
-    <item>
-      <title>マザーボードは、ほぼ壊れない ―組み立て2,400台とサポート43,000件で見えた、PCの故障の順序</title>
-      <link>https://clivelab.jp/blogs/news/motherboard-rarely-fails</link>
-      <description>&lt;img src="http://clivelab.jp/cdn/shop/articles/c3172441f9d82329a.jpg?v=1794564496" /&gt;&lt;br/&gt;―組み立て2,400台とサポート43,000件で見えた、PCの故障の順序 はじめに：結論から PCのパーツが壊れる順序は、ほぼ決まっています。 稼働部品（ファン・ポンプ） → SSD → 電源 → グラフィックボード → その他。 そして意外に思われるかもしれませんが、マザーボードが単独で壊れるケースは稀です。長年サポートの現場に...</description>
-      <pubDate>Sat, 14 Nov 2026 07:57:47 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/clivelab.jp/blogs/news/motherboard-rarely-fails</comments>
     </item>
   </channel>
 </rss>
