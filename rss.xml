@@ -4,7 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Tue, 17 Nov 2026 17:33:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 18:33:09 +0000</lastBuildDate>
     <item>
       <title>当社お客様の情報漏えいの可能性に関するお詫びとお知らせ:楽天証券</title>
       <link>https://www.rakuten-sec.co.jp/web/info/info20261117-02.html</link>
@@ -18,6 +18,13 @@
       <description>&lt;img src="https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77253/20261117de77253_E0000183526_1_l.jpg" /&gt;&lt;br/&gt;政府が、根拠のない情報や陰謀論を「都市伝説」として紹介しているユーチューバーを政府広報に起用したことについて、SNSでは「本当におかしい」と指摘する投稿がおよそ190万回表示されるなど物議を醸していま…</description>
       <pubDate>Tue, 17 Nov 2026 09:05:13 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nd-20261117de77253</comments>
+    </item>
+    <item>
+      <title>おい、 Mutation Test をやれ。テスト品質を、測るために</title>
+      <link>https://zenn.dev/mizchi/articles/mutation-test-quality</link>
+      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--gIzUz2IG--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E3%2581%258A%25E3%2581%2584%25E3%2580%2581%2520Mutation%2520Test%2520%25E3%2582%2592%25E3%2582%2584%25E3%2582%258C%25E3%2580%2582%25E3%2583%2586%25E3%2582%25B9%25E3%2583%2588%25E5%2593%2581%25E8%25B3%25AA%25E3%2582%2592%25E3%2580%2581%25E6%25B8%25AC%25E3%2582%258B%25E3%2581%259F%25E3%2582%2581%25E3%2581%25AB%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:mizchi%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EtL0FPaDE0R2liclRHT052Z3d3ay1fNGxlcVk4TGNGSlNuX0FoWnpEWVlKaXJNcWc9czI1MC1j%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでその...</description>
+      <pubDate>Tue, 17 Nov 2026 09:59:42 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/mizchi/articles/mutation-test-quality</comments>
     </item>
     <item>
       <title>反戦サッカー部はサッカーファンなのか（鳥海不二夫） - エキスパート - Yahoo!ニュース</title>
