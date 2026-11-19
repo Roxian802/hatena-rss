@@ -4,13 +4,7 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 19 Nov 2026 06:33:09 +0000</lastBuildDate>
-    <item>
-      <title>「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象</title>
-      <link>https://forest.watch.impress.co.jp/docs/news/2157690.html</link>
-      <pubDate>Wed, 18 Nov 2026 23:15:44 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2157690.html</comments>
-    </item>
+    <lastBuildDate>Thu, 19 Nov 2026 07:33:10 +0000</lastBuildDate>
     <item>
       <title>【速報】政府、陰謀論系配信者の過去発言確認せず</title>
       <link>https://www.47news.jp/15253548.html</link>
@@ -26,6 +20,12 @@
       <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2772024</comments>
     </item>
     <item>
+      <title>「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2157690.html</link>
+      <pubDate>Wed, 18 Nov 2026 23:15:44 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2157690.html</comments>
+    </item>
+    <item>
       <title>実質的無職になった｜Y.Hirano</title>
       <link>https://note.com/y_hirano/n/nc986ab18b90e</link>
       <description>&lt;img src="https://assets.st-note.com/production/uploads/images/337657896/rectangle_large_type_2_b72fcb88641ec7549f94aedf0148b676.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;2026年10月末で仕事が減ってしまったうえに、11月から実質的無職をしています。 この数ヶ月で案件獲得の難易度がかなり高くなってしまっており、そんな中で積極的に案件を取りにいく気分でもないので、しばらくは実質的無職になりそうです。 筆者について社会人になって以来ソフトウェアエンジニアをずっとやってきまし...</description>
@@ -38,20 +38,6 @@
       <description>&lt;img src="https://www.itmedia.co.jp/news/article/ogp/2611/19/2000003316/10012510/2048" /&gt;&lt;br/&gt;流出した可能性があるのは、10月21日午後9時から11月18日午前11時までの間に決済画面で入力された顧客のクレジットカード番号（全桁）、カード名義人、有効期限、セキュリティコード。 改ざんは11月18日に判明。ただちにサイトを停止した。その他のプログラムやサーバ内の情報に影響が及んでいないかも含めて、詳細な調...</description>
       <pubDate>Thu, 19 Nov 2026 00:18:40 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/19/2000003316/</comments>
-    </item>
-    <item>
-      <title>MUJI Card発行のクレディセゾン、カード番号削除を2度依頼　無印は実行せず</title>
-      <link>https://xtech.nikkei.com/atcl/nxt/column/18/00001/12190/</link>
-      <description>&lt;img src="https://xtech.nikkei.com/atcl/nxt/column/18/00001/12190/topm.jpg?20220512" /&gt;&lt;br/&gt;「無印良品」を展開する良品計画から、同社ブランドで発行する「MUJI Card」のクレジットカード番号全桁が約109万件漏洩した恐れがある事案について、新たな事実が分かった。MUJI Cardを発行するクレディセゾンが良品計画に対し、2020年と2021年の2度にわたりカード番号の削除を依頼していた。2026年11月18日、クレディ...</description>
-      <pubDate>Wed, 18 Nov 2026 14:15:39 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/xtech.nikkei.com/atcl/nxt/column/18/00001/12190/</comments>
-    </item>
-    <item>
-      <title>ジャンル史ではなく作曲史で読むロックの進化｜みの</title>
-      <link>https://note.com/lucaspoulshock/n/n2e89bc79c1ec</link>
-      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/337665796/rectangle_large_type_2_5e0c0d6cbd7b2ccd04c17b4141a38256.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;カート・コバーンは、天才だった。 彼の死から30年以上が経過した現在でも、こうした評価に異論を唱えるロックファンは少ないでしょう。しかし、ここで一つ疑問があります。彼の作曲は、実際のところ何がそんなに優れていたのでしょうか？ 僕は以前から、彼の音楽には、従来のロックとは異なる作曲上の革新があるのでは...</description>
-      <pubDate>Wed, 18 Nov 2026 13:16:58 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/note.com/lucaspoulshock/n/n2e89bc79c1ec</comments>
     </item>
   </channel>
 </rss>
