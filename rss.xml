@@ -4,11 +4,11 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 21 Nov 2026 10:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:33:09 +0000</lastBuildDate>
     <item>
       <title>〒 しぼれ！郵便番号</title>
       <link>https://zipcode.inuro.dev/</link>
-      <description>&lt;img src="https://zipcode.inuro.dev/ogp.png" /&gt;&lt;br/&gt;出典・ライセンス 地図：国土地理院最適化ベクトルタイル（試験公開）／ 表示：MapLibre GL JS 郵便番号：日本郵便「郵便番号データ」 境界：e-Stat 国勢調査2020 小地域境界を加工して作成</description>
+      <description>&lt;img src="https://zipcode.inuro.dev/ogp.png" /&gt;&lt;br/&gt;出典・ライセンス 地図：国土地理院最適化ベクトルタイル（試験公開）／ 表示：MapLibre GL JS 郵便番号：日本郵便「郵便番号データ」 境界：e-Stat 国勢調査2020・経済センサス‐活動調査2021 小地域境界を加工して作成 区域の切り分け：デジタル庁「アドレス・ベース・レジストリ」（町字・代表点）を加工して作成</description>
       <pubDate>Fri, 20 Nov 2026 23:12:20 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zipcode.inuro.dev/</comments>
     </item>
@@ -27,11 +27,25 @@
       <comments>https://b.hatena.ne.jp/entry/s/bunkaonline.jp/archives/9308</comments>
     </item>
     <item>
+      <title>どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!</title>
+      <link>https://smhn.info/202611-gemini-subscription-third-party-harness-december-2</link>
+      <description>&lt;img src="https://smhn.info/wp-content/uploads/2026/11/google-antigravity-key-visual.webp" /&gt;&lt;br/&gt;評判の悪かったGeminiですが、ようやく最近はClaudeのOpusやFable、ChatGPT CodexのAstraなどに匹敵、または超えてくるようなモデルも出てきています。 ところが、実際にGeminiに本格的に乗り換えている人はまだまだ少ない印象です。その大きな原因がついに解消されるかもしれません。 GoogleのLogan Kilpatrick氏は日本...</description>
+      <pubDate>Fri, 20 Nov 2026 14:35:51 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/smhn.info/202611-gemini-subscription-third-party-harness-december-2</comments>
+    </item>
+    <item>
       <title>１６７年解けなかった「リーマン予想」、生成ＡＩが証明か…アンソロピックの数学者が発表</title>
       <link>https://www.yomiuri.co.jp/science/20261121-GYT1T00089/</link>
-      <description>&lt;img src="https://www.yomiuri.co.jp/media/2026/11/20261121-GYT1I00091-1.jpg?type=ogp" /&gt;&lt;br/&gt;【読売新聞】　【ワシントン＝中根圭一】米ＡＩ（人工知能）開発企業アンソロピックに所属する数学者が２０日、同社の生成ＡＩを使い、数学の難問「リーマン予想」の証明を見つけたと自身のウェブサイトで発表した。正しければ、１６７年にわたり数学</description>
+      <description>&lt;img src="https://www.yomiuri.co.jp/media/2026/11/20261121-GYT1I00091-1.jpg?type=ogp" /&gt;&lt;br/&gt;【読売新聞】　【ワシントン＝中根圭一】米ＡＩ（人工知能）開発企業アンソロピックに所属する数学者が２０日、同社の生成ＡＩ「クロード」を使い、数学の難問「リーマン予想」を証明したと自身のウェブサイトで発表した。正しければ、１６７年にわた</description>
       <pubDate>Fri, 20 Nov 2026 22:57:16 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/science/20261121-GYT1T00089/</comments>
+    </item>
+    <item>
+      <title>ブルーライトカットのめがね、目の負担軽減の助けにならず　23年国際研究で結論</title>
+      <link>https://www.cnn.co.jp/fringe/35255242.html</link>
+      <description>&lt;img src="https://www.cnn.co.jp/storage/2026/11/20/07b318879fb72639d589a53b2125c236/230815152022-blue-light-glasses-stock.jpg" /&gt;&lt;br/&gt;ブルーライト対策の眼鏡に短期的な利点がない可能性があるとの研究が報告された /Vadym Plysiuk/iStockphoto/Getty Images/FILE （CNN） めがねにブルーライトをカットするフィルターを付けても、コンピューター作業による目の負担を軽減したり、網膜を保護したり、睡眠の質を改善したりする効果は期待できないかもしれ...</description>
+      <pubDate>Fri, 20 Nov 2026 13:32:24 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/fringe/35255242.html</comments>
     </item>
   </channel>
 </rss>
