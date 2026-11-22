@@ -4,20 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sun, 22 Nov 2026 07:33:14 +0000</lastBuildDate>
-    <item>
-      <title>裁判傍聴マニアだが闇バ〇ト事件が限界突破しすぎていてどんだけヤバイか書く</title>
-      <link>https://anond.hatelabo.jp/20261122095858</link>
-      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;最近、闇バイトでの逮捕案件が激増しているようで、 裁判傍聴しててもこの手の話が異様に多くなってきていたので、よく傍聴で見ることが多くなった。 この手の事件が顕在化しだしたころに比べて、狂暴化・悪質化がどんどん限界突破しているので、最近の闇バイト事件どんだけヤバくなりつつあるのかをかく。 しかも皮肉な...</description>
-      <pubDate>Sun, 22 Nov 2026 01:12:04 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261122095858</comments>
-    </item>
+    <lastBuildDate>Sun, 22 Nov 2026 08:33:09 +0000</lastBuildDate>
     <item>
       <title>寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド</title>
       <link>https://zenn.dev/canly/articles/ca6875cd79539f</link>
       <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--7-tl12Sp--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E5%25AF%259D%25E3%2581%25A6%25E3%2582%258B%25E9%2596%2593%25E3%2581%25AB%25E8%2587%25AA%25E5%258B%2595%25E3%2581%25A7%25E5%258B%2595%25E3%2581%258FAI%25E3%2582%25A8%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%25B3%25E3%2583%2588%25E3%2582%2592%25E8%25AA%25B0%25E3%2581%25A7%25E3%2582%2582%25E4%25BD%259C%25E3%2582%258C%25E3%2582%258B%25EF%25BC%259A10%25E5%2588%2586%25E3%2581%25A7%25E3%2582%258F%25E3%2581%258B%25E3%2582%258B%2520pstack%2520%25E5%25AE%259F%25E8%25B7%25B5%25E3%2582%25AC%25E3%2582%25A4%25E3%2583%2589%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_34:haginota%2Cx_220%2Cy_108/bo_3px_solid_rgb:d6e3ed%2Cg_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyL2EwYjI3NWVjYTkuanBlZw==%2Cr_20%2Cw_90%2Cx_92%2Cy_102/co_rgb:6e7b85%2Cg_south_west%2Cl_text:notosansjp-medium.otf_30:%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%2586%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2596%25E3%2583%25AD%25E3%2582%25B0%2Cx_220%2Cy_160/bo_4px_solid_white%2Cg_south_west%2Ch_50%2Cl_fetch:aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jSVJTSnhNaUN1QnROaU9oQ044VGE4OXdRb0YzendnTEw5cm9aZ3A5WHNLUDFCcDlIemU9czI1MC1j%2Cr_max%2Cw_50%2Cx_139%2Cy_84/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで...</description>
       <pubDate>Fri, 20 Nov 2026 22:35:55 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/canly/articles/ca6875cd79539f</comments>
+    </item>
+    <item>
+      <title>"リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元</title>
+      <link>https://note.com/katobungen/n/n9c2bb939b9c7</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/338963061/rectangle_large_type_2_0bd944c73197444eb53b87bfcab7137d.png?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;（この記事をリリースした18分後に、Lean Community から「アルポゲによるリーマン予想の証明が正しいと確信する」という正式の発表がありました。） ★ 2026年11月21日夜現在。時刻は特に断らない限り日本時間。Andrew Sutherland氏の公開検証記録の最終更新、11月21日21時55分＝同日12時55分 UTCに基づく。 2026年11月2...</description>
+      <pubDate>Sat, 21 Nov 2026 13:55:02 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/katobungen/n/n9c2bb939b9c7</comments>
     </item>
   </channel>
 </rss>
