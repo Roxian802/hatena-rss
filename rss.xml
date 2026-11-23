@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Mon, 23 Nov 2026 03:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:33:10 +0000</lastBuildDate>
+    <item>
+      <title>Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ</title>
+      <link>https://note.com/yamac_/n/n198bdc344c64</link>
+      <description>&lt;img src="https://assets.st-note.com/production/uploads/images/339175432/rectangle_large_type_2_490a1a8344ed92ccfd09322236cc3e11.jpeg?fit=bounds&amp;amp;quality=85&amp;amp;width=1280" /&gt;&lt;br/&gt;Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。 Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClaudeではAuto mode...</description>
+      <pubDate>Sun, 22 Nov 2026 10:08:35 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/note.com/yamac_/n/n198bdc344c64</comments>
+    </item>
     <item>
       <title>2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま</title>
       <link>https://note.com/cgbeginner/n/n5856d402f125</link>
