@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Tue, 24 Nov 2026 02:33:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:33:11 +0000</lastBuildDate>
+    <item>
+      <title>もうオタク趣味って弱者男性のモノじゃないんだな…</title>
+      <link>https://anond.hatelabo.jp/20261123200150</link>
+      <description>&lt;img src="https://anond.hatelabo.jp/assets/images/og-image-1500.gif" /&gt;&lt;br/&gt;装甲騎兵ボトムズの新作映画を観に行った 観終わったあとカフェに入ったらどうやら同じ映画の同じ回を観たらしいカップルのすぐ後ろの席に案内された 今回のボトムズは入場者特典でかなり高級っぽい厚紙を使ったミニポスターがもらえるんだが、それを手にして感想を言い合っていたんだよなそのカップル もしかしたら前の...</description>
+      <pubDate>Mon, 23 Nov 2026 11:07:29 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261123200150</comments>
+    </item>
     <item>
       <title>中国で縦型ショートドラマを作成する制作陣のドキュメンタリーがNHKスペシャルで放映、監督の濃いキャラクターと熱い展開が話題に</title>
       <link>https://togetter.com/li/2774163</link>
@@ -25,20 +32,6 @@
       <description>&lt;img src="https://dain.cocolog-nifty.com/myblog/images/sugohon.jpg" /&gt;&lt;br/&gt;「追加のこの対応、いつ頃できそうですか？」 会議の終わりによく聞かれる質問なのだが、あまりに自然に聞いてくるので、こちらもつい、「来月中には……」なんて返事になる。 でも、ちょっと待て。 いつの間に、その追加作業を引き受けることになったのだろう？ よく考えてみると、この作業を「やる」と決めたわけでもな...</description>
       <pubDate>Sun, 22 Nov 2026 23:35:11 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/dain.cocolog-nifty.com/myblog/2026/11/post-5d92c3.html</comments>
-    </item>
-    <item>
-      <title>リンレイのウルトラハードクリーナーちょっと素晴らしすぎるだろ、お掃除界のクレイジーダイヤモンドだろ…頼りになる洗剤やお掃除グッズのオススメはこれ</title>
-      <link>https://togetter.com/li/2773551</link>
-      <description>&lt;img src="https://s.tgstc.com/ogp3/d0b9d3ac59ca856dd2ee7041664a4b9a-1200x630.jpeg" /&gt;&lt;br/&gt;しをはら @hakatano_shiwo トイレもクイックルワイパー立体吸着ウエットで全拭き→クエン酸水で全拭き→本体取り外して本体裏を全拭きしたら平和が訪れた　水回りがいい匂いになると気持ちがいいですね 2026-11-22 01:28:14 しをはら @hakatano_shiwo 「風呂が魔境になっている」というフォロワーの訴えを聞いて岐阜から東...</description>
-      <pubDate>Mon, 23 Nov 2026 08:45:03 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/togetter.com/li/2773551</comments>
-    </item>
-    <item>
-      <title>著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
-      <link>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</link>
-      <description>&lt;img src="https://res.cloudinary.com/zenn/image/upload/s--KqPb6u08--/c_fit%2Cg_north_west%2Cl_text:notosansjp-medium.otf_55:%25E8%2591%2597%25E5%2590%258D%25E3%2581%25AARust%25E8%25A3%25BDOSS%25E3%2582%2592Lean%25204%25E3%2581%25A7%25E5%25BD%25A2%25E5%25BC%258F%25E6%25A4%259C%25E8%25A8%25BC%25E3%2581%2597%25E3%2581%25A6%25E3%2581%25BF%25E3%2581%259F%25E3%2582%2589%25E3%2580%2581%25E3%2582%2581%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2581%25E3%2581%25A1%25E3%2582%2583%25E3%2583%2590%25E3%2582%25B0%25E3%2581%258C%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%258B%25E3%2581%25A3%25E3%2581%259F%25E8%25A9%25B1%2Cw_1010%2Cx_90%2Cy_100/g_south_west%2Cl_text:notosansjp-medium.otf_37:Koukyosyumei%2Cx_203%2Cy_121/g_south_west%2Ch_90%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYXZhdGFyLzdiOTg1N2Q0ZjQuanBlZw==%2Cr_max%2Cw_90%2Cx_87%2Cy_95/v1627283836/default/og-base-w1200-v2.png?_a=BACMTiAE" /&gt;&lt;br/&gt;こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジ...</description>
-      <pubDate>Mon, 23 Nov 2026 10:14:56 +0000</pubDate>
-      <comments>https://b.hatena.ne.jp/entry/s/zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</comments>
     </item>
   </channel>
 </rss>
