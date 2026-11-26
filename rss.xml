@@ -4,7 +4,14 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Thu, 26 Nov 2026 07:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:33:09 +0000</lastBuildDate>
+    <item>
+      <title>MetaのAIエージェント Museを1ヶ月使い倒してわかったこと | kinoko dev</title>
+      <link>https://dev.sin5d.com/meta-muse-usage</link>
+      <description>XAIのGrokBot、Nous ResearchのHermes Aagent、OpenAIのChatGPT Bots、などなど、クラウドエージェントタイプのAIが百花繚乱中です。前回の記事でGrokBotについて詳しく書きましたので、今回はGrokBot以上によく使っているMeta社のMuseについてくわしく書いていこうと思います。 執筆時2026/11/25時点での情報なので状況...</description>
+      <pubDate>Wed, 25 Nov 2026 22:53:15 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/dev.sin5d.com/meta-muse-usage</comments>
+    </item>
     <item>
       <title>日本語サイトで指定しておきたいCSS 2026年版 - Qiita</title>
       <link>https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e</link>
