@@ -4,13 +4,20 @@
     <title>はてなブックマーク - 人気エントリー - 総合</title>
     <link>https://b.hatena.ne.jp/hotentry/all</link>
     <description>最近の人気エントリー</description>
-    <lastBuildDate>Sat, 28 Nov 2026 00:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:33:09 +0000</lastBuildDate>
     <item>
       <title>ヒートテックを今すぐ捨てろ｜アキ</title>
       <link>https://note.com/aki_pua_street/n/ne41bb78f7243</link>
       <description>&lt;img src="https://d2l930y2yx77uc.cloudfront.net/production/social_images/e1a582c030a004878bb1074a8f7fdf3622cd84c7.png" /&gt;&lt;br/&gt;今すぐヒートテックを捨ててください。最強はワークマンのメリノウールインナーです。次点で無印良品の綿であったかインナー。 僕はUNIQLO、無印、ワークマン3種のインナーすべて着用したことがあります。 そのうえでワークマンのメリノウールインナーが最強なので猛烈にオススメします。そしてヒートテックを捨てましょ...</description>
       <pubDate>Fri, 27 Nov 2026 08:05:57 +0000</pubDate>
       <comments>https://b.hatena.ne.jp/entry/s/note.com/aki_pua_street/n/ne41bb78f7243</comments>
+    </item>
+    <item>
+      <title>はじめての Lean</title>
+      <link>https://unaoya.github.io/lean-intro/</link>
+      <description>この教材の目的は、Lean のコードを書けるようになることではなく、証明が検査される仕組みを納得することである。 目標目標1 — Lean を読めるようになる。Lean のコードを読むとは、書かれた項の型を推測することである。そしてこの推測は機械的な手順で実行できる——だからコンピュータにも実行できる。実際に自分の手...</description>
+      <pubDate>Fri, 27 Nov 2026 11:19:18 +0000</pubDate>
+      <comments>https://b.hatena.ne.jp/entry/s/unaoya.github.io/lean-intro/</comments>
     </item>
   </channel>
 </rss>
